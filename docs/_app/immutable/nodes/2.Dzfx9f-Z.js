@@ -1,0 +1,1 @@
+import{r as e}from"../chunks/Dh7nREiC.js";import{b as o}from"../chunks/BOp4gMQ1.js";async function r(){throw e(307,`${o}/julius`)}const i=Object.freeze(Object.defineProperty({__proto__:null,load:r},Symbol.toStringTag,{value:"Module"}));export{i as universal};

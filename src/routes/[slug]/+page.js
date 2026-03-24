@@ -12,6 +12,9 @@ export async function load({ fetch, params }) {
   }
 
   const response = await fetch(`${base}/content/${slug}.json`);
+  if (!response.ok) {
+    throw error(response.status, `Could not load biography for ${slug}`);
+  }
   const caesarData = await response.json();
 
   return {

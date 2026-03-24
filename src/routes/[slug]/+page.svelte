@@ -1,10 +1,8 @@
 <script>
-  import { onMount } from 'svelte';
   import { fade, fly } from 'svelte/transition';
   import { caesars } from '$lib/data/caesars';
   import { base } from '$app/paths';
   import { goto } from '$app/navigation';
-  import { page } from '$app/state';
 
   // Components
   import Navigation from '$lib/components/Navigation.svelte';
@@ -62,13 +60,11 @@
       <!-- Main Biography Scroll -->
       <main class="relative flex-1 px-8 pb-24 md:px-16">
         {#if caesarData}
-          <div
-            key={data.slug}
-            in:fly={{ y: 20, duration: 800, delay: 200 }}
-            out:fade={{ duration: 200 }}
-          >
-            <Biography {currentCaesar} {caesarData} {currentLang} />
-          </div>
+          {#key data.slug}
+            <div in:fly={{ y: 20, duration: 800, delay: 200 }} out:fade={{ duration: 200 }}>
+              <Biography {currentCaesar} {caesarData} {currentLang} />
+            </div>
+          {/key}
         {/if}
       </main>
 

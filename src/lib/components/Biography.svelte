@@ -1,12 +1,9 @@
 <script>
   let { currentCaesar = {}, caesarData = null, currentLang = 'en' } = $props();
 
-  function formatText(text) {
-    if (!text) return '';
-    return text
-      .split('\n\n')
-      .map((p) => `<p class="mb-6 indent-8 text-justify">${p}</p>`)
-      .join('');
+  function getParagraphs(text) {
+    if (!text) return [];
+    return text.split('\n\n');
   }
 </script>
 
@@ -66,20 +63,26 @@
           <div>
             <div class="imperial-label mb-4 text-center">English · Rolfe</div>
             <div class="text-lg leading-loose text-ink/90">
-              {@html formatText(section.en)}
+              {#each getParagraphs(section.en) as p}
+                <p class="mb-6 text-justify indent-8">{p}</p>
+              {/each}
             </div>
           </div>
           <div class="rounded-sm border-l border-rubric/10 bg-black/[0.02] p-6">
             <div class="imperial-label mb-4 text-center">Latin · Vulgata</div>
             <div class="text-lg italic leading-loose text-ink/70">
-              {@html formatText(section.la)}
+              {#each getParagraphs(section.la) as p}
+                <p class="mb-6 text-justify indent-8">{p}</p>
+              {/each}
             </div>
           </div>
         </div>
       {:else}
         <!-- Single Language View (The classic Scroll aesthetic) -->
         <div class="mx-auto max-w-2xl text-lg leading-loose text-ink/95">
-          {@html formatText(currentLang === 'en' ? section.en : section.la)}
+          {#each getParagraphs(currentLang === 'en' ? section.en : section.la) as p}
+            <p class="mb-6 text-justify indent-8">{p}</p>
+          {/each}
         </div>
         {#if currentLang === 'la'}
           <div class="mt-4 text-center">

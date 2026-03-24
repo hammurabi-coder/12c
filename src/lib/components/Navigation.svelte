@@ -1,4 +1,5 @@
 <script>
+  import { base } from '$app/paths';
   let { caesars = [], currentCaesarIndex = 0, onSelect = () => {} } = $props();
 </script>
 
@@ -21,8 +22,12 @@
 
   <div class="scrollbar-hide relative flex h-[100px] gap-2 overflow-x-auto px-4">
     {#each caesars as caesar, i}
-      <button
-        onclick={() => onSelect(i)}
+      <a
+        href="{base}/{caesar.slug}"
+        onclick={(e) => {
+          e.preventDefault();
+          onSelect(i);
+        }}
         aria-current={currentCaesarIndex === i ? 'page' : undefined}
         aria-label="View biography of {caesar.name}"
         class="group relative flex h-[88px] w-[76px] flex-shrink-0 flex-col items-center justify-end rounded-b-lg border-x border-b border-papyrus-dark bg-papyrus/95 shadow-lg transition-all duration-300 hover:h-[94px] hover:bg-white
@@ -57,7 +62,7 @@
             {caesar.name}
           </span>
         </div>
-      </button>
+      </a>
     {/each}
   </div>
 </nav>

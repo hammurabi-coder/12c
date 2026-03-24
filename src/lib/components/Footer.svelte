@@ -1,18 +1,42 @@
 <script>
+  import { base } from '$app/paths';
+  import { caesars } from '$lib/data/caesars';
   let { currentCaesar = {} } = $props();
+
+  let currentIndex = $derived(caesars.findIndex((c) => c.slug === currentCaesar.slug));
+  let prevCaesar = $derived(currentIndex > 0 ? caesars[currentIndex - 1] : null);
+  let nextCaesar = $derived(currentIndex < caesars.length - 1 ? caesars[currentIndex + 1] : null);
 </script>
 
-<footer
-  class="relative overflow-hidden border-t border-papyrus-dark/40 bg-papyrus px-8 py-20 text-center"
->
-  <div
-    class="pointer-events-none absolute inset-0 flex select-none items-center justify-center overflow-hidden opacity-5"
-  >
-    <span class="font-cinzel text-[20vw] font-bold">SPQR</span>
+<footer class="mt-auto border-t border-papyrus-dark/40 bg-papyrus-dark/10 p-12">
+  <div class="mx-auto flex max-w-4xl flex-col items-center justify-between gap-8 md:flex-row">
+    <div class="text-center md:text-left">
+      <div class="imperial-label mb-2">Navigation</div>
+      <div class="flex gap-6">
+        {#if prevCaesar}
+          <a href="{base}/{prevCaesar.slug}" class="text-sm transition-colors hover:text-rubric">
+            ← {prevCaesar.name}
+          </a>
+        {/if}
+        {#if nextCaesar}
+          <a href="{base}/{nextCaesar.slug}" class="text-sm transition-colors hover:text-rubric">
+            {nextCaesar.name} →
+          </a>
+        {/if}
+      </div>
+    </div>
+
+    <div class="text-center">
+      <div class="imperial-label mb-2">Colophon</div>
+      <p class="max-w-xs text-[10px] leading-relaxed text-ink/40">
+        Digitally transcribed for the modern era. Text source: Loeb Classical Library, 1913. Typeset
+        in Cinzel & Marcellus.
+      </p>
+    </div>
+
+    <div class="text-center md:text-right">
+      <div class="imperial-label mb-2 text-rubric/40">XII</div>
+      <p class="text-[10px] uppercase tracking-[2px] text-ink/60">S.P.Q.R. Digital Edition</p>
+    </div>
   </div>
-  <span class="mb-6 block select-none font-cinzel text-6xl leading-none text-rubric/10">§</span>
-  <p class="mb-2 font-cinzel text-sm uppercase tracking-[4px] text-rubric/40">
-    Finis Libri {currentCaesar.n}
-  </p>
-  <p class="text-xs italic text-ink/30">Digitized Scholarly Edition · Public Domain Texts</p>
 </footer>

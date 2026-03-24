@@ -65,6 +65,11 @@
 </svelte:head>
 
 <div class="flex min-h-screen flex-col bg-[#2D0B23] font-marcellus text-ink">
+  <!-- Header at the VERY top -->
+  <div class="border-b border-papyrus-dark/20 bg-[#1a1208] py-2">
+    <Header />
+  </div>
+
   <Navigation {caesars} {currentCaesarIndex} onSelect={fetchCaesar} />
 
   <!-- The "Scroll" Background - Imperially Framed -->
@@ -73,10 +78,8 @@
     <div
       class="relative flex min-h-screen w-full max-w-7xl flex-col border-x-[16px] border-double border-roller/40 bg-papyrus shadow-[0_0_100px_rgba(0,0,0,0.8)]"
     >
-      <Header />
-
-      <!-- Language Toggle -->
-      <div class="mb-12 flex justify-center">
+      <!-- Language Toggle (Moved inside the scroll area) -->
+      <div class="my-12 flex justify-center">
         <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
           {#each ['en', 'la', 'both'] as mode}
             <button

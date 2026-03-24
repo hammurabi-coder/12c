@@ -32,13 +32,13 @@
     </div>
 
     <div>
-      <div class="mb-2 font-cinzel text-xs font-bold tracking-[4px] text-rubric">
+      <div class="imperial-label mb-2 text-rubric/100">
         LIBER {currentCaesar.n}
       </div>
-      <h2 class="mb-3 font-cinzel text-3xl font-bold uppercase leading-none text-ink md:text-5xl">
+      <h2 class="imperial-title mb-3 text-3xl leading-none text-ink md:text-5xl">
         {currentCaesar.name}
       </h2>
-      <div class="mb-4 font-cinzel text-sm uppercase italic tracking-wider text-ink/60">
+      <div class="imperial-label mb-4 lowercase italic tracking-wider text-ink/60">
         {currentCaesar.latin} · {currentCaesar.dates}
       </div>
       <p class="text-lg italic leading-relaxed text-ink/90">
@@ -54,9 +54,7 @@
     <section class="chapter-content">
       <div class="mb-8 flex items-center gap-4">
         <span class="h-px flex-1 bg-rubric/10"></span>
-        <h3
-          class="whitespace-nowrap font-cinzel text-xs font-bold uppercase tracking-[5px] text-rubric"
-        >
+        <h3 class="imperial-label whitespace-nowrap text-rubric/100">
           {section.heading}
         </h3>
         <span class="h-px flex-1 bg-rubric/10"></span>
@@ -66,21 +64,13 @@
         <!-- Side-by-Side Aligned Paginae -->
         <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:gap-20">
           <div>
-            <div
-              class="mb-4 text-center font-cinzel text-[10px] font-bold uppercase tracking-[3px] text-rubric/40"
-            >
-              English · Rolfe
-            </div>
+            <div class="imperial-label mb-4 text-center">English · Rolfe</div>
             <div class="text-lg leading-loose text-ink/90">
               {@html formatText(section.en)}
             </div>
           </div>
           <div class="rounded-sm border-l border-rubric/10 bg-black/[0.02] p-6">
-            <div
-              class="mb-4 text-center font-cinzel text-[10px] font-bold uppercase tracking-[3px] text-rubric/40"
-            >
-              Latin · Vulgata
-            </div>
+            <div class="imperial-label mb-4 text-center">Latin · Vulgata</div>
             <div class="text-lg italic leading-loose text-ink/70">
               {@html formatText(section.la)}
             </div>
@@ -93,9 +83,7 @@
         </div>
         {#if currentLang === 'la'}
           <div class="mt-4 text-center">
-            <span class="font-cinzel text-[9px] uppercase italic tracking-widest text-rubric/30"
-              >Latin Edition</span
-            >
+            <span class="imperial-label italic text-rubric/30">Latin Edition</span>
           </div>
         {/if}
       {/if}

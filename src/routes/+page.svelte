@@ -75,16 +75,14 @@
   <!-- The "Scroll" Background - Imperially Framed -->
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
     <!-- Unrolling Transition Wrap -->
-    <div
-      class="relative flex min-h-screen w-full max-w-7xl flex-col border-x-[16px] border-double border-roller/40 bg-papyrus shadow-[0_0_100px_rgba(0,0,0,0.8)]"
-    >
+    <div class="volumen-container">
       <!-- Language Toggle (Moved inside the scroll area) -->
       <div class="my-12 flex justify-center">
         <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
           {#each ['en', 'la', 'both'] as mode}
             <button
               onclick={() => (currentLang = mode)}
-              class="px-5 py-1.5 font-cinzel text-[11px] font-bold uppercase tracking-widest transition-all
+              class="imperial-label px-5 py-1.5 transition-all
                 {currentLang === mode
                 ? 'bg-papyrus text-rubric shadow-sm'
                 : 'text-ink/50 hover:text-ink'}"
@@ -102,7 +100,6 @@
             Unrolling the life of {currentCaesar.name}...
           </div>
         {:else if caesarData}
-          <!-- Unrolling Transition Effect -->
           <div
             key={currentCaesar.slug}
             in:fly={{ y: 20, duration: 800, delay: 200 }}

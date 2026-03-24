@@ -2,6 +2,25 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer components {
+  /* Unified Roman Typography Styles */
+  .imperial-title {
+    @apply font-cinzel font-bold uppercase tracking-[4px] text-rubric;
+  }
+
+  .imperial-label {
+    @apply font-cinzel font-bold uppercase tracking-[3px] text-rubric/40 text-[10px];
+  }
+
+  .imperial-numeral {
+    @apply font-cinzel font-bold tracking-tighter leading-none;
+  }
+
+  .volumen-container {
+    @apply relative flex min-h-screen w-full max-w-7xl flex-col border-x-[16px] border-double border-roller/40 bg-papyrus shadow-[0_0_100px_rgba(0,0,0,0.8)];
+  }
+}
+
 :root {
   --gold: #c9a84c;
   --gold-light: #e8c97a;
@@ -14,21 +33,10 @@
 }
 
 body {
-  margin: 0;
-  padding: 0;
-  overflow-x: hidden;
-  font-family: 'Marcellus', serif;
-  background-color: #f4f1ea;
+  @apply m-0 p-0 overflow-x-hidden font-marcellus bg-papyrus;
 }
 
-.font-cinzel {
-  font-family: 'Cinzel', serif;
-}
-
-.font-marcellus {
-  font-family: 'Marcellus', serif;
-}
-
+/* Scrollbar Hiding Utility */
 .scrollbar-hide::-webkit-scrollbar {
   display: none;
 }

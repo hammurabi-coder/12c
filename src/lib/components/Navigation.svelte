@@ -46,15 +46,14 @@
 
         <div class="z-10 flex flex-col items-center pb-2">
           <span
-            class="mb-1 font-cinzel text-[10px] font-bold leading-none tracking-tighter {currentCaesarIndex ===
-            i
+            class="imperial-numeral mb-1 text-[10px] {currentCaesarIndex === i
               ? 'text-rubric'
               : 'text-ink/60'}"
           >
             {caesar.n}
           </span>
           <span
-            class="w-full truncate px-1 text-center font-cinzel text-[8px] uppercase leading-none tracking-[1px] text-ink/80"
+            class="imperial-label w-full truncate px-1 text-center text-[8px] leading-none text-ink/80"
           >
             {caesar.name.split(' ')[0]}
           </span>
@@ -63,13 +62,3 @@
     {/each}
   </div>
 </nav>
-
-<style>
-  .scrollbar-hide::-webkit-scrollbar {
-    display: none;
-  }
-  .scrollbar-hide {
-    -ms-overflow-style: none;
-    scrollbar-width: none;
-  }
-</style>

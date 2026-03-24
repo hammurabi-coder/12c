@@ -8,6 +8,7 @@ export default {
         marcellus: ['Marcellus', 'serif'],
       },
       colors: {
+        // Core Design Tokens
         papyrus: {
           DEFAULT: '#F4F1EA',
           dark: '#DCD5C4',
@@ -15,6 +16,21 @@ export default {
         ink: '#2C2721',
         rubric: '#8B3A3A',
         roller: '#8C7A6B',
+        // Imperial Tokens
+        tyrian: '#2D0B23',
+        gold: {
+          DEFAULT: '#C9A84C',
+          light: '#E8C97A',
+        },
+        obsidian: '#1A1208'
+      },
+      spacing: {
+        'scroll-edge': '16px',
+        'column-gap': '2rem',
+      },
+      boxShadow: {
+        'scroll-inner': 'inset 0 0 100px rgba(0,0,0,0.1)',
+        'scroll-outer': '0 0 100px rgba(0,0,0,0.8)',
       }
     },
   },

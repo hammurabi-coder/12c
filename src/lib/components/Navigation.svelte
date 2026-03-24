@@ -2,12 +2,11 @@
   let { caesars = [], currentCaesarIndex = 0, onSelect = () => {} } = $props();
 </script>
 
-<nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-[#1a1208] pt-1 shadow-2xl">
+<nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-obsidian pt-1 shadow-2xl">
   <!-- Italy Background Panorama -->
   <div
     class="pointer-events-none absolute inset-0 flex items-center justify-center overflow-hidden opacity-10"
   >
-    <!-- Simplified SVG of Italy -->
     <svg
       viewBox="0 0 500 600"
       class="h-[150%] w-auto translate-x-1/4 rotate-[15deg]"
@@ -55,10 +54,20 @@
           <span
             class="imperial-label w-full truncate px-1 text-center text-[8px] leading-none text-ink/80"
           >
-            {caesar.name.split(' ')[0]}
+            {caesar.name}
           </span>
         </div>
       </button>
     {/each}
   </div>
 </nav>
+
+<style>
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+</style>

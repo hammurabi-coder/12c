@@ -32,10 +32,10 @@
     </div>
 
     <div>
-      <div class="imperial-label mb-2 text-rubric/100">
+      <div class="imperial-label mb-2 text-rubric">
         LIBER {currentCaesar.n}
       </div>
-      <h2 class="imperial-title mb-3 text-3xl leading-none text-ink md:text-5xl">
+      <h2 class="imperial-rubric mb-3 text-3xl leading-none md:text-5xl">
         {currentCaesar.name}
       </h2>
       <div class="imperial-label mb-4 lowercase italic tracking-wider text-ink/60">
@@ -54,7 +54,7 @@
     <section class="chapter-content">
       <div class="mb-8 flex items-center gap-4">
         <span class="h-px flex-1 bg-rubric/10"></span>
-        <h3 class="imperial-label whitespace-nowrap text-rubric/100">
+        <h3 class="imperial-label whitespace-nowrap text-rubric">
           {section.heading}
         </h3>
         <span class="h-px flex-1 bg-rubric/10"></span>

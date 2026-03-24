@@ -30,7 +30,7 @@
 
   function formatText(text) {
     if (!text) return '';
-    return text.split('\n\n').map(p => `<p class="mb-4">${p}</p>`).join('');
+    return text.split('\n\n').map(p => `<p class="mb-6 indent-8 text-justify">${p}</p>`).join('');
   }
 </script>
 
@@ -38,164 +38,171 @@
   <title>The Twelve Caesars - Suetonius</title>
 </svelte:head>
 
-<div class="min-h-screen flex flex-col font-marcellus">
-  <!-- Header -->
-  <header class="bg-gradient-to-b from-[#1a1208] to-[#2e2210] border-b border-[#C9A84C] px-4 py-7 text-center">
-    <div class="text-xs tracking-[6px] text-[#E8C97A]/60 mb-4 font-cinzel">
-      ◆
-    </div>
-    <h1 class="text-[#E8C97A] font-cinzel font-bold tracking-[2px] text-2xl md:text-4xl uppercase">
-      The Twelve Caesars
-    </h1>
-    <div class="text-[#E8C97A]/60 text-sm mt-3 font-cinzel tracking-[3px] uppercase">
-      Suetonius · De Vita Caesarum · c. AD 121
-    </div>
-    <div class="italic text-[#E8C97A]/50 text-sm mt-2">
-      Lives of the Emperors of Rome
-    </div>
-  </header>
-
-  <!-- Timeline Navigation -->
-  <nav class="bg-[#1a1208] border-b border-[#C9A84C]/25 overflow-x-auto px-6 py-0 scrollbar-hide">
-    <div class="flex items-end min-w-[900px] h-[110px] relative">
-      <div class="absolute bottom-8 left-0 right-0 h-px bg-gradient-to-r from-transparent via-[#C9A84C]/50 to-transparent"></div>
-      
+<div class="min-h-screen flex flex-col font-marcellus bg-papyrus text-ink">
+  
+  <!-- Tituli: Parchment tags navigation -->
+  <nav class="sticky top-0 z-50 bg-[#1a1208] border-b border-papyrus-dark overflow-x-auto scrollbar-hide pt-1 px-4">
+    <div class="flex items-start min-w-[900px] h-[72px] gap-2">
       {#each caesars as caesar, i}
         <button 
           on:click={() => fetchCaesar(i)}
-          class="flex-1 flex flex-col items-center cursor-pointer py-2 relative group transition-transform duration-150 hover:-translate-y-1 {currentCaesarIndex === i ? 'active -translate-y-1' : ''}"
+          class="flex-shrink-0 w-[72px] h-[58px] bg-papyrus border-x border-b border-papyrus-dark rounded-b-lg shadow-sm flex flex-col items-center justify-center transition-all duration-200 
+            {currentCaesarIndex === i ? 'h-[64px] bg-white shadow-md border-rubric/40' : 'hover:h-[62px] hover:bg-[#FAF8F5]'}"
         >
-          <span class="font-cinzel text-[9px] tracking-wide text-[#E8C97A]/55 whitespace-nowrap absolute top-1 transition-colors duration-150 group-hover:text-[#E8C97A] {currentCaesarIndex === i ? 'text-[#E8C97A]' : ''}">
-            {caesar.name.split(' ')[0]}
-          </span>
-          <div class="w-3 h-3 rounded-full bg-[#1E160A] border-2 border-[#C9A84C] absolute bottom-6 transition-colors duration-150 z-10 group-hover:bg-[#C9A84C] {currentCaesarIndex === i ? 'bg-[#C9A84C]' : ''}"></div>
-          <span class="font-cinzel text-[9px] italic text-[#C9A84C]/40 whitespace-nowrap absolute bottom-1">
+          <span class="font-cinzel text-[10px] font-bold tracking-tighter leading-none mb-1 {currentCaesarIndex === i ? 'text-rubric' : 'text-ink/60'}">
             {caesar.n}
+          </span>
+          <span class="font-cinzel text-[8px] tracking-[1px] leading-none uppercase text-ink/80 text-center px-1 truncate w-full">
+            {caesar.name.split(' ')[0]}
           </span>
         </button>
       {/each}
     </div>
   </nav>
 
-  <!-- Controls -->
-  <div class="flex items-center justify-between px-6 py-3 bg-[#2A1F0E] border-b border-[#C9A84C]/15 flex-wrap gap-2">
-    <div class="font-cinzel text-[10px] tracking-[3px] text-[#E8C97A]/45">
-      {currentCaesar.n} · {currentCaesar.name.toUpperCase()}
-    </div>
-    <div class="flex border border-[#C9A84C]/35 rounded overflow-hidden">
-      <button 
-        on:click={() => currentLang = 'en'}
-        class="px-3.5 py-1 font-cinzel text-[10px] tracking-wide transition-all duration-150 {currentLang === 'en' ? 'bg-[#C9A84C]/20 text-[#E8C97A]' : 'text-[#E8C97A]/45 bg-transparent hover:bg-[#C9A84C]/10'}"
-      >
-        ENGLISH
-      </button>
-      <button 
-        on:click={() => currentLang = 'la'}
-        class="px-3.5 py-1 font-cinzel text-[10px] tracking-wide border-x border-[#C9A84C]/35 transition-all duration-150 {currentLang === 'la' ? 'bg-[#C9A84C]/20 text-[#E8C97A]' : 'text-[#E8C97A]/45 bg-transparent hover:bg-[#C9A84C]/10'}"
-      >
-        LATIN
-      </button>
-      <button 
-        on:click={() => currentLang = 'both'}
-        class="px-3.5 py-1 font-cinzel text-[10px] tracking-wide transition-all duration-150 {currentLang === 'both' ? 'bg-[#C9A84C]/20 text-[#E8C97A]' : 'text-[#E8C97A]/45 bg-transparent hover:bg-[#C9A84C]/10'}"
-      >
-        BOTH
-      </button>
-    </div>
-  </div>
-
-  <!-- Content -->
-  <main class="flex-1 bg-[#F8F5EE] overflow-y-auto">
-    {#if loading}
-      <div class="p-8 italic text-[#7A6E5F] text-sm py-2">
-        Fetching the Life of {currentCaesar.name} from Suetonius…
-      </div>
-    {:else if caesarData}
-      <div class="p-8 pb-12 max-w-6xl mx-auto">
-        <!-- Intro Hero -->
-        <div class="flex items-end gap-8 mb-12 flex-wrap border-b border-[#C9A84C]/20 pb-8">
-          <div class="flex-shrink-0 text-center">
-            <!-- Simple SVG Bust Placeholder -->
-            <svg viewBox="0 0 100 160" class="w-24 h-40 block mx-auto opacity-80" xmlns="http://www.w3.org/2000/svg">
-              <rect x="15" y="140" width="70" height="18" rx="1" fill={currentCaesar.color} />
-              <rect x="28" y="95" width="44" height="45" rx="2" fill={currentCaesar.color} opacity="0.8" />
-              <ellipse cx="50" cy="68" rx="18" ry="22" fill={currentCaesar.color} opacity="0.9" />
-              <path d="M33 56 Q36 48 44 50 Q50 45 56 50 Q64 48 67 56" stroke="#7A8B4A" stroke-width="2" fill="none" opacity=".7" />
-            </svg>
-            <div class="font-cinzel text-[9px] tracking-[3px] text-[#7A6E5F] text-center mt-1 border-t border-[#E8E2D5] pt-1 uppercase">
-              {currentCaesar.latin}
-            </div>
-          </div>
-          
-          <div class="flex-1 min-w-[200px]">
-            <div class="font-cinzel text-[11px] tracking-[4px] text-[#C9A84C] mb-1 uppercase">
-              LIBER {currentCaesar.n}
-            </div>
-            <h2 class="font-cinzel font-bold text-[#2A1F0E] text-xl md:text-3xl leading-tight uppercase">
-              {currentCaesar.name}
-            </h2>
-            <div class="italic text-[#7A6E5F] text-sm my-1">
-              {currentCaesar.dates} · Reign: {currentCaesar.reign}
-            </div>
-            <div class="text-[#5C4F3A] leading-relaxed mt-3 text-lg">
-              {currentCaesar.tag}
-            </div>
-          </div>
+  <!-- Umbilici: Scroll Rollers Effect Container -->
+  <div class="flex-1 flex justify-center w-full px-4 md:px-0">
+    <div class="w-full max-w-7xl border-x-[12px] border-double border-roller/30 min-h-screen bg-papyrus shadow-inner flex flex-col relative">
+      
+      <!-- Titulus Header -->
+      <header class="pt-16 pb-12 px-8 text-center border-b border-papyrus-dark/40 mb-12">
+        <h1 class="text-rubric font-cinzel font-bold tracking-[4px] text-3xl md:text-5xl uppercase mb-4">
+          The Twelve Caesars
+        </h1>
+        <div class="text-ink/70 text-base font-cinzel tracking-[2px] uppercase">
+          Suetonius · De Vita Caesarum · c. AD 121
         </div>
+        <div class="italic text-ink/40 text-sm mt-3 font-marcellus">
+          Lives of the Emperors of Rome
+        </div>
+      </header>
 
-        <!-- Chapters -->
-        <div class="space-y-12">
-          {#each caesarData.sections as section}
-            <section class="mb-12">
-              <h3 class="font-cinzel text-[12px] tracking-[2px] text-[#C9A84C] opacity-75 uppercase mb-6 border-b border-[#C9A84C]/10 pb-2">
-                {section.heading}
-              </h3>
-              
-              <div class="grid grid-cols-1 {currentLang === 'both' ? 'md:grid-cols-2' : ''} gap-10">
-                {#if currentLang === 'en' || currentLang === 'both'}
-                  <div>
-                    {#if currentLang === 'both'}
-                      <div class="font-cinzel text-[9px] tracking-[4px] text-[#C9A84C] opacity-60 uppercase mb-3">
-                        English · Rolfe, 1914
-                      </div>
-                    {/if}
-                    <div class="text-[#5C4F3A] leading-loose text-[16px] space-y-4">
-                      {@html formatText(section.en)}
-                    </div>
-                  </div>
-                {/if}
-                
-                {#if currentLang === 'la' || currentLang === 'both'}
-                  <div>
-                    {#if currentLang === 'both'}
-                      <div class="font-cinzel text-[9px] tracking-[4px] text-[#C9A84C] opacity-60 uppercase mb-3">
-                        Latin · Vulgata
-                      </div>
-                    {/if}
-                    <div class="text-[#4a3e2d] leading-loose text-[16px] italic space-y-4">
-                      {@html formatText(section.la)}
-                    </div>
-                  </div>
-                {/if}
-              </div>
-            </section>
+      <!-- Language Toggle -->
+      <div class="flex justify-center mb-12">
+        <div class="flex bg-papyrus-dark/20 p-1 rounded-sm border border-papyrus-dark/40">
+          {#each ['en', 'la', 'both'] as mode}
+            <button 
+              on:click={() => currentLang = mode}
+              class="px-5 py-1.5 font-cinzel text-[11px] font-bold tracking-widest uppercase transition-all
+                {currentLang === mode ? 'bg-papyrus text-rubric shadow-sm' : 'text-ink/50 hover:text-ink'}"
+            >
+              {mode === 'both' ? 'Bilingual' : mode === 'en' ? 'English' : 'Latin'}
+            </button>
           {/each}
         </div>
       </div>
-    {/if}
-  </main>
 
-  <!-- Footer -->
-  <footer class="text-center py-16 px-8 border-t border-[#E8E2D5]/50 bg-[#1a1208]">
-    <span class="font-cinzel text-[#C9A84C]/20 text-4xl block mb-3 select-none">SPQR</span>
-    <p class="italic text-[#E8C97A]/30 text-sm font-cinzel">
-      Digitized Scholarly Edition · Public Domain Texts
-    </p>
-  </footer>
+      <!-- Main Biography Scroll -->
+      <main class="flex-1 px-8 md:px-16 pb-24">
+        {#if loading}
+          <div class="text-center py-20 italic text-ink/40">
+            Unrolling the life of {currentCaesar.name}...
+          </div>
+        {:else if caesarData}
+          <!-- Caesar Intro Section -->
+          <div class="max-w-4xl mx-auto mb-16 border-b border-rubric/10 pb-12">
+            <div class="flex flex-col md:flex-row items-center gap-10">
+              <!-- Iconic Red Bust Representation -->
+              <div class="w-32 h-32 flex-shrink-0 bg-rubric/5 border-2 border-rubric/20 rounded-full flex items-center justify-center relative overflow-hidden group">
+                 <svg viewBox="0 0 100 100" class="w-20 h-20 text-rubric opacity-80" xmlns="http://www.w3.org/2000/svg">
+                  <path fill="currentColor" d="M50 20c-15 0-22 10-22 22 0 10 5 15 5 15l-5 25h44l-5-25s5-5 5-15c0-12-7-22-22-22z" />
+                </svg>
+                <div class="absolute inset-0 bg-gradient-to-t from-papyrus via-transparent to-transparent opacity-60"></div>
+              </div>
+
+              <div>
+                <div class="font-cinzel text-xs tracking-[4px] text-rubric mb-2 font-bold">LIBER {currentCaesar.n}</div>
+                <h2 class="font-cinzel font-bold text-ink text-3xl md:text-5xl uppercase mb-3 leading-none">
+                  {currentCaesar.name}
+                </h2>
+                <div class="font-cinzel text-sm italic text-ink/60 mb-4 tracking-wider uppercase">
+                  {currentCaesar.latin} · {currentCaesar.dates}
+                </div>
+                <p class="text-lg leading-relaxed text-ink/90 italic">
+                  "{currentCaesar.tag}"
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Paginae Chapters -->
+          <div class="space-y-24">
+            {#each caesarData.sections as section}
+              <section class="chapter-content">
+                <div class="flex items-center gap-4 mb-8">
+                  <span class="h-px flex-1 bg-rubric/10"></span>
+                  <h3 class="font-cinzel font-bold text-xs tracking-[5px] text-rubric uppercase whitespace-nowrap">
+                    {section.heading}
+                  </h3>
+                  <span class="h-px flex-1 bg-rubric/10"></span>
+                </div>
+                
+                {#if currentLang === 'both'}
+                   <!-- Side-by-Side Aligned Paginae -->
+                   <div class="grid grid-cols-1 md:grid-cols-2 gap-12 lg:gap-20">
+                      <div>
+                        <div class="font-cinzel text-[10px] font-bold tracking-[3px] text-rubric/40 uppercase mb-4 text-center">English · Rolfe</div>
+                        <div class="leading-loose text-lg text-ink/90">
+                          {@html formatText(section.en)}
+                        </div>
+                      </div>
+                      <div class="bg-black/[0.02] p-6 rounded-sm border-l border-rubric/10">
+                        <div class="font-cinzel text-[10px] font-bold tracking-[3px] text-rubric/40 uppercase mb-4 text-center">Latin · Vulgata</div>
+                        <div class="leading-loose text-lg text-ink/70 italic">
+                          {@html formatText(section.la)}
+                        </div>
+                      </div>
+                   </div>
+                {:else}
+                  <!-- Multi-Column Single Language View (The classic Scroll aesthetic) -->
+                  <div class="columns-1 md:columns-2 lg:columns-3 gap-16 leading-loose text-lg text-ink/95">
+                    {@html formatText(currentLang === 'en' ? section.en : section.la)}
+                  </div>
+                {if currentLang === 'la'}
+                  <div class="mt-4 text-center">
+                    <span class="font-cinzel text-[9px] tracking-widest text-rubric/30 uppercase italic">Latin Edition</span>
+                  </div>
+                {/if}
+                {/if}
+              </section>
+            {/each}
+          </div>
+        {/if}
+      </main>
+
+      <!-- Footer Finis -->
+      <footer class="text-center py-20 px-8 border-t border-papyrus-dark/40 bg-papyrus relative overflow-hidden">
+        <div class="absolute inset-0 opacity-5 pointer-events-none select-none overflow-hidden flex items-center justify-center">
+          <span class="font-cinzel text-[20vw] font-bold">SPQR</span>
+        </div>
+        <span class="font-cinzel text-rubric/10 text-6xl block mb-6 select-none leading-none">§</span>
+        <p class="font-cinzel tracking-[4px] text-rubric/40 text-sm uppercase mb-2">
+          Finis Libri {currentCaesar.n}
+        </p>
+        <p class="text-ink/30 text-xs italic">
+          Digitized Scholarly Edition · Public Domain Texts
+        </p>
+      </footer>
+
+    </div>
+  </div>
 </div>
 
 <style>
-  :global(.active) {
-    transform: translateY(-4px);
+  :global(body) {
+    background-color: #1a1208;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+
+  .chapter-content {
+    break-inside: avoid-column;
   }
 </style>

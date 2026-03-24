@@ -10,22 +10,24 @@
   import Biography from '$lib/components/Biography.svelte';
   import Footer from '$lib/components/Footer.svelte';
 
-  // Svelte 5 State (Runes)
-  let currentCaesarIndex = $state(0);
+  /** @type {{ data: import('./$types').PageData }} */
+  let { data } = $props();
+
+  // Svelte 5 State (Runes) - Initialize with Preloaded Data
+  let currentCaesarIndex = $state(caesars.findIndex((c) => c.slug === data.initialSlug));
   let currentLang = $state('en'); // 'en', 'la', 'both'
-  let caesarData = $state(null);
+  let caesarData = $state(data.caesarData);
   let loading = $state(false);
 
   // Derived state (Runes)
   let currentCaesar = $derived(caesars[currentCaesarIndex]);
 
   async function fetchCaesar(index) {
-    if (loading && currentCaesarIndex === index && caesarData) return;
+    if (loading && currentCaesarIndex === index) return;
     loading = true;
     currentCaesarIndex = index;
     const name = caesars[index].slug;
 
-    // Update URL Hash for deep-linking (Hyphenate for URL)
     const hash = name.replace(/ /g, '-');
     if (window.location.hash !== `#${hash}`) {
       window.location.hash = hash;
@@ -51,11 +53,6 @@
   }
 
   onMount(() => {
-    if (window.location.hash) {
-      handleHashChange();
-    } else {
-      fetchCaesar(0);
-    }
     window.addEventListener('hashchange', handleHashChange);
     return () => window.removeEventListener('hashchange', handleHashChange);
   });
@@ -65,9 +62,9 @@
   <title>{currentCaesar.name} - The Twelve Caesars</title>
 </svelte:head>
 
-<div class="flex min-h-screen flex-col bg-[#2D0B23] font-marcellus text-ink">
+<div class="flex min-h-screen flex-col bg-tyrian font-marcellus text-ink">
   <!-- Header at the VERY top -->
-  <div class="border-b border-papyrus-dark/20 bg-[#1a1208] py-2">
+  <div class="border-b border-papyrus-dark/20 bg-obsidian py-2">
     <Header />
   </div>
 
@@ -75,9 +72,8 @@
 
   <!-- The "Scroll" Background - Imperially Framed -->
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
-    <!-- Unrolling Transition Wrap -->
     <div class="volumen-container">
-      <!-- Language Toggle (Moved inside the scroll area) -->
+      <!-- Language Toggle -->
       <div class="my-12 flex justify-center">
         <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
           {#each ['en', 'la', 'both'] as mode}
@@ -118,7 +114,6 @@
 
 <style>
   :global(body) {
-    background-color: #2d0b23; /* Imperial Tyrian Purple */
     overflow-x: hidden;
   }
 </style>

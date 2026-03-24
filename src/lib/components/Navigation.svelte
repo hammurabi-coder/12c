@@ -1,7 +1,5 @@
 <script>
-  export let caesars = [];
-  export let currentCaesarIndex = 0;
-  export let onSelect = () => {};
+  let { caesars = [], currentCaesarIndex = 0, onSelect = () => {} } = $props();
 </script>
 
 <nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-[#1a1208] pt-1 shadow-2xl">
@@ -25,7 +23,9 @@
   <div class="scrollbar-hide relative flex h-[100px] gap-2 overflow-x-auto px-4">
     {#each caesars as caesar, i}
       <button
-        on:click={() => onSelect(i)}
+        onclick={() => onSelect(i)}
+        aria-current={currentCaesarIndex === i ? 'page' : undefined}
+        aria-label="View biography of {caesar.name}"
         class="group relative flex h-[88px] w-[76px] flex-shrink-0 flex-col items-center justify-end rounded-b-lg border-x border-b border-papyrus-dark bg-papyrus/95 shadow-lg transition-all duration-300 hover:h-[94px] hover:bg-white
           {currentCaesarIndex === i ? 'h-[96px] border-rubric/40 bg-white' : ''}"
       >

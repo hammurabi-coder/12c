@@ -9,12 +9,14 @@
   import Biography from '$lib/components/Biography.svelte';
   import Footer from '$lib/components/Footer.svelte';
 
-  let currentCaesarIndex = 0;
-  let currentLang = 'en'; // 'en', 'la', 'both'
-  let caesarData = null;
-  let loading = false;
+  // Svelte 5 State (Runes)
+  let currentCaesarIndex = $state(0);
+  let currentLang = $state('en'); // 'en', 'la', 'both'
+  let caesarData = $state(null);
+  let loading = $state(false);
 
-  $: currentCaesar = caesars[currentCaesarIndex];
+  // Derived state (Runes)
+  let currentCaesar = $derived(caesars[currentCaesarIndex]);
 
   async function fetchCaesar(index) {
     loading = true;
@@ -23,6 +25,8 @@
     try {
       const response = await fetch(`${base}/content/${name}.json`);
       caesarData = await response.json();
+      // Scroll to top of scroll
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     } catch (e) {
       console.error('Failed to load caesar:', e);
     } finally {
@@ -54,7 +58,7 @@
         <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
           {#each ['en', 'la', 'both'] as mode}
             <button
-              on:click={() => (currentLang = mode)}
+              onclick={() => (currentLang = mode)}
               class="px-5 py-1.5 font-cinzel text-[11px] font-bold uppercase tracking-widest transition-all
                 {currentLang === mode
                 ? 'bg-papyrus text-rubric shadow-sm'

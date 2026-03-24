@@ -1,5 +1,5 @@
 <script>
-  export let currentCaesar = {};
+  let { currentCaesar = {} } = $props();
 </script>
 
 <footer

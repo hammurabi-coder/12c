@@ -1,7 +1,5 @@
 <script>
-  export let currentCaesar = {};
-  export let caesarData = null;
-  export let currentLang = 'en';
+  let { currentCaesar = {}, caesarData = null, currentLang = 'en' } = $props();
 
   function formatText(text) {
     if (!text) return '';

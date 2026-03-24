@@ -1,5 +1,6 @@
 <script>
   import { onMount } from 'svelte';
+  import { fade, fly } from 'svelte/transition';
   import { caesars } from '$lib/data/caesars';
   import { base } from '$app/paths';
 
@@ -19,13 +20,19 @@
   let currentCaesar = $derived(caesars[currentCaesarIndex]);
 
   async function fetchCaesar(index) {
+    if (loading && currentCaesarIndex === index) return;
     loading = true;
     currentCaesarIndex = index;
     const name = caesars[index].slug;
+
+    // Update URL Hash for deep-linking
+    if (window.location.hash !== `#${name.replace(' ', '-')}`) {
+      window.location.hash = name.replace(' ', '-');
+    }
+
     try {
       const response = await fetch(`${base}/content/${name}.json`);
       caesarData = await response.json();
-      // Scroll to top of scroll
       window.scrollTo({ top: 0, behavior: 'smooth' });
     } catch (e) {
       console.error('Failed to load caesar:', e);
@@ -34,22 +41,37 @@
     }
   }
 
+  function handleHashChange() {
+    const hash = window.location.hash.substring(1).replace('-', ' ');
+    const index = caesars.findIndex((c) => c.slug === hash);
+    if (index !== -1 && index !== currentCaesarIndex) {
+      fetchCaesar(index);
+    }
+  }
+
   onMount(() => {
-    fetchCaesar(0);
+    if (window.location.hash) {
+      handleHashChange();
+    } else {
+      fetchCaesar(0);
+    }
+    window.addEventListener('hashchange', handleHashChange);
+    return () => window.removeEventListener('hashchange', handleHashChange);
   });
 </script>
 
 <svelte:head>
-  <title>The Twelve Caesars - Suetonius</title>
+  <title>{currentCaesar.name} - The Twelve Caesars</title>
 </svelte:head>
 
-<div class="flex min-h-screen flex-col bg-papyrus font-marcellus text-ink">
+<div class="flex min-h-screen flex-col bg-[#2D0B23] font-marcellus text-ink">
   <Navigation {caesars} {currentCaesarIndex} onSelect={fetchCaesar} />
 
-  <!-- Umbilici: Scroll Rollers Effect Container -->
+  <!-- The "Scroll" Background - Imperially Framed -->
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
+    <!-- Unrolling Transition Wrap -->
     <div
-      class="relative flex min-h-screen w-full max-w-7xl flex-col border-x-[12px] border-double border-roller/30 bg-papyrus shadow-inner"
+      class="relative flex min-h-screen w-full max-w-7xl flex-col border-x-[16px] border-double border-roller/40 bg-papyrus shadow-[0_0_100px_rgba(0,0,0,0.8)]"
     >
       <Header />
 
@@ -71,13 +93,20 @@
       </div>
 
       <!-- Main Biography Scroll -->
-      <main class="flex-1 px-8 pb-24 md:px-16">
+      <main class="relative flex-1 px-8 pb-24 md:px-16">
         {#if loading}
-          <div class="py-20 text-center italic text-ink/40">
+          <div transition:fade={{ duration: 300 }} class="py-20 text-center italic text-ink/40">
             Unrolling the life of {currentCaesar.name}...
           </div>
         {:else if caesarData}
-          <Biography {currentCaesar} {caesarData} {currentLang} />
+          <!-- Unrolling Transition Effect -->
+          <div
+            key={currentCaesar.slug}
+            in:fly={{ y: 20, duration: 800, delay: 200 }}
+            out:fade={{ duration: 200 }}
+          >
+            <Biography {currentCaesar} {caesarData} {currentLang} />
+          </div>
         {/if}
       </main>
 
@@ -88,6 +117,7 @@
 
 <style>
   :global(body) {
-    background-color: #1a1208;
+    background-color: #2d0b23; /* Imperial Tyrian Purple */
+    overflow-x: hidden;
   }
 </style>

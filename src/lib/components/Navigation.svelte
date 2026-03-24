@@ -1,7 +1,7 @@
 <script>
   export let caesars = [];
   export let currentCaesarIndex = 0;
-  export let onSelect = (index) => {};
+  export let onSelect = () => {};
 </script>
 
 <nav

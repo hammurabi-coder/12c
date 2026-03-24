@@ -1,9 +1,16 @@
 import sveltePlugin from 'eslint-plugin-svelte';
 import svelteParser from 'svelte-eslint-parser';
+import globals from 'globals';
 
 export default [
   // Global JS rules
   {
+    languageOptions: {
+      globals: {
+        ...globals.browser,
+        ...globals.node
+      }
+    },
     rules: {
       'no-unused-vars': 'warn',
       'no-undef': 'warn'
@@ -15,9 +22,8 @@ export default [
     languageOptions: {
       parser: svelteParser,
       globals: {
-        browser: true,
-        node: true,
-        es2017: true
+        ...globals.browser,
+        ...globals.node
       }
     },
     plugins: {

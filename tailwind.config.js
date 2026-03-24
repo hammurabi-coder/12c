@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         cinzel: ['Cinzel', 'serif'],
-        garamond: ['EB Garamond', 'serif'],
+        marcellus: ['Marcellus', 'serif'],
       },
     },
   },

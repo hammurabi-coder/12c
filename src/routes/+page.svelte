@@ -38,15 +38,18 @@
   <title>The Twelve Caesars - Suetonius</title>
 </svelte:head>
 
-<div class="min-h-screen flex flex-col font-garamond">
+<div class="min-h-screen flex flex-col font-marcellus">
   <!-- Header -->
   <header class="bg-gradient-to-b from-[#1a1208] to-[#2e2210] border-b border-[#C9A84C] px-4 py-7 text-center">
-    <div class="text-xs tracking-[6px] text-[#E8C97A]/60 mb-2 font-cinzel">
-      ◆ &nbsp; SUETONIUS · DE VITA CAESARUM · c. AD 121 &nbsp; ◆
+    <div class="text-xs tracking-[6px] text-[#E8C97A]/60 mb-4 font-cinzel">
+      ◆
     </div>
-    <h1 class="text-[#E8C97A] font-cinzel font-bold tracking-[2px] text-2xl md:text-4xl">
-      THE TWELVE CAESARS
+    <h1 class="text-[#E8C97A] font-cinzel font-bold tracking-[2px] text-2xl md:text-4xl uppercase">
+      The Twelve Caesars
     </h1>
+    <div class="text-[#E8C97A]/60 text-sm mt-3 font-cinzel tracking-[3px] uppercase">
+      Suetonius · De Vita Caesarum · c. AD 121
+    </div>
     <div class="italic text-[#E8C97A]/50 text-sm mt-2">
       Lives of the Emperors of Rome
     </div>
@@ -185,7 +188,7 @@
   <!-- Footer -->
   <footer class="text-center py-16 px-8 border-t border-[#E8E2D5]/50 bg-[#1a1208]">
     <span class="font-cinzel text-[#C9A84C]/20 text-4xl block mb-3 select-none">SPQR</span>
-    <p class="italic text-[#E8C97A]/30 text-sm">
+    <p class="italic text-[#E8C97A]/30 text-sm font-cinzel">
       Digitized Scholarly Edition · Public Domain Texts
     </p>
   </footer>

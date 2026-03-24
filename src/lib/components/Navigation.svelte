@@ -4,18 +4,29 @@
   export let onSelect = (index) => {};
 </script>
 
-<nav class="sticky top-0 z-50 bg-[#1a1208] border-b border-papyrus-dark overflow-x-auto scrollbar-hide pt-1 px-4">
-  <div class="flex items-start min-w-[900px] h-[72px] gap-2">
+<nav
+  class="scrollbar-hide sticky top-0 z-50 overflow-x-auto border-b border-papyrus-dark bg-[#1a1208] px-4 pt-1"
+>
+  <div class="flex h-[72px] min-w-[900px] items-start gap-2">
     {#each caesars as caesar, i}
-      <button 
+      <button
         on:click={() => onSelect(i)}
-        class="flex-shrink-0 w-[72px] h-[58px] bg-papyrus border-x border-b border-papyrus-dark rounded-b-lg shadow-sm flex flex-col items-center justify-center transition-all duration-200 
-          {currentCaesarIndex === i ? 'h-[64px] bg-white shadow-md border-rubric/40' : 'hover:h-[62px] hover:bg-[#FAF8F5]'}"
+        class="flex h-[58px] w-[72px] flex-shrink-0 flex-col items-center justify-center rounded-b-lg border-x border-b border-papyrus-dark bg-papyrus shadow-sm transition-all duration-200
+          {currentCaesarIndex === i
+          ? 'h-[64px] border-rubric/40 bg-white shadow-md'
+          : 'hover:h-[62px] hover:bg-[#FAF8F5]'}"
       >
-        <span class="font-cinzel text-[10px] font-bold tracking-tighter leading-none mb-1 {currentCaesarIndex === i ? 'text-rubric' : 'text-ink/60'}">
+        <span
+          class="mb-1 font-cinzel text-[10px] font-bold leading-none tracking-tighter {currentCaesarIndex ===
+          i
+            ? 'text-rubric'
+            : 'text-ink/60'}"
+        >
           {caesar.n}
         </span>
-        <span class="font-cinzel text-[8px] tracking-[1px] leading-none uppercase text-ink/80 text-center px-1 truncate w-full">
+        <span
+          class="w-full truncate px-1 text-center font-cinzel text-[8px] uppercase leading-none tracking-[1px] text-ink/80"
+        >
           {caesar.name.split(' ')[0]}
         </span>
       </button>

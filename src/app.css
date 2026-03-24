@@ -3,14 +3,14 @@
 @tailwind utilities;
 
 :root {
-  --gold: #C9A84C;
-  --gold-light: #E8C97A;
+  --gold: #c9a84c;
+  --gold-light: #e8c97a;
   --dark-bg: #1a1208;
   --darker-bg: #140d06;
-  --paper-bg: #F4F1EA;
-  --text-primary: #2A1F0E;
-  --text-secondary: #5C4F3A;
-  --text-muted: #7A6E5F;
+  --paper-bg: #f4f1ea;
+  --text-primary: #2a1f0e;
+  --text-secondary: #5c4f3a;
+  --text-muted: #7a6e5f;
 }
 
 body {
@@ -18,7 +18,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   font-family: 'Marcellus', serif;
-  background-color: #F4F1EA;
+  background-color: #f4f1ea;
 }
 
 .font-cinzel {

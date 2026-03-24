@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --gold: #C9A84C;
+  --gold-light: #E8C97A;
+  --dark-bg: #1a1208;
+  --darker-bg: #140d06;
+  --paper-bg: #F8F5EE;
+  --text-primary: #2A1F0E;
+  --text-secondary: #5C4F3A;
+  --text-muted: #7A6E5F;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}

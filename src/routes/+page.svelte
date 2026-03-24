@@ -20,14 +20,15 @@
   let currentCaesar = $derived(caesars[currentCaesarIndex]);
 
   async function fetchCaesar(index) {
-    if (loading && currentCaesarIndex === index) return;
+    if (loading && currentCaesarIndex === index && caesarData) return;
     loading = true;
     currentCaesarIndex = index;
     const name = caesars[index].slug;
 
-    // Update URL Hash for deep-linking
-    if (window.location.hash !== `#${name.replace(' ', '-')}`) {
-      window.location.hash = name.replace(' ', '-');
+    // Update URL Hash for deep-linking (Hyphenate for URL)
+    const hash = name.replace(/ /g, '-');
+    if (window.location.hash !== `#${hash}`) {
+      window.location.hash = hash;
     }
 
     try {
@@ -42,7 +43,7 @@
   }
 
   function handleHashChange() {
-    const hash = window.location.hash.substring(1).replace('-', ' ');
+    const hash = window.location.hash.substring(1).replace(/-/g, ' ');
     const index = caesars.findIndex((c) => c.slug === hash);
     if (index !== -1 && index !== currentCaesarIndex) {
       fetchCaesar(index);
@@ -95,7 +96,7 @@
 
       <!-- Main Biography Scroll -->
       <main class="relative flex-1 px-8 pb-24 md:px-16">
-        {#if loading}
+        {#if loading && !caesarData}
           <div transition:fade={{ duration: 300 }} class="py-20 text-center italic text-ink/40">
             Unrolling the life of {currentCaesar.name}...
           </div>

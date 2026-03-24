@@ -2,7 +2,7 @@ const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', '
 
 const rawCaesars = [
   {
-    name: 'Julius Caesar',
+    name: 'Julius',
     latin: 'C. Ivlivs Caesar',
     dates: '100–44 BC',
     reign: '49–44 BC',
@@ -82,7 +82,7 @@ const rawCaesars = [
     name: 'Domitian',
     latin: 'T. Flavivs Domitianvs',
     dates: 'AD 51–96',
-    reign: 'AD 81–96',
+    reign: 'AD 81–91',
     tag: 'Lord and God — his own preferred title. Efficient, paranoid, and assassinated on a day he had been warned to fear.'
   }
 ];
@@ -90,5 +90,5 @@ const rawCaesars = [
 export const caesars = rawCaesars.map((c, i) => ({
   ...c,
   n: romanNumerals[i],
-  slug: c.name.toLowerCase()
+  slug: c.name.toLowerCase() // Kept as lowercase with space for filesystem loading
 }));

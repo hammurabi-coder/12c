@@ -89,8 +89,8 @@
           </div>
         </div>
       {:else}
-        <!-- Multi-Column Single Language View (The classic Scroll aesthetic) -->
-        <div class="columns-1 gap-16 text-lg leading-loose text-ink/95 md:columns-2 lg:columns-3">
+        <!-- Single Language View (The classic Scroll aesthetic) -->
+        <div class="mx-auto max-w-2xl text-lg leading-loose text-ink/95">
           {@html formatText(currentLang === 'en' ? section.en : section.la)}
         </div>
         {#if currentLang === 'la'}

@@ -1,95 +1,131 @@
 ---
-phase: quick
+phase: quick/1-fix-critical-code-review-findings
 plan: 1
 type: execute
 wave: 1
 depends_on: []
 files_modified:
+  - src/lib/components/Biography.svelte
   - src/lib/data/caesars.js
-  - src/lib/utils/paths.js
-  - src/routes/[slug]/+page.js
+  - static/content/augustus.json
+  - static/content/caligula.json
+  - static/content/galba.json
+  - static/content/julius.json
+  - static/content/titus.json
+  - static/content/vespasian.json
+  - docs/content/augustus.json
+  - docs/content/caligula.json
+  - docs/content/galba.json
+  - docs/content/julius.json
+  - docs/content/titus.json
+  - docs/content/vespasian.json
 autonomous: true
 requirements: []
-
 must_haves:
   truths:
-    - 'Code review identifies no critical security vulnerabilities'
-    - 'Code review identifies no critical error handling gaps'
-    - 'Code review identifies no critical type safety issues'
+    - 'Biography component handles null caesarData gracefully'
+    - "Domitian's reign dates show AD 81–96"
+    - 'Empty Latin text fields show fallback message'
   artifacts:
-    - path: 'src/lib/utils/paths.js'
-      provides: 'Safe URL generation for bust images'
-    - path: 'src/routes/[slug]/+page.js'
-      provides: 'Safe dynamic page loading with proper error handling'
-  key_links:
-    - from: 'src/routes/[slug]/+page.js'
-      to: 'src/lib/data/caesars.js'
-      via: 'slug validation against known caesars'
-    - from: 'src/lib/utils/paths.js'
-      to: '/content/busts/'
-      via: 'getBustUrl() function'
+    - path: 'src/lib/components/Biography.svelte'
+      provides: 'Null-safe biography rendering'
+    - path: 'src/lib/data/caesars.js'
+      provides: 'Correct Domitian reign dates'
+    - path: 'static/content/*.json'
+      provides: 'Fallback Latin text message'
 ---
 
 <objective>
-Perform a code review to identify and fix critical code review findings.
+Fix 3 critical code review findings: null guard in Biography.svelte, Domitian's reign dates in caesars.js, and empty Latin text fallbacks in JSON data files.
 </objective>
-
-<context>
-@.planning/PLAN.md (project overview: SvelteKit site for Twelve Caesars with editorial text processing)
-
-Quick review of key files:
-
-- src/lib/data/caesars.js (static emperor data - 94 lines)
-- src/lib/utils/paths.js (image URL helper - 11 lines)
-- src/routes/[slug]/+page.js (dynamic page loader - 24 lines)
-- src/routes/+page.js (redirect to /julius - 7 lines)
-- src/routes/+layout.js (prerender setting - 1 line)
-  </context>
 
 <tasks>
 
 <task type="auto">
-  <name>Code Review: Security and Error Handling</name>
-  <files>src/lib/utils/paths.js, src/routes/[slug]/+page.js</files>
+  <name>Add null guard for caesarData iteration</name>
+  <files>src/lib/components/Biography.svelte</files>
   <action>
-    Review code for critical issues:
-
-    **Security Check:**
-    - paths.js: getBustUrl() should validate name contains only valid characters before using in URL
-    - paths.js: Consider adding sanitization to prevent path traversal (e.g., no slashes, dots)
-    - Check for any hardcoded secrets or credentials (none observed in quick scan)
-
-    **Error Handling Check:**
-    - +page.js: Slug validation is good (checks against known caesars array)
-    - +page.js: fetch error handling is proper (throws SvelteKit error with status)
-    - Consider: What happens if JSON is malformed? (fetch will throw, which is handled)
-
-    **Type Safety Check:**
-    - types.d.ts should define interfaces for Caesar, CaesarData
-    - No TypeScript runtime issues observed (all .js files are clean)
-
-    **Fixes to apply if issues found:**
-    - Add input sanitization to getBustUrl() if name contains unexpected characters
-    - Document any edge cases or known limitations
-
+    In Biography.svelte line 55, the component accepts caesarData = null but iterates caesarData.sections unconditionally.
+    
+    Wrap the {#each} block at line 54-55 with a conditional check: add `caesarData` guard before iterating.
+    
+    Current (line 54-55):
+    ```
+    <!-- Paginae Chapters -->
+    <div class="space-y-24">
+      {#each caesarData.sections as section}
+    ```
+    
+    Change to:
+    ```
+    <!-- Paginae Chapters -->
+    {#if caesarData}
+    <div class="space-y-24">
+      {#each caesarData.sections as section}
+    ```
+    
+    And add `{/if}` before the closing &lt;/div&gt; at the end of the sections div (line 100 area).
   </action>
-  <verify>
-    <automated>npm run lint passes && npm run build succeeds</automated>
-  </verify>
-  <done>Code review completed. No critical security or error handling issues found. Code follows SvelteKit best practices.</done>
+  <verify>npm run build 2>&1 | head -50</verify>
+  <done>Biography.svelte renders nothing when caesarData is null, renders sections when caesarData is provided</done>
+</task>
+
+<task type="auto">
+  <name>Fix Domitian reign dates</name>
+  <files>src/lib/data/caesars.js</files>
+  <action>
+    In caesars.js line 85, Domitian's reign is incorrectly set to 'AD 81–91'. 
+    
+    Domitian reigned from AD 81 until his assassination in AD 96 - a total of 15 years.
+    
+    Change line 85 from:
+      reign: 'AD 81–91',
+    to:
+      reign: 'AD 81–96',
+  </action>
+  <verify>grep -n "Domitian" src/lib/data/caesars.js</verify>
+  <done>Domitian entry shows reign: 'AD 81–96'</done>
+</task>
+
+<task type="auto">
+  <name>Add Latin text fallback in JSON files</name>
+  <files>
+    static/content/augustus.json
+    static/content/caligula.json
+    static/content/galba.json
+    static/content/julius.json
+    static/content/titus.json
+    static/content/vespasian.json
+    docs/content/augustus.json
+    docs/content/caligula.json
+    docs/content/galba.json
+    docs/content/julius.json
+    docs/content/titus.json
+    docs/content/vespasian.json
+  </files>
+  <action>
+    In each JSON file, find all instances where "la": "" appears and replace with "la": "Latin text not yet available for this chapter."
+    
+    Use replaceAll to change all occurrences of "la": "" to "la": "Latin text not yet available for this chapter." in each file.
+  </action>
+  <verify>grep -l '"la": ""' static/content/*.json docs/content/*.json | wc -l returns 0</verify>
+  <done>All JSON files have non-empty Latin text fallback</done>
 </task>
 
 </tasks>
 
 <verification>
-- npm run lint passes without errors
-- npm run build succeeds
-- Any identified issues documented and addressed (or confirmed as false positives)
+- npm run build passes without errors
+- grep "AD 81–96" src/lib/data/caesars.js returns Domitian's reign line
+- No JSON files contain empty "la" fields
 </verification>
 
 <success_criteria>
-Code review completed. Critical issues (security vulnerabilities, error handling gaps, type safety issues) identified and addressed. If no issues found, this confirms the code is in good shape.
-</success_criteria>
+
+1. Biography.svelte compiles without null reference errors when caesarData is null
+2. caesars.js shows Domitian with correct reign dates (AD 81–96)
+3. All 12 JSON files have fallback Latin text message instead of empty strings
+   </success_criteria>
 
 <output>
 After completion, create `.planning/quick/1-fix-critical-code-review-findings/1-SUMMARY.md`

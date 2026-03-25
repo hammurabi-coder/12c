@@ -28,6 +28,14 @@ export default {
         'scroll-edge': '16px',
         'column-gap': '2rem',
       },
+      letterSpacing: {
+        'imperial-wide': '4px',
+        'imperial': '3px',
+        'imperial-sub': '2px',
+      },
+      borderWidth: {
+        'scroll': '16px',
+      },
       boxShadow: {
         'scroll-inner': 'inset 0 0 100px rgba(0,0,0,0.1)',
         'scroll-outer': '0 0 100px rgba(0,0,0,0.8)',

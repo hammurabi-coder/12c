@@ -5,16 +5,16 @@
 @layer components {
   /* Design Token Based Component Classes */
   .imperial-title {
-    @apply font-cinzel font-bold uppercase tracking-[4px] text-ink;
+    @apply font-cinzel font-bold uppercase tracking-imperial-wide text-ink;
   }
 
   /* Rubricated titles and headers */
   .imperial-rubric {
-    @apply font-cinzel font-bold uppercase tracking-[4px] text-rubric;
+    @apply font-cinzel font-bold uppercase tracking-imperial-wide text-rubric;
   }
 
   .imperial-label {
-    @apply font-cinzel font-bold uppercase tracking-[3px] text-rubric/40 text-[10px];
+    @apply font-cinzel font-bold uppercase tracking-imperial text-rubric/40 text-[10px];
   }
 
   .imperial-numeral {
@@ -22,7 +22,7 @@
   }
 
   .volumen-container {
-    @apply relative flex min-h-screen w-full max-w-7xl flex-col border-x-[16px] border-double border-roller/40 bg-papyrus shadow-scroll-outer;
+    @apply relative flex min-h-screen w-full max-w-7xl flex-col border-x-scroll border-double border-roller/40 bg-papyrus shadow-scroll-outer;
   }
 }
 

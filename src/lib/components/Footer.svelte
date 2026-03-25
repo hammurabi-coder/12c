@@ -36,7 +36,9 @@
 
     <div class="text-center md:text-right">
       <div class="imperial-label mb-2 text-rubric/40">XII</div>
-      <p class="text-[10px] uppercase tracking-[2px] text-ink/60">S.P.Q.R. Digital Edition</p>
+      <p class="text-[10px] uppercase tracking-imperial-sub text-ink/60">
+        S.P.Q.R. Digital Edition
+      </p>
     </div>
   </div>
 </footer>

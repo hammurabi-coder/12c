@@ -20,6 +20,7 @@
 
 <svelte:head>
   <title>{currentCaesar.name} - The Twelve Caesars</title>
+  <meta name="description" content={currentCaesar.tag} />
 </svelte:head>
 
 <div class="flex min-h-screen flex-col bg-tyrian font-marcellus text-ink">
@@ -44,7 +45,7 @@
         {/if}
       </main>
 
-      <Footer {currentCaesar} {currentCaesarIndex} />
+      <Footer {currentCaesarIndex} />
     </div>
   </div>
 </div>

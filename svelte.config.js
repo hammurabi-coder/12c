@@ -3,20 +3,20 @@ import { vitePreprocess } from '@sveltejs/vite-plugin-svelte';
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
-	preprocess: vitePreprocess(),
+  preprocess: vitePreprocess(),
 
-	kit: {
-		adapter: adapter({
-			pages: 'docs',
-			assets: 'docs',
-			fallback: '404.html',
-			precompress: false,
-			strict: true
-		}),
-		paths: {
-			base: '/12c'
-		}
-	}
+  kit: {
+    adapter: adapter({
+      pages: 'docs',
+      assets: 'docs',
+      fallback: '404.html',
+      precompress: false,
+      strict: true
+    }),
+    paths: {
+      base: '/12c'
+    }
+  }
 };
 
 export default config;

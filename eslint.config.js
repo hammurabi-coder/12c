@@ -30,8 +30,7 @@ export default [
       svelte: sveltePlugin
     },
     rules: {
-      ...sveltePlugin.configs.recommended.rules,
-      'svelte/no-at-html-tags': 'off' // We use @html for the biography text
+      ...sveltePlugin.configs.recommended.rules
     }
   },
   // Ignore patterns

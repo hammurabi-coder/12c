@@ -1,5 +1,8 @@
 <script>
   import { base } from '$app/paths';
+  import { getBustUrl } from '$lib/utils/paths';
+
+  /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number, onSelect: (i: number) => void }} */
   let { caesars = [], currentCaesarIndex = 0, onSelect = () => {} } = $props();
 </script>
 
@@ -35,17 +38,23 @@
       >
         <!-- Caesar Statue Silhouette -->
         <div
-          class="absolute top-1 flex flex-col items-center opacity-40 transition-all duration-300 group-hover:opacity-100 {currentCaesarIndex ===
+          class="absolute top-1 flex flex-col items-center opacity-70 transition-all duration-300 group-hover:scale-110 group-hover:opacity-100 {currentCaesarIndex ===
           i
-            ? '-translate-y-1 scale-110 opacity-100'
+            ? '-translate-y-1 scale-110 opacity-100 shadow-md'
             : ''}"
         >
-          <svg viewBox="0 0 100 120" class="h-10 w-auto" xmlns="http://www.w3.org/2000/svg">
-            <path
-              fill={currentCaesarIndex === i ? '#8B3A3A' : '#2C2721'}
-              d="M50 5c-12 0-20 8-20 20s5 15 5 15l-3 10-5 35h46l-5-35-3-10s5-3 5-15-8-20-20-20z"
-            />
-          </svg>
+          <img
+            src={getBustUrl(caesar.name)}
+            alt=""
+            width="48"
+            height="48"
+            loading="lazy"
+            decoding="async"
+            class="h-12 w-12 rounded-full border border-rubric/20 object-cover grayscale transition-all duration-300 group-hover:grayscale-0 {currentCaesarIndex ===
+            i
+              ? 'grayscale-0'
+              : ''}"
+          />
         </div>
 
         <div class="z-10 flex flex-col items-center pb-2">

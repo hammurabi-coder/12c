@@ -1,30 +1,35 @@
 <script>
-  let { currentCaesar = {}, caesarData = null, currentLang = 'en' } = $props();
+  import { getBustUrl } from '$lib/utils/paths';
+
+  /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
+  let { currentCaesar, caesarData = null, currentLang = 'en' } = $props();
 
   function getParagraphs(text) {
     if (!text) return [];
     return text.split('\n\n');
   }
+
+  // Bust image source
+  const bustSrc = $derived(getBustUrl(currentCaesar.name));
 </script>
 
 <div class="mx-auto mb-16 max-w-4xl border-b border-rubric/10 pb-12">
   <div class="flex flex-col items-center gap-10 md:flex-row">
-    <!-- Iconic Red Bust Representation -->
+    <!-- Imperial Bust -->
     <div
-      class="group relative flex h-32 w-32 flex-shrink-0 items-center justify-center overflow-hidden rounded-full border-2 border-rubric/20 bg-rubric/5"
+      class="group relative flex h-48 w-48 flex-shrink-0 items-center justify-center overflow-hidden rounded-sm border border-rubric/20 bg-rubric/5 shadow-xl"
     >
-      <svg
-        viewBox="0 0 100 100"
-        class="h-20 w-20 text-rubric opacity-80"
-        xmlns="http://www.w3.org/2000/svg"
-      >
-        <path
-          fill="currentColor"
-          d="M50 20c-15 0-22 10-22 22 0 10 5 15 5 15l-5 25h44l-5-25s5-5 5-15c0-12-7-22-22-22z"
-        />
-      </svg>
+      <img
+        src={bustSrc}
+        alt="Classical bust representing {currentCaesar.name}"
+        width="192"
+        height="192"
+        loading="eager"
+        decoding="async"
+        class="h-full w-full object-cover grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
+      />
       <div
-        class="absolute inset-0 bg-gradient-to-t from-papyrus via-transparent to-transparent opacity-60"
+        class="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-60"
       ></div>
     </div>
 

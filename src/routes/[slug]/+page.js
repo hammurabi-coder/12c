@@ -2,6 +2,11 @@ import { caesars } from '$lib/data/caesars';
 import { base } from '$app/paths';
 import { error } from '@sveltejs/kit';
 
+/** @type {import('./$types').EntryGenerator} */
+export function entries() {
+  return caesars.map((c) => ({ slug: c.slug }));
+}
+
 /** @type {import('./$types').PageLoad} */
 export async function load({ fetch, params }) {
   const { slug } = params;

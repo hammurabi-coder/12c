@@ -82,7 +82,7 @@ const rawCaesars = [
     name: 'Domitian',
     latin: 'T. Flavivs Domitianvs',
     dates: 'AD 51–96',
-    reign: 'AD 81–91',
+    reign: 'AD 81–96',
     tag: 'Lord and God — his own preferred title. Efficient, paranoid, and assassinated on a day he had been warned to fear.'
   }
 ];

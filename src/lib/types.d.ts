@@ -17,5 +17,6 @@ export interface Section {
 export interface Biography {
   name: string;
   sections: Section[];
+  /** Section footnotes — present in JSON data but not yet rendered in the UI */
   notes: Record<string, string>;
 }

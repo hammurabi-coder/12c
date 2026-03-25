@@ -90,5 +90,5 @@ const rawCaesars = [
 export const caesars = rawCaesars.map((c, i) => ({
   ...c,
   n: romanNumerals[i],
-  slug: c.name.toLowerCase() // Kept as lowercase with space for filesystem loading
+  slug: c.name.toLowerCase() // lowercase name used as filename key (e.g. "julius", "augustus")
 }));

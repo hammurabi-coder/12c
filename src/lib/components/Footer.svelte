@@ -1,7 +1,7 @@
 <script>
   import { base } from '$app/paths';
   import { caesars } from '$lib/data/caesars';
-  let { currentCaesarIndex = 0 } = $props();
+  let { currentCaesarIndex } = $props();
 
   let prevCaesar = $derived(currentCaesarIndex > 0 ? caesars[currentCaesarIndex - 1] : null);
   let nextCaesar = $derived(

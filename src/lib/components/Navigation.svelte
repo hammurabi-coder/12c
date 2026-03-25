@@ -3,7 +3,7 @@
   import { getBustUrl } from '$lib/utils/paths';
 
   /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number }} */
-  let { caesars = [], currentCaesarIndex = 0 } = $props();
+  let { caesars, currentCaesarIndex = 0 } = $props();
 </script>
 
 <nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-obsidian pt-1 shadow-2xl">

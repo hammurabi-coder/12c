@@ -24,10 +24,7 @@ export default {
         },
         obsidian: '#1A1208'
       },
-      spacing: {
-        'scroll-edge': '16px',
-        'column-gap': '2rem',
-      },
+
       letterSpacing: {
         'imperial-wide': '4px',
         'imperial': '3px',

@@ -5,7 +5,7 @@
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
 
   function getParagraphs(text) {
-    if (!text) return [];
+    if (!text || !text.trim()) return [];
     return text.split('\n\n');
   }
 

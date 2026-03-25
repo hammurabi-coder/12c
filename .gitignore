@@ -18,8 +18,9 @@ playwright/.cache/
 node_modules/
 npm-debug.log*
 
-# Planning (agent-generated, ephemeral)
+# Planning / temporary agent artifacts
 .planning/
+audit_*.png
 
 # OS
 .DS_Store

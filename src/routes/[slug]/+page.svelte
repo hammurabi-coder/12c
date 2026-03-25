@@ -1,8 +1,6 @@
 <script>
-  import { fade, fly } from 'svelte/transition';
+  import { fly, fade } from 'svelte/transition';
   import { caesars } from '$lib/data/caesars';
-  import { base } from '$app/paths';
-  import { goto } from '$app/navigation';
 
   // Components
   import Navigation from '$lib/components/Navigation.svelte';
@@ -18,11 +16,6 @@
   let currentLang = $state('en'); // 'en', 'la', 'both'
   let caesarData = $derived(data.caesarData);
   let currentCaesar = $derived(caesars[currentCaesarIndex]);
-
-  function handleSelect(index) {
-    const slug = caesars[index].slug;
-    goto(`${base}/${slug}`);
-  }
 </script>
 
 <svelte:head>
@@ -35,7 +28,7 @@
     <Header />
   </div>
 
-  <Navigation {caesars} {currentCaesarIndex} onSelect={handleSelect} />
+  <Navigation {caesars} {currentCaesarIndex} />
 
   <!-- The "Scroll" Background - Imperially Framed -->
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
@@ -68,13 +61,7 @@
         {/if}
       </main>
 
-      <Footer {currentCaesar} />
+      <Footer {currentCaesar} {currentCaesarIndex} />
     </div>
   </div>
 </div>
-
-<style>
-  :global(body) {
-    overflow-x: hidden;
-  }
-</style>

@@ -1,11 +1,12 @@
 <script>
   import { base } from '$app/paths';
   import { caesars } from '$lib/data/caesars';
-  let { currentCaesar = {} } = $props();
+  let { currentCaesar = {}, currentCaesarIndex = 0 } = $props();
 
-  let currentIndex = $derived(caesars.findIndex((c) => c.slug === currentCaesar.slug));
-  let prevCaesar = $derived(currentIndex > 0 ? caesars[currentIndex - 1] : null);
-  let nextCaesar = $derived(currentIndex < caesars.length - 1 ? caesars[currentIndex + 1] : null);
+  let prevCaesar = $derived(currentCaesarIndex > 0 ? caesars[currentCaesarIndex - 1] : null);
+  let nextCaesar = $derived(
+    currentCaesarIndex < caesars.length - 1 ? caesars[currentCaesarIndex + 1] : null
+  );
 </script>
 
 <footer class="mt-auto border-t border-papyrus-dark/40 bg-papyrus-dark/10 p-12">

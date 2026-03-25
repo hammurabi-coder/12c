@@ -3,5 +3,5 @@ import { base } from '$app/paths';
 
 /** @type {import('./$types').PageLoad} */
 export async function load() {
-  throw redirect(307, `${base}/julius`);
+  throw redirect(308, `${base}/julius`);
 }

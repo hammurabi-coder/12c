@@ -2,14 +2,14 @@
   import { base } from '$app/paths';
   import { getBustUrl } from '$lib/utils/paths';
 
-  /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number, onSelect: (i: number) => void }} */
-  let { caesars = [], currentCaesarIndex = 0, onSelect = () => {} } = $props();
+  /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number }} */
+  let { caesars = [], currentCaesarIndex = 0 } = $props();
 </script>
 
 <nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-obsidian pt-1 shadow-2xl">
   <!-- Italy Background Panorama -->
   <div
-    class="pointer-events-none absolute inset-0 flex items-center justify-center overflow-hidden opacity-10"
+    class="pointer-events-none absolute inset-0 flex items-center justify-center overflow-hidden text-gold opacity-10"
   >
     <svg
       viewBox="0 0 500 600"
@@ -17,7 +17,7 @@
       xmlns="http://www.w3.org/2000/svg"
     >
       <path
-        fill="#C9A84C"
+        fill="currentColor"
         d="M217 48c-4 13-11 25-18 36s-12 25-16 38-8 25-10 39-2 29-2 44v44l-4 44-7 44-11 43-15 41-17 39-18 35-18 30-17 25-14 18-11 10-7 2H54l-5-5-2-10 2-10 6-7 8-3 9-2h9l9 3 8 7 6 10 3 13 1 14v14l-1 14-3 13-6 11-8 8-10 5-11 2h-11l-10-3-9-7-6-11-3-14v-14l3-14 6-12 9-9 10-5 12-1h11l10 4 8 8 6 12 3 14v15l-3 14-6 13-9 10-10 5-12 1h-11l-10-5-8-9-6-13-3-15v-15l3-15 6-13 9-10 10-6 12-1h11l11 6 9 10 7 14 3 15v15l-3 15-7 14-9 11-11 6h-11l-11-7-9-10-7-14-3-16v-15l3-16 7-14 9-11 11-6h11l11 7 9 11 7 15 3 16v16l-3 16-7 15-9 11-11 7h-11l-12-8-9-11-7-15-3-17v-16l3-17 7-16 10-11 12-7h11z"
       />
     </svg>
@@ -27,10 +27,6 @@
     {#each caesars as caesar, i}
       <a
         href="{base}/{caesar.slug}"
-        onclick={(e) => {
-          e.preventDefault();
-          onSelect(i);
-        }}
         aria-current={currentCaesarIndex === i ? 'page' : undefined}
         aria-label="View biography of {caesar.name}"
         class="group relative flex h-[88px] w-[76px] flex-shrink-0 flex-col items-center justify-end rounded-b-lg border-x border-b border-papyrus-dark bg-papyrus/95 shadow-lg transition-all duration-300 hover:h-[94px] hover:bg-white

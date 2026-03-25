@@ -1,0 +1,21 @@
+{
+  "name": "The Twelve Caesars",
+  "short_name": "XII Caesars",
+  "description": "A scholarly digital edition of Suetonius' De Vita Caesarum.",
+  "start_url": "/12c/",
+  "display": "standalone",
+  "background_color": "#2D0B23",
+  "theme_color": "#2D0B23",
+  "icons": [
+    {
+      "src": "/12c/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/12c/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

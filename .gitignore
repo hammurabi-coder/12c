@@ -3,7 +3,7 @@
 build/
 
 # Production (using docs for GH Pages)
-# docs/
+docs/
 
 # Ingestion source
 suetonius_texts/

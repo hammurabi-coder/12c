@@ -51,53 +51,55 @@
 </div>
 
 <!-- Paginae Chapters -->
-<div class="space-y-24">
-  {#each caesarData.sections as section}
-    <section class="chapter-content">
-      <div class="mb-8 flex items-center gap-4">
-        <span class="h-px flex-1 bg-rubric/10"></span>
-        <h3 class="imperial-label whitespace-nowrap text-rubric">
-          {section.heading}
-        </h3>
-        <span class="h-px flex-1 bg-rubric/10"></span>
-      </div>
+{#if caesarData}
+  <div class="space-y-24">
+    {#each caesarData.sections as section}
+      <section class="chapter-content">
+        <div class="mb-8 flex items-center gap-4">
+          <span class="h-px flex-1 bg-rubric/10"></span>
+          <h3 class="imperial-label whitespace-nowrap text-rubric">
+            {section.heading}
+          </h3>
+          <span class="h-px flex-1 bg-rubric/10"></span>
+        </div>
 
-      {#if currentLang === 'both'}
-        <!-- Side-by-Side Aligned Paginae -->
-        <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:gap-20">
-          <div>
-            <div class="imperial-label mb-4 text-center">English · Rolfe</div>
-            <div class="text-lg leading-loose text-ink/90">
-              {#each getParagraphs(section.en) as p}
-                <p class="mb-6 text-justify indent-8">{p}</p>
-              {/each}
+        {#if currentLang === 'both'}
+          <!-- Side-by-Side Aligned Paginae -->
+          <div class="grid grid-cols-1 gap-12 md:grid-cols-2 lg:gap-20">
+            <div>
+              <div class="imperial-label mb-4 text-center">English · Rolfe</div>
+              <div class="text-lg leading-loose text-ink/90">
+                {#each getParagraphs(section.en) as p}
+                  <p class="mb-6 text-justify indent-8">{p}</p>
+                {/each}
+              </div>
+            </div>
+            <div class="rounded-sm border-l border-rubric/10 bg-black/[0.02] p-6">
+              <div class="imperial-label mb-4 text-center">Latin · Vulgata</div>
+              <div class="text-lg italic leading-loose text-ink/70">
+                {#each getParagraphs(section.la) as p}
+                  <p class="mb-6 text-justify indent-8">{p}</p>
+                {/each}
+              </div>
             </div>
           </div>
-          <div class="rounded-sm border-l border-rubric/10 bg-black/[0.02] p-6">
-            <div class="imperial-label mb-4 text-center">Latin · Vulgata</div>
-            <div class="text-lg italic leading-loose text-ink/70">
-              {#each getParagraphs(section.la) as p}
-                <p class="mb-6 text-justify indent-8">{p}</p>
-              {/each}
+        {:else}
+          <!-- Single Language View (The classic Scroll aesthetic) -->
+          <div class="mx-auto max-w-2xl text-lg leading-loose text-ink/95">
+            {#each getParagraphs(currentLang === 'en' ? section.en : section.la) as p}
+              <p class="mb-6 text-justify indent-8">{p}</p>
+            {/each}
+          </div>
+          {#if currentLang === 'la'}
+            <div class="mt-4 text-center">
+              <span class="imperial-label italic text-rubric/30">Latin Edition</span>
             </div>
-          </div>
-        </div>
-      {:else}
-        <!-- Single Language View (The classic Scroll aesthetic) -->
-        <div class="mx-auto max-w-2xl text-lg leading-loose text-ink/95">
-          {#each getParagraphs(currentLang === 'en' ? section.en : section.la) as p}
-            <p class="mb-6 text-justify indent-8">{p}</p>
-          {/each}
-        </div>
-        {#if currentLang === 'la'}
-          <div class="mt-4 text-center">
-            <span class="imperial-label italic text-rubric/30">Latin Edition</span>
-          </div>
+          {/if}
         {/if}
-      {/if}
-    </section>
-  {/each}
-</div>
+      </section>
+    {/each}
+  </div>
+{/if}
 
 <style>
   .chapter-content {

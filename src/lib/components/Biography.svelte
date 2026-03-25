@@ -26,7 +26,7 @@
         height="192"
         loading="eager"
         decoding="async"
-        class="h-full w-full object-cover grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
+        class="h-full w-full object-contain grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
       />
       <div
         class="absolute inset-0 bg-gradient-to-t from-black/40 via-transparent to-transparent opacity-60"

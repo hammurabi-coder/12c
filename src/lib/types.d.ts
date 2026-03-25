@@ -6,6 +6,7 @@ export interface Caesar {
   tag: string;
   n: string;
   slug: string;
+  wikipedia: string;
 }
 
 export interface Section {

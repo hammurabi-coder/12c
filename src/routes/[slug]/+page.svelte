@@ -24,7 +24,7 @@
 
 <div class="flex min-h-screen flex-col bg-tyrian font-marcellus text-ink">
   <!-- Header at the VERY top -->
-  <div class="border-b border-papyrus-dark/20 bg-obsidian py-2">
+  <div class="border-b border-papyrus-dark/20 bg-obsidian">
     <Header />
   </div>
 
@@ -33,29 +33,12 @@
   <!-- The "Scroll" Background - Imperially Framed -->
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
     <div class="volumen-container">
-      <!-- Language Toggle -->
-      <div class="my-12 flex justify-center">
-        <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
-          {#each ['en', 'la', 'both'] as mode}
-            <button
-              onclick={() => (currentLang = mode)}
-              class="imperial-label px-5 py-1.5 transition-all
-                {currentLang === mode
-                ? 'bg-papyrus text-rubric shadow-sm'
-                : 'text-ink/50 hover:text-ink'}"
-            >
-              {mode === 'both' ? 'Bilingual' : mode === 'en' ? 'English' : 'Latin'}
-            </button>
-          {/each}
-        </div>
-      </div>
-
       <!-- Main Biography Scroll -->
       <main class="relative flex-1 px-8 pb-24 md:px-16">
         {#if caesarData}
           {#key data.slug}
             <div in:fly={{ y: 20, duration: 800, delay: 200 }} out:fade={{ duration: 200 }}>
-              <Biography {currentCaesar} {caesarData} {currentLang} />
+              <Biography {currentCaesar} {caesarData} bind:currentLang />
             </div>
           {/key}
         {/if}

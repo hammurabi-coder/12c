@@ -2,7 +2,7 @@
   import { getBustUrl } from '$lib/utils/paths';
 
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
-  let { currentCaesar, caesarData = null, currentLang = 'en' } = $props();
+  let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
 
   function getParagraphs(text) {
     if (!text) return [];
@@ -46,6 +46,23 @@
       <p class="text-lg italic leading-relaxed text-ink/90">
         "{currentCaesar.tag}"
       </p>
+
+      <!-- Language Toggle -->
+      <div class="mt-6 flex justify-start">
+        <div class="flex rounded-sm border border-papyrus-dark/40 bg-papyrus-dark/20 p-1">
+          {#each ['en', 'la', 'both'] as mode}
+            <button
+              onclick={() => (currentLang = mode)}
+              class="imperial-label px-5 py-1.5 transition-all
+                {currentLang === mode
+                ? 'bg-papyrus text-rubric shadow-sm'
+                : 'text-ink/50 hover:text-ink'}"
+            >
+              {mode === 'both' ? 'Bilingual' : mode === 'en' ? 'English' : 'Latin'}
+            </button>
+          {/each}
+        </div>
+      </div>
     </div>
   </div>
 </div>

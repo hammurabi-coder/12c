@@ -18,7 +18,7 @@
   });
 </script>
 
-<nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-obsidian pt-1 shadow-2xl">
+<nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-tyrian pt-1 shadow-2xl">
   <div
     bind:this={scrollContainer}
     class="scrollbar-hide relative flex h-[100px] gap-2 overflow-x-auto px-4"

@@ -82,8 +82,8 @@ test.describe('Landing Page', () => {
     await page.waitForLoadState('networkidle');
 
     // Should navigate to Julius page
-    await expect(page).toHaveURL('/12c/julius');
-    await expect(page.locator('h2')).toContainText('Julius');
+    await expect(page).toHaveURL(/\/12c\/julius\/$/);
+    await expect(page.locator('main h2.imperial-rubric')).toContainText('Julius');
   });
 
   test('responsive design', async ({ page }) => {

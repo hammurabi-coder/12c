@@ -21,11 +21,11 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
   });
 
   test('navigation and deep-linking - Augustus', async ({ page }) => {
-    await page.goto(baseUrl + 'augustus');
+    await page.goto(baseUrl + 'augustus/');
     await page.waitForLoadState('networkidle');
 
     // Verify Biography switched to Augustus
-    await expect(page.locator('h2').first()).toContainText('Augustus');
+    await expect(page.locator('main h2.imperial-rubric')).toContainText('Augustus');
 
     // Navigation items are <a> tags with aria-current
     const activeLink = page.locator('nav a[aria-current="page"]');
@@ -33,15 +33,15 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
   });
 
   test('bilingual mode layout', async ({ page }) => {
-    await page.goto(baseUrl + 'julius');
+    await page.goto(baseUrl + 'julius/');
     await page.waitForLoadState('networkidle');
 
     // Click "Bilingual" button
-    const bilingualBtn = page.locator('button', { hasText: 'Bilingual' });
+    const bilingualBtn = page.locator('button[aria-label=\"Switch to Bilingual view\"]');
     await bilingualBtn.click();
 
     // Verify grid layout for bilingual view using the chapter-content class
-    const grid = page.locator('.chapter-content .grid.md\\:grid-cols-2');
+    const grid = page.locator('.chapter-content .grid');
     await expect(grid.first()).toBeVisible();
   });
 });

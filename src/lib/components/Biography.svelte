@@ -69,6 +69,11 @@
                 {currentLang === mode
                 ? 'bg-papyrus text-rubric shadow-sm'
                 : 'text-ink/50 hover:text-ink'}"
+              aria-label="Switch to {mode === 'both'
+                ? 'Bilingual'
+                : mode === 'en'
+                  ? 'English'
+                  : 'Latin'} view"
             >
               {mode === 'both' ? 'Bilingual' : mode === 'en' ? 'English' : 'Latin'}
             </button>
@@ -83,7 +88,7 @@
 {#if caesarData}
   <div class="space-y-24">
     {#each caesarData.sections as section}
-      <section class="chapter-content">
+      <section id={section.heading.toLowerCase().replace(/\s+/g, '-')} class="chapter-content">
         <div class="mb-8 flex items-center gap-4">
           <span class="h-px flex-1 bg-rubric/10"></span>
           <h3 class="imperial-label whitespace-nowrap text-rubric">

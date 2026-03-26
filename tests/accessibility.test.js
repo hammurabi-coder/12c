@@ -144,7 +144,7 @@ test.describe('Accessibility Tests', () => {
     await page.waitForLoadState('networkidle');
 
     // Navigate to Augustus using the Navigation component
-    const augustusLink = page.locator('nav a[href*="augustus"]');
+    const augustusLink = page.locator('nav a[href*="augustus"]').first();
     await augustusLink.focus();
     await expect(augustusLink).toBeFocused();
     

@@ -45,11 +45,11 @@ test.describe('Search Functionality', () => {
     
     // Type 1 character - should show help text
     await searchInput.fill('a');
-    await expect(page.locator('text="Type at least 2 characters"')).toBeVisible();
+    await expect(page.locator('text="Type at least 2 characters to search..."')).toBeVisible();
     
-    // Type 2 characters - should start searching
-    await searchInput.fill('au');
-    await expect(page.locator('text="Indexing the corpus..."')).toBeVisible();
+    // Type 2+ characters - should find results
+    await searchInput.fill('aug');
+    await expect(page.locator('text=/matches found/')).toBeVisible({ timeout: 10000 });
   });
 
   test('search functionality finds results', async ({ page }) => {

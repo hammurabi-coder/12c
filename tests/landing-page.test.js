@@ -17,7 +17,8 @@ test.describe('Landing Page', () => {
     await expect(page.locator('text="DE VITA CAESARUM"')).toBeVisible();
     
     // Check Suetonius quote
-    await expect(page.locator('text=/For my part.*history of Rome/')).toBeVisible();
+    await expect(page.locator('text=/For my part/')).toBeVisible();
+    await expect(page.locator('text=/history of Rome/')).toBeVisible();
     
     // Verify all 12 caesars are displayed
     const caesarCards = page.locator('a[href*="/12c/"]');

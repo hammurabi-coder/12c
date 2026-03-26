@@ -14,8 +14,8 @@ test.describe('Search Functionality', () => {
     await expect(searchButton).toBeVisible();
     await searchButton.click();
 
-    // Search modal should open (check for transition or container)
-    const searchModal = page.locator('div[transition\\:fade]');
+    // Search modal should open (check for backdrop)
+    const searchModal = page.locator('.bg-obsidian\\/90');
     await expect(searchModal).toBeVisible();
     
     // Search input should be focused

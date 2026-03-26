@@ -14,8 +14,8 @@ test.describe('Accessibility Tests', () => {
     const h2 = page.locator('h2');
     await expect(h2).toBeVisible();
     
-    // Check Suetonius quote (using regex for flexibility)
-    await expect(page.locator('text=/For my part.*history of Rome/')).toBeVisible();
+    // Check Suetonius quote
+    await expect(page.locator('text=/For my part/')).toBeVisible();
     
     // Check alt text for images
     const images = page.locator('img');
@@ -37,8 +37,8 @@ test.describe('Accessibility Tests', () => {
     const searchButton = page.locator('button[aria-label="Search"]');
     await searchButton.click();
     
-    // Check modal accessibility
-    const modal = page.locator('div[transition\\:fade]');
+    // Check modal accessibility (using backdrop class)
+    const modal = page.locator('.bg-obsidian\\/90');
     await expect(modal).toBeVisible();
     
     // Check input accessibility

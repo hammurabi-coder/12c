@@ -1,12 +1,13 @@
 const romanNumerals = ['I', 'II', 'III', 'IV', 'V', 'VI', 'VII', 'VIII', 'IX', 'X', 'XI', 'XII'];
 
+// Landing-page pull-quotes drawn from the local Suetonius text used by the reader.
 const rawCaesars = [
   {
     name: 'Julius',
     latin: 'C. Ivlivs Caesar',
     dates: '100–44 BC',
     reign: '49–44 BC',
-    tag: 'The man who ended the Republic. General, dictator, and the shadow behind every emperor who followed.',
+    tag: 'The die is cast.',
     wikipedia: 'https://en.wikipedia.org/wiki/Julius_Caesar'
   },
   {
@@ -14,7 +15,7 @@ const rawCaesars = [
     latin: 'Imp. Caesar Avgvstvs',
     dates: '63 BC – AD 14',
     reign: '27 BC – AD 14',
-    tag: 'The first true emperor. Transformed Rome from brick to marble — and from republic to monarchy, while pretending otherwise.',
+    tag: 'I found [Rome] built of brick and left it in marble.',
     wikipedia: 'https://en.wikipedia.org/wiki/Augustus'
   },
   {
@@ -22,7 +23,7 @@ const rawCaesars = [
     latin: 'Ti. Ivlivs Caesar',
     dates: '42 BC – AD 37',
     reign: 'AD 14–37',
-    tag: 'The reluctant emperor. A great general who retreated to Capri and left Rome to the sinister Sejanus.',
+    tag: 'Alas for the Roman people, to be ground by jaws that crunch so slowly!',
     wikipedia: 'https://en.wikipedia.org/wiki/Tiberius'
   },
   {
@@ -30,7 +31,7 @@ const rawCaesars = [
     latin: 'C. Caesar Germanicvs',
     dates: 'AD 12–41',
     reign: 'AD 37–41',
-    tag: "Beloved at first, then catastrophic. Whether monster or madman, his four-year reign ended with his own guards' daggers.",
+    tag: 'I wish the Roman people had but a single neck.',
     wikipedia: 'https://en.wikipedia.org/wiki/Caligula'
   },
   {
@@ -38,7 +39,7 @@ const rawCaesars = [
     latin: 'Ti. Clavdivs Caesar',
     dates: '10 BC – AD 54',
     reign: 'AD 41–54',
-    tag: "The unlikely emperor. Found hiding behind a curtain after Caligula's murder — and turned out to be one of the ablest rulers.",
+    tag: 'He stole away to a balcony hard by and hid among the curtains which hung before the door.',
     wikipedia: 'https://en.wikipedia.org/wiki/Claudius'
   },
   {
@@ -46,7 +47,7 @@ const rawCaesars = [
     latin: 'Nero Clavdivs Caesar',
     dates: 'AD 37–68',
     reign: 'AD 54–68',
-    tag: 'Artist, matricide, tyrant. Rome burned; he performed. His death ended the Julio-Claudian dynasty.',
+    tag: 'What an artist the world is losing!',
     wikipedia: 'https://en.wikipedia.org/wiki/Nero'
   },
   {
@@ -54,7 +55,7 @@ const rawCaesars = [
     latin: 'Ser. Svlpicivs Galba',
     dates: '3 BC – AD 69',
     reign: 'AD 68–69',
-    tag: 'The first of the Year of Four Emperors. An austere old general who forgot that soldiers expect to be paid.',
+    tag: 'It was his habit to levy troops, not buy them.',
     wikipedia: 'https://en.wikipedia.org/wiki/Galba'
   },
   {
@@ -62,7 +63,7 @@ const rawCaesars = [
     latin: 'M. Salvivs Otho',
     dates: 'AD 32–69',
     reign: 'AD 69',
-    tag: "Nero's friend, briefly emperor. Chose suicide after one defeat to spare Romans further bloodshed.",
+    tag: 'He would no longer endanger the lives of such brave men, who had deserved so well.',
     wikipedia: 'https://en.wikipedia.org/wiki/Otho'
   },
   {
@@ -70,7 +71,7 @@ const rawCaesars = [
     latin: 'A. Vitellivs Germanicvs',
     dates: 'AD 15–69',
     reign: 'AD 69',
-    tag: 'Elevated by his legions, destroyed by his appetite. His reign lasted eight months.',
+    tag: 'Be of good cheer; to us light is given.',
     wikipedia: 'https://en.wikipedia.org/wiki/Vitellius'
   },
   {
@@ -78,7 +79,7 @@ const rawCaesars = [
     latin: 'T. Flavivs Vespasianvs',
     dates: 'AD 9–79',
     reign: 'AD 69–79',
-    tag: 'The blunt soldier who restored Rome. Built the Colosseum and reportedly joked his way to deification.',
+    tag: "Woe's me. Methinks I'm turning into a god.",
     wikipedia: 'https://en.wikipedia.org/wiki/Vespasian'
   },
   {
@@ -86,7 +87,7 @@ const rawCaesars = [
     latin: 'T. Flavivs Vespasianvs',
     dates: 'AD 39–81',
     reign: 'AD 79–81',
-    tag: 'The love of the human race. Vesuvius, fire, plague — he met every disaster with generosity.',
+    tag: 'Friends, I have lost a day.',
     wikipedia: 'https://en.wikipedia.org/wiki/Titus'
   },
   {
@@ -94,7 +95,7 @@ const rawCaesars = [
     latin: 'T. Flavivs Domitianvs',
     dates: 'AD 51–96',
     reign: 'AD 81–96',
-    tag: 'Lord and God — his own preferred title. Efficient, paranoid, and assassinated on a day he had been warned to fear.',
+    tag: 'Our Master and our God bids that this be done.',
     wikipedia: 'https://en.wikipedia.org/wiki/Domitian'
   }
 ];

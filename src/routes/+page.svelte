@@ -1,7 +1,7 @@
 <script>
   import { base } from '$app/paths';
   import { caesars } from '$lib/data/caesars';
-  import { getBustUrl } from '$lib/utils/paths';
+  import BustPortrait from '$lib/components/BustPortrait.svelte';
   import Header from '$lib/components/Header.svelte';
 </script>
 
@@ -32,15 +32,12 @@
               href="{base}/{caesar.slug}/"
               class="group flex flex-col items-center rounded-sm border border-papyrus-dark/40 bg-white/50 p-6 shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-white hover:shadow-xl"
             >
-              <div
-                class="relative mb-4 h-32 w-32 overflow-hidden rounded-full border-2 border-rubric/20 bg-rubric/5 shadow-inner"
-              >
-                <img
-                  src={getBustUrl(caesar.name)}
-                  alt="Bust of {caesar.name}"
-                  class="h-full w-full object-cover grayscale transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0"
-                />
-              </div>
+              <BustPortrait
+                {caesar}
+                alt="Bust of {caesar.name}"
+                frameClass="mb-4 h-32 w-32 rounded-full border-2 border-rubric/20 bg-rubric/5 shadow-inner"
+                imageClass="grayscale transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0"
+              />
 
               <div class="imperial-numeral mb-1 text-rubric/40">{caesar.n}</div>
               <h3 class="imperial-rubric mb-1 text-xl">{caesar.name}</h3>

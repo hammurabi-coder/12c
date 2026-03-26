@@ -1,6 +1,6 @@
 <script>
   import { base } from '$app/paths';
-  import { getBustUrl } from '$lib/utils/paths';
+  import BustPortrait from '$lib/components/BustPortrait.svelte';
 
   /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number }} */
   let { caesars, currentCaesarIndex = 0 } = $props();
@@ -38,14 +38,11 @@
             ? '-translate-y-1 scale-110 opacity-100 shadow-md'
             : ''}"
         >
-          <img
-            src={getBustUrl(caesar.name)}
+          <BustPortrait
+            {caesar}
             alt="Bust of {caesar.name}"
-            width="48"
-            height="48"
-            loading="lazy"
-            decoding="async"
-            class="h-12 w-12 rounded-full border border-rubric/20 object-cover grayscale transition-all duration-300 group-hover:grayscale-0 {currentCaesarIndex ===
+            frameClass="h-12 w-12 rounded-full border border-rubric/20"
+            imageClass="grayscale transition-all duration-300 group-hover:grayscale-0 {currentCaesarIndex ===
             i
               ? 'grayscale-0'
               : ''}"

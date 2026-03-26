@@ -1,6 +1,6 @@
 <script>
-  import { getBustUrl } from '$lib/utils/paths';
   import { buildSectionMeta } from '$lib/utils/sections';
+  import BustPortrait from '$lib/components/BustPortrait.svelte';
 
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
@@ -34,12 +34,14 @@
       const escaped = entity.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       // Match entity when NOT already inside an <a> tag
       const regex = new RegExp(`(?<!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
-      result = result.replace(regex, `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`);
+      result = result.replace(
+        regex,
+        `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`
+      );
     }
     return result;
   }
 
-  const bustSrc = $derived(getBustUrl(currentCaesar.name));
   const sectionMeta = $derived(caesarData ? buildSectionMeta(caesarData.sections) : []);
 </script>
 
@@ -53,17 +55,13 @@
       ></div>
 
       <div class="grid gap-8 lg:grid-cols-[220px_minmax(0,1fr)] lg:items-start">
-        <div
-          class="group relative mx-auto flex h-48 w-48 items-center justify-center overflow-hidden rounded-sm border border-rubric/20 bg-rubric/5 shadow-xl"
-        >
-          <img
-            src={bustSrc}
+        <div class="group relative mx-auto">
+          <BustPortrait
+            caesar={currentCaesar}
             alt="Classical bust representing {currentCaesar.name}"
-            width="192"
-            height="192"
+            frameClass="h-48 w-48 rounded-sm border border-rubric/20 bg-rubric/5 shadow-xl"
+            imageClass="grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
             loading="eager"
-            decoding="async"
-            class="h-full w-full object-contain grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
           />
           <div
             class="absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-transparent opacity-60"
@@ -104,10 +102,10 @@
               {/each}
             </div>
             <button
-              onclick={() => wikiLinksEnabled = !wikiLinksEnabled}
+              onclick={() => (wikiLinksEnabled = !wikiLinksEnabled)}
               class="imperial-label rounded-full border px-4 py-2 text-[11px] transition-all {wikiLinksEnabled
                 ? 'bg-rubric text-papyrus shadow-sm'
-                : 'text-ink/55 border-papyrus-dark/40 hover:text-ink'}"
+                : 'border-papyrus-dark/40 text-ink/55 hover:text-ink'}"
               aria-pressed={wikiLinksEnabled}
               aria-label="Toggle Wikipedia links"
             >
@@ -205,17 +203,5 @@
 
   .reader-prose p:first-child {
     text-indent: 0;
-  }
-
-  .reader-prose p a.wiki-link,
-  .reader-prose p:has(> a.wiki-link) {
-    color: var(--color-rubric);
-    text-decoration: underline;
-    text-decoration-thickness: 1px;
-    text-underline-offset: 2px;
-  }
-
-  .reader-prose p a.wiki-link:hover {
-    color: var(--color-gold);
   }
 </style>

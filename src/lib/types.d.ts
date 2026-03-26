@@ -7,12 +7,18 @@ export interface Caesar {
   n: string;
   slug: string;
   wikipedia: string;
+  bustFrame: {
+    scale: number;
+    x: string;
+    y: string;
+  };
 }
 
 export interface Section {
   heading: string;
   en: string;
   la: string;
+  wikiLinks?: Record<string, string>;
 }
 
 export interface Biography {

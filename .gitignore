@@ -2,9 +2,6 @@
 .svelte-kit
 build/
 
-# Production (using docs for GH Pages)
-docs/
-
 # Ingestion source
 suetonius_texts/
 

@@ -14,13 +14,15 @@
     currentLang = mode;
   }
 
+  let wikiLinksEnabled = $state(true);
+
   /**
    * Wrap occurrences of linked entity names with <a> tags.
    * Returns HTML string — used with {@html} in the template.
    * Only wraps text that isn't already inside an <a> tag.
    */
   function applyWikiLinks(text, wikiLinks = {}) {
-    if (!text || Object.keys(wikiLinks).length === 0) return text;
+    if (!wikiLinksEnabled || !text || Object.keys(wikiLinks).length === 0) return text;
 
     // Sort entities by name length descending to avoid partial overlaps
     const entities = Object.keys(wikiLinks).sort((a, b) => b.length - a.length);
@@ -101,6 +103,16 @@
                 </button>
               {/each}
             </div>
+            <button
+              onclick={() => wikiLinksEnabled = !wikiLinksEnabled}
+              class="imperial-label rounded-full border px-4 py-2 text-[11px] transition-all {wikiLinksEnabled
+                ? 'bg-rubric text-papyrus shadow-sm'
+                : 'text-ink/55 border-papyrus-dark/40 hover:text-ink'}"
+              aria-pressed={wikiLinksEnabled}
+              aria-label="Toggle Wikipedia links"
+            >
+              {wikiLinksEnabled ? 'Links On' : 'Links Off'}
+            </button>
             <a
               href={currentCaesar.wikipedia}
               target="_blank"

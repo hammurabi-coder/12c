@@ -16,22 +16,46 @@
 
   let wikiLinksEnabled = $state(true);
 
+  function escapeHtml(text) {
+    return text.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
+  }
+
+  function isSafeWikipediaUrl(url) {
+    try {
+      const parsed = new URL(url);
+      return (
+        parsed.protocol === 'https:' &&
+        parsed.hostname === 'en.wikipedia.org' &&
+        parsed.pathname.startsWith('/wiki/')
+      );
+    } catch {
+      return false;
+    }
+  }
+
   /**
    * Wrap occurrences of linked entity names with <a> tags.
    * Returns HTML string — used with {@html} in the template.
    * Only wraps text that isn't already inside an <a> tag.
    */
   function applyWikiLinks(text, wikiLinks = {}) {
-    if (!wikiLinksEnabled || !text || Object.keys(wikiLinks).length === 0) return text;
+    if (!text) return '';
+
+    const safeText = escapeHtml(text);
+    const safeEntries = Object.entries(wikiLinks).filter(
+      ([entity, url]) => entity?.trim() && isSafeWikipediaUrl(url)
+    );
+
+    if (!wikiLinksEnabled || safeEntries.length === 0) return safeText;
 
     // Sort entities by name length descending to avoid partial overlaps
-    const entities = Object.keys(wikiLinks).sort((a, b) => b.length - a.length);
+    const entities = safeEntries.map(([entity]) => entity).sort((a, b) => b.length - a.length);
 
-    let result = text;
+    let result = safeText;
     for (const entity of entities) {
       const url = wikiLinks[entity];
       // Escape entity name for use in regex
-      const escaped = entity.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       // Match entity when NOT already inside an <a> tag
       const regex = new RegExp(`(?<!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
       result = result.replace(

@@ -15,7 +15,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const CONTENT_DIR     = join(__dirname, '../docs/content');
+const CONTENT_DIR     = join(__dirname, '../static/content');
 const SUGGESTIONS_DIR = join(__dirname, '../suggestions');
 const WIKIPEDIA_BASE  = 'https://en.wikipedia.org/wiki/';
 
@@ -48,7 +48,7 @@ const KNOWN_ARTICLES = new Map([
   ['Cassius',          'Gaius_Cassius_Longinus'],
   ['Pompey',           'Pompey'],
   ['Crassus',          'Marcus_Licinius_Crassus'],
-  ['Lepidus',          'Marcus_Aemilius_Lepidus_(triumvir_vir)'],
+  ['Lepidus',          'Marcus_Aemilius_Lepidus_(triumvir)'],
   ['Sertorius',        'Sertorius'],
   ['Vercingetorix',    'Vercingetorix'],
   ['Ariovistus',       'Ariovistus'],

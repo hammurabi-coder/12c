@@ -2,7 +2,7 @@
 /**
  * apply-wikipedia-links.mjs
  * Reads approved suggestions JSON files and injects wikiLinks maps into
- * each biography's docs/content/<slug>.json sections.
+ * each biography's static/content/<slug>.json sections.
  *
  * wikiLinks is a map: entity_name → { url, contexts }
  * The Biography component uses this to render <a> tags over matching text.
@@ -16,7 +16,14 @@ const __dirname = dirname(fileURLToPath(import.meta.url));
 const CONTENT_DIR  = join(__dirname, '../static/content');
 const SUGGESTIONS_DIR = join(__dirname, '../suggestions');
 
-const WIKIPEDIA_BASE = 'https://en.wikipedia.org/wiki/';
+function isSafeWikipediaUrl(url) {
+  try {
+    const parsed = new URL(url);
+    return parsed.protocol === 'https:' && parsed.hostname === 'en.wikipedia.org' && parsed.pathname.startsWith('/wiki/');
+  } catch {
+    return false;
+  }
+}
 
 // ── Load all approved/edited links grouped by [slug][chapter][entity] ──────────
 const allLinks = {};
@@ -36,7 +43,7 @@ for (const file of suggestionFiles) {
     const entity  = entry.entity.trim();
     const url     = entry.url || entry.wikipedia_url;
 
-    if (!entity || !url) continue;
+    if (!entity || !url || !isSafeWikipediaUrl(url)) continue;
 
     allLinks[slug] ??= {};
     allLinks[slug][chapter] ??= {};

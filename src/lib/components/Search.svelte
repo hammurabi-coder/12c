@@ -83,6 +83,10 @@
     return excerpt;
   }
 
+  function getResultHref(slug) {
+    return `${base}/${slug}/`;
+  }
+
   // Trigger indexing on first focus/type
   $effect(() => {
     if (isOpen && searchInput.length > 0) {
@@ -169,7 +173,7 @@
               <div class="space-y-3">
                 {#each caesarResults as result}
                   <a
-                    href="{base}/{result.slug}"
+                    href={getResultHref(result.slug)}
                     onclick={() => (isOpen = false)}
                     class="group block border-l-2 border-transparent pl-4 transition-all hover:border-rubric hover:bg-black/5"
                   >

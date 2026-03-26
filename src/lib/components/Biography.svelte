@@ -102,38 +102,23 @@
         class="chapter-content scroll-mt-52 rounded-sm border border-rubric/10 bg-white/35 px-5 py-8 shadow-[0_24px_80px_rgba(44,39,33,0.07)] md:px-8 md:py-10"
       >
         <div class="mb-8 flex flex-col gap-4 border-b border-rubric/10 pb-5">
-          <div class="flex flex-wrap items-center justify-between gap-3">
-            <div class="flex items-center gap-4">
-              <span class="imperial-numeral text-2xl text-rubric/35">
-                {String(section.index + 1).padStart(2, '0')}
-              </span>
-              <div>
-                <div class="imperial-label mb-1">Section</div>
-                <h3 class="imperial-rubric text-xl md:text-2xl">{section.heading}</h3>
-              </div>
-            </div>
-
-            <a href="#reader-top" class="reader-link">Top</a>
-          </div>
-
-          {#if currentLang === 'both'}
-            <div
-              class="grid gap-3 text-center text-xs uppercase tracking-[0.25em] text-rubric/55 lg:grid-cols-2"
+          <div class="flex items-center justify-between gap-4">
+            <h3 class="imperial-rubric text-xl md:text-2xl">{section.heading}</h3>
+            <a
+              href="#reader-top"
+              class="reader-link px-3"
+              aria-label="Back to top"
+              title="Back to top"
             >
-              <div class="rounded-full border border-rubric/10 bg-rubric/[0.04] px-4 py-2">
-                English
-              </div>
-              <div class="rounded-full border border-rubric/10 bg-black/[0.03] px-4 py-2">
-                Latin
-              </div>
-            </div>
-          {/if}
+              <span aria-hidden="true">↑</span>
+            </a>
+          </div>
         </div>
 
         {#if currentLang === 'both'}
           <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
             <article class="reader-panel px-5 py-5 md:px-7">
-              <div class="imperial-label mb-4 text-rubric/60">English · Rolfe</div>
+              <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
               <div class="reader-prose text-ink/92">
                 {#each getParagraphs(section.en) as paragraph}
                   <p>{paragraph}</p>
@@ -142,7 +127,7 @@
             </article>
 
             <article class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7">
-              <div class="imperial-label mb-4 text-rubric/55">Latin · Vulgata</div>
+              <div class="imperial-label mb-4 text-rubric/55">Latin</div>
               <div class="reader-prose text-ink/78 italic">
                 {#each getParagraphs(section.la) as paragraph}
                   <p>{paragraph}</p>
@@ -157,12 +142,6 @@
                 <p>{paragraph}</p>
               {/each}
             </div>
-
-            {#if currentLang === 'la'}
-              <div class="mt-6 text-center">
-                <span class="imperial-label italic text-rubric/35">Latin Edition</span>
-              </div>
-            {/if}
           </article>
         {/if}
       </section>

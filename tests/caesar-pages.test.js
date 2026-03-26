@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Caesar Pages', () => {
-  const baseUrl = 'http://localhost:4173/12c/';
+  const baseUrl = 'http://127.0.0.1:4176/12c/';
   const caesars = [
     { slug: 'julius', name: 'Julius', numeral: 'I' }
   ];
@@ -22,26 +22,30 @@ test.describe('Caesar Pages', () => {
     // Check imperial numeral
     await expect(page.locator('.imperial-numeral').first()).toContainText(caesar.numeral);
 
-    // Reader jump controls should be visible
-    await expect(page.locator('text="Jump to section"')).toBeVisible();
+    // Reader content should be present
+    await expect(page.locator('.chapter-content').first()).toBeVisible();
+    await expect(page.locator('a[aria-label="Back to top"]').first()).toBeVisible();
   });
 
   test('language mode switching', async ({ page }) => {
     await page.goto(baseUrl + 'julius/');
     await page.waitForLoadState('networkidle');
 
-    // Click Latin
-    await page.click('button:has-text("Latin")');
-    // Multiple chapters will show this, so check if at least one is visible
-    await expect(page.locator('text="Latin Edition"').first()).toBeVisible();
+    const firstSection = page.locator('.chapter-content').first();
+
+    // Click Latin and verify the single-column reader switches to italic Latin text
+    await page.click('button[aria-label="Switch to Latin view"]');
+    await expect(firstSection.locator('.reader-prose.italic').first()).toBeVisible();
 
     // Click Bilingual
-    await page.click('button:has-text("Bilingual")');
+    await page.click('button[aria-label="Switch to Bilingual view"]');
     await expect(page.locator('text="English · Rolfe"').first()).toBeVisible();
-    await expect(page.locator('text="Latin · Vulgata"').first()).toBeVisible();
+    await expect(page.locator('text="Latin"').first()).toBeVisible();
+    await expect(firstSection.locator('article')).toHaveCount(2);
 
-    // Switch back to English
-    await page.click('button:has-text("English")');
-    await expect(page.locator('text="Latin Edition"')).not.toBeVisible();
+    // Switch back to English and verify the first section collapses back to one article
+    await page.click('button[aria-label="Switch to English view"]');
+    await expect(firstSection.locator('article')).toHaveCount(1);
+    await expect(page.locator('text="English · Rolfe"')).not.toBeVisible();
   });
 });

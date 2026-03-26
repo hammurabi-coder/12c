@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Landing Page', () => {
-  const baseUrl = 'http://localhost:4173/12c/';
+  const baseUrl = 'http://127.0.0.1:4176/12c/';
 
   test('loads landing page with all caesars', async ({ page }) => {
     await page.goto(baseUrl);

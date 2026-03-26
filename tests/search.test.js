@@ -1,10 +1,10 @@
 import { test, expect } from '@playwright/test';
 
 test.describe('Search Functionality', () => {
-  const baseUrl = 'http://localhost:4173/12c/';
+  const baseUrl = 'http://127.0.0.1:4176/12c/';
 
   test.beforeEach(async ({ page }) => {
-    await page.goto(baseUrl + 'julius');
+    await page.goto(baseUrl + 'julius/');
     await page.waitForLoadState('networkidle');
   });
 
@@ -45,7 +45,9 @@ test.describe('Search Functionality', () => {
     
     // Type 1 character - should show help text
     await searchInput.fill('a');
-    await expect(page.locator('text="Type at least 2 characters to search..."')).toBeVisible();
+    await expect(
+      page.locator('text="Type at least 2 characters to search names, headings, and texts."')
+    ).toBeVisible();
     
     // Type 2+ characters - should find results
     await searchInput.fill('aug');
@@ -78,11 +80,11 @@ test.describe('Search Functionality', () => {
     await expect(page.locator('text=/matches found/')).toBeVisible({ timeout: 10000 });
     
     // Click first result
-    const firstResult = page.locator('a[href*="/12c/"]').first();
+    const firstResult = page.locator('.fixed.inset-0 a[href*="/12c/"]').first();
     await firstResult.click();
     
     // Should navigate away (modal closes)
-    await expect(page.locator('div[transition\\:fade]')).not.toBeVisible();
+    await expect(page.locator('.fixed.inset-0')).not.toBeVisible();
   });
 
   test('search modal keyboard interactions', async ({ page }) => {
@@ -118,7 +120,7 @@ test.describe('Search Functionality', () => {
 
   test('search from different pages', async ({ page }) => {
     // Test from Augustus page
-    await page.goto(baseUrl + 'augustus');
+    await page.goto(baseUrl + 'augustus/');
     await page.waitForLoadState('networkidle');
     
     // Search should work the same

@@ -148,7 +148,7 @@ test.describe('Accessibility Tests', () => {
     await augustusLink.focus();
     await expect(augustusLink).toBeFocused();
     
-    await page.keyboard.press('Enter');
+    await augustusLink.press('Enter');
     await page.waitForLoadState('networkidle');
     
     // Should have navigated

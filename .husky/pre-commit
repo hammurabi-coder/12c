@@ -1,1 +1,5 @@
+#!/bin/sh
+
+unset NO_COLOR
+
 npx lint-staged

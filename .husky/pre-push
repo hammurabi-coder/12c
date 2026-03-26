@@ -1,4 +1,5 @@
 #!/bin/sh
-. "$(dirname "$0")/_/husky.sh"
+
+unset NO_COLOR
 
 npx playwright test tests/landing-page.test.js tests/audit.test.js

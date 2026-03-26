@@ -1,4 +1,5 @@
 import { caesars } from '$lib/data/caesars';
+import { getCaesarContext } from '$lib/data/caesar-context';
 import { loadBiography } from '$lib/content/biographies';
 import { error } from '@sveltejs/kit';
 
@@ -10,9 +11,9 @@ export function entries() {
 /** @type {import('./$types').PageLoad} */
 export async function load({ fetch, params }) {
   const { slug } = params;
+  const context = getCaesarContext(slug);
 
-  // Validate the slug
-  if (!caesars.find((c) => c.slug === slug)) {
+  if (!context.currentCaesar) {
     throw error(404, 'Caesar not found');
   }
 
@@ -20,6 +21,14 @@ export async function load({ fetch, params }) {
 
   return {
     caesarData,
+    currentCaesar: context.currentCaesar,
+    currentCaesarIndex: context.currentCaesarIndex,
+    nextCaesar: context.nextCaesar,
+    prevCaesar: context.prevCaesar,
+    navigationItems: caesars.map((caesar) => ({
+      caesar,
+      isCurrent: caesar.slug === slug
+    })),
     slug
   };
 }

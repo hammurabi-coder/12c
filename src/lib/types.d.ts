@@ -14,6 +14,11 @@ export interface Caesar {
   };
 }
 
+export interface CaesarNavigationItem {
+  caesar: Caesar;
+  isCurrent: boolean;
+}
+
 export interface Section {
   heading: string;
   en: string;

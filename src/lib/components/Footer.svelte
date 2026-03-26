@@ -1,12 +1,8 @@
 <script>
-  import { caesars } from '$lib/data/caesars';
   import { getCaesarHref, getLibraryHref } from '$lib/utils/routes';
-  let { currentCaesarIndex } = $props();
 
-  let prevCaesar = $derived(currentCaesarIndex > 0 ? caesars[currentCaesarIndex - 1] : null);
-  let nextCaesar = $derived(
-    currentCaesarIndex < caesars.length - 1 ? caesars[currentCaesarIndex + 1] : null
-  );
+  /** @type {{ prevCaesar: import('$lib/types').Caesar | null, nextCaesar: import('$lib/types').Caesar | null }} */
+  let { prevCaesar = null, nextCaesar = null } = $props();
 </script>
 
 <footer

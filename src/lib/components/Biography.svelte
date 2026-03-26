@@ -1,6 +1,6 @@
 <script>
+  import { getBustUrl } from '$lib/utils/paths';
   import { buildSectionMeta } from '$lib/utils/sections';
-  import BustPortrait from '$lib/components/BustPortrait.svelte';
 
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
@@ -42,6 +42,7 @@
     return result;
   }
 
+  const bustSrc = $derived(getBustUrl(currentCaesar.name));
   const sectionMeta = $derived(caesarData ? buildSectionMeta(caesarData.sections) : []);
 </script>
 
@@ -55,13 +56,17 @@
       ></div>
 
       <div class="grid gap-8 lg:grid-cols-[220px_minmax(0,1fr)] lg:items-start">
-        <div class="group relative mx-auto">
-          <BustPortrait
-            caesar={currentCaesar}
+        <div
+          class="group relative mx-auto flex h-48 w-48 items-center justify-center overflow-hidden rounded-sm border border-rubric/20 bg-rubric/5 shadow-xl"
+        >
+          <img
+            src={bustSrc}
             alt="Classical bust representing {currentCaesar.name}"
-            frameClass="h-48 w-48 rounded-sm border border-rubric/20 bg-rubric/5 shadow-xl"
-            imageClass="grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
+            width="192"
+            height="192"
             loading="eager"
+            decoding="async"
+            class="h-full w-full object-contain grayscale-[0.2] transition-all duration-700 group-hover:scale-110 group-hover:grayscale-0"
           />
           <div
             class="absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-transparent opacity-60"

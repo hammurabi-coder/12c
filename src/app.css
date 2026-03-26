@@ -64,6 +64,19 @@
   .reader-link {
     @apply imperial-label inline-flex items-center gap-2 rounded-full border border-rubric/15 bg-rubric/[0.04] px-4 py-2 text-[11px] text-ink/65 transition-all hover:border-rubric/35 hover:bg-rubric/[0.08] hover:text-rubric;
   }
+
+  /* Wikipedia links — must be global (not scoped) since {@html} bypasses Svelte scoping */
+  .reader-prose p a.wiki-link {
+    color: #8b3a3a;
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+    transition: color 0.15s ease;
+  }
+
+  .reader-prose p a.wiki-link:hover {
+    color: #c9a84c;
+  }
 }
 
 body {

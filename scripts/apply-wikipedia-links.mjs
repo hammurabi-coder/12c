@@ -13,7 +13,7 @@ import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
-const CONTENT_DIR  = join(__dirname, '../docs/content');
+const CONTENT_DIR  = join(__dirname, '../static/content');
 const SUGGESTIONS_DIR = join(__dirname, '../suggestions');
 
 const WIKIPEDIA_BASE = 'https://en.wikipedia.org/wiki/';

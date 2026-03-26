@@ -1,14 +1,10 @@
 <script>
   import { getBustUrl } from '$lib/utils/paths';
   import { buildSectionMeta } from '$lib/utils/sections';
+  import { buildLinkedParagraphs } from '$lib/utils/biography-text';
 
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
-
-  function getParagraphs(text) {
-    if (!text || !text.trim()) return [];
-    return text.split('\n\n');
-  }
 
   function setLanguage(mode) {
     currentLang = mode;
@@ -16,58 +12,20 @@
 
   let wikiLinksEnabled = $state(true);
 
-  function escapeHtml(text) {
-    return text.replaceAll('&', '&amp;').replaceAll('<', '&lt;').replaceAll('>', '&gt;');
-  }
-
-  function isSafeWikipediaUrl(url) {
-    try {
-      const parsed = new URL(url);
-      return (
-        parsed.protocol === 'https:' &&
-        parsed.hostname === 'en.wikipedia.org' &&
-        parsed.pathname.startsWith('/wiki/')
-      );
-    } catch {
-      return false;
-    }
-  }
-
-  /**
-   * Wrap occurrences of linked entity names with <a> tags.
-   * Returns HTML string — used with {@html} in the template.
-   * Only wraps text that isn't already inside an <a> tag.
-   */
-  function applyWikiLinks(text, wikiLinks = {}) {
-    if (!text) return '';
-
-    const safeText = escapeHtml(text);
-    const safeEntries = Object.entries(wikiLinks).filter(
-      ([entity, url]) => entity?.trim() && isSafeWikipediaUrl(url)
-    );
-
-    if (!wikiLinksEnabled || safeEntries.length === 0) return safeText;
-
-    // Sort entities by name length descending to avoid partial overlaps
-    const entities = safeEntries.map(([entity]) => entity).sort((a, b) => b.length - a.length);
-
-    let result = safeText;
-    for (const entity of entities) {
-      const url = wikiLinks[entity];
-      // Escape entity name for use in regex
-      const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-      // Match entity when NOT already inside an <a> tag
-      const regex = new RegExp(`(?<!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
-      result = result.replace(
-        regex,
-        `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`
-      );
-    }
-    return result;
-  }
-
   const bustSrc = $derived(getBustUrl(currentCaesar.name));
-  const sectionMeta = $derived(caesarData ? buildSectionMeta(caesarData.sections) : []);
+  const sectionMeta = $derived.by(() => {
+    if (!caesarData) return [];
+
+    return buildSectionMeta(caesarData.sections).map((section) => ({
+      ...section,
+      enParagraphs: buildLinkedParagraphs(section.en, section.wikiLinks, {
+        enabled: wikiLinksEnabled
+      }),
+      laParagraphs: buildLinkedParagraphs(section.la, section.wikiLinks, {
+        enabled: wikiLinksEnabled
+      })
+    }));
+  });
 </script>
 
 <div class="mx-auto mb-12 max-w-5xl pt-8">
@@ -182,8 +140,8 @@
             <article class="reader-panel px-5 py-5 md:px-7">
               <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
               <div class="reader-prose text-ink/92">
-                {#each getParagraphs(section.en) as paragraph}
-                  <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
+                {#each section.enParagraphs as paragraph}
+                  <p>{@html paragraph}</p>
                 {/each}
               </div>
             </article>
@@ -191,8 +149,8 @@
             <article class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7">
               <div class="imperial-label mb-4 text-rubric/55">Latin</div>
               <div class="reader-prose text-ink/78 italic">
-                {#each getParagraphs(section.la) as paragraph}
-                  <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
+                {#each section.laParagraphs as paragraph}
+                  <p>{@html paragraph}</p>
                 {/each}
               </div>
             </article>
@@ -200,8 +158,8 @@
         {:else}
           <article class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8">
             <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">
-              {#each getParagraphs(currentLang === 'en' ? section.en : section.la) as paragraph}
-                <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
+              {#each currentLang === 'en' ? section.enParagraphs : section.laParagraphs as paragraph}
+                <p>{@html paragraph}</p>
               {/each}
             </div>
           </article>

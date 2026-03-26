@@ -4,15 +4,16 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
   // SvelteKit file-based routing with /12c/ base path
   const baseUrl = 'http://localhost:4173/12c/';
 
-  test('initial load - Julius preloading', async ({ page }) => {
+  test('initial load - Landing Page', async ({ page }) => {
     await page.goto(baseUrl);
     await page.waitForLoadState('networkidle');
 
     // Check Title
-    await expect(page.locator('h1')).toContainText('The Twelve Caesars');
+    await expect(page.locator('h1').first()).toContainText('The Twelve Caesars');
+    await expect(page.locator('h2').first()).toContainText('The Twelve Caesars');
 
-    // Check Julius Title in Biography
-    await expect(page.locator('h2')).toContainText('Julius');
+    // Verify Julius is present as a card
+    await expect(page.locator('h3', { hasText: 'Julius' })).toBeVisible();
 
     // Verify Tyrian Purple Background on body
     const bgColor = await page.evaluate(() => getComputedStyle(document.body).backgroundColor);
@@ -20,15 +21,14 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
   });
 
   test('navigation and deep-linking - Augustus', async ({ page }) => {
-    // SvelteKit uses file-based routing, not hash routing
     await page.goto(baseUrl + 'augustus');
     await page.waitForLoadState('networkidle');
 
     // Verify Biography switched to Augustus
-    await expect(page.locator('h2')).toContainText('Augustus');
+    await expect(page.locator('h2').first()).toContainText('Augustus');
 
     // Navigation items are <a> tags with aria-current
-    const activeLink = page.locator('a[aria-current="page"]');
+    const activeLink = page.locator('nav a[aria-current="page"]');
     await expect(activeLink).toHaveAttribute('aria-label', 'View biography of Augustus');
   });
 
@@ -40,8 +40,8 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
     const bilingualBtn = page.locator('button', { hasText: 'Bilingual' });
     await bilingualBtn.click();
 
-    // Verify grid layout for bilingual view
-    const grid = page.locator('div.grid.md\\:grid-cols-2');
+    // Verify grid layout for bilingual view using the chapter-content class
+    const grid = page.locator('.chapter-content .grid.md\\:grid-cols-2');
     await expect(grid.first()).toBeVisible();
   });
 });

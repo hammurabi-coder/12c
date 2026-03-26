@@ -7,7 +7,7 @@ const rawCaesars = [
     latin: 'C. Ivlivs Caesar',
     dates: '100–44 BC',
     reign: '49–44 BC',
-    tag: 'The die is cast.',
+    tag: 'Take we the course ... The die is cast.',
     wikipedia: 'https://en.wikipedia.org/wiki/Julius_Caesar'
   },
   {
@@ -15,7 +15,7 @@ const rawCaesars = [
     latin: 'Imp. Caesar Avgvstvs',
     dates: '63 BC – AD 14',
     reign: '27 BC – AD 14',
-    tag: 'I found [Rome] built of brick and left it in marble.',
+    tag: 'He had found it built of brick and left it in marble.',
     wikipedia: 'https://en.wikipedia.org/wiki/Augustus'
   },
   {
@@ -39,7 +39,7 @@ const rawCaesars = [
     latin: 'Ti. Clavdivs Caesar',
     dates: '10 BC – AD 54',
     reign: 'AD 41–54',
-    tag: 'He stole away to a balcony hard by and hid among the curtains which hung before the door.',
+    tag: 'He stole away ... and hid among the curtains which hung before the door.',
     wikipedia: 'https://en.wikipedia.org/wiki/Claudius'
   },
   {
@@ -55,7 +55,7 @@ const rawCaesars = [
     latin: 'Ser. Svlpicivs Galba',
     dates: '3 BC – AD 69',
     reign: 'AD 68–69',
-    tag: 'It was his habit to levy troops, not buy them.',
+    tag: 'What mean you, fellow soldiers? I am yours and you are mine.',
     wikipedia: 'https://en.wikipedia.org/wiki/Galba'
   },
   {
@@ -63,7 +63,7 @@ const rawCaesars = [
     latin: 'M. Salvivs Otho',
     dates: 'AD 32–69',
     reign: 'AD 69',
-    tag: 'He would no longer endanger the lives of such brave men, who had deserved so well.',
+    tag: 'Let us add this one more night to our life.',
     wikipedia: 'https://en.wikipedia.org/wiki/Otho'
   },
   {

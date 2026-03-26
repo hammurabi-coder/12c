@@ -1,14 +1,12 @@
 <script>
   import { base } from '$app/paths';
   import { getBustUrl } from '$lib/utils/paths';
-  import Search from './Search.svelte';
 
   /** @type {{ caesars: import('$lib/types').Caesar[], currentCaesarIndex: number }} */
   let { caesars, currentCaesarIndex = 0 } = $props();
 
   /** @type {HTMLDivElement | null} */
   let scrollContainer = $state(null);
-  let searchOpen = $state(false);
 
   // Auto-scroll to keep the active caesar visible when navigating
   $effect(() => {
@@ -20,12 +18,10 @@
   });
 </script>
 
-<Search bind:isOpen={searchOpen} />
-
 <nav class="sticky top-0 z-50 border-b border-papyrus-dark bg-tyrian pt-1 shadow-2xl">
   <div
     bind:this={scrollContainer}
-    class="scrollbar-hide relative flex h-[100px] gap-2 overflow-x-auto px-4 pr-16"
+    class="scrollbar-hide relative flex h-[100px] gap-2 overflow-x-auto px-4"
   >
     {#each caesars as caesar, i}
       <a
@@ -72,28 +68,5 @@
         </div>
       </a>
     {/each}
-
-    <!-- Search Toggle -->
-    <div
-      class="absolute bottom-0 right-0 top-0 flex items-center bg-gradient-to-l from-tyrian via-tyrian to-transparent pl-8 pr-4"
-    >
-      <button
-        onclick={() => (searchOpen = true)}
-        class="flex h-12 w-12 items-center justify-center rounded-full border border-papyrus-dark/40 bg-papyrus/10 text-papyrus shadow-lg transition-all hover:bg-papyrus hover:text-rubric"
-        aria-label="Search"
-      >
-        <svg
-          xmlns="http://www.w3.org/2000/svg"
-          width="20"
-          height="20"
-          viewBox="0 0 24 24"
-          fill="none"
-          stroke="currentColor"
-          stroke-width="2"
-          stroke-linecap="round"
-          stroke-linejoin="round"><circle cx="11" cy="11" r="8" /><path d="m21 21-4.3-4.3" /></svg
-        >
-      </button>
-    </div>
   </div>
 </nav>

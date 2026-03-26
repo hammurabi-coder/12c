@@ -14,6 +14,29 @@
     currentLang = mode;
   }
 
+  /**
+   * Wrap occurrences of linked entity names with <a> tags.
+   * Returns HTML string — used with {@html} in the template.
+   * Only wraps text that isn't already inside an <a> tag.
+   */
+  function applyWikiLinks(text, wikiLinks = {}) {
+    if (!text || Object.keys(wikiLinks).length === 0) return text;
+
+    // Sort entities by name length descending to avoid partial overlaps
+    const entities = Object.keys(wikiLinks).sort((a, b) => b.length - a.length);
+
+    let result = text;
+    for (const entity of entities) {
+      const url = wikiLinks[entity];
+      // Escape entity name for use in regex
+      const escaped = entity.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      // Match entity when NOT already inside an <a> tag
+      const regex = new RegExp(`(?<!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
+      result = result.replace(regex, `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`);
+    }
+    return result;
+  }
+
   const bustSrc = $derived(getBustUrl(currentCaesar.name));
   const sectionMeta = $derived(caesarData ? buildSectionMeta(caesarData.sections) : []);
 </script>
@@ -121,7 +144,7 @@
               <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
               <div class="reader-prose text-ink/92">
                 {#each getParagraphs(section.en) as paragraph}
-                  <p>{paragraph}</p>
+                  <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
                 {/each}
               </div>
             </article>
@@ -130,7 +153,7 @@
               <div class="imperial-label mb-4 text-rubric/55">Latin</div>
               <div class="reader-prose text-ink/78 italic">
                 {#each getParagraphs(section.la) as paragraph}
-                  <p>{paragraph}</p>
+                  <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
                 {/each}
               </div>
             </article>
@@ -139,7 +162,7 @@
           <article class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8">
             <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">
               {#each getParagraphs(currentLang === 'en' ? section.en : section.la) as paragraph}
-                <p>{paragraph}</p>
+                <p>{@html applyWikiLinks(paragraph, section.wikiLinks || {})}</p>
               {/each}
             </div>
           </article>
@@ -170,5 +193,17 @@
 
   .reader-prose p:first-child {
     text-indent: 0;
+  }
+
+  .reader-prose p a.wiki-link,
+  .reader-prose p:has(> a.wiki-link) {
+    color: var(--color-rubric);
+    text-decoration: underline;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 2px;
+  }
+
+  .reader-prose p a.wiki-link:hover {
+    color: var(--color-gold);
   }
 </style>

@@ -22,8 +22,8 @@ test.describe('Caesar Pages', () => {
       await page.goto(baseUrl + caesar.slug);
       await page.waitForLoadState('networkidle');
 
-      // Check page title (using first to avoid Header vs Bio title ambiguity)
-      await expect(page.locator('h2').first()).toContainText(caesar.name);
+      // Check page title (using specific class)
+      await expect(page.locator('h2.imperial-rubric').first()).toContainText(caesar.name);
       
       // Check navigation shows current caesar
       const activeLink = page.locator('nav a[aria-current="page"]');

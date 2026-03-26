@@ -1,5 +1,5 @@
 import { caesars } from '$lib/data/caesars';
-import { base } from '$app/paths';
+import { loadBiography } from '$lib/content/biographies';
 import { error } from '@sveltejs/kit';
 
 /** @type {import('./$types').EntryGenerator} */
@@ -16,11 +16,7 @@ export async function load({ fetch, params }) {
     throw error(404, 'Caesar not found');
   }
 
-  const response = await fetch(`${base}/content/${slug}.json`);
-  if (!response.ok) {
-    throw error(response.status, `Could not load biography for ${slug}`);
-  }
-  const caesarData = await response.json();
+  const caesarData = await loadBiography(fetch, slug);
 
   return {
     caesarData,

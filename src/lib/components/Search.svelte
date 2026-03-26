@@ -1,63 +1,27 @@
 <script>
-  import { base } from '$app/paths';
-  import { caesars } from '$lib/data/caesars';
   import { fade, fly } from 'svelte/transition';
+  import {
+    buildSearchIndex,
+    filterSearchResults,
+    getSearchExcerpt,
+    groupSearchResultsByCaesar
+  } from '$lib/search';
+  import { getCaesarHref } from '$lib/utils/routes';
 
   let { isOpen = $bindable(false) } = $props();
 
   let searchInput = $state('');
   let isIndexing = $state(false);
   let index = $state([]);
-  let results = $derived(
-    searchInput.length > 1
-      ? index.filter(
-          (item) =>
-            item.text.toLowerCase().includes(searchInput.toLowerCase()) ||
-            item.heading.toLowerCase().includes(searchInput.toLowerCase())
-        )
-      : []
-  );
-
-  let resultsByCaesar = $derived(
-    results.length > 0
-      ? results.reduce((acc, curr) => {
-          if (!acc[curr.caesar]) acc[curr.caesar] = [];
-          acc[curr.caesar].push(curr);
-          return acc;
-        }, {})
-      : {}
-  );
+  let results = $derived(filterSearchResults(index, searchInput));
+  let resultsByCaesar = $derived(groupSearchResultsByCaesar(results));
 
   async function ensureIndexed() {
     if (index.length > 0 || isIndexing) return;
     isIndexing = true;
 
     try {
-      const fetches = caesars.map(async (caesar) => {
-        const res = await fetch(`${base}/content/${caesar.slug}.json`);
-        if (!res.ok) return [];
-        const data = await res.json();
-
-        return data.sections.flatMap((section) => [
-          {
-            caesar: caesar.name,
-            slug: caesar.slug,
-            heading: section.heading,
-            text: section.en,
-            lang: 'English'
-          },
-          {
-            caesar: caesar.name,
-            slug: caesar.slug,
-            heading: section.heading,
-            text: section.la,
-            lang: 'Latin'
-          }
-        ]);
-      });
-
-      const allData = await Promise.all(fetches);
-      index = allData.flat();
+      index = await buildSearchIndex(fetch);
     } catch (e) {
       console.error('Search indexing failed:', e);
     } finally {
@@ -67,24 +31,6 @@
 
   function handleKeydown(e) {
     if (e.key === 'Escape') isOpen = false;
-  }
-
-  function getExcerpt(text, query) {
-    const index = text.toLowerCase().indexOf(query.toLowerCase());
-    if (index === -1) return text.slice(0, 100) + '...';
-
-    const start = Math.max(0, index - 40);
-    const end = Math.min(text.length, index + 60);
-    let excerpt = text.slice(start, end);
-
-    if (start > 0) excerpt = '...' + excerpt;
-    if (end < text.length) excerpt = excerpt + '...';
-
-    return excerpt;
-  }
-
-  function getResultHref(slug) {
-    return `${base}/${slug}/`;
   }
 
   // Trigger indexing on first focus/type
@@ -173,7 +119,7 @@
               <div class="space-y-3">
                 {#each caesarResults as result}
                   <a
-                    href={getResultHref(result.slug)}
+                    href={getCaesarHref(result.slug)}
                     onclick={() => (isOpen = false)}
                     class="group block border-l-2 border-transparent pl-4 transition-all hover:border-rubric hover:bg-black/5"
                   >
@@ -186,7 +132,7 @@
                       >
                     </div>
                     <p class="text-sm italic leading-relaxed text-ink/60 group-hover:text-ink">
-                      {getExcerpt(result.text, searchInput)}
+                      {getSearchExcerpt(result.text, searchInput)}
                     </p>
                   </a>
                 {/each}

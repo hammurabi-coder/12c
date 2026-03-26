@@ -1,6 +1,6 @@
 <script>
-  import { base } from '$app/paths';
   import { caesars } from '$lib/data/caesars';
+  import { getCaesarHref, getLibraryHref } from '$lib/utils/routes';
   let { currentCaesarIndex } = $props();
 
   let prevCaesar = $derived(currentCaesarIndex > 0 ? caesars[currentCaesarIndex - 1] : null);
@@ -16,7 +16,7 @@
     <div class="reader-panel px-5 py-5 text-center lg:text-left">
       <div class="imperial-label mb-3">Continue Reading</div>
       <div class="flex flex-wrap justify-center gap-3 lg:justify-start">
-        <a href="{base}/" class="reader-link">Return to Library</a>
+        <a href={getLibraryHref()} class="reader-link">Return to Library</a>
         <a href="#reader-top" class="reader-link">Back to Top</a>
       </div>
       <p class="mt-4 text-sm leading-relaxed text-ink/65">
@@ -37,13 +37,13 @@
       <div class="imperial-label mb-3 text-rubric/50">Imperial Sequence</div>
       <div class="flex flex-wrap justify-center gap-3 lg:justify-end">
         {#if prevCaesar}
-          <a href="{base}/{prevCaesar.slug}/" class="reader-link">
+          <a href={getCaesarHref(prevCaesar.slug)} class="reader-link">
             <span aria-hidden="true">←</span>
             <span>{prevCaesar.name}</span>
           </a>
         {/if}
         {#if nextCaesar}
-          <a href="{base}/{nextCaesar.slug}/" class="reader-link">
+          <a href={getCaesarHref(nextCaesar.slug)} class="reader-link">
             <span>{nextCaesar.name}</span>
             <span aria-hidden="true">→</span>
           </a>

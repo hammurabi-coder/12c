@@ -10,7 +10,8 @@
 >
   <h1 class="imperial-rubric mb-2 text-3xl md:text-5xl">The Twelve Caesars</h1>
   <div class="font-marcellus text-sm italic text-ink/60">
-    Suetonius · De Vita Caesarum · c. AD 121 · Lives of the Emperors of Rome
+    <div>Suetonius · c. AD 121</div>
+    <div>De Vita Caesarum · Lives of the Emperors of Rome</div>
   </div>
 
   <!-- Global Search Trigger -->

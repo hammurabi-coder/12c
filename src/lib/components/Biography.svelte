@@ -78,6 +78,15 @@
                 </button>
               {/each}
             </div>
+            <a
+              href={currentCaesar.wikipedia}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="reader-link"
+            >
+              <span>Wikipedia</span>
+              <span aria-hidden="true">↗</span>
+            </a>
           </div>
         </div>
       </div>

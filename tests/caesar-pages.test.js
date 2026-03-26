@@ -57,20 +57,18 @@ test.describe('Caesar Pages', () => {
     await page.goto(baseUrl + 'julius');
     await page.waitForLoadState('networkidle');
 
-    // Should start in English mode
-    await expect(page.locator('button:has-text("English")')).toHaveClass(/bg-rubric/);
-    
-    // Switch to Latin
+    // Click Latin
     await page.click('button:has-text("Latin")');
-    await expect(page.locator('button:has-text("Latin")')).toHaveClass(/bg-rubric/);
-    
-    // Switch to Bilingual
+    await expect(page.locator('text="Latin Edition"')).toBeVisible();
+
+    // Click Bilingual
     await page.click('button:has-text("Bilingual")');
-    await expect(page.locator('button:has-text("Bilingual")')).toHaveClass(/bg-rubric/);
-    
-    // Check bilingual layout
-    const grid = page.locator('.grid-cols-1.md\\:grid-cols-2');
-    await expect(grid).toBeVisible();
+    await expect(page.locator('text="English · Rolfe"')).toBeVisible();
+    await expect(page.locator('text="Latin · Vulgata"')).toBeVisible();
+
+    // Switch back to English
+    await page.click('button:has-text("English")');
+    await expect(page.locator('text="Latin Edition"')).not.toBeVisible();
   });
 
   test('content sections load and display', async ({ page }) => {

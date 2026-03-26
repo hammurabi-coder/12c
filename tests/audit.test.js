@@ -41,7 +41,7 @@ test.describe('Twelve Caesars Visual & Functional Audit', () => {
     await bilingualBtn.click();
 
     // Verify grid layout for bilingual view
-    const grid = page.locator('.grid-cols-1.md\\:grid-cols-2');
+    const grid = page.locator('div.grid.md\\:grid-cols-2');
     await expect(grid.first()).toBeVisible();
   });
 });

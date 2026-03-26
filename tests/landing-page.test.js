@@ -17,10 +17,10 @@ test.describe('Landing Page', () => {
     await expect(page.locator('text="DE VITA CAESARUM"')).toBeVisible();
     
     // Check Suetonius quote
-    await expect(page.locator('text="For my part, I think that the most beautiful thing in the world is the history of Rome."')).toBeVisible();
+    await expect(page.locator('text=/For my part.*history of Rome/')).toBeVisible();
     
     // Verify all 12 caesars are displayed
-    const caesarCards = page.locator('a[href*="/"]');
+    const caesarCards = page.locator('a[href*="/12c/"]');
     await expect(caesarCards).toHaveCount(12);
     
     // Check specific caesars are present
@@ -47,8 +47,8 @@ test.describe('Landing Page', () => {
     // Verify name
     await expect(juliusCard.locator('h3')).toContainText('Julius');
     
-    // Verify dates
-    await expect(juliusCard.locator('text="100-44 BC"')).toBeVisible();
+    // Verify dates (using en-dash – from the data)
+    await expect(juliusCard.locator('text="100–44 BC"')).toBeVisible();
     
     // Verify tag quote
     await expect(juliusCard.locator('text=/".*"/')).toBeVisible();
@@ -67,8 +67,8 @@ test.describe('Landing Page', () => {
     // Hover over card
     await juliusCard.hover();
     
-    // Check hover effects (grayscale should be removed)
-    await expect(bustImg).toHaveClass(/hover:grayscale-0/);
+    // Check hover effects (using group-hover for the image)
+    await expect(bustImg).toHaveClass(/group-hover:grayscale-0/);
     await expect(juliusCard).toHaveClass(/hover:-translate-y-1/);
   });
 

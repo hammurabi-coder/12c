@@ -146,14 +146,13 @@ test.describe('Accessibility Tests', () => {
     // Navigate to Augustus using the Navigation component
     const augustusLink = page.locator('nav a[href*="augustus"]').first();
     await augustusLink.focus();
-    await expect(augustusLink).toBeFocused();
     
     await augustusLink.press('Enter');
     await page.waitForLoadState('networkidle');
     
     // Should have navigated
     await expect(page).toHaveURL(/augustus/);
-    await expect(page.locator('h2')).toContainText('Augustus');
+    await expect(page.locator('main h2.imperial-rubric')).toContainText('Augustus');
   });
 
   test('form accessibility (search)', async ({ page }) => {

@@ -56,10 +56,25 @@
   .volumen-container {
     @apply relative flex min-h-screen w-full max-w-7xl flex-col border-x-scroll border-double border-roller/40 bg-papyrus shadow-scroll-outer;
   }
+
+  .reader-panel {
+    @apply rounded-sm border border-rubric/10 bg-white/55 shadow-sm backdrop-blur-sm;
+  }
+
+  .reader-link {
+    @apply imperial-label inline-flex items-center gap-2 rounded-full border border-rubric/15 bg-rubric/[0.04] px-4 py-2 text-[11px] text-ink/65 transition-all hover:border-rubric/35 hover:bg-rubric/[0.08] hover:text-rubric;
+  }
 }
 
 body {
   @apply m-0 overflow-x-hidden bg-tyrian p-0 font-marcellus;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
 }
 
 /* Scrollbar Hiding Utility */
@@ -70,4 +85,8 @@ body {
 .scrollbar-hide {
   -ms-overflow-style: none;
   scrollbar-width: none;
+}
+
+:target {
+  scroll-margin-top: 13rem;
 }

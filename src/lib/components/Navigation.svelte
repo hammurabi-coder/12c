@@ -25,7 +25,7 @@
   >
     {#each caesars as caesar, i}
       <a
-        href="{base}/{caesar.slug}"
+        href="{base}/{caesar.slug}/"
         aria-current={currentCaesarIndex === i ? 'page' : undefined}
         aria-label="View biography of {caesar.name}"
         class="group relative flex h-[88px] w-[76px] flex-shrink-0 flex-col items-center justify-end rounded-b-lg border-x border-b border-papyrus-dark bg-papyrus/95 shadow-lg transition-all duration-300 hover:h-[94px] hover:bg-white

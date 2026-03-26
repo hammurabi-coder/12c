@@ -9,7 +9,8 @@
     "prepare": "husky",
     "lint": "eslint src",
     "format": "prettier --write src",
-    "test:e2e": "playwright test"
+    "test:e2e": "playwright test",
+    "verify:static": "node scripts/check-static-output.mjs"
   },
   "lint-staged": {
     "src/**/*.{js,svelte}": [

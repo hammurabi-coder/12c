@@ -5,7 +5,7 @@ export default {
     extend: {
       fontFamily: {
         cinzel: ['Cinzel', 'serif'],
-        marcellus: ['Marcellus', 'serif'],
+        marcellus: ['Marcellus', 'serif']
       },
       colors: {
         // Core Design Tokens

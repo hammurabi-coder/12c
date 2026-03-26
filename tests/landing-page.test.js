@@ -25,9 +25,9 @@ test.describe('Landing Page', () => {
     await expect(caesarCards).toHaveCount(12);
     
     // Check specific caesars are present
-    await expect(page.locator('a[href="/12c/julius"]')).toBeVisible();
-    await expect(page.locator('a[href="/12c/augustus"]')).toBeVisible();
-    await expect(page.locator('a[href="/12c/nero"]')).toBeVisible();
+    await expect(page.locator('a[href="/12c/julius/"]')).toBeVisible();
+    await expect(page.locator('a[href="/12c/augustus/"]')).toBeVisible();
+    await expect(page.locator('a[href="/12c/nero/"]')).toBeVisible();
   });
 
   test('caesar cards have proper structure and content', async ({ page }) => {
@@ -35,7 +35,7 @@ test.describe('Landing Page', () => {
     await page.waitForLoadState('networkidle');
 
     // Check first caesar card (Julius)
-    const juliusCard = page.locator('a[href="/12c/julius"]');
+    const juliusCard = page.locator('a[href="/12c/julius/"]');
     
     // Verify bust image
     const bustImg = juliusCard.locator('img');
@@ -59,7 +59,7 @@ test.describe('Landing Page', () => {
     await page.goto(baseUrl);
     await page.waitForLoadState('networkidle');
 
-    const juliusCard = page.locator('a[href="/12c/julius"]');
+    const juliusCard = page.locator('a[href="/12c/julius/"]');
     const bustImg = juliusCard.locator('img');
     
     // Check initial grayscale state
@@ -78,7 +78,7 @@ test.describe('Landing Page', () => {
     await page.waitForLoadState('networkidle');
 
     // Click on Julius
-    await page.click('a[href="/12c/julius"]');
+    await page.click('a[href="/12c/julius/"]');
     await page.waitForLoadState('networkidle');
 
     // Should navigate to Julius page

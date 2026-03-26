@@ -8,7 +8,7 @@ test.describe('Caesar Pages', () => {
 
   test('representative caesar page loads correctly (Julius)', async ({ page }) => {
     const caesar = caesars[0];
-    await page.goto(baseUrl + caesar.slug);
+    await page.goto(baseUrl + caesar.slug + '/');
     await page.waitForLoadState('networkidle');
 
     // Check page title (using specific main scope)
@@ -21,10 +21,13 @@ test.describe('Caesar Pages', () => {
     
     // Check imperial numeral
     await expect(page.locator('.imperial-numeral').first()).toContainText(caesar.numeral);
+
+    // Reader jump controls should be visible
+    await expect(page.locator('text="Jump to section"')).toBeVisible();
   });
 
   test('language mode switching', async ({ page }) => {
-    await page.goto(baseUrl + 'julius');
+    await page.goto(baseUrl + 'julius/');
     await page.waitForLoadState('networkidle');
 
     // Click Latin

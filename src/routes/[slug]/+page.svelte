@@ -35,7 +35,7 @@
   <div class="flex w-full flex-1 justify-center px-4 md:px-0">
     <div class="volumen-container">
       <!-- Main Biography Scroll -->
-      <main class="relative flex-1 px-8 pb-24 md:px-16">
+      <main id="reader-top" class="relative flex-1 px-4 pb-24 md:px-10 lg:px-16">
         {#if caesarData}
           {#key data.slug}
             <div in:fly={{ y: 20, duration: 800, delay: 200 }} out:fade={{ duration: 200 }}>

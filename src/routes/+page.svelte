@@ -29,7 +29,7 @@
         {#each caesars as caesar, i}
           <div style="animation-delay: {100 + i * 50}ms" class="fade-in-up">
             <a
-              href="{base}/{caesar.slug}"
+              href="{base}/{caesar.slug}/"
               class="group flex flex-col items-center rounded-sm border border-papyrus-dark/40 bg-white/50 p-6 shadow-md transition-all duration-300 hover:-translate-y-1 hover:bg-white hover:shadow-xl"
             >
               <div

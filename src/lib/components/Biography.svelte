@@ -5,9 +5,6 @@
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
 
-  let activeSectionId = $state('');
-  let initializedFromHash = $state(false);
-
   function getParagraphs(text) {
     if (!text || !text.trim()) return [];
     return text.split('\n\n');
@@ -17,93 +14,8 @@
     currentLang = mode;
   }
 
-  function jumpToSection(sectionId) {
-    activeSectionId = sectionId;
-
-    if (typeof document === 'undefined') return;
-
-    const target = document.getElementById(sectionId);
-    if (!target) return;
-
-    target.scrollIntoView({ behavior: 'smooth', block: 'start' });
-
-    if (typeof history !== 'undefined') {
-      history.replaceState(null, '', `#${sectionId}`);
-    }
-  }
-
-  function trackSection(node) {
-    if (typeof IntersectionObserver === 'undefined') {
-      return {
-        destroy() {}
-      };
-    }
-
-    const observer = new IntersectionObserver(
-      (entries) => {
-        const visibleEntries = entries
-          .filter((entry) => entry.isIntersecting)
-          .sort((a, b) => b.intersectionRatio - a.intersectionRatio);
-
-        if (visibleEntries[0]?.target?.id) {
-          activeSectionId = visibleEntries[0].target.id;
-        }
-      },
-      {
-        rootMargin: '-20% 0px -55% 0px',
-        threshold: [0.2, 0.4, 0.65]
-      }
-    );
-
-    observer.observe(node);
-
-    return {
-      destroy() {
-        observer.disconnect();
-      }
-    };
-  }
-
   const bustSrc = $derived(getBustUrl(currentCaesar.name));
   const sectionMeta = $derived(caesarData ? buildSectionMeta(caesarData.sections) : []);
-  const activeSection = $derived(
-    sectionMeta.find((section) => section.id === activeSectionId) ?? sectionMeta[0] ?? null
-  );
-  const activeSectionIndex = $derived(
-    activeSection ? sectionMeta.findIndex((section) => section.id === activeSection.id) : -1
-  );
-  const previousSection = $derived(
-    activeSectionIndex > 0 ? sectionMeta[activeSectionIndex - 1] : null
-  );
-  const nextSection = $derived(
-    activeSectionIndex >= 0 && activeSectionIndex < sectionMeta.length - 1
-      ? sectionMeta[activeSectionIndex + 1]
-      : null
-  );
-
-  $effect(() => {
-    if (!sectionMeta.length) {
-      activeSectionId = '';
-      initializedFromHash = false;
-      return;
-    }
-
-    if (!initializedFromHash && typeof window !== 'undefined' && window.location.hash) {
-      const hashSectionId = window.location.hash.slice(1);
-      if (sectionMeta.some((section) => section.id === hashSectionId)) {
-        activeSectionId = hashSectionId;
-        initializedFromHash = true;
-        return;
-      }
-    }
-
-    const hasActiveSection = sectionMeta.some((section) => section.id === activeSectionId);
-    if (!hasActiveSection) {
-      activeSectionId = sectionMeta[0].id;
-    }
-
-    initializedFromHash = true;
-  });
 </script>
 
 <div class="mx-auto mb-12 max-w-5xl pt-8">
@@ -145,40 +57,7 @@
             "{currentCaesar.tag}"
           </p>
 
-          <div class="mt-6 grid gap-4 text-sm text-ink/75 md:grid-cols-3">
-            <div class="reader-panel px-4 py-3">
-              <div class="imperial-label mb-2">Reader Mode</div>
-              <p class="leading-relaxed">
-                {currentLang === 'both'
-                  ? 'Parallel reading with English on the left and Latin on the right.'
-                  : currentLang === 'la'
-                    ? 'Latin-only reading with the original text emphasized.'
-                    : 'English-only reading with a calmer single-column pace.'}
-              </p>
-            </div>
-            <div class="reader-panel px-4 py-3">
-              <div class="imperial-label mb-2">Structure</div>
-              <p class="leading-relaxed">
-                {sectionMeta.length} section{sectionMeta.length === 1 ? '' : 's'} with anchored navigation
-                and active reading position.
-              </p>
-            </div>
-            <div class="reader-panel px-4 py-3">
-              <div class="imperial-label mb-2">External</div>
-              <a
-                href={currentCaesar.wikipedia}
-                target="_blank"
-                rel="noopener noreferrer"
-                class="reader-link justify-center lg:justify-start"
-              >
-                <span>Open Wikipedia</span>
-                <span aria-hidden="true">↗</span>
-              </a>
-            </div>
-          </div>
-
           <div class="mt-6 flex flex-wrap items-center justify-center gap-3 lg:justify-start">
-            <span class="imperial-label text-rubric/60">Mode</span>
             <div
               class="flex flex-wrap rounded-full border border-papyrus-dark/40 bg-papyrus-dark/20 p-1"
             >
@@ -207,83 +86,10 @@
 </div>
 
 {#if sectionMeta.length}
-  <div class="sticky top-[11.25rem] z-40 mb-10">
-    <div class="reader-panel border-rubric/15 bg-papyrus/90 px-4 py-4 shadow-lg backdrop-blur">
-      <div class="flex flex-col gap-4">
-        <div class="flex flex-col gap-3 lg:flex-row lg:items-center lg:justify-between">
-          <div>
-            <div class="imperial-label mb-1">Reading Position</div>
-            <div class="text-sm text-ink/70">
-              <span class="font-semibold text-ink">{activeSection?.heading ?? 'Overview'}</span>
-              {#if activeSection}
-                <span class="ml-2 text-ink/45">
-                  {activeSection.index + 1} / {sectionMeta.length}
-                </span>
-              {/if}
-            </div>
-          </div>
-
-          <div class="flex flex-wrap gap-2">
-            <a href="#reader-top" class="reader-link">Back to top</a>
-            {#if previousSection}
-              <button class="reader-link" onclick={() => jumpToSection(previousSection.id)}>
-                <span aria-hidden="true">←</span>
-                <span>{previousSection.heading}</span>
-              </button>
-            {/if}
-            {#if nextSection}
-              <button class="reader-link" onclick={() => jumpToSection(nextSection.id)}>
-                <span>{nextSection.heading}</span>
-                <span aria-hidden="true">→</span>
-              </button>
-            {/if}
-          </div>
-        </div>
-
-        <div class="grid gap-3 lg:grid-cols-[220px_minmax(0,1fr)] lg:items-start">
-          <label class="imperial-label flex items-center gap-3 text-rubric/60">
-            <span>Jump to section</span>
-            <select
-              class="min-w-0 rounded-full border border-rubric/15 bg-white/70 px-4 py-2 text-sm normal-case tracking-normal text-ink outline-none transition-colors focus:border-rubric/40"
-              bind:value={activeSectionId}
-              onchange={(event) => jumpToSection(event.currentTarget.value)}
-              aria-label="Jump to section"
-            >
-              {#each sectionMeta as section}
-                <option value={section.id}>{section.heading}</option>
-              {/each}
-            </select>
-          </label>
-
-          <div class="scrollbar-hide flex gap-2 overflow-x-auto pb-1">
-            {#each sectionMeta as section}
-              <a
-                href={'#' + section.id}
-                onclick={(event) => {
-                  event.preventDefault();
-                  jumpToSection(section.id);
-                }}
-                class="imperial-label shrink-0 rounded-full border px-4 py-2 text-[11px] transition-all {activeSectionId ===
-                section.id
-                  ? 'border-rubric/45 bg-rubric text-papyrus shadow-sm'
-                  : 'border-rubric/15 bg-white/50 text-ink/60 hover:border-rubric/35 hover:text-rubric'}"
-              >
-                {section.heading}
-              </a>
-            {/each}
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-{/if}
-
-{#if sectionMeta.length}
   <div class="space-y-16 pb-8">
     {#each sectionMeta as section}
       <section
         id={section.id}
-        use:trackSection
         class="chapter-content scroll-mt-52 rounded-sm border border-rubric/10 bg-white/35 px-5 py-8 shadow-[0_24px_80px_rgba(44,39,33,0.07)] md:px-8 md:py-10"
       >
         <div class="mb-8 flex flex-col gap-4 border-b border-rubric/10 pb-5">
@@ -350,34 +156,6 @@
             {/if}
           </article>
         {/if}
-
-        <div
-          class="mt-8 flex flex-wrap items-center justify-between gap-3 border-t border-rubric/10 pt-5"
-        >
-          {#if section.index > 0}
-            <button
-              class="reader-link"
-              onclick={() => jumpToSection(sectionMeta[section.index - 1].id)}
-            >
-              <span aria-hidden="true">←</span>
-              <span>{sectionMeta[section.index - 1].heading}</span>
-            </button>
-          {:else}
-            <span class="imperial-label text-rubric/25">Beginning of text</span>
-          {/if}
-
-          {#if section.index < sectionMeta.length - 1}
-            <button
-              class="reader-link"
-              onclick={() => jumpToSection(sectionMeta[section.index + 1].id)}
-            >
-              <span>{sectionMeta[section.index + 1].heading}</span>
-              <span aria-hidden="true">→</span>
-            </button>
-          {:else}
-            <span class="imperial-label text-rubric/25">Final section</span>
-          {/if}
-        </div>
       </section>
     {/each}
   </div>

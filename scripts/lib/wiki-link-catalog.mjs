@@ -38,6 +38,8 @@ export const KNOWN_ARTICLES = new Map([
   ['Scipio', 'Scipio_Africanus'],
   ['Asinius', 'Gaius_Asinius_Pollio'],
   ['Pollio', 'Gaius_Asinius_Pollio'],
+  ['Gaius Asinius Gallus', 'Gaius_Asinius_Gallus'],
+  ['Asinius Gallus', 'Gaius_Asinius_Gallus'],
   ['Marcellus', 'Marcellus_(consul_49_BC)'],
   ['Domitius', 'Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)'],
   ['Decimus', 'Decimus_Junius_Brutus_Albinus'],

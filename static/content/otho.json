@@ -12,7 +12,13 @@
         "Etruria": "https://en.wikipedia.org/wiki/Etruria",
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "Claudius": "https://en.wikipedia.org/wiki/Claudius"
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Marcus Salvius Otho": "https://en.wikipedia.org/wiki/Marcus_Salvius_Otho_(grandfather_of_emperor_Otho)",
+        "Livia Augusta": "https://en.wikipedia.org/wiki/Livia",
+        "Lucius Otho": "https://en.wikipedia.org/wiki/Lucius_Salvius_Otho",
+        "Albia Terentia": "https://en.wikipedia.org/wiki/Albia_Terentia",
+        "Lucius Titianus": "https://en.wikipedia.org/wiki/Lucius_Salvius_Otho_Titianus",
+        "Camillus": "https://en.wikipedia.org/wiki/Lucius_Arruntius_Camillus_Scribonianus"
       }
     },
     {
@@ -27,7 +33,10 @@
     {
       "heading": "Chapter 3",
       "en": "1 He was privy to all the emperor's plans and secrets, and on the day which Nero had chosen for the murder of his mother he gave both of them a most elaborate banquet, in order to avert suspicion. Also when Poppaea Sabina, who up to that time had been Nero's mistress, was separated from her husband and turned over for the time being to Otho, he pretended marriage with her; but not content with sedu­cing her he became so devoted that he could not endure the thought of having Nero even as a rival.\n\n2 At all events it is believed that he not only would not admit those whom Nero sent to fetch her, but that on one occasion he even shut out the emperor himself, who stood before his door, vainly mingling threats and entreaties and demanding the return of his trust. Therefore Nero annulled the marriage and under colour of an appointment as governor banished Otho to Lusitania, contenting himself with this through fear that by inflicting a severer punishment he would make the whole farce public; but even as it was, it was published abroad in this couplet: \"Why, do you ask, in feigned honour does Otho in banishment languish? With his own wedded wife he had begun an intrigue.\" With the rank of quaestor Otho governed the province for ten years with remarkable moderation and integrity.",
-      "la": "1 Omnium autem consiliorum secretorumque particeps die, quem necandae matri Nero destinarat, ad avertendas suspiciones cenam utrique exquisitissimae comitatis dedit; item Poppaeam Sabinam tunc adhuc amicam eius, abductam marito demandatamque interim sibi, nuptiarum specie recepit nec corrupisse contentus adeo dilexit, ut ne rivalem quidem Neronem aequo tulerit animo.\n\n2 Creditur certe non modo missos ad arcessendam non recepisse, sed ipsum etiam exclusisse quondam pro foribus astantem miscentemque frustra minas et preces ac depositum reposcentem. Quare diducto matrimonio sepositus est per causam legationis in Lusitaniam. Et⁠ 2 satis visum, ne poena acrior mimum omnem divulgaret, qui tamen sic quoque hoc disticho enotuit: \"Cur Otho mentito sit, quaeritis, exsul honore? Uxoris moechus coeperat esse suae.\" Provinciam administravit quaestorius per decem annos, moderatione atque abstinentia singulari."
+      "la": "1 Omnium autem consiliorum secretorumque particeps die, quem necandae matri Nero destinarat, ad avertendas suspiciones cenam utrique exquisitissimae comitatis dedit; item Poppaeam Sabinam tunc adhuc amicam eius, abductam marito demandatamque interim sibi, nuptiarum specie recepit nec corrupisse contentus adeo dilexit, ut ne rivalem quidem Neronem aequo tulerit animo.\n\n2 Creditur certe non modo missos ad arcessendam non recepisse, sed ipsum etiam exclusisse quondam pro foribus astantem miscentemque frustra minas et preces ac depositum reposcentem. Quare diducto matrimonio sepositus est per causam legationis in Lusitaniam. Et⁠ 2 satis visum, ne poena acrior mimum omnem divulgaret, qui tamen sic quoque hoc disticho enotuit: \"Cur Otho mentito sit, quaeritis, exsul honore? Uxoris moechus coeperat esse suae.\" Provinciam administravit quaestorius per decem annos, moderatione atque abstinentia singulari.",
+      "wikiLinks": {
+        "Poppaea Sabina": "https://en.wikipedia.org/wiki/Poppaea_Sabina"
+      }
     },
     {
       "heading": "Chapter 4",

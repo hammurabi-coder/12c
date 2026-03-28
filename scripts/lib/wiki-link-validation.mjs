@@ -1,12 +1,2 @@
-export function isSafeWikipediaUrl(url) {
-  try {
-    const parsed = new URL(url);
-    return (
-      parsed.protocol === 'https:' &&
-      parsed.hostname === 'en.wikipedia.org' &&
-      parsed.pathname.startsWith('/wiki/')
-    );
-  } catch {
-    return false;
-  }
-}
+// Re-export from the shared module so tooling scripts use the same implementation
+export { isSafeWikipediaUrl } from '../../src/lib/utils/wiki-validation.js';

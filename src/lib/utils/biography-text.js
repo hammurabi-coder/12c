@@ -48,10 +48,14 @@ export function applyWikiLinks(text, wikiLinks = {}, options = {}) {
 
   if (options.enabled === false || safeEntries.length === 0) return safeText;
 
-  const entities = safeEntries.map(([entity]) => entity).sort((a, b) => b.length - a.length);
+  // Sort shortest first: longer entities containing shorter ones (e.g. "Sulla's" contains "Sulla")
+  // will be skipped since the shorter anchor is already in the text after short-first processing
+  const entities = safeEntries.map(([entity]) => entity).sort((a, b) => a.length - b.length);
 
   let result = safeText;
   for (const entity of entities) {
+    // Skip if this exact text is already wrapped in an anchor (defensive)
+    if (result.includes(`<a `) && result.includes(`>${entity}</a>`)) continue;
     const url = wikiLinks[entity];
     const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const regex = new RegExp(`(?<!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');

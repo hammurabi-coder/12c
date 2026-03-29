@@ -9,9 +9,7 @@
 
   let wikiLinksEnabled = $state(true);
 
-  if (caesarData && caesarData.sections && caesarData.sections.length > 0) {
-    console.log('BIOGRAPHY DATA: ', JSON.stringify(caesarData.sections[0]));
-  }
+
 
   const sectionMeta = $derived.by(() => {
     if (!caesarData) return [];

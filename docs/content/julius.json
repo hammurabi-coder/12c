@@ -15,7 +15,7 @@
         "Mamercus Aemilius": "https://en.wikipedia.org/wiki/Mamercus_Aemilius_Lepidus_Livianus",
         "Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
         "Cornelia": "https://en.wikipedia.org/wiki/Cornelia_(wife_of_Julius_Caesar)",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(aunt_of_Julius_Caesar)",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Vestal virgins": "https://en.wikipedia.org/wiki/Vestal_Virgin",
         "consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "equestrian": "https://en.wikipedia.org/wiki/Equites"
@@ -39,8 +39,9 @@
       "la": "1 Meruit et sub Servilio Isaurico in Cilicia, sed brevi tempore. Nam Sullae morte comperta, simul spe novae dissensionis, quae per Marcum Lepidum movebatur, Romam propere redit. Et Lepidi quidem societate, quamquam magnis condicionibus invitaretur, abstinuit, cum ingenio eius diffisus tum occasione, quam minorem opinione offenderat.",
       "wikiLinks": {
         "Cilicia": "https://en.wikipedia.org/wiki/Cilicia_(Roman_province)",
-        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(died_77_BC)",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
       }
     },
     {
@@ -63,8 +64,9 @@
       "wikiLinks": {
         "Sertorius": "https://en.wikipedia.org/wiki/Sertorius",
         "Lucius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
-        "Lucius Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna_(son)",
-        "Plotius": "https://en.wikipedia.org/wiki/Lucius_Plotius_Gallus"
+        "Lucius Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
+        "Plotius": "https://en.wikipedia.org/wiki/Lucius_Plotius_Gallus",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
     {
@@ -83,7 +85,8 @@
         "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "the Marcii": "https://en.wikipedia.org/wiki/Marcia_gens"
+        "the Marcii": "https://en.wikipedia.org/wiki/Marcia_gens",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
     {
@@ -117,11 +120,12 @@
         "Autronius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
         "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
-        "Gnaeus Piso": "https://en.wikipedia.org/wiki/Gnaeus_Calpurnius_Piso_(praetor)",
+        "Gnaeus Piso": "https://en.wikipedia.org/wiki/Gnaeus_Calpurnius_Piso",
         "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "Publius Sulla": "https://en.wikipedia.org/wiki/Publius_Cornelius_Sulla",
         "Tanusius Geminus": "https://en.wikipedia.org/wiki/Tanusius_Geminus",
-        "the elder": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)"
+        "the elder": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
     {
@@ -147,10 +151,12 @@
         "Egypt": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Cimbri": "https://en.wikipedia.org/wiki/Cimbri",
-        "Cornelian laws": "https://en.wikipedia.org/wiki/Leges_Corneliae",
+        "Cornelian laws": "https://en.wikipedia.org/wiki/Lex_Cornelia",
         "Gaius Marius": "https://en.wikipedia.org/wiki/Gaius_Marius",
         "Jugurtha": "https://en.wikipedia.org/wiki/Jugurtha",
-        "Teutoni": "https://en.wikipedia.org/wiki/Teutons"
+        "Teutoni": "https://en.wikipedia.org/wiki/Teutons",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Marius": "https://en.wikipedia.org/wiki/Gaius_Marius"
       }
     },
     {
@@ -158,7 +164,7 @@
       "en": "1 He also bribed a man to bring a charge of high treason against Gaius Rabirius, who some years before had rendered conspicuous service to the senate in repressing the seditious designs of the tribune Lucius Saturninus; and when he had been selected by lot to sentence the accused, he did so with such eagerness, that when Rabirius appealed to the people, nothing was so much in his favour as the bitter hostility of his judge.",
       "la": "1 Subornavit etiam qui Gaio Rabirio perduellionis diem diceret, quo praecipuo adiutore aliquot ante annos Luci Saturnini seditiosum tribunatum senatus coercuerat, ac sorte iudex in reum ductus tam cupide condemnavit, ut ad populum provocanti nihil aeque ac iudicis acerbitas profuerit.",
       "wikiLinks": {
-        "Gaius Rabirius": "https://en.wikipedia.org/wiki/Gaius_Rabirius_(Roman_politician)",
+        "Gaius Rabirius": "https://en.wikipedia.org/wiki/Gaius_Rabirius",
         "Lucius Saturninus": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus"
       }
     },
@@ -180,7 +186,8 @@
         "Decimus Silanus": "https://en.wikipedia.org/wiki/Decimus_Junius_Silanus",
         "House": "https://en.wikipedia.org/wiki/Roman_Senate",
         "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
-        "Roman knights": "https://en.wikipedia.org/wiki/Equites"
+        "Roman knights": "https://en.wikipedia.org/wiki/Equites",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
       }
     },
     {
@@ -209,8 +216,8 @@
       "wikiLinks": {
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "Lucius Vettius": "https://en.wikipedia.org/wiki/Lucius_Vettius",
-        "Quintus Curius": "https://en.wikipedia.org/wiki/Quintus_Curius",
-        "of Catiline": "https://en.wikipedia.org/wiki/Catiline"
+        "of Catiline": "https://en.wikipedia.org/wiki/Catiline",
+        "Catiline": "https://en.wikipedia.org/wiki/Catiline"
       }
     },
     {
@@ -230,7 +237,9 @@
         "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Pompey",
         "Lucius Lucceius": "https://en.wikipedia.org/wiki/Lucius_Lucceius",
         "king Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
-        "magistrate": "https://en.wikipedia.org/wiki/Roman_magistrate"
+        "magistrate": "https://en.wikipedia.org/wiki/Roman_magistrate",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
       }
     },
     {
@@ -242,7 +251,8 @@
         "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
         "publicans": "https://en.wikipedia.org/wiki/Publicani",
-        "the lictors": "https://en.wikipedia.org/wiki/Lictor"
+        "the lictors": "https://en.wikipedia.org/wiki/Lictor",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
       }
     },
     {
@@ -250,9 +260,10 @@
       "en": "1 At about the same time he took to wife Calpurnia, daughter of Lucius Piso, who was to succeed him in the consul ­ship, and affianced his own daughter Julia to Gnaeus Pompeius, breaking a previous engagement with Servilius Caepio, although the latter had shortly before rendered him conspicuous service in his contest with Bibulus. And after this new alliance he began to call upon Pompey first to give his opinion in the senate, although it had been his habit to begin with Crassus, and it was the rule for the consul in calling for opinions to continue throughout the year the order which he had established on the Kalends of January.",
       "la": "1 Sub idem tempus Calpurniam L. Pisonis filiam successuri sibi in consulatu duxit uxorem suamque, Iuliam, Gnaeo Pompeio conlocavit repudiato priore sponso Servilio Caepione, cuius vel praecipua opera paulo ante Bibulum inpugnaverat. Ac post novam adfinitatem Pompeium primum rogare sententiam coepit, cum Crassum soleret essetque consuetudo, ut quem ordinem interrogandi sententias consul Kal. Ianuariis instituisset, eum toto anno conservaret.",
       "wikiLinks": {
-        "Servilius Caepio": "https://en.wikipedia.org/wiki/Quintus_Servilius_Caepio_(quaestor)",
+        "Servilius Caepio": "https://en.wikipedia.org/wiki/Quintus_Servilius_Caepio",
         "of Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Caesoninus",
-        "wife Calpurnia": "https://en.wikipedia.org/wiki/Calpurnia_(wife_of_Caesar)"
+        "wife Calpurnia": "https://en.wikipedia.org/wiki/Calpurnia_(wife_of_Caesar)",
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius"
       }
     },
     {
@@ -298,10 +309,10 @@
         "Gergovia": "https://en.wikipedia.org/wiki/Battle_of_Gergovia",
         "Pyrenees": "https://en.wikipedia.org/wiki/Pyrenees",
         "Rhine": "https://en.wikipedia.org/wiki/Rhine",
-        "Rhone": "https://en.wikipedia.org/wiki/Rhône",
+        "Rhone": "https://en.wikipedia.org/wiki/Rh%C3%B4ne",
         "Titurius": "https://en.wikipedia.org/wiki/Quintus_Titurius_Sabinus",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "the Cévennes": "https://en.wikipedia.org/wiki/Cévennes"
+        "the Cévennes": "https://en.wikipedia.org/wiki/C%C3%A9vennes"
       }
     },
     {
@@ -322,7 +333,8 @@
         "Gaius Marcellus": "https://en.wikipedia.org/wiki/Gaius_Claudius_Marcellus_Minor",
         "Marcellus": "https://en.wikipedia.org/wiki/Gaius_Claudius_Marcellus_Minor",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia_Minor",
-        "Faustus Sulla": "https://en.wikipedia.org/wiki/Faustus_Cornelius_Sulla"
+        "Faustus Sulla": "https://en.wikipedia.org/wiki/Faustus_Cornelius_Sulla",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
     {
@@ -358,7 +370,12 @@
         "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
         "Ravenna": "https://en.wikipedia.org/wiki/Ravenna",
         "battle of Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
-        "of Euripides": "https://en.wikipedia.org/wiki/Euripides"
+        "of Euripides": "https://en.wikipedia.org/wiki/Euripides",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
+        "Asinius Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius",
+        "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
       }
     },
     {
@@ -372,12 +389,22 @@
     {
       "heading": "Chapter 32",
       "en": "1 As he stood in doubt, this sign was given him. On a sudden there appeared hard by a being of wondrous stature and beauty, who sat and played upon a reed; and when not only the shepherds flocked to hear him, but many of the soldiers left their posts, and among them some of the trumpeters, the apparition snatched a trumpet from one of them, rushed to the river, and sounding the war-note with mighty blast, strode to the opposite bank. Then Caesar cried: \"Take we the course which the signs of the gods and the false dealing of our foes point out. The die is cast,\" said he.",
-      "la": "1 Cunctanti ostentum tale factum est. Quidam eximia magnitudine et forma in proximo sedens repente apparuit harundine canens; ad quem audiendum cum praeter pastores plurimi etiam ex stationibus milites concurrissent interque eos et aeneatores, rapta ab uno tuba prosilivit⁠ 24 ad flumen et ingenti spiritu classicum exorsus pertendit ad alteram ripam. Tunc Caesar: \"Eatur,\" inquit, \"quo deorum ostenta et inimicorum iniquitas vocat. Iacta alea est,\" inquit."
+      "la": "1 Cunctanti ostentum tale factum est. Quidam eximia magnitudine et forma in proximo sedens repente apparuit harundine canens; ad quem audiendum cum praeter pastores plurimi etiam ex stationibus milites concurrissent interque eos et aeneatores, rapta ab uno tuba prosilivit⁠ 24 ad flumen et ingenti spiritu classicum exorsus pertendit ad alteram ripam. Tunc Caesar: \"Eatur,\" inquit, \"quo deorum ostenta et inimicorum iniquitas vocat. Iacta alea est,\" inquit.",
+      "wikiLinks": {
+        "shepherds": "https://en.wikipedia.org/wiki/Shepherd",
+        "trumpeters": "https://en.wikipedia.org/wiki/Trumpeter",
+        "river": "https://en.wikipedia.org/wiki/River",
+        "reed": "https://en.wikipedia.org/wiki/Reed_(plant)"
+      }
     },
     {
       "heading": "Chapter 33",
       "en": "1 Accordingly, crossing with his army, and welcoming the tribunes of the commons, who had come to him after being driven from Rome, he harangued the soldiers with tears, and rending his robe from his breast besought their faithful service. It is even thought that he promised every man a knight's estate, but that came of a misunderstanding: for since he often pointed to the finger of his left hand as he addressed them and urged them on, declaring that to satisfy all those who helped him to defend his honour he would gladly tear this very ring from his hand, those on the edge of the assembly, who could see him better than they could hear his words, assumed that he said what his gesture seemed to mean; and so the report went about that he had promised them the right of the ring and four hundred thousand sesterces as well.",
-      "la": "1 Atque ita traiecto exercitu, adhibitis tribunis plebis, qui pulsi supervenerant, pro contione fidem militum flens ac veste a pectore discissa invocavit. Existimatur etiam equestres census pollicitus singulis; quod accidit opinione falsa. Nam cum in adloquendo adhortandoque saepius digitum laevae manus ostentans adfirmaret se ad satis faciendum omnibus, per quos dignitatem suam defensurus esset, anulum quoque aequo animo detracturum sibi, extrema contio, cui facilius erat videre contionantem quam audire, pro dicto accepit, quod visu suspicabatur; promissumque ius anulorum cum milibus quadringenis fama distulit."
+      "la": "1 Atque ita traiecto exercitu, adhibitis tribunis plebis, qui pulsi supervenerant, pro contione fidem militum flens ac veste a pectore discissa invocavit. Existimatur etiam equestres census pollicitus singulis; quod accidit opinione falsa. Nam cum in adloquendo adhortandoque saepius digitum laevae manus ostentans adfirmaret se ad satis faciendum omnibus, per quos dignitatem suam defensurus esset, anulum quoque aequo animo detracturum sibi, extrema contio, cui facilius erat videre contionantem quam audire, pro dicto accepit, quod visu suspicabatur; promissumque ius anulorum cum milibus quadringenis fama distulit.",
+      "wikiLinks": {
+        "tribunes of the commons": "https://en.wikipedia.org/wiki/Tribune_of_the_plebs",
+        "knight's estate": "https://en.wikipedia.org/wiki/Equestrian_(Roman)"
+      }
     },
     {
       "heading": "Chapter 34",
@@ -417,7 +444,7 @@
       "la": "1 Omnibus civilibus bellis nullam cladem nisi per legatos suos passus est, quorum C. Curio in Africa periit, C. Antonius in Illyrico in adversariorum devenit potestatem, P. Dolabella classem in eodem Illyrico, Cn. Domitius Calvinus in Ponto exercitum amiserunt. Ipse prosperrime semper ac ne ancipiti quidem umquam fortuna praeterquam bis dimicavit; semel ad Dyrrachium, ubi pulsus non instante Pompeio negavit eum vincere scire, iterum in Hispania ultimo proelio, desperatis rebus etiam de consciscenda nece cogitavit.",
       "wikiLinks": {
         "Dyrrachium": "https://en.wikipedia.org/wiki/Dyrrachium",
-        "Gaius Antonius": "https://en.wikipedia.org/wiki/Gaius_Antonius_(triumvir's_brother)",
+        "Gaius Antonius": "https://en.wikipedia.org/wiki/Gaius_Antonius_(brother_of_Mark_Antony)",
         "Gnaeus Domitius Calvinus": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Calvinus",
         "Illyricum, Publius Dolabella": "https://en.wikipedia.org/wiki/Publius_Cornelius_Dolabella",
         "Pontus": "https://en.wikipedia.org/wiki/Kingdom_of_Pontus"
@@ -442,7 +469,11 @@
     {
       "heading": "Chapter 38",
       "en": "1 To each and every foot-soldier of his veteran legions he gave twenty-four thousand sesterces by way of booty, over and above the two thousand apiece which he had paid them at the beginning of the civil strife. He also assigned them lands, but not side by side, to avoid dispossessing any of the former owners. To every man of the people, besides ten pecks of grain and the same number of pounds of oil,⁠ c he distributed the three hundred sesterces which he had promised at first, and one hundred apiece to boot because of the delay.\n\n2 He also remitted a year's rent in Rome to tenants who paid two thousand sesterces or less, and in Italy up to five hundred sesterces. He added a banquet and a dole of meat, and after his Spanish victory two dinners; for deeming that the former of these had not been served with a liberality creditable to his generosity, he gave another five days later on a most lavish scale.",
-      "la": "1 Veteranis legionibus praedae nomine in pedites singulos super bina sestertia, quae initio civilis tumultus numeraverat, vicena quaterna milia nummum dedit. Adsignavit et agros, sed non continuos, ne quis possessorum expelleretur. Populo praeter frumenti denos modios ac totidem olei libras trecenos quoque nummos, quos pollicitus olim erat, viritim divisit et hoc amplius centenos pro mora.\n\n2 Annuam etiam habitationem Romae usque ad bina milia nummum, in Italia non ultra quingenos sestertios remisit. Adiecit epulum ac viscerationem et post Hispaniensem victoriam duo prandia; nam cum prius parce neque pro liberalitate sua praebitum iudicaret, quinto post die aliud largissimum praebuit."
+      "la": "1 Veteranis legionibus praedae nomine in pedites singulos super bina sestertia, quae initio civilis tumultus numeraverat, vicena quaterna milia nummum dedit. Adsignavit et agros, sed non continuos, ne quis possessorum expelleretur. Populo praeter frumenti denos modios ac totidem olei libras trecenos quoque nummos, quos pollicitus olim erat, viritim divisit et hoc amplius centenos pro mora.\n\n2 Annuam etiam habitationem Romae usque ad bina milia nummum, in Italia non ultra quingenos sestertios remisit. Adiecit epulum ac viscerationem et post Hispaniensem victoriam duo prandia; nam cum prius parce neque pro liberalitate sua praebitum iudicaret, quinto post die aliud largissimum praebuit.",
+      "wikiLinks": {
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Nero": "https://en.wikipedia.org/wiki/Nero"
+      }
     },
     {
       "heading": "Chapter 39",
@@ -479,7 +510,7 @@
         "praetors, aediles": "https://en.wikipedia.org/wiki/Aedile",
         "quaestors": "https://en.wikipedia.org/wiki/Quaestor",
         "senatorial orders": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "tribunes of the treasury": "https://en.wikipedia.org/wiki/Tribuni_aerarii"
+        "tribunes of the treasury": "https://en.wikipedia.org/wiki/Aerarium"
       }
     },
     {
@@ -520,7 +551,8 @@
       "en": "1 He is said to have been tall of stature with a fair complexion, shapely limbs, a somewhat full face, and keen black eyes; sound of health, except that towards the end he was subject to sudden fainting fits and to nightmare as well. He was twice attacked by the falling sickness during his campaigns.\n\n2 He was somewhat overnice in the care of his person, being not only carefully trimmed and shaved, but even having superfluous hair plucked out, as some have charged; while his baldness was a disfigurement which troubled him greatly, since he found that it was often the subject of the gibes of his detractors. Because of it he used to comb forward his scanty locks from the crown of his head, and of all the honours voted him by the senate and people there was none which he received or made use of more gladly than the privilege of wearing a laurel wreath at all times.\n\n3 They say, too, that he was remarkable in his dress; that he wore a senator's tunic with fringed sleeves reaching to the wrist, and always had a girdle over it, though rather a loose one; and this, they say, was the occasion of Sulla's mot, when he often warned the nobles to keep an eye on the ill-girt boy.",
       "la": "1 Fuisse traditur excelsa statura, colore candido, teretibus membris, ore paulo pleniore, nigris vegetisque oculis, valitudine prospera, nisi quod tempore extremo repente animo linqui atque etiam per somnum exterreri solebat. Comitiali quoque morbo bis inter res agendas correptus est.\n\n2 Circa corporis curam morosior, ut non solum tonderetur diligenter ac raderetur, sed velleretur etiam, ut quidam exprobraverunt, calvitii vero deformitatem iniquissime ferret, saepe obtrectatorum iocis obnoxiam expertus. Ideoque et deficientem capillum revocare a vertice adsueverat et ex omnibus decretis sibi a senatu populoque honoribus non aliud aut recepit aut usurpavit libentius quam ius laureae coronae perpetuo gestandae.\n\n3 Etiam cultu notabilem ferunt; usum enim lato clavo ad manus fimbriato nec umquam aliter quam ut⁠ 30 super eum cingeretur, et quidem fluxiore cinctura; unde emanasse Sullae dictum optimates saepius admonentis, ut male praecinctum puerum caverent.",
       "wikiLinks": {
-        "tunic": "https://en.wikipedia.org/wiki/Latus_clavus"
+        "tunic": "https://en.wikipedia.org/wiki/Latus_clavus",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
     {
@@ -536,12 +568,20 @@
     {
       "heading": "Chapter 47",
       "en": "1 They say that he was led to invade Britain by the hope of getting pearls, and that in comparing their size he sometimes weighed them with his own hand; that he was always a most enthusiastic collector of gems, carvings, statues, and pictures by early artists; also of slaves of exceptional figure and training at enormous prices, of which he himself was so ashamed that he forbade their entry in his accounts.",
-      "la": "1 Britanniam petisse spe margaritarum, quarum amplitudinem conferentem interdum sua manu exegisse pondus; gemmas, toreumata, signa, tabulas operis antiqui semper animosissime comparasse; servitia rectiora politioraque inmenso pretio, et cuius ipsum etiam puderet, sic ut rationibus vetaret inferri."
+      "la": "1 Britanniam petisse spe margaritarum, quarum amplitudinem conferentem interdum sua manu exegisse pondus; gemmas, toreumata, signa, tabulas operis antiqui semper animosissime comparasse; servitia rectiora politioraque inmenso pretio, et cuius ipsum etiam puderet, sic ut rationibus vetaret inferri.",
+      "wikiLinks": {
+        "Britain": "https://en.wikipedia.org/wiki/Britain"
+      }
     },
     {
       "heading": "Chapter 48",
       "en": "1 It is further reported that in the provinces he gave banquets constantly in two dining-halls, in one of which his officers or Greek companions, in the other Roman civilians and the more distinguished of the provincials reclined at table. He was so punctilious and strict in the management of his household, in small matters as well as in those of greater importance, that he put his baker in irons for serving him with one kind of bread and his guests with another; and he inflicted capital punishment on a favourite freedman for adultery with the wife of a Roman knight, although no complaint was made against him.",
-      "la": "1 Convivatum assidue per provincias duobus tricliniis, uno quo sagati palliative, altero quo togati cum inlustrioribus provinciarum discumberent. Domesticam disciplinam in parvis ac maioribus rebus diligenter adeo severeque rexit, ut pistorem alium quam sibi panem convivis subicientem compedibus vinxerit, libertum gratissimum ob adulteratam equitis Romani uxorem, quamvis nullo querente, capitali poena adfecerit."
+      "la": "1 Convivatum assidue per provincias duobus tricliniis, uno quo sagati palliative, altero quo togati cum inlustrioribus provinciarum discumberent. Domesticam disciplinam in parvis ac maioribus rebus diligenter adeo severeque rexit, ut pistorem alium quam sibi panem convivis subicientem compedibus vinxerit, libertum gratissimum ob adulteratam equitis Romani uxorem, quamvis nullo querente, capitali poena adfecerit.",
+      "wikiLinks": {
+        "baker": "https://en.wikipedia.org/wiki/Baker",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Roman": "https://en.wikipedia.org/wiki/Roman_Republic"
+      }
     },
     {
       "heading": "Chapter 49",
@@ -552,8 +592,8 @@
         "Licinius Calvus": "https://en.wikipedia.org/wiki/Gaius_Licinius_Macer_Calvus",
         "Marcus Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Nicomedes": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
-        "Nysa": "https://en.wikipedia.org/wiki/Nysa_(daughter_of_Nicomedes)",
-        "daughter of Nicomedes": "https://en.wikipedia.org/wiki/Nysa_(daughter_of_Nicomedes)",
+        "Nysa": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
+        "daughter of Nicomedes": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
         "elder Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)"
       }
     },
@@ -568,68 +608,116 @@
         "Postumia, wife": "https://en.wikipedia.org/wiki/Postumia_(wife_of_Servius_Sulpicius_Rufus)",
         "Servilia": "https://en.wikipedia.org/wiki/Servilia_(mother_of_Brutus)",
         "Servius Sulpicius, Lollia": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Rufus",
-        "Tertia": "https://en.wikipedia.org/wiki/Tertia_(daughter_of_Servilia)",
-        "younger Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)"
+        "Tertia": "https://en.wikipedia.org/wiki/Tertia",
+        "younger Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)",
+        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
       }
     },
     {
       "heading": "Chapter 51",
       "en": "1 That he did not refrain from intrigues in the provinces is shown in particular by this couplet, which was also shouted by the soldiers in his Gallic triumph: \"Men of Rome, keep close to your consorts, here's a bald adulterer. Gold in Gaul you spent in dalliance, which you borrowed here in Rome.\"",
-      "la": "1 Ne provincialibus quidem matrimoniis abstinuisse vel hoc disticho apparet iactato aeque a militibus per Gallicum triumphum: \"Urbani, servate uxores: moechum calvom adducimus. Aurum in Gallia effutuisti, hic sumpsisti mutuum.\""
+      "la": "1 Ne provincialibus quidem matrimoniis abstinuisse vel hoc disticho apparet iactato aeque a militibus per Gallicum triumphum: \"Urbani, servate uxores: moechum calvom adducimus. Aurum in Gallia effutuisti, hic sumpsisti mutuum.\"",
+      "wikiLinks": {
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph"
+      }
     },
     {
       "heading": "Chapter 52",
       "en": "1 He had love affairs with queens too, including Eunoe the Moor, wife of Bogudes, on whom, as well as on her husband, he bestowed many splendid presents, as Naso writes; but above all with Cleopatra, with whom he often feasted until daybreak, and he would have gone through Egypt with her in her state-barge almost to Aethiopia, had not his soldiers refused to follow him. Finally he called her to Rome and did not let her leave until he had ladened her with high honours and rich gifts, and he allowed her to give his name to the child which she bore.\n\n2 In fact, according to certain Greek writers, this child was very like Caesar in looks and carriage. Mark Antony declared to the senate that Caesar had really acknowledged the boy, and that Gaius Matius, Gaius Oppius, and other friends of Caesar knew this. Of these Gaius Oppius, as if admitting that the situation required apology and defence, published a book, to prove that the child whom Cleopatra fathered on Caesar was not his.\n\n3 Helvius Cinna, tribune of the commons, admitted to several that he had a bill drawn up in due form, which Caesar had ordered him to propose to the people in his absence, making it lawful for Caesar to marry what wives he wished, and as many as he wished, \"for the purpose of begetting children.\" But to remove all doubt that he had an evil reputation both for shameless vice and for adultery, I have only to add that the elder Curio in one of his speeches calls him \"every woman's man and every man's woman.\"",
       "la": "1 Dilexit et reginas, inter quas Eunoen Mauram Bogudis uxorem, cui maritoque eius plurima et immensa tribuit, ut Naso⁠ 35 scripsit; sed maxime Cleopatram, cum qua et convivia in primam lucem saepe protraxit et eadem nave thalamego paene Aethiopia tenus Aegyptum penetravit, nisi exercitus sequi recusasset, quam denique accitam in urbem non nisi maximis honoribus praemiisque auctam remisit filiumque natum appellare nomine suo passus est.\n\n2 Quem quidem nonnulli Graecorum similem quoque Caesari et forma et incessu tradiderunt. M. Antonius adgnitum etiam ab eo senatui adfirmavit, idque⁠ 36 scire C. Matium et C. Oppium reliquosque Caesaris amicos; quorum Gaius Oppius, quasi plane defensione ac patrocinio res egeret, librum edidit, non esse Caesaris filium, quem Cleopatra dicat.\n\n3 Helvius Cinna tr. pl. plerisque confessus est habuisse se scriptam paratamque legem, quam Caesar ferre iussisset cum ipse abesset, uti uxores liberorum quaerendorum causa quas et quot vellet ducere liceret. At ne cui dubium omnino sit et impudicitiae et adulteriorum flagrasse infamia, Curio pater quadam eum oratione omnium mulierum virum et omnium virorum mulierem appellat.",
       "wikiLinks": {
-        "Bogudes": "https://en.wikipedia.org/wiki/Bogud_of_Mauretania",
-        "Eunoe the Moor": "https://en.wikipedia.org/wiki/Eunoe_(Queen_of_Mauretania)"
+        "Bogudes": "https://en.wikipedia.org/wiki/Bogud",
+        "Eunoe the Moor": "https://en.wikipedia.org/wiki/Euno%C3%AB",
+        "Cleopatra": "https://en.wikipedia.org/wiki/Cleopatra",
+        "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
       "heading": "Chapter 53",
       "en": "1 That he drank very little wine not even his enemies denied. There is a saying of Marcus Cato that Caesar was the only man who undertook to overthrow the state when sober. Even in the matter of food Gaius Oppius tells us that he was so indifferent, that once when his host served stale oil instead of fresh, and the other guests would have none of it, Caesar partook even more plenti ­fully than usual, not to seem to charge his host with carelessness or lack of manners.",
-      "la": "1 Vini parcissimum ne inimici quidem negaverunt. Marci Catonis est: unum ex omnibus Caesarem ad evertendam rem publicam sobrium accessisse. Nam circa victum Gaius Oppius adeo indifferentem docet, ut quondam ab hospite conditum oleum pro viridi adpositum aspernantibus ceteris solum etiam largius appetisse scribat, ne hospitem aut neglegentiae aut rusticitatis videretur arguere."
+      "la": "1 Vini parcissimum ne inimici quidem negaverunt. Marci Catonis est: unum ex omnibus Caesarem ad evertendam rem publicam sobrium accessisse. Nam circa victum Gaius Oppius adeo indifferentem docet, ut quondam ab hospite conditum oleum pro viridi adpositum aspernantibus ceteris solum etiam largius appetisse scribat, ne hospitem aut neglegentiae aut rusticitatis videretur arguere.",
+      "wikiLinks": {
+        "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Gaius Oppius": "https://en.wikipedia.org/wiki/Gaius_Oppius"
+      }
     },
     {
       "heading": "Chapter 54",
       "en": "1 Neither when in command of armies nor as a magistrate at Rome did he show a scrupulous integrity; for as certain men have declared in their memoirs, when he was proconsul in Spain, he not only begged money from the allies, to help pay his debts, but also attacked and sacked some towns of the Lusitanians although they did not refuse his terms and opened their gates to him on his arrival.\n\n2 In Gaul he pillaged shrines and temples of the gods filled with offerings, and oftener sacked towns for the sake of plunder than for any fault. In consequence he had more gold than he knew what to do with, and offered it for sale throughout Italy and the provinces at the rate of three thousand sesterces the pound. \n3 In his first consul ­ship he stole three thousand pounds of gold from the Capitol, repla­cing it with the same weight of gilded bronze. He made alliances and thrones a matter of barter, for he extorted from Ptolemy alone in his own name and that of Pompey nearly six thousand talents, while later on he met the heavy expenses of the civil wars and of his triumphs and entertainments by the most bare-faced pillage and sacrilege.",
-      "la": "1 Abstinentiam neque in imperiis neque in magistratibus praestitit. Ut enim quidam monumentis suis testati sunt, in Hispania pro consule et a sociis pecunias accepit emendicatas in auxilium aeris alieni et Lusitanorum quaedam oppida, quanquam nec imperata detrectarent et advenienti portas patefacerent, diripuit hostiliter.\n\n2 In Gallia fana templaque deum donis referta expilavit, urbes diruit saepius ob praedam quam ob delictum; unde factum, ut auro abundaret ternisque milibus nummum in libras promercale per Italiam provinciasque divenderet.\n\n3 In primo consulatu tria milia pondo auri furatus e Capitolio tantundem inaurati aeris reposuit. Societates ac regna pretio dedit, ut qui uni Ptolemaeo prope sex milia talentorum suo Pompeique nomine abstulerit. Postea vero evidentissimis rapinis ac sacrilegis et onera bellorum civilium et triumphorum ac munerum sustinuit impendia."
+      "la": "1 Abstinentiam neque in imperiis neque in magistratibus praestitit. Ut enim quidam monumentis suis testati sunt, in Hispania pro consule et a sociis pecunias accepit emendicatas in auxilium aeris alieni et Lusitanorum quaedam oppida, quanquam nec imperata detrectarent et advenienti portas patefacerent, diripuit hostiliter.\n\n2 In Gallia fana templaque deum donis referta expilavit, urbes diruit saepius ob praedam quam ob delictum; unde factum, ut auro abundaret ternisque milibus nummum in libras promercale per Italiam provinciasque divenderet.\n\n3 In primo consulatu tria milia pondo auri furatus e Capitolio tantundem inaurati aeris reposuit. Societates ac regna pretio dedit, ut qui uni Ptolemaeo prope sex milia talentorum suo Pompeique nomine abstulerit. Postea vero evidentissimis rapinis ac sacrilegis et onera bellorum civilium et triumphorum ac munerum sustinuit impendia.",
+      "wikiLinks": {
+        "Lusitanians": "https://en.wikipedia.org/wiki/Lusitania"
+      }
     },
     {
       "heading": "Chapter 55",
       "en": "1 In eloquence and in the art of war he either equalled or surpassed the fame of their most eminent representatives. After his accusation of Dolabella, he was without question numbered with the leading advocates. At all events when Cicero reviews the orators in his Brutus, he says that he does not see to whom Caesar ought to yield the palm, declaring that his style is elegant as well as transparent, even grand and in a sense noble.⁠ f Again in a letter to Cornelius Nepos he writes thus of Caesar:\n\n2 \"Come now, what orator would you rank above him of those who have devoted themselves to nothing else? Who has cleverer or more frequent epigrams? Who is either more picturesque or more choice in diction?\" He appears, at least in his youth, to have imitated the manner of Caesar Strabo, from whose speech entitled \"For the Sardinians\" he actually transferred some passages word for word to a trial address of his own. He is said to have delivered himself in a high-pitched voice with impassioned action and gestures, which were not without grace.\n\n3 He left several speeches, including some which are attributed to him on insufficient evidence. Augustus had good reason to think that the speech \"For Quintus Metellus\" was rather taken down by shorthand writers who could not keep pace with his delivery, than published by Caesar himself; for in some copies I find that even the title is not \"For Metellus,\" but, \"Which he wrote for Metellus,\" although the discourse purports to be from Caesar's lips, defending Metellus and himself against the charges of their common detractors.\n\n4 Augustus also questions the authenticity of the address \"To His Soldiers in Spain,\" although there are two sections of it, one purporting to have been spoken at the first battle, the other at the second, when Asinius Pollio writes that because of the sudden onslaught of the enemy he actually did not have time to make an harangue.",
-      "la": "1 Eloquentia militarique⁠ 37 re aut aequavit praestantissimorum gloriam aut excessit. Post accusationem Dolabellae haud dubie principibus patronis adnumeratus est. Certe Cicero ad Brutum oratores enumerans negat se videre, cui debeat Caesar cedere, aitque eum elegantem, splendidam quoque atque etiam magnificam et generosam quodam modo rationem dicendi tenere; et ad Cornelium Nepotem de eodem ita scripsit:\n\n2 \"Quid? oratorem quem huic antepones eorum, qui nihil aliud egerunt? Quis sententiis aut acutior aut crebrior? Quis verbis aut ornatior aut elegantior?\" Genus eloquentiae dumtaxat adulescens adhuc Strabonis Caesaris secutus videtur, cuius etiam ex oratione, quae inscribitur \"pro Sardis,\" ad verbum nonnulla transtulit in divinationem suam. Pronuntiasse autem dicitur voce acuta, ardenti motu gestuque, non sine venustate.\n\n3 Orationes aliquas reliquit, inter quas temere quaedam feruntur. \"Pro Quinto Metello\" non immerito Augustus existimat ab actuariis exceptam male subsequentibus verba dicentis, quam ab ipso editam; nam in quibusdam exemplaribus invenio ne inscriptam quidem \"pro Metello,\" sed \"quam scripsit Metello,\" cum ex persona Caesaris sermo sit Metellum seque adversus communium obtrectatorum criminationes purgantis.\n\n4 \"Apud milites\" quoque \"in Hispania\" idem Augustus vix ipsius putat, quae tamen duplex fertur: una quasi priore habita proelio, altera posteriore, quo Asinius Pollio ne tempus quidem contionandi habuisse eum dicit subita hostium incursione."
+      "la": "1 Eloquentia militarique⁠ 37 re aut aequavit praestantissimorum gloriam aut excessit. Post accusationem Dolabellae haud dubie principibus patronis adnumeratus est. Certe Cicero ad Brutum oratores enumerans negat se videre, cui debeat Caesar cedere, aitque eum elegantem, splendidam quoque atque etiam magnificam et generosam quodam modo rationem dicendi tenere; et ad Cornelium Nepotem de eodem ita scripsit:\n\n2 \"Quid? oratorem quem huic antepones eorum, qui nihil aliud egerunt? Quis sententiis aut acutior aut crebrior? Quis verbis aut ornatior aut elegantior?\" Genus eloquentiae dumtaxat adulescens adhuc Strabonis Caesaris secutus videtur, cuius etiam ex oratione, quae inscribitur \"pro Sardis,\" ad verbum nonnulla transtulit in divinationem suam. Pronuntiasse autem dicitur voce acuta, ardenti motu gestuque, non sine venustate.\n\n3 Orationes aliquas reliquit, inter quas temere quaedam feruntur. \"Pro Quinto Metello\" non immerito Augustus existimat ab actuariis exceptam male subsequentibus verba dicentis, quam ab ipso editam; nam in quibusdam exemplaribus invenio ne inscriptam quidem \"pro Metello,\" sed \"quam scripsit Metello,\" cum ex persona Caesaris sermo sit Metellum seque adversus communium obtrectatorum criminationes purgantis.\n\n4 \"Apud milites\" quoque \"in Hispania\" idem Augustus vix ipsius putat, quae tamen duplex fertur: una quasi priore habita proelio, altera posteriore, quo Asinius Pollio ne tempus quidem contionandi habuisse eum dicit subita hostium incursione.",
+      "wikiLinks": {
+        "Brutus": "https://en.wikipedia.org/wiki/Junius_Brutus"
+      }
     },
     {
       "heading": "Chapter 56",
       "en": "1 He left memoirs too of his deeds in the Gallic war and in the civil strife with Pompey; for the author of the Alexandrian, African, and Spanish Wars is unknown; some think it was Oppius, others Hirtius, who also supplied the final book of the Gallic War, which Caesar left unwritten. With regard to Caesar's memoirs Cicero, also in the Brutus  speaks in the following terms:\n\n2 \"He wrote memoirs which deserve the highest praise; they are naked in their simplicity, straightforward yet graceful, stripped of all rhetorical adornment, as of a garment; but while his purpose was to supply material to others, on which those who wished to write history might draw, he haply gratified silly folk, who will try to use the curling-irons on his narrative, but he has kept men of any sense from touching the subject.\"\n\n3 Of these same memoirs Hirtius uses this emphatic language: \"They are so highly rated in the judgment of all men, that he seems to have deprived writers of an opportunity, rather than given them one; yet our admiration for this feat is greater than that of others; for they know how well and faultlessly he wrote, while we know besides how easily and rapidly he finished his task.\"\n\n4 Asinius Pollio thinks that they were put together somewhat carelessly and without strict regard for truth; since in many cases Caesar was too ready to believe the accounts which others gave of their actions, and gave a perverted account of his own, either designedly or perhaps from forget ­fulness; and he thinks that he intended to rewrite and revise them.\n\n5 He left besides a work in two volumes \"On Analogy,\" the same number of \"Speeches criticising Cato,\" in addition to a poem, entitled \"The Journey.\" He wrote the first of these works while crossing the Alps and returning to his army from Hither Gaul, where he had held the assizes; the second about the time of the battle of Munda, and the third in the course of a twenty-four days' journey from Rome to Farther Spain.\n\n6 Some letters of his to the senate are also preserved, and he seems to have been the first to reduce such documents to pages and the form of a note-book, whereas previously consuls and generals sent their reports written right across the sheet. There are also letters of his to Cicero, as well as to his intimates on private affairs, and in the latter, if he had anything confidential to say, he wrote it in cipher, that is, by so changing the order of the letters of the alphabet, that not a word could be made out. If anyone wishes to decipher these, and get at their meaning, he must substitute the fourth letter of the alphabet, namely D, for A, and so with the others.\n\n7 We also have mention of certain writings of his boyhood and early youth, such as the \"Praises of Hercules,\" a tragedy \"Oedipus,\" and a \"Collection of Apophthegms\"; but Augustus forbade the publication of all these minor works in a very brief and frank letter sent to Pompeius Macer, whom he had selected to set his libraries in order.",
-      "la": "1 Reliquit et rerum suarum commentarios Gallici civilisque belli Pompeiani. Nam Alexandrini Africique et Hispaniensis incertus auctor est; alii Oppium putant, alii Hirtium, qui etiam Gallici belli novissimum imperfectumque librum suppleverit. De commentariis Caesaris Cicero in eodem Bruto sic refert:\n\n2 \"Commentarios scripsit valde quidem probandos; nudi sunt, recti et venusti, omni ornatu orationis tamquam veste detracta; sed dum voluit alios habere parata, unde sumerent qui vellent scribere historiam, ineptis gratum fortasse fecit, qui illa volent calamistris inurere, sanos quidem homines a scribendo deterruit.\"\n\n3 De isdem commentariis Hirtius ita praedicat: \"Adeo probantur omnium iudicio, ut praerepta, non praebita facultas scriptoribus videatur. Cuius⁠ 38 tamen rei maior nostra quam reliquorum est admiratio; ceteri enim, quam bene atque emendate, nos etiam, quam facile atque celeriter eos perscripserit, scimus.\"\n\n4 Pollio Asinius parum diligenter parumque integra veritate compositos putat, cum Caesar pleraque et quae per alios erant gesta temere crediderit et quae per se, vel consulto vel etiam memoria lapsus perperam ediderit; existimatque rescripturum et correcturum fuisse.\n\n5 Reliquit et \"de Analogia\" duos libros et \"Anticatones\" totidem ac praeterea poema quod inscribitur \"Iter.\" Quorum librorum primos in transitu Alpium, cum ex citeriore Gallia conventibus peractis ad exercitum rediret, sequentes sub tempus Mundensis proelii fecit; novissimum, dum ab urbe in Hispaniam ulteriorem quarto et vicensimo die pervenit.\n\n6 Epistulae quoque eius ad senatum extant, quas primum videtur ad paginas et formam memorialis libelli convertisse, cum antea consules et duces non nisi transversa charta scriptas mitterent. Exstant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset; quae si qui investigare et persequi velit,⁠ 39 quartam elementorum litteram, id est D pro A et perinde reliquas commutet.\n\n7 Feruntur a puero et ab⁠ 40 adulescentulo quaedam scripta, ut \"Laudes Herculis,\" tragoedia \"Oedipus,\" item \"Dicta collectanea\": quos omnis libellos vetuit Augustus publicari in epistula, quam brevem admodum ac simplicem ad Pompeium Macrum, cui ordinandas bibliothecas delegaverat, misit."
+      "la": "1 Reliquit et rerum suarum commentarios Gallici civilisque belli Pompeiani. Nam Alexandrini Africique et Hispaniensis incertus auctor est; alii Oppium putant, alii Hirtium, qui etiam Gallici belli novissimum imperfectumque librum suppleverit. De commentariis Caesaris Cicero in eodem Bruto sic refert:\n\n2 \"Commentarios scripsit valde quidem probandos; nudi sunt, recti et venusti, omni ornatu orationis tamquam veste detracta; sed dum voluit alios habere parata, unde sumerent qui vellent scribere historiam, ineptis gratum fortasse fecit, qui illa volent calamistris inurere, sanos quidem homines a scribendo deterruit.\"\n\n3 De isdem commentariis Hirtius ita praedicat: \"Adeo probantur omnium iudicio, ut praerepta, non praebita facultas scriptoribus videatur. Cuius⁠ 38 tamen rei maior nostra quam reliquorum est admiratio; ceteri enim, quam bene atque emendate, nos etiam, quam facile atque celeriter eos perscripserit, scimus.\"\n\n4 Pollio Asinius parum diligenter parumque integra veritate compositos putat, cum Caesar pleraque et quae per alios erant gesta temere crediderit et quae per se, vel consulto vel etiam memoria lapsus perperam ediderit; existimatque rescripturum et correcturum fuisse.\n\n5 Reliquit et \"de Analogia\" duos libros et \"Anticatones\" totidem ac praeterea poema quod inscribitur \"Iter.\" Quorum librorum primos in transitu Alpium, cum ex citeriore Gallia conventibus peractis ad exercitum rediret, sequentes sub tempus Mundensis proelii fecit; novissimum, dum ab urbe in Hispaniam ulteriorem quarto et vicensimo die pervenit.\n\n6 Epistulae quoque eius ad senatum extant, quas primum videtur ad paginas et formam memorialis libelli convertisse, cum antea consules et duces non nisi transversa charta scriptas mitterent. Exstant et ad Ciceronem, item ad familiares domesticis de rebus, in quibus, si qua occultius perferenda erant, per notas scripsit, id est sic structo litterarum ordine, ut nullum verbum effici posset; quae si qui investigare et persequi velit,⁠ 39 quartam elementorum litteram, id est D pro A et perinde reliquas commutet.\n\n7 Feruntur a puero et ab⁠ 40 adulescentulo quaedam scripta, ut \"Laudes Herculis,\" tragoedia \"Oedipus,\" item \"Dicta collectanea\": quos omnis libellos vetuit Augustus publicari in epistula, quam brevem admodum ac simplicem ad Pompeium Macrum, cui ordinandas bibliothecas delegaverat, misit.",
+      "wikiLinks": {
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
+        "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+        "Brutus": "https://en.wikipedia.org/wiki/Junius_Brutus",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Cicero": "https://en.wikipedia.org/wiki/Cicero",
+        "Oppius": "https://en.wikipedia.org/wiki/Oppius",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
+      }
     },
     {
       "heading": "Chapter 57",
       "en": "1 He was highly skilled in arms and horseman ­ship, and of incredible powers of endurance. On the march he headed his army, sometimes on horseback, but oftener on foot, bareheaded both in the heat of the sun and in rain. He covered great distances with incredible speed, making a hundred miles a day in a hired carriage and with little baggage, swimming the rivers which barred his path or crossing them on inflated skins, and very often arriving before the messengers sent to announce his coming.",
-      "la": "1 Armorum et equitandi peritissimus, laboris ultra fidem patiens erat. In agmine nonnumquam equo, saepius pedibus anteibat, capite detecto, seu sol seu imber esset; longissimas vias incredibili celeritate confecit, expeditus, meritoria raeda, centena passuum milia in singulos dies; si flumina morarentur, nando traiciens vel innixus inflatis utribus, ut persaepe nuntios de se praevenerit."
+      "la": "1 Armorum et equitandi peritissimus, laboris ultra fidem patiens erat. In agmine nonnumquam equo, saepius pedibus anteibat, capite detecto, seu sol seu imber esset; longissimas vias incredibili celeritate confecit, expeditus, meritoria raeda, centena passuum milia in singulos dies; si flumina morarentur, nando traiciens vel innixus inflatis utribus, ut persaepe nuntios de se praevenerit.",
+      "wikiLinks": {
+        "arch": "https://en.wikipedia.org/wiki/Arch",
+        "River": "https://en.wikipedia.org/wiki/River"
+      }
     },
     {
       "heading": "Chapter 58",
       "en": "1 In the conduct of his campaigns it is a question whether he was more cautious or more daring, for he never led his army where ambuscades were possible without carefully reconnoitring the country, and he did not cross to Britain without making personal inquiries about the harbours, the course, and the approach to the island. But on the other hand, when news came that his camp in Germany was beleaguered, he made his way to his men through the enemies' pickets, disguised as a Gaul.\n\n2 He crossed from Brundisium to Dyrrachium in winter time, running the blockade of the enemy's fleets; and when the troops which he had ordered to follow him delayed to do so, and he had sent to fetch them many times in vain, at last in secret and alone he boarded a small boat at night with his head muffled up; and he did not reveal who he was, or suffer the helmsman to give way to the gale blowing in their teeth, until he was all but overwhelmed by the waves.",
-      "la": "1 In obeundis expeditionibus dubium cautior an audentior, exercitum neque per insidiosa itinera duxit umquam nisi perspeculatus locorum situs, neque in Britanniam transvexit, nisi ante per se portus et navigationem et accessum ad insulam explorasset. At idem obsessione castrorum in Germania nuntiata per stationes hostium Gallico habitu penetravit ad suos.\n\n2 A Brundisio Dyrrachium inter oppositas classes hieme transmisit cessantibusque copiis, quas subsequi iusserat, cum ad accersendas frustra saepe misisset, novissime ipse clam noctu parvulum navigium solus obvoluto capite conscendit, neque aut quis esset ante detexit aut gubernatorem cedere adversae tempestati passus est quam paene obrutus fluctibus."
+      "la": "1 In obeundis expeditionibus dubium cautior an audentior, exercitum neque per insidiosa itinera duxit umquam nisi perspeculatus locorum situs, neque in Britanniam transvexit, nisi ante per se portus et navigationem et accessum ad insulam explorasset. At idem obsessione castrorum in Germania nuntiata per stationes hostium Gallico habitu penetravit ad suos.\n\n2 A Brundisio Dyrrachium inter oppositas classes hieme transmisit cessantibusque copiis, quas subsequi iusserat, cum ad accersendas frustra saepe misisset, novissime ipse clam noctu parvulum navigium solus obvoluto capite conscendit, neque aut quis esset ante detexit aut gubernatorem cedere adversae tempestati passus est quam paene obrutus fluctibus.",
+      "wikiLinks": {
+        "Britain": "https://en.wikipedia.org/wiki/Britain",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "harbour": "https://en.wikipedia.org/wiki/Port"
+      }
     },
     {
       "heading": "Chapter 59",
       "en": "1 No regard for religion ever turned him from any undertaking, or even delayed him. Though the victim escaped as he was offering sacrifice, he did not put off his expedition against Scipio and Juba. Even when he had a fall as he disembarked, he gave the omen a favourable turn by crying: \"I hold thee fast, Africa.\" Furthermore, to make the prophecies ridiculous which declared that the stock of the Scipios was fated to be fortunate and invincible in that province, he kept with him in camp a contemptible fellow belonging to the Cornelian family, to whom the nickname Salvito had been given as a reproach for his manner of life.",
-      "la": "1 Ne religione quidem ulla a quoquam incepto absterritus umquam vel retardatus est. Cum immolanti aufugisset hostia, profectionem adversus Scipionem et Iubam non distulit. Prolapsus etiam in egressu navis verso ad melius omine: \"Teneo te,\" inquit, \"Africa.\" Ad eludendas autem vaticinationes, quibus felix et invictum in ea provincia fataliter Scipionum nomen ferebatur, despectissimum quendam ex Corneliorum genere, cui ad opprobrium vitae Salvitoni⁠ 41 cognomen erat, in castris secum habuit."
+      "la": "1 Ne religione quidem ulla a quoquam incepto absterritus umquam vel retardatus est. Cum immolanti aufugisset hostia, profectionem adversus Scipionem et Iubam non distulit. Prolapsus etiam in egressu navis verso ad melius omine: \"Teneo te,\" inquit, \"Africa.\" Ad eludendas autem vaticinationes, quibus felix et invictum in ea provincia fataliter Scipionum nomen ferebatur, despectissimum quendam ex Corneliorum genere, cui ad opprobrium vitae Salvitoni⁠ 41 cognomen erat, in castris secum habuit.",
+      "wikiLinks": {
+        "Scipio": "https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Pius_Scipio_Nasica"
+      }
     },
     {
       "heading": "Chapter 60",
       "en": "1 He joined battle, not only after planning his movements in advance but on a sudden opportunity, often immediately at the end of a march, and sometimes in the foulest weather, when one would least expect him to make a move. It was not until his later years that he became slower to engage, through a conviction that the oftener he had been victor, the less he ought to tempt fate, and that he could not possibly gain as much by success as he might lose by defeat. He never put his enemy to flight without also driving him from his camp, thus giving him no respite in his panic. When the issue was doubtful, he used to send away the horses, and his own among the first, to impose upon the troops the greater necessity of standing their ground by taking away that aid to flight.",
-      "la": "1 Proelia non tantum destinato, sed ex occasione sumebat ac saepe ab itinere statim, interdum spurcissimis tempestatibus, cum minime quis moturum putaret; nec nisi tempore extremo ad dimicandum cunctatior factus est, quo saepius vicisset, hoc minus experiendos casus opinans nihilque se tantum adquisiturum victoria, quantum auferre⁠ 42 calamitas posset. Nullum umquam hostem fudit, quin castris quoque exueret; ita nullum spatium perterritis dabat. Ancipiti proelio equos dimittebat et in primis suum, quo maior permanendi necessitas imponeretur auxilio fugae erepto."
+      "la": "1 Proelia non tantum destinato, sed ex occasione sumebat ac saepe ab itinere statim, interdum spurcissimis tempestatibus, cum minime quis moturum putaret; nec nisi tempore extremo ad dimicandum cunctatior factus est, quo saepius vicisset, hoc minus experiendos casus opinans nihilque se tantum adquisiturum victoria, quantum auferre⁠ 42 calamitas posset. Nullum umquam hostem fudit, quin castris quoque exueret; ita nullum spatium perterritis dabat. Ancipiti proelio equos dimittebat et in primis suum, quo maior permanendi necessitas imponeretur auxilio fugae erepto.",
+      "wikiLinks": {
+        "arch": "https://en.wikipedia.org/wiki/Arch"
+      }
     },
     {
       "heading": "Chapter 61",
       "en": "1 He rode a remarkable horse, too, with feet that were almost human; for its hoofs were cloven in such a way as to look like toes. This horse was foaled on his own place, and since the soothsayers had declared that it foretold the rule of the world for its master, he reared it with the greatest care, and was the first to mount it, for it would endure no other rider. Afterwards, too, he dedicated a statue of it before the temple of Venus Genetrix.",
-      "la": "1 Utebatur autem equo insigni, pedibus prope humanis et in modum digitorum ungulis fissis, quem natum apud se, cum haruspices imperium orbis terrae significare domino pronuntiassent, magna cura aluit nec patientem sessoris alterius primus ascendit; cuius etiam instar pro aede Veneris Genetricis postea dedicavit."
+      "la": "1 Utebatur autem equo insigni, pedibus prope humanis et in modum digitorum ungulis fissis, quem natum apud se, cum haruspices imperium orbis terrae significare domino pronuntiassent, magna cura aluit nec patientem sessoris alterius primus ascendit; cuius etiam instar pro aede Veneris Genetricis postea dedicavit.",
+      "wikiLinks": {
+        "Venus Genetrix": "https://en.wikipedia.org/wiki/Venus_Genetrix"
+      }
     },
     {
       "heading": "Chapter 62",
@@ -639,17 +727,26 @@
     {
       "heading": "Chapter 63",
       "en": "1 His presence of mind was no less renowned, and the instances of it will appear even more striking. After the battle of Pharsalus, when he had sent on his troops and was crossing the strait of the Hellespont in a small passenger boat, he met Lucius Cassius, of the hostile party, with ten armoured ships, and made no attempt to escape, but went to meet Cassius and actually urged him to surrender; and Cassius sued for mercy and was taken on board.",
-      "la": "1 Non minor illa constantia eius, maiora⁠ 44 etiam indicia fuerint. Post aciem Pharsalicam cum praemissis in Asiam copiis per angustias Hellesponti vectoria navicula traiceret, L. Cassium partis adversae cum decem rostratis navibus obvium sibi neque refugit et comminus tendens, ultro ad deditionem hortatus, supplicem ad se recepit."
+      "la": "1 Non minor illa constantia eius, maiora⁠ 44 etiam indicia fuerint. Post aciem Pharsalicam cum praemissis in Asiam copiis per angustias Hellesponti vectoria navicula traiceret, L. Cassium partis adversae cum decem rostratis navibus obvium sibi neque refugit et comminus tendens, ultro ad deditionem hortatus, supplicem ad se recepit.",
+      "wikiLinks": {
+        "Hellespont": "https://en.wikipedia.org/wiki/Hellespont"
+      }
     },
     {
       "heading": "Chapter 64",
       "en": "1 At Alexandria, while assaulting a bridge, he was forced by a sudden sally of the enemy to take to a small skiff; when many others threw themselves into the same boat, he plunged into the sea, and after swimming for • two hundred paces, got away to the nearest ship, holding up his left hand all the way, so as not to wet some papers which he was carrying, and dragging his cloak after him with his teeth, to keep the enemy from getting it as a trophy.",
-      "la": "1 Alexandriae circa oppugnationem pontis eruptione hostium subita conpulsus in scapham pluribus eodem praecipitantibus, cum desiluisset⁠ 45 in mare, nando per ducentos passus evasit ad proximam navem, elata laeva, ne libelli quos tenebat madefierent, paludamentum mordicus trahens, ne spolio poteretur hostis."
+      "la": "1 Alexandriae circa oppugnationem pontis eruptione hostium subita conpulsus in scapham pluribus eodem praecipitantibus, cum desiluisset⁠ 45 in mare, nando per ducentos passus evasit ad proximam navem, elata laeva, ne libelli quos tenebat madefierent, paludamentum mordicus trahens, ne spolio poteretur hostis.",
+      "wikiLinks": {
+        "trophy": "https://en.wikipedia.org/wiki/Trophy"
+      }
     },
     {
       "heading": "Chapter 65",
       "en": "1 He valued his soldiers neither for their personal character nor for their fortune, but solely for their prowess, and he treated them with equal strictness and indulgence; for he did not curb them everywhere and at all times, but only in the presence of the enemy. Then he required the strictest discipline, not announcing the time of a march or a battle, but keeping them ready and alert to be led on a sudden at any moment wheresoever he might wish. He often called them out even when there was no occasion for it, especially on rainy days and holidays. And warning them every now and then that they must keep close watch on him, he would steal away suddenly by day or night and make a longer march than usual, to tire out those who were tardy in following.",
-      "la": "1 Militem neque a moribus neque a fortuna⁠ 46 probabat, sed tantum a viribus, tractabatque pari severitate atque indulgentia. Non enim ubique ac semper, sed cum hostis in proximo esset, coercebat; tum maxime exactor gravissimus disciplinae, ut neque itineris neque proelii tempus denuntiaret, sed paratum et intentum momentis omnibus quo vellet subito educeret. Quod etiam sine causa plerumque faciebat, praecipue pluviis et festis diebus. Ac subinde observandum se admonens repente interdiu vel nocte subtrahebat, augebatque iter, ut serius subsequentis defetigaret."
+      "la": "1 Militem neque a moribus neque a fortuna⁠ 46 probabat, sed tantum a viribus, tractabatque pari severitate atque indulgentia. Non enim ubique ac semper, sed cum hostis in proximo esset, coercebat; tum maxime exactor gravissimus disciplinae, ut neque itineris neque proelii tempus denuntiaret, sed paratum et intentum momentis omnibus quo vellet subito educeret. Quod etiam sine causa plerumque faciebat, praecipue pluviis et festis diebus. Ac subinde observandum se admonens repente interdiu vel nocte subtrahebat, augebatque iter, ut serius subsequentis defetigaret.",
+      "wikiLinks": {
+        "arch": "https://en.wikipedia.org/wiki/Arch"
+      }
     },
     {
       "heading": "Chapter 66",
@@ -659,17 +756,29 @@
     {
       "heading": "Chapter 67",
       "en": "1 He did not take notice of all their offences or punish them by rule, but he kept a sharp look out for deserters and mutineers, and chastised them most severely, shutting his eyes to other faults. Sometimes, too, after a great victory he relieved of all duties and gave them full licence to revel, being in the habit of boasting that his soldiers could fight well even when reeking of perfumes.\n\n2 In the assembly he addressed them not as \"soldiers,\" but by the more flattering term \"comrades,\" and he kept them in fine trim, furnishing them with arms inlaid with silver and gold, both for show and to make them hold the faster to them in battle, through fear of the greatness of the loss. Such was his love for them that when he heard of the disaster to Titurius, he let his hair and beard grow long, and would not cut them until he had taken vengeance.",
-      "la": "1 Delicta neque observabat omnia neque pro modo exsequebatur, sed desertorum ac seditiosorum et inquisitor et punitor acerrimus conivebat in ceteris. Ac nonnumquam post magnam pugnam atque victoriam remisso officiorum munere licentiam omnem passim lasciviendi permittebat, iactare solitus milites suos etiam unguentatos bene pugnare posse.\n\n2 Nec milites eos pro contione, sed blandiore nomine commilitones appellabat habebatque tam cultos, ut argento et auro politis armis ornaret, simul et ad speciem et quo tenaciores eorum in proelio essent metu damni. Diligebat quoque usque adeo, ut audita clade Tituriana barbam capillumque summiserit nec ante dempserit quam vindicasset."
+      "la": "1 Delicta neque observabat omnia neque pro modo exsequebatur, sed desertorum ac seditiosorum et inquisitor et punitor acerrimus conivebat in ceteris. Ac nonnumquam post magnam pugnam atque victoriam remisso officiorum munere licentiam omnem passim lasciviendi permittebat, iactare solitus milites suos etiam unguentatos bene pugnare posse.\n\n2 Nec milites eos pro contione, sed blandiore nomine commilitones appellabat habebatque tam cultos, ut argento et auro politis armis ornaret, simul et ad speciem et quo tenaciores eorum in proelio essent metu damni. Diligebat quoque usque adeo, ut audita clade Tituriana barbam capillumque summiserit nec ante dempserit quam vindicasset.",
+      "wikiLinks": {
+        "perfume": "https://en.wikipedia.org/wiki/Perfume",
+        "silver": "https://en.wikipedia.org/wiki/Silver"
+      }
     },
     {
       "heading": "Chapter 68",
       "en": "1 In this way he made them most devoted to his interests as well as most valiant. When he began the civil war, every centurion of each legion proposed to supply a horseman from his own savings, and the soldiers one and all offered their service without pay and without rations, the richer assuming the care of the poorer. Throughout the long struggle not one deserted and many of them, on being taken prisoner, refused to accept their lives, when offered them on the condition of consenting to serve against Caesar.\n\n2 They bore hunger and other hardships, both when in a state of siege and when besieging others, with such fortitude, that when Pompey saw in the works at Dyrrachium a kind of bread made of herbs, on which they were living, he said that he was fighting wild beasts; and he gave orders that it be put out of sight quickly and shown to none of his men, for fear that the endurance and resolution of the foe would break their spirit.\n\n3 How valiantly they fought is shown by the fact that when they suffered their sole defeat before Dyrrachium, they insisted on being punished, and their commander felt called upon rather to console them than to chastise them. In the other battles they overcame with ease countless forces of the enemy, though decidedly fewer in number themselves. Indeed one cohort of the sixth legion, when set to defend a redoubt, kept four legions of Pompey at bay for several hours, though almost all were wounded by the enemy's showers of arrows, of which a hundred and thirty thousand were picked up within the ramparts.\n\n4 And no wonder, when one thinks of the deeds of individual soldiers, either of Cassius Scaeva the centurion, or of Gaius Acilius of the rank and file, not to mention others. Scaeva, with one eye gone, his thigh and shoulder wounded, and his shield bored through in a hundred and twenty places, continued to guard the gate of a fortress put in his charge. Acilius in the sea-fight at Massilia grasped the stern of one of the enemy's ships, and when his right hand was lopped off, rivalling the famous exploit of the Greek hero Cynegirus, boarded the ship and drove the enemy before him with the boss of his shield.",
-      "la": "1 Quibus rebus et devotissimos sibi et fortissimos reddidit. Ingresso civile bellum centuriones cuiusque legionis singulos equites e viatico suo optulerunt, universi milites gratuitam et sine frumento stipendioque operam, cum tenuiorum tutelam locupletiores in se contulissent. Neque in tam diuturno spatio quisquam omnino descivit, plerique capti concessam sibi sub condicione vitam, si militare adversus eum vellent, recusarunt.\n\n2 Famem et ceteras necessitates, non cum obsiderentur modo sed et si ipsi alios obsiderent, tanto opere tolerabant, ut Dyrrachina munitione Pompeius viso genere panis ex herba, quo sustinebantur, cum feris sibi rem esse dixerit amoverique ocius nec cuiquam ostendi iusserit, ne patientia et pertinacia hostis animi suorum frangerentur.\n\n3 Quanta fortitudine dimicarint, testimonio est quod adverso semel apud Dyrrachium proelio poenam in se ultro depoposcerunt, ut consolandos eos magis imperator quam puniendos habuerit. Ceteris proeliis innumeras adversariorum copias multis partibus ipsi pauciores facile superarunt. Denique una sextae legionis cohors praeposita castello quattuor Pompei legiones per aliquot horas sustinuit paene omnis confixa multitudine hostilium sagittarum, quarum centum ac triginta milia⁠ 47 intra vallum reperta sunt.\n\n4 Nec mirum, si quis singulorum facta respiciat, vel Cassi Scaevae centurionis vel Gai Acili militis, ne de pluribus referam. Scaeva excusso oculo, transfixus femore et umero, centum et viginti ictibus scuto perforato, custodiam portae commissi castelli retinuit. Acilius navali ad Massiliam proelio iniecta in puppem hostium dextera et abscisa memorabile illud apud Graecos Cynegiri exemplum imitatus transiluit in navem umbone obvios agens."
+      "la": "1 Quibus rebus et devotissimos sibi et fortissimos reddidit. Ingresso civile bellum centuriones cuiusque legionis singulos equites e viatico suo optulerunt, universi milites gratuitam et sine frumento stipendioque operam, cum tenuiorum tutelam locupletiores in se contulissent. Neque in tam diuturno spatio quisquam omnino descivit, plerique capti concessam sibi sub condicione vitam, si militare adversus eum vellent, recusarunt.\n\n2 Famem et ceteras necessitates, non cum obsiderentur modo sed et si ipsi alios obsiderent, tanto opere tolerabant, ut Dyrrachina munitione Pompeius viso genere panis ex herba, quo sustinebantur, cum feris sibi rem esse dixerit amoverique ocius nec cuiquam ostendi iusserit, ne patientia et pertinacia hostis animi suorum frangerentur.\n\n3 Quanta fortitudine dimicarint, testimonio est quod adverso semel apud Dyrrachium proelio poenam in se ultro depoposcerunt, ut consolandos eos magis imperator quam puniendos habuerit. Ceteris proeliis innumeras adversariorum copias multis partibus ipsi pauciores facile superarunt. Denique una sextae legionis cohors praeposita castello quattuor Pompei legiones per aliquot horas sustinuit paene omnis confixa multitudine hostilium sagittarum, quarum centum ac triginta milia⁠ 47 intra vallum reperta sunt.\n\n4 Nec mirum, si quis singulorum facta respiciat, vel Cassi Scaevae centurionis vel Gai Acili militis, ne de pluribus referam. Scaeva excusso oculo, transfixus femore et umero, centum et viginti ictibus scuto perforato, custodiam portae commissi castelli retinuit. Acilius navali ad Massiliam proelio iniecta in puppem hostium dextera et abscisa memorabile illud apud Graecos Cynegiri exemplum imitatus transiluit in navem umbone obvios agens.",
+      "wikiLinks": {
+        "Gaius": "https://en.wikipedia.org/wiki/Gaius",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
+      }
     },
     {
       "heading": "Chapter 69",
       "en": "1 They did not mutiny once during the ten years of the Gallic war; in the civil wars they did so now and then, but quickly resumed their duty, not so much owing to any indulgence of their general as to his authority. For he never gave way to them when they were insubordinate, but always boldly faced them, discharging the entire ninth legion in disgrace before Placentia, though Pompey was still in the field, reinstating them unwillingly and only after many abject entreaties, and insisting on punishing the ringleaders.",
-      "la": "1 Seditionem per decem annos Gallicis bellis nullam omnino moverunt, civilibus aliquas, sed ut celeriter ad officium redierint, nec tam indulgentia ducis quam auctoritate. Non enim cessit umquam tumultuantibus atque etiam obviam semper iit; et nonam quidem legionem apud Placentiam, quanquam in armis adhuc Pompeius esset, totam cum ignominia missam fecit aegreque post multas et supplicis preces, nec nisi exacta de sontibus poena, restituit."
+      "la": "1 Seditionem per decem annos Gallicis bellis nullam omnino moverunt, civilibus aliquas, sed ut celeriter ad officium redierint, nec tam indulgentia ducis quam auctoritate. Non enim cessit umquam tumultuantibus atque etiam obviam semper iit; et nonam quidem legionem apud Placentiam, quanquam in armis adhuc Pompeius esset, totam cum ignominia missam fecit aegreque post multas et supplicis preces, nec nisi exacta de sontibus poena, restituit.",
+      "wikiLinks": {
+        "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
+      }
     },
     {
       "heading": "Chapter 70",
@@ -679,50 +788,97 @@
     {
       "heading": "Chapter 71",
       "en": "1 Even when a young man he showed no lack of devotion and fidelity to his dependents. He defended Masintha, a youth of high birth, against king Hiempsal with such spirit, that in the dispute he caught the king's son Juba by the beard. On Masintha's being declared tributary to the king, he at once rescued him from those who would carry him off and kept him hidden for some time in his own house; and when presently he left for Spain after his praetor ­ship, he carried the young man off in his own litter, unnoticed amid the crowd that came to see him off and the lictors with their fasces.",
-      "la": "1 Studium et fides erga clientis ne iuveni quidem defuerunt. Masintham nobilem iuvenem, cum adversus Hiempsalem regem tam enixe defendisset, ut Iubae regis filio in altercatione barbam invaserit, stipendiarium quoque pronuntiatum et abstrahentibus statim eripuit occultavitque apud se diu et mox et praetura proficiscens in Hispaniam inter officia prosequentium fascesque lictorum lectica sua avexit."
+      "la": "1 Studium et fides erga clientis ne iuveni quidem defuerunt. Masintham nobilem iuvenem, cum adversus Hiempsalem regem tam enixe defendisset, ut Iubae regis filio in altercatione barbam invaserit, stipendiarium quoque pronuntiatum et abstrahentibus statim eripuit occultavitque apud se diu et mox et praetura proficiscens in Hispaniam inter officia prosequentium fascesque lictorum lectica sua avexit.",
+      "wikiLinks": {
+        "Praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania"
+      }
     },
     {
       "heading": "Chapter 72",
       "en": "1 His friends he treated with invariable kindness and consideration. When Gaius Oppius was his companion on a journey through a wild, woody country and was suddenly taken ill, Caesar gave up to him the only shelter there was, while he himself slept on the ground out-of‑doors. Moreover, when he came to power, he advanced some of his friends to the highest positions, even though they were of the humblest origin, and when taken to task for it, flatly declared that if he had been helped in defending his honour by brigands and cut-throats, he would have requited even such men in the same way.",
       "la": "1 Amicos tanta semper facilitate indulgentiaque tractavit, ut Gaio Oppio comitanti se per silvestre iter correptoque subita valitudine deversoriolo eo,⁠ 48 quod unum erat, cesserit et ipse humi ac sub divo cubuerit. Iam autem rerum potens quosdam etiam infimi generis ad amplissimos honores provexit, cum ob id culparetur, professus palam, si grassatorum et sicariorum ope in tuenda sua dignitate usus esset, talibus quoque se parem gratiam relaturum.",
       "wikiLinks": {
-        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
+        "Gaius": "https://en.wikipedia.org/wiki/Gaius",
+        "Oppius": "https://en.wikipedia.org/wiki/Oppius"
       }
     },
     {
       "heading": "Chapter 73",
       "en": "1 On the other hand he never formed such bitter enmities that he was not glad to lay them aside when opportunity offered. Although Gaius Memmius had made highly caustic speeches against him, to which he had replied with equal bitterness, he went so far as to support Memmius afterwards in his suit for the consul ­ship. When Gaius Calvus, after some scurrilous epigrams, took steps through his friends towards a reconciliation, Caesar wrote to him first and of his own free will. Valerius Catullus, as Caesar himself did not hesitate to say, inflicted a lasting stain on his name by the verses about Mamurra; yet when he apologised, Caesar invited the poet to dinner that very same day, and continued his usual friendly relations with Catullus's father.",
-      "la": "1 Simultates contra nullas tam graves excepit umquam, ut non occasione oblata libens deponeret. Gai Memmi, cuius asperrimis orationibus non minore acerbitate rescripserat, etiam suffragator mox in petitione consulatus fuit. Gaio Calvo post famosa epigrammata de reconciliatione per amicos agenti ultro ac prior scripsit. Valerium Catullum, a quo sibi versiculis de Mamurra perpetua stigmata imposita non dissimulaverat, satis facientem eadem die adhibuit cenae hospitioque patris eius, sicut consuerat, ut perseveravit."
+      "la": "1 Simultates contra nullas tam graves excepit umquam, ut non occasione oblata libens deponeret. Gai Memmi, cuius asperrimis orationibus non minore acerbitate rescripserat, etiam suffragator mox in petitione consulatus fuit. Gaio Calvo post famosa epigrammata de reconciliatione per amicos agenti ultro ac prior scripsit. Valerium Catullum, a quo sibi versiculis de Mamurra perpetua stigmata imposita non dissimulaverat, satis facientem eadem die adhibuit cenae hospitioque patris eius, sicut consuerat, ut perseveravit.",
+      "wikiLinks": {
+        "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
+        "Gaius": "https://en.wikipedia.org/wiki/Gaius",
+        "Valerius": "https://en.wikipedia.org/wiki/Valerius"
+      }
     },
     {
       "heading": "Chapter 74",
       "en": "1 Even in avenging wrongs he was by nature most merci ­ful, and when he got hold of the pirates who had captured him, he had them crucified, since he had sworn beforehand that he would do so, but ordered that their throats be cut first. He could never make up his mind to harm Cornelius Phagites, although when he was sick and in hiding, the man had waylaid him night after night, and even a bribe had barely saved him from being handed over to Sulla. The slave Philemon, his amanuensis, who had promised Caesar's enemies that he would poison him, he merely punished by death, without torture.\n\n2 When summoned as a witness against Publius Clodius, the paramour of his wife Pompeia, charged on the same count with sacrilege, Caesar declared that he had no evidence, although both his mother Aurelia and his sister Julia had given the same jurors a faithful account of the whole affair; and on being asked why it was then that he had put away his wife, he replied: \"Because I maintain that the members of my family should be free from suspicion, as well as from accusation.\"",
-      "la": "1 Sed et in ulciscendo natura lenissimus piratas, a quibus º captus est, cum in dicionem redegisset, quoniam suffixurum se cruci ante iuraverat, iugulari prius iussit, deinde suffigi; Cornelio Phagitae, cuius quondam nocturnas insidias aeger ac latens, ne perduceretur ad Sullam, vix praemio dato evaserat, numquam nocere sustinuit; Philemonem a manu servum, qui necem suam per venenum inimicis promiserat, non gravius quam simplici morte puniit;\n\n2 in Publium Clodium Pompeiae uxoris suae adulterum atque eadem de causa pollutarum caerimoniarum reum testis citatus negavit se quicquam comperisse, quamvis et mater Aurelia et soror Iulia apud eosdem iudices omnia ex fide rettulissent; interrogatusque, cur igitur repudiasset uxorem: \"Quoniam,\" inquit, \"meos tam suspicione quam crimine iudico carere oportere.\""
+      "la": "1 Sed et in ulciscendo natura lenissimus piratas, a quibus º captus est, cum in dicionem redegisset, quoniam suffixurum se cruci ante iuraverat, iugulari prius iussit, deinde suffigi; Cornelio Phagitae, cuius quondam nocturnas insidias aeger ac latens, ne perduceretur ad Sullam, vix praemio dato evaserat, numquam nocere sustinuit; Philemonem a manu servum, qui necem suam per venenum inimicis promiserat, non gravius quam simplici morte puniit;\n\n2 in Publium Clodium Pompeiae uxoris suae adulterum atque eadem de causa pollutarum caerimoniarum reum testis citatus negavit se quicquam comperisse, quamvis et mater Aurelia et soror Iulia apud eosdem iudices omnia ex fide rettulissent; interrogatusque, cur igitur repudiasset uxorem: \"Quoniam,\" inquit, \"meos tam suspicione quam crimine iudico carere oportere.\"",
+      "wikiLinks": {
+        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+        "Cornelius": "https://en.wikipedia.org/wiki/Cornelius_Sulla",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+      }
     },
     {
       "heading": "Chapter 75",
       "en": "1 He certainly showed admirable self-restraint and mercy, both in his conduct of the civil war and in the hour of victory. While Pompey announced that he would treat as enemies those who did not take up arms for the government, Caesar gave out that those who were neutral and of neither party would be numbered with his friends. He freely allowed all those whom he had made centurions on Pompey's recommendation to go over to his rival.\n\n2 When conditions of surrender were under discussion at Ilerda, and friendly intercourse between the two parties was constant, Afranius and Petreius, with a sudden change of purpose, put to death all of Caesar's soldiers whom they found in their camp; but Caesar could not bring himself to retaliate in kind. At the battle of Pharsalus he cried out, \"Spare your fellow citizens,\" and afterwards allowed each of his men to save any one man he pleased of the opposite party.\n\n3 And it will be found that no Pompeian lost his life except in battle, save only Afranius and Faustus, and the young Lucius Caesar; and it is believed that not even these men were slain by his wish, even though the two former had taken up arms again after being pardoned, while Caesar had not only cruelly put to death the dictator's slaves and freedmen with fire and sword, but had even butchered the wild beasts which he had procured for the entertainment of the people.\n\n4 At last, in his later years, he went so far as to allow all those whom he had not yet pardoned to return to Italy, and to hold magistracies and the command of armies: and he actually set up the statues of Lucius Sulla and Pompey, which had been broken to pieces by the populace. After this, if any dangerous plots were formed against him, or slanders uttered, he preferred to quash rather than to punish them.\n\n5 Accordingly, he took no further notice of the conspiracies which were detected, and of meetings by night, than to make known by proclamation that he was aware of them; and he thought it enough to give public warning to those who spoke ill of him, not to persist in their conduct, bearing with good nature the attacks on his reputation made by the scurrilous volume of Aulus Caecina and the abusive lampoons of Pitholaus.",
-      "la": "1 Moderationem vero clementiamque cum in administratione tum in victoria belli civilis admirabilem exhibuit. Denuntiante Pompeio pro hostibus se habiturum qui rei publicae defuissent, ipse medios et neutrius partis suorum sibi numero futuros pronuntiavit. Quibus autem ex commendatione Pompei ordines dederat, potestatem transeundi ad eum omnibus fecit.\n\n2 Motis apud Ilerdam deditionis condicionibus, cum, assiduo inter utrasque partes usu atque commercio, Afranius et Petreius deprehensos intra castra Iulianos subita paenitentia interfecissent, admissam in se perfidiam non sustinuit imitari. Acie Pharsalica proclamavit, ut civibus parceretur, deincepsque nemini non suorum quem vellet unum partis adversae servare concessit.\n\n3 Nec ulli perisse nisi in proelio reperientur, exceptis dum taxat Afranio et Fausto et Lucio Caesare iuvene; ac ne hos quidem voluntate ipsius interemptos putant, quorum tamen et priores post impetratam veniam rebellaverant⁠ 49 et Caesar libertis servisque eius ferro et igni crudelem in modum enectis bestias quoque ad munus populi comparatas contrucidaverat.\n\n4 Denique tempore extremo etiam quibus nondum ignoverat, cunctis in Italiam redire permisit⁠ 50 magistratusque et imperia capere; sed et statuas Luci Sullae atque Pompei a plebe disiectas reposuit; ac si qua posthac aut cogitarentur gravius adversus se aut dicerentur, inhibere maluit quam vindicare.\n\n5 Itaque et detectas coniurationes conventusque nocturnos non ultra arguit, quam ut edicto ostenderet esse sibi notas, et acerbe loquentibus satis habuit pro contione denuntiare ne perseverarent, Aulique Caecinae criminosissimo libro et Pitholai carminibus maledicentissimis laceratam existimationem suam civili animo tulit."
+      "la": "1 Moderationem vero clementiamque cum in administratione tum in victoria belli civilis admirabilem exhibuit. Denuntiante Pompeio pro hostibus se habiturum qui rei publicae defuissent, ipse medios et neutrius partis suorum sibi numero futuros pronuntiavit. Quibus autem ex commendatione Pompei ordines dederat, potestatem transeundi ad eum omnibus fecit.\n\n2 Motis apud Ilerdam deditionis condicionibus, cum, assiduo inter utrasque partes usu atque commercio, Afranius et Petreius deprehensos intra castra Iulianos subita paenitentia interfecissent, admissam in se perfidiam non sustinuit imitari. Acie Pharsalica proclamavit, ut civibus parceretur, deincepsque nemini non suorum quem vellet unum partis adversae servare concessit.\n\n3 Nec ulli perisse nisi in proelio reperientur, exceptis dum taxat Afranio et Fausto et Lucio Caesare iuvene; ac ne hos quidem voluntate ipsius interemptos putant, quorum tamen et priores post impetratam veniam rebellaverant⁠ 49 et Caesar libertis servisque eius ferro et igni crudelem in modum enectis bestias quoque ad munus populi comparatas contrucidaverat.\n\n4 Denique tempore extremo etiam quibus nondum ignoverat, cunctis in Italiam redire permisit⁠ 50 magistratusque et imperia capere; sed et statuas Luci Sullae atque Pompei a plebe disiectas reposuit; ac si qua posthac aut cogitarentur gravius adversus se aut dicerentur, inhibere maluit quam vindicare.\n\n5 Itaque et detectas coniurationes conventusque nocturnos non ultra arguit, quam ut edicto ostenderet esse sibi notas, et acerbe loquentibus satis habuit pro contione denuntiare ne perseverarent, Aulique Caecinae criminosissimo libro et Pitholai carminibus maledicentissimis laceratam existimationem suam civili animo tulit.",
+      "wikiLinks": {
+        "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+      }
     },
     {
       "heading": "Chapter 76",
       "en": "1 Yet after all, his other actions and words so turn the scale, that it is thought that he abused his power and was justly slain. For not only did he accept excessive honours, such as an uninterrupted consul ­ship, the dictator ­ship for life, and the censor ­ship of public morals, as well as the forename Imperator, the surname of Father of his Country, a statue among those of the kings, and a raised couch in the orchestra; but he also allowed honours to be bestowed on him which were too great for mortal man: a golden throne in the House and on the judgment seat; a chariot and litter in the procession at the circus; temples, altars, and statues beside those of the gods; a special priest, an additional college of the Luperci, and the calling of one of the months by his name. In fact, there were no honours which he did not receive or confer at pleasure.\n\n2 He held his third and fourth consul ­ships in name only, content with the power of the dictator ­ship conferred on him at the same time as the consul ­ships. Moreover, in both years he substituted two consuls for himself for the last three months, in the meantime holding no elections except for tribunes and plebeian aediles, and appointing praefects instead of the praetors, to manage the affairs of the city during his absence. When one of the consuls suddenly died the day before the Kalends of January, he gave the vacant office for a few hours to a man who asked for it.\n\n3 With the same disregard of law and precedent he named magistrates for several years to come, bestowed the emblems of consular rank on ten ex-praetors, and admitted to the House men who had been given citizen ­ship, and in some cases half-civilised Gauls. He assigned the charge of the mint and of the public revenues to his own slaves, and gave the oversight and command of the three legions which he had left at Alexandria to a favourite of his called Rufio, son of one of his freedmen.",
-      "la": "1 Praegravant tamen cetera facta dictaque eius, ut et abusus dominatione et iure caesus existimetur. Non enim honores modo nimios recepit: continuum consulatum, perpetuam dictaturam praefecturamque morum, insuper praenomen Imperatoris, cognomen Patris patriae, statuam inter reges, suggestum in orchestra; sed et ampliora etiam humano fastigio decerni sibi passus est: sedem auream in curia et pro tribunali, tensam et ferculum circensi pompa, templa, aras, simulacra iuxta deos, pulvinar, flaminem, lupercos, appellationem mensis e suo nomine; ac nullos non honores ad libidinem cepit et dedit.\n\n2 Tertium et quartum consulatum titulo tenus gessit contentus dictaturae potestate decretae cum consulatibus simul atque utroque anno binos consules substituit sibi in ternos novissimos menses, ita ut medio tempore comitia nulla habuerit praeter tribunorum et aedilium plebis praefectosque pro praetoribus constituerit, qui apsente se res urbanas administrarent. Pridie autem Kalendas Ianuarias repentina consulis morte cessantem honorem in paucas horas petenti dedit.\n\n3 Eadem licentia spreto patrio more magistratus in pluris annos ordinavit, decem praetoriis⁠ 51 viris consularia ornamenta tribuit, civitate donatos et quosdam e semibarbaris Gallorum recepit in curiam. Praeterea monetae publicisque vectigalibus peculiares servos praeposuit. Trium legionum, quas Alexandreae relinquebat, curam et imperium Rufioni liberti sui filio exoleto suo demandavit."
+      "la": "1 Praegravant tamen cetera facta dictaque eius, ut et abusus dominatione et iure caesus existimetur. Non enim honores modo nimios recepit: continuum consulatum, perpetuam dictaturam praefecturamque morum, insuper praenomen Imperatoris, cognomen Patris patriae, statuam inter reges, suggestum in orchestra; sed et ampliora etiam humano fastigio decerni sibi passus est: sedem auream in curia et pro tribunali, tensam et ferculum circensi pompa, templa, aras, simulacra iuxta deos, pulvinar, flaminem, lupercos, appellationem mensis e suo nomine; ac nullos non honores ad libidinem cepit et dedit.\n\n2 Tertium et quartum consulatum titulo tenus gessit contentus dictaturae potestate decretae cum consulatibus simul atque utroque anno binos consules substituit sibi in ternos novissimos menses, ita ut medio tempore comitia nulla habuerit praeter tribunorum et aedilium plebis praefectosque pro praetoribus constituerit, qui apsente se res urbanas administrarent. Pridie autem Kalendas Ianuarias repentina consulis morte cessantem honorem in paucas horas petenti dedit.\n\n3 Eadem licentia spreto patrio more magistratus in pluris annos ordinavit, decem praetoriis⁠ 51 viris consularia ornamenta tribuit, civitate donatos et quosdam e semibarbaris Gallorum recepit in curiam. Praeterea monetae publicisque vectigalibus peculiares servos praeposuit. Trium legionum, quas Alexandreae relinquebat, curam et imperium Rufioni liberti sui filio exoleto suo demandavit.",
+      "wikiLinks": {
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
+        "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "Praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Temple": "https://en.wikipedia.org/wiki/Temple",
+        "temple": "https://en.wikipedia.org/wiki/Temple"
+      }
     },
     {
       "heading": "Chapter 77",
       "en": "1 No less arrogant were his public utterances, which Titus Ampius records: that the state was nothing, a mere name without body or form; that Sulla did not know his A. B. C. when he laid down his dictator ­ship; that men ought now to be more circumspect in addressing him, and to regard his word as law. So far did he go in his presumption, that when a soothsayer once reported direful inwards without a heart, he said: \"They will be more favourable when I wish it; it should not be regarded as a portent, if a beast has no heart.\" 64",
-      "la": "1 Nec minoris inpotentiae voces propalam edebat, ut Titus Ampius⁠ 52 scribit: nihil esse rem publicam, appellationem modo sine corpore ac specie. Sullam nescisse litteras, qui dictaturam deposuerit. Debere homines consideratius iam loqui secum ac pro legibus habere quae dicat. Eoque arrogantiae progressus est, ut haruspice tristia et sine corde exta quondam nuntiante, futura diceret laetiora, cum vellet; nec pro ostento ducendum, si pecudi cor defuisset."
+      "la": "1 Nec minoris inpotentiae voces propalam edebat, ut Titus Ampius⁠ 52 scribit: nihil esse rem publicam, appellationem modo sine corpore ac specie. Sullam nescisse litteras, qui dictaturam deposuerit. Debere homines consideratius iam loqui secum ac pro legibus habere quae dicat. Eoque arrogantiae progressus est, ut haruspice tristia et sine corde exta quondam nuntiante, futura diceret laetiora, cum vellet; nec pro ostento ducendum, si pecudi cor defuisset.",
+      "wikiLinks": {
+        "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Titus": "https://en.wikipedia.org/wiki/Titus"
+      }
     },
     {
       "heading": "Chapter 78",
       "en": "1 But it was the following action in particular that roused deadly hatred against him. When the Senate approached him in a body with many highly honorary decrees, he received them before the temple of Venus Genetrix without rising. Some think that when he attempted to get up, he was held back by Cornelius Balbus; others, that he made no such move at all, but on the contrary frowned angrily on Gaius Trebatius when he suggested that he should rise.\n\n2 And this action of his seemed the more intolerable, because when he himself in one of his triumphal processions rode past the benches of the tribunes, he was so incensed because a member of the college, Pontius Aquila, did not rise, that he cried: \"Come then, Aquila, take back the republic from me, you tribune\"; and for several days he would not make a promise to any one without adding, \"That is, if Pontius Aquila will allow me.\"",
-      "la": "1 Verum praecipuam et exitiabilem sibi invidiam hinc maxime movit. Adeuntis se cum plurimis honorificentissimisque decretis universos patres conscriptos sedens pro aede Veneris Genetricis excepit. Quidam putant retentum a Cornelio Balbo, cum conaretur assurgere; alii, ne conatum quidem omnino, sed etiam admonentem Gaium Trebatium ut assurgeret minus familiari vultu respexisse.\n\n2 Idque factum eius tanto intolerabilius est visum, quod ipse triumphanti et subsellia tribunicia praetervehenti sibi unum e collegio Pontium Aquilam non assurrexisse adeo indignatus sit, ut proclamaverit: \"Repete ergo a me Aquila rem publicam tribunus!\" Et nec destiterit per continuos dies quicquam cuiquam nisi sub exceptione polliceri: \"Si tamen per Pontium Aquilam licuerit.\""
+      "la": "1 Verum praecipuam et exitiabilem sibi invidiam hinc maxime movit. Adeuntis se cum plurimis honorificentissimisque decretis universos patres conscriptos sedens pro aede Veneris Genetricis excepit. Quidam putant retentum a Cornelio Balbo, cum conaretur assurgere; alii, ne conatum quidem omnino, sed etiam admonentem Gaium Trebatium ut assurgeret minus familiari vultu respexisse.\n\n2 Idque factum eius tanto intolerabilius est visum, quod ipse triumphanti et subsellia tribunicia praetervehenti sibi unum e collegio Pontium Aquilam non assurrexisse adeo indignatus sit, ut proclamaverit: \"Repete ergo a me Aquila rem publicam tribunus!\" Et nec destiterit per continuos dies quicquam cuiquam nisi sub exceptione polliceri: \"Si tamen per Pontium Aquilam licuerit.\"",
+      "wikiLinks": {
+        "Temple": "https://en.wikipedia.org/wiki/Temple",
+        "temple": "https://en.wikipedia.org/wiki/Temple",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Balbus": "https://en.wikipedia.org/wiki/Balbus",
+        "Cornelius": "https://en.wikipedia.org/wiki/Cornelius_Sulla",
+        "Gaius": "https://en.wikipedia.org/wiki/Gaius"
+      }
     },
     {
       "heading": "Chapter 79",
       "en": "1 To an insult which so plainly showed his contempt for the Senate he added an act of even greater insolence; for at the Latin Festival, as he was returning to the city, amid the extravagant and unprecedented demonstrations of the populace, someone in the press placed on his statue a laurel wreath with a white fillet tied to it; and when Epidius Marullus and Caesetius Flavius, tribunes of the commons, gave orders that the ribbon be removed from the wreath and the man taken off to prison, Caesar sharply rebuked and deposed them, either offended that the hint at regal power had been received with so little favour, or, as he asserted, that he had been robbed of the glory of refusing it.\n\n2 But from that time on he could not rid himself of the odium of having aspired to the title of monarch, although he replied to the commons, when they hailed him as king, \"I am Caesar and no king,\" and at the • Lupercalia, when the consul Antony several times attempted to place a crown upon his head as he spoke from the rostra, he put it aside and at last sent it to the Capitol, to be offered to Jupiter Optimus Maximus.\n\n3 Nay, more, the report had spread in various quarters that he intended to move to Ilium or Alexandria, taking with him the resources of the state, draining Italy by levies, and leaving the charge of the city to his friends; also that at the next meeting of the Senate Lucius Cotta would announce as the decision of Fifteen, that inasmuch as it was written in the books of fate that the Parthians could be conquered only by a king, Caesar should be given that title.",
-      "la": "1 Adiecit ad tam insignem despecti senatus contumeliam multo arrogantius factum. Nam cum in sacrificio Latinarum revertente eo inter inmodicas ac novas populi acclamationes quidam e turba statuae eius coronam lauream candida fascia praeligata⁠ 53 inposuisset et tribuni plebis Epidius Marullus Caesetiusque Flavus coronae fasciam detrahi hominemque duci in vincula iussissent, dolens seu parum prospere motam regni mentionem sive, ut ferebat, ereptam sibi gloriam recusandi, tribunos graviter increpitos potestate privavit.\n\n2 Neque ex eo infamiam affectati etiam regii nominis discutere valuit,⁠ 54 quanquam et plebei regem se salutanti Caesarem se, non regem esse responderit et Lupercalibus pro rostris a consule Antonio admotum saepius capiti suo diadema reppulerit atque in Capitolium Iovi Optimo Maximo miserit.\n\n3 Quin etiam varia fama percrebruit migraturum Alexandream vel Ilium, translatis simul opibus imperii exhaustaque Italia dilectibus et procuratione urbis amicis permissa, proximo autem senatu Lucium Cottam quindecimvirum sententiam dicturum, ut, quoniam fatalibus libris contineretur,⁠ 55 Parthos nisi a rege non posse vinci, Caesar rex appellaretur."
+      "la": "1 Adiecit ad tam insignem despecti senatus contumeliam multo arrogantius factum. Nam cum in sacrificio Latinarum revertente eo inter inmodicas ac novas populi acclamationes quidam e turba statuae eius coronam lauream candida fascia praeligata⁠ 53 inposuisset et tribuni plebis Epidius Marullus Caesetiusque Flavus coronae fasciam detrahi hominemque duci in vincula iussissent, dolens seu parum prospere motam regni mentionem sive, ut ferebat, ereptam sibi gloriam recusandi, tribunos graviter increpitos potestate privavit.\n\n2 Neque ex eo infamiam affectati etiam regii nominis discutere valuit,⁠ 54 quanquam et plebei regem se salutanti Caesarem se, non regem esse responderit et Lupercalibus pro rostris a consule Antonio admotum saepius capiti suo diadema reppulerit atque in Capitolium Iovi Optimo Maximo miserit.\n\n3 Quin etiam varia fama percrebruit migraturum Alexandream vel Ilium, translatis simul opibus imperii exhaustaque Italia dilectibus et procuratione urbis amicis permissa, proximo autem senatu Lucium Cottam quindecimvirum sententiam dicturum, ut, quoniam fatalibus libris contineretur,⁠ 55 Parthos nisi a rege non posse vinci, Caesar rex appellaretur.",
+      "wikiLinks": {
+        "Latin Festival": "https://en.wikipedia.org/wiki/Feriae_Latinae"
+      }
     },
     {
       "heading": "Chapter 80",
@@ -732,9 +888,7 @@
         "Campus Martius": "https://en.wikipedia.org/wiki/Campus_Martius",
         "Sacred Way": "https://en.wikipedia.org/wiki/Via_Sacra",
         "Gaius Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-        "Marcus Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
-        "Curia of Pompey": "https://en.wikipedia.org/wiki/Curia_of_Pompey",
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March"
       }
     },
@@ -771,11 +925,12 @@
       "en": "1 Then at the request of his father-in‑law, Lucius Piso, the will was unsealed and read in Antony's house, which Caesar had made on the preceding Ides of September at his place near Lavicum, and put in the care of the chief of the Vestals. Quintus Tubero states that from his first consul ­ship until the beginning of the civil war it was his wont to write down Gnaeus Pompeius as his heir, and to read this to the assembled soldiers.\n\n2 In his last will, however, he named three heirs, his sisters' grandsons, Gaius Octavius, to three-fourths of his estate, and Lucius Pinarius and Quintus Pedius to share the remainder. At the end of the will, too, he adopted Gaius Octavius into his family and gave him his name. He named several of his assassins among the guardians of his son, in case one should be born to him, and Decimus Brutus even among his heirs in the second degree. To the people he left his gardens near the Tiber for their common use and three hundred sesterces to each man.",
       "la": "1 Postulante ergo Lucio Pisone socero testamentum eius aperitur recitaturque in Antoni domo, quod Idibus Septembribus proximis in Lavicano suo fecerat demandaveratque virgini Vestali maximae. Quintus Tubero tradit heredem ab eo scribi solitum ex consulatu ipsius primo usque ad initium civilis belli Cn. Pompeium, idque militibus pro contione recitatum.\n\n2 Sed novissimo testamento tres instituit heredes sororum nepotes, Gaium Octavium ex dodrante, et Lucium Pinarium et Quintum Pedium ex quadrante reliquo;⁠ 58 in ima cera Gaium Octavium etiam in familiam nomenque adoptavit; plerosque percussorum in tutoribus fili, si qui sibi nasceretur, nominavit, Decimum Brutum etiam in secundis heredibus. Populo hortos circa Tiberim publice et viritim trecenos sestertios legavit.",
       "wikiLinks": {
-        "Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calurnius_Piso",
+        "Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso",
         "Gaius Octavius": "https://en.wikipedia.org/wiki/Augustus",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Vestals": "https://en.wikipedia.org/wiki/Vestal_Virgins",
-        "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus"
+        "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius"
       }
     },
     {
@@ -784,14 +939,12 @@
       "la": "1 Funere indicto rogus extructus est in Martio campo iuxta Iuliae tumulum et pro rostris aurata aedes ad simulacrum templi Veneris Genetricis collocata; intraque lectus eburneus auro ac purpura stratus et ad caput tropaeum cum veste, in qua fuerat occisus. Praeferentibus munera, quia suffecturus dies non videbatur, praeceptum, ut omisso ordine, quibus quisque vellet itineribus urbis, portaret in Campum.\n\n2 Inter ludos cantata sunt quaedam ad miserationem et invidiam caedis eius accommodata, ex Pacuvi Armorum iudicio: \"Men servasse, ut essent qui me perderent\"? et ex Electra Atili⁠ 59 ad similem sententiam. Laudationis loco consul Antonius per praeconem pronuntiavit senatus consultum, quo omnia simul ei divina atque humana decreverat, item ius iurandum, quo se cuncti pro salute unius astrinxerant; quibus perpauca a se verba addidit.\n\n3 Lectum pro rostris in Forum magistratus et honoribus functi detulerunt. Quem cum pars in Capitolini Iovis cella cremare pars in curia Pompei destinaret, repente duo quidam gladiis succincti ac bina iacula gestantes ardentibus cereis succenderunt confestimque circumstantium turba virgulta arida et cum subselliis tribunalia, quicquid praeterea ad donum aderat, congessit.\n\n4 Deinde tibicines et scaenici artifices vestem, quam ex triumphorum instrumento ad praesentem usum induerant, detractam sibi atque discissam iniecere flammae et veteranorum militum legionarii arma sua, quibus exculti funus celebrabant; matronae etiam pleraeque ornamenta sua, quae gerebant, et liberorum bullas atque praetextas.\n\n5 In summo publico luctu exterarum gentium multitudo circulatim suo quaeque more lamentata est praecipueque Iudaei, qui etiam noctibus continuis bustum frequentarunt.",
       "wikiLinks": {
         "Campus Martius": "https://en.wikipedia.org/wiki/Campus_Martius",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(aunt_of_Julius_Caesar)",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Venus Genetrix": "https://en.wikipedia.org/wiki/Venus_Genetrix",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
-        "Curia of Pompey": "https://en.wikipedia.org/wiki/Curia_of_Pompey",
-        "Pacuvius": "https://en.wikipedia.org/wiki/Pacuvius",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Pacuvius": "https://en.wikipedia.org/wiki/Pacuvius"
       }
     },
     {
@@ -799,8 +952,7 @@
       "en": "1 Immediately after the funeral the commons ran to the houses of Brutus and Cassius with firebrands, and after being repelled with difficulty, they slew Helvius Cinna when they met him, through a mistake in the name, supposing that he was Cornelius Cinna, who had the day before made a bitter indictment of Caesar and for whom they were looking; and they set his head upon a spear and paraded it about the streets. Afterwards they set up in the Forum a solid column of Numidian marble • almost twenty feet high, and inscribed upon it, \"To the Father of his Country.\" At the foot of this they continued for a long time to sacrifice, make vows, and settle some of their disputes by an oath in the name of Caesar.",
       "la": "1 Plebs statim a funere ad domum Bruti et Cassi cum facibus tetendit atque aegre repulsa obvium sibi Helvium Cinnam per errorem nominis, quasi Cornelius is esset, quem graviter pridie contionatum de Caesare requirebat, occidit caputque eius praefixum hastae circumtulit. Postea solidam columnam prope viginti pedum lapidis Numidici in Foro statuit inscripsitque⁠ 60 PARENTI PATRIAE. Apud eam longo tempore sacrificare, vota suscipere, controversias quasdam interposito per Caesarem iure iurando distrahere perseveravit.",
       "wikiLinks": {
-        "Aemilius": "https://en.wikipedia.org/wiki/Mamercus_Aemilius_Lepidus_Livianus",
-        "Paulus": "https://en.wikipedia.org/wiki/Lucius_Aemilius_Paullus_(consul_50_BC)"
+        "Helvius Cinna": "https://en.wikipedia.org/wiki/Helvius_Cinna"
       }
     },
     {
@@ -824,9 +976,8 @@
       "la": "1 Periit sexto et quinquagensimo aetatis anno atque in deorum numerum relatus est, non ore modo decernentium sed et persuasione volgi. Siquidem ludis, quos primos consecrato⁠ 63 ei heres Augustus edebat, stella crinita per septem continuos dies fulsit exoriens circa undecimam horam, creditumque est animam esse Caesaris in caelum recepti; et hac de causa simulacro eius in vertice additur stella. Curiam, in qua occisus est, obstrui placuit Idusque Martias Parricidium nominari, ac ne umquam eo die senatus ageretur.",
       "wikiLinks": {
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Curia of Pompey": "https://en.wikipedia.org/wiki/Curia_of_Pompey",
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
-        "Comet": "https://en.wikipedia.org/wiki/Julius_Caesar%27s_comet",
+        "Comet": "https://en.wikipedia.org/wiki/Caesar%27s_comet",
         "apotheosis": "https://en.wikipedia.org/wiki/Apotheosis"
       }
     },
@@ -834,14 +985,7 @@
       "heading": "Chapter 89",
       "en": "1 Hardly any of his assassins survived him for more than three years, or died a natural death. They were all condemned, and they perished in various ways — some by shipwreck, some in battle; some took their own lives with the self-same dagger with which they had impiously slain Caesar.",
       "la": "1 Percussorum autem fere neque triennio quisquam amplius supervixit neque sua morte defunctus est. Damnati omnes alius alio casu periit, pars naufragio, pars proelio; nonnulli semet eodem illo pugione, quo Caesarem violaverant, interemerunt.",
-      "wikiLinks": {
-        "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
-        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
-        "Tiber": "https://en.wikipedia.org/wiki/Tiber",
-        "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
-        "Hannibal": "https://en.wikipedia.org/wiki/Hannibal"
-      }
+      "wikiLinks": {}
     }
   ],
   "notes": {

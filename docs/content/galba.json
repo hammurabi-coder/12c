@@ -9,7 +9,7 @@
       "en": "1 The race of the Caesars ended with Nero. That this would be so was shown by many portents and especially by two very significant ones. Years before, as Livia was returning to her estate near Veii, immediately after her marriage with Augustus, an eagle which flew by dropped into her lap a white hen, holding in its beak a sprig of laurel, just as the eagle had carried it off. Livia resolved to rear the fowl and plant the sprig, whereupon such a great brood of chickens was hatched that to this day the villa is called Ad Gallinas, and such a grove of laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate triumphs. Moreover it was the habit of those who triumphed to plant other branches at once in that same place, and it was observed that just before the death of each of them the tree which he had planted withered. Now in Nero's last year the whole grove died from the root up, as well as all the hens. Furthermore, when shortly afterwards the temple of the Caesars was struck by lightning, the heads fell from all the statues at the same time, and his sceptre, too, was dashed from the hand of Augustus.",
       "la": "1 Progenies Caesarum in Nerone defecit; quod futurum compluribus quidem signis, sed vel evidentissimis duobus apparuit. Liviae olim post Augusti statim nuptias Veientanum suum revisenti praetervolans aquila gallinam albam ramulum lauri rostro tenentem, ita ut rapuerat, demisit in gremium; cumque nutriri alitem, pangi ramulum placuisset, tanta pullorum suboles provenit, ut hodieque ea villa \"ad Gallinas\" vocetur, tale vero lauretum, ut triumphaturi Caesares inde laureas decerperent; fuitque mos triumphantibus, alias confestim eodem loco pangere; et observatum est sub cuiusque obitum arborem ab ipso institutam elanguisse. Ergo novissimo Neronis anno et silva omnis exaruit radicitus, et quidquid ibi gallinarum erat interiit. Ac subinde tacta de caelo Caesarum aede capita omnibus simul statuis deciderunt, Augusti etiam sceptrum e manibus excussum est.",
       "wikiLinks": {
-        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Nero": "https://en.wikipedia.org/wiki/Nero",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Ad Gallinas": "https://en.wikipedia.org/wiki/Villa_of_Livia"
       }
@@ -17,7 +17,11 @@
     {
       "heading": "Chapter 2",
       "en": "1 Nero was succeeded by Galba, who was related in no degree to the house of the Caesars, although unquestionably of noble origin and of an old and power ­ful family; for he always added to the inscriptions on his statues that he was the great-grandson of Quintus Catulus Capitolinus, and when he became emperor he even displayed a family tree in his hall in which he carried back his ancestry on his father's side to Jupiter and on his mother's to Pasiphae, the wife of Minos.",
-      "la": "1 Neroni Galba successit nullo gradu contingens Caesarum domum, sed haud dubie nobilissimus magnaque et vetere prosapia, ut qui statuarum titulis pronepotem se Quinti Catuli Capitolini semper ascripserit, imperator vero etiam stemma in atrio proposuerit, quo paternam originem ad Iovem, maternam ad Pasiphaam Minonis uxorem referret."
+      "la": "1 Neroni Galba successit nullo gradu contingens Caesarum domum, sed haud dubie nobilissimus magnaque et vetere prosapia, ut qui statuarum titulis pronepotem se Quinti Catuli Capitolini semper ascripserit, imperator vero etiam stemma in atrio proposuerit, quo paternam originem ad Iovem, maternam ad Pasiphaam Minonis uxorem referret.",
+      "wikiLinks": {
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "Nero": "https://en.wikipedia.org/wiki/Nero"
+      }
     },
     {
       "heading": "Chapter 3",
@@ -28,10 +32,8 @@
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-        "Servius Galba": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Galba_(consul_5_BC)",
+        "Servius Galba": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Galba",
         "Viriathus": "https://en.wikipedia.org/wiki/Viriathus",
-        "Pasiphae": "https://en.wikipedia.org/wiki/Pasipha%C3%AB",
-        "Quintus Catulus": "https://en.wikipedia.org/wiki/Quintus_Lutatius_Catulus_Capitolinus",
         "Mummia Achaica": "https://en.wikipedia.org/wiki/Mummia_Achaica",
         "Lusitanians": "https://en.wikipedia.org/wiki/Lusitanian"
       }
@@ -54,7 +56,8 @@
       "la": "1 Inter liberales disciplinas attendit et iuri. Dedit et matrimonio operam; verum amissa uxore Lepida duobusque ex ea filiis remansit in caelibatu neque sollicitari ulla condicione amplius potuit, ne Agrippinae quidem, quae⁠ 7 viduata morte Domiti maritum quoque adhuc necdum caelibem Galbam adeo omnibus sollicitaverat modis, ut conventu matronarum correpta iurgio atque etiam manu pulsata sit a matre Lepidae.\n\n2 Observavit ante omnis Liviam Augustam, cuius et vivae gratia plurimum valuit et mortuae testamento paene ditatus est; sestertium namque quingenties praecipuum inter legatarios habuisset, sed quia notata, non perscripta erat summa, herede Tiberio legatum ad quingenta revocante, ne haec quidem accepit.",
       "wikiLinks": {
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
-        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
+        "Livia Augusta": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -64,9 +67,10 @@
       "wikiLinks": {
         "Otho": "https://en.wikipedia.org/wiki/Otho",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "Floralia": "https://en.wikipedia.org/wiki/Floralia_(Roman_festival)",
+        "Floralia": "https://en.wikipedia.org/wiki/Floralia",
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Caligula",
-        "Lucius Domitius": "https://en.wikipedia.org/wiki/Cnaeus_Domitius_Ahenobarbus_(consul_32_BC)"
+        "Lucius Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+        "Upper Germany": "https://en.wikipedia.org/wiki/Germania_Superior"
       }
     },
     {
@@ -124,14 +128,17 @@
     {
       "heading": "Chapter 13",
       "en": "1 Accordingly his coming was not so welcome as it might have been, and this was apparent at the first performance in the theatre; for when the actors of an Atellan farce began the familiar lines \" Here comes Onesimus from his farm\" all the spectators at once finished the song in chorus and repeated it several times with appropriate gestures, beginning with that verse.",
-      "la": "1 Quare adventus eius non perinde gratus fuit, inde proximo spectaculo apparuit, siquidem Atellanis notissimum canticum exorsis:⁠ 14 \"Venit Onesimus⁠ 15 a villa\" cuncti simul spectatores consentiente voce reliquam partem rettulerunt ac saepius versu repetito egerunt."
+      "la": "1 Quare adventus eius non perinde gratus fuit, inde proximo spectaculo apparuit, siquidem Atellanis notissimum canticum exorsis:⁠ 14 \"Venit Onesimus⁠ 15 a villa\" cuncti simul spectatores consentiente voce reliquam partem rettulerunt ac saepius versu repetito egerunt.",
+      "wikiLinks": {
+        "theatre": "https://en.wikipedia.org/wiki/Roman_theatre"
+      }
     },
     {
       "heading": "Chapter 14",
       "en": "1 Thus his popularity and prestige were greater when he won, than while he ruled the empire, though he gave many proofs of being an excellent prince; but he was by no means so much loved for those qualities as he was hated for his acts of the opposite character.\n\n2 He was wholly under the control of three men, who were commonly known as his tutors because they lived with him in the palace and never left his side. They were Titus Vinius, one of his generals in Spain, a man of unbounded covetousness; Cornelius Laco, advanced from the position of judge's assistant to that of prefect of the Guard and intolerably haughty and indolent; and his own freedman Icelus, who had only just before received the honour of the gold ring and the surname of Marcianus, yet already aspired to the highest office open to the equestrian order. To these brigands, each with his different vice, he so entrusted and handed himself over as their tool, that his conduct was far from consistent; for now he was more exacting and niggardly, and now more extravagant and reckless than became a prince chosen by the people and of his time of life.\n\n3 He condemned to death divers distinguished men of both orders on trivial suspicions without a trial. He rarely granted Roman citizen ­ship, and the privileges of threefold paternity to hardly one or two, and even to those only for a fixed and limited time. When the jurors petitioned that a sixth division be added to their number, he not only refused, but even deprived them of the privilege granted by Claudius, of not being summoned for court duty in winter and at the beginning of the year.",
       "la": "1 Maiore adeo et favore et auctoritate adeptus est quam gessit imperium, quanquam multa documenta egregii principis daret; sed nequaquam tam grata erant, quam invisa quae secus fierent.\n\n2 Regebatur trium arbitrio, quos una et intra Palatium habitantis nec umquam non adhaerentis paedagogos vulgo vocabant. Ii erant T. Vinius legatus eius in Hispania, cupiditatis immensae; Cornelius Laco ex assessore praefectus praetorii, arrogantia socordiaque intolerabilis; libertus Icelus, paulo ante anulis aureis et Marciani cognomine ornatus ac iam summae equestris gradus candidatus. His diverso vitiorum genere grassantibus adeo se abutendum permisit et tradidit, ut vix sibi ipse constaret, modo acerbior parciorque, modo remissior ac neglegentior quam conveniret principi electo atque illud aetatis.\n\n3 Quosdam claros ex utroque ordine viros suspicione minima inauditos condemnavit. Civitates R. raro dedit, iura trium liberorum vix uni atque alteri ac ne iis quidem nisi ad certum praefinitumque tempus. Iudicibus sextam decuriam adici precantibus non modo negavit, sed et concessum a Claudio beneficium, ne hieme initioque anni ad iudicandum evocarentur, eripuit.",
       "wikiLinks": {
-        "Cornelius Laco": "https://en.wikipedia.org/wiki/Coronel_Laco",
+        "Cornelius Laco": "https://en.wikipedia.org/wiki/Cornelius_Laco",
         "Icelus": "https://en.wikipedia.org/wiki/Icelus_Martianus",
         "Titus Vinius": "https://en.wikipedia.org/wiki/Titus_Vinius"
       }
@@ -150,7 +157,7 @@
       "la": "1 Per haec prope universis ordinibus offensis vel praecipua flagrabat invidia apud milites. Nam cum in verba eius absentis iurantibus donativum grandius solito praepositi pronuntiassent, neque ratam rem habuit et subinde iactavit legere se militem, non emere consuesse; atque eo quidem nomine omnis, qui ubique erant, exacerbavit. Ceterum praetorianos etiam metu et indignitate commovit, removens subinde plerosque ut suspectos et Nymphidi socios.\n\n2 Sed maxime fremebat superioris Germaniae exercitus fraudari se praemiis navatae adversus Gallos et Vindicem operae. Ergo primi obsequium rumpere ausi Kal. Ian. adigi sacramento nisi in nomen senatus recusarunt statimque legationem ad praetorianos cum mandatis destinaverunt: displicere imperatorem in Hispania factum; eligerent ipsi quem cuncti exercitus comprobarent.",
       "wikiLinks": {
         "Vindex": "https://en.wikipedia.org/wiki/Gaius_Julius_Vindex",
-        "Verginius Rufus": "https://en.wikipedia.org/wiki/Lucius_Verginius_Rufus"
+        "Upper Germany": "https://en.wikipedia.org/wiki/Germania_Superior"
       }
     },
     {
@@ -174,7 +181,10 @@
       "heading": "Chapter 19",
       "en": "1 As he was offering sacrifice on the morning before he was killed, a soothsayer warned him again and again to look out for danger, since assassins were not far off. Not long after this he learned that Otho held possession of the Camp, and when several advised him to proceed thither as soon as possible — for they said that he could win the day by his presence and prestige — he decided to do no more than hold his present position and strengthen it by getting together a guard of the legionaries, who were encamped in many different quarters of the city. He did however put on a linen cuirass, though he openly declared that it would afford little protection against so many swords.\n\n2 But he was lured out by false reports, circulated by the conspirators to induce him to appear in public; for when a few rashly assured him that the trouble was over, that the rebels had been overthrown, and that the rest were coming in a body to offer their congratulations, ready to submit to all his orders, he went out to meet them with so much confidence, that when one of the soldiers boasted that he had slain Otho, he asked him, \"On whose authority?\" and then he went on as far as the Forum. There the horsemen who had been bidden to slay him, spurring their horses through the streets and dispersing the crowd of civilians, caught sight of him from a distance and halted for a moment. Then they rushed upon him again and butchered him, abandoned by his followers.",
       "la": "1 Prius vero quam occideretur sacrificantem mane haruspex identidem monuit, caveret periculum, non longe percussores abesse. Haud multo post cognoscit teneri castra ab Othone, ac plerisque ut eodem quam primum pergeret suadentibus — posse enim auctoritate et praesentia praevalere — nihil amplius quam continere se statuit et legionariorum firmare praesidiis, qui multifariam diverseque tendebant. Loricam tamen induit linteam, quanquam haud dissimulans parum adversum tot mucrones profuturam.\n\n2 Sed extractus rumoribus falsis, quos conspirati, ut eum in publicum elicerent, de industria dissiparant, paucis temere affirmantibus transactum negotium, oppressos, qui tumultuarentur, advenire frequentis ceteros gratulabundos et in omne obsequium paratos, iis ut occurreret prodiit tanta fiducia, ut militi cuidam occisum a se Othonem glorianti: \"Quo auctore?\" responderit; atque in forum usque processit. Ibi equites, quibus mandata caedes erat, cum per publicum dimota paganorum turba equos adegissent, viso procul eo parumper restiterunt; dein rursum incitati desertum a suis contrucidarunt.",
-      "wikiLinks": {}
+      "wikiLinks": {
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Otho": "https://en.wikipedia.org/wiki/Otho"
+      }
     },
     {
       "heading": "Chapter 20",
@@ -195,14 +205,17 @@
       "heading": "Chapter 22",
       "en": "1 It is said that he was a heavy eater and in winter time was in the habit of taking food even before daylight, while at dinner he helped himself so lavishly that he would have the leavings which remained in a heap before him passed along and distributed among the attendants who waited on him. He was more inclined to unnatural desire,⁠ a and in gratifying it preferred full-grown, strong men. They say that when Icelus, one of his old-time favourites, brought him news in Spain of Nero's death, he not only received him openly with the fondest kisses, but begged him to prepare himself without delay and took him one side.",
       "la": "1 Cibi plurimi traditur, quem tempore hiberno etiam ante lucem capere consuerat, inter cenam vero usque eo abundantis,⁠ 22 ut congestas super manus reliquias circumferri iuberet spargique ad pedes stantibus. Libidinis in mares pronior⁠ 23 et eos non nisi praeduros exoletosque: ferebant in Hispania Icelum e veteribus concubinis de Neronis exitu nuntiantem non modo artissimis osculis palam exceptum ab eo, sed ut sine mora velleretur oratum atque seductum.",
-      "wikiLinks": {}
+      "wikiLinks": {
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Nero": "https://en.wikipedia.org/wiki/Nero"
+      }
     },
     {
       "heading": "Chapter 23",
       "en": "1 He met his end in the seventy-third year of his age and the seventh month of his reign. The senate, as soon as it was allowed to do so, voted him a statue standing upon a column adorned with the beaks of ships, in the part of the Forum where he was slain; but Vespasian annulled this decree, believing that Galba had sent assassins from Spain to Judaea, to take his life.",
       "la": "1 Periit tertio et septuagesimo aetatis anno, imperii mense septimo. Senatus, ut primum licitum est, statuam ei decreverat rostratae columnae superstantem in parte Fori, qua trucidatus est; sed decretum Vespasianus abolevit, percussores sibi ex Hispania in Iudaeam submisisse opinatus.",
       "wikiLinks": {
-        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(province)"
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
       }
     }
   ],

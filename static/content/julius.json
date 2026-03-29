@@ -15,7 +15,7 @@
         "Mamercus Aemilius": "https://en.wikipedia.org/wiki/Mamercus_Aemilius_Lepidus_Livianus",
         "Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
         "Cornelia": "https://en.wikipedia.org/wiki/Cornelia_(wife_of_Julius_Caesar)",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(aunt_of_Julius_Caesar)",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Vestal virgins": "https://en.wikipedia.org/wiki/Vestal_Virgin",
         "consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "equestrian": "https://en.wikipedia.org/wiki/Equites"
@@ -39,7 +39,7 @@
       "la": "1 Meruit et sub Servilio Isaurico in Cilicia, sed brevi tempore. Nam Sullae morte comperta, simul spe novae dissensionis, quae per Marcum Lepidum movebatur, Romam propere redit. Et Lepidi quidem societate, quamquam magnis condicionibus invitaretur, abstinuit, cum ingenio eius diffisus tum occasione, quam minorem opinione offenderat.",
       "wikiLinks": {
         "Cilicia": "https://en.wikipedia.org/wiki/Cilicia_(Roman_province)",
-        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(died_77_BC)",
+        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
     },
@@ -63,7 +63,7 @@
       "wikiLinks": {
         "Sertorius": "https://en.wikipedia.org/wiki/Sertorius",
         "Lucius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
-        "Lucius Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna_(son)",
+        "Lucius Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
         "Plotius": "https://en.wikipedia.org/wiki/Lucius_Plotius_Gallus",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla"
       }
@@ -119,7 +119,7 @@
         "Autronius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
         "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
-        "Gnaeus Piso": "https://en.wikipedia.org/wiki/Gnaeus_Calpurnius_Piso_(praetor)",
+        "Gnaeus Piso": "https://en.wikipedia.org/wiki/Gnaeus_Calpurnius_Piso",
         "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "Publius Sulla": "https://en.wikipedia.org/wiki/Publius_Cornelius_Sulla",
         "Tanusius Geminus": "https://en.wikipedia.org/wiki/Tanusius_Geminus",
@@ -150,7 +150,7 @@
         "Egypt": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Cimbri": "https://en.wikipedia.org/wiki/Cimbri",
-        "Cornelian laws": "https://en.wikipedia.org/wiki/Leges_Corneliae",
+        "Cornelian laws": "https://en.wikipedia.org/wiki/Lex_Cornelia",
         "Gaius Marius": "https://en.wikipedia.org/wiki/Gaius_Marius",
         "Jugurtha": "https://en.wikipedia.org/wiki/Jugurtha",
         "Teutoni": "https://en.wikipedia.org/wiki/Teutons",
@@ -163,7 +163,7 @@
       "en": "1 He also bribed a man to bring a charge of high treason against Gaius Rabirius, who some years before had rendered conspicuous service to the senate in repressing the seditious designs of the tribune Lucius Saturninus; and when he had been selected by lot to sentence the accused, he did so with such eagerness, that when Rabirius appealed to the people, nothing was so much in his favour as the bitter hostility of his judge.",
       "la": "1 Subornavit etiam qui Gaio Rabirio perduellionis diem diceret, quo praecipuo adiutore aliquot ante annos Luci Saturnini seditiosum tribunatum senatus coercuerat, ac sorte iudex in reum ductus tam cupide condemnavit, ut ad populum provocanti nihil aeque ac iudicis acerbitas profuerit.",
       "wikiLinks": {
-        "Gaius Rabirius": "https://en.wikipedia.org/wiki/Gaius_Rabirius_(Roman_politician)",
+        "Gaius Rabirius": "https://en.wikipedia.org/wiki/Gaius_Rabirius",
         "Lucius Saturninus": "https://en.wikipedia.org/wiki/Lucius_Appuleius_Saturninus"
       }
     },
@@ -259,7 +259,7 @@
       "en": "1 At about the same time he took to wife Calpurnia, daughter of Lucius Piso, who was to succeed him in the consul ­ship, and affianced his own daughter Julia to Gnaeus Pompeius, breaking a previous engagement with Servilius Caepio, although the latter had shortly before rendered him conspicuous service in his contest with Bibulus. And after this new alliance he began to call upon Pompey first to give his opinion in the senate, although it had been his habit to begin with Crassus, and it was the rule for the consul in calling for opinions to continue throughout the year the order which he had established on the Kalends of January.",
       "la": "1 Sub idem tempus Calpurniam L. Pisonis filiam successuri sibi in consulatu duxit uxorem suamque, Iuliam, Gnaeo Pompeio conlocavit repudiato priore sponso Servilio Caepione, cuius vel praecipua opera paulo ante Bibulum inpugnaverat. Ac post novam adfinitatem Pompeium primum rogare sententiam coepit, cum Crassum soleret essetque consuetudo, ut quem ordinem interrogandi sententias consul Kal. Ianuariis instituisset, eum toto anno conservaret.",
       "wikiLinks": {
-        "Servilius Caepio": "https://en.wikipedia.org/wiki/Quintus_Servilius_Caepio_(quaestor)",
+        "Servilius Caepio": "https://en.wikipedia.org/wiki/Quintus_Servilius_Caepio",
         "of Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Caesoninus",
         "wife Calpurnia": "https://en.wikipedia.org/wiki/Calpurnia_(wife_of_Caesar)"
       }
@@ -310,7 +310,7 @@
         "Rhone": "https://en.wikipedia.org/wiki/Rhône",
         "Titurius": "https://en.wikipedia.org/wiki/Quintus_Titurius_Sabinus",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "the Cévennes": "https://en.wikipedia.org/wiki/Cévennes"
+        "the Cévennes": "https://en.wikipedia.org/wiki/C%C3%A9vennes"
       }
     },
     {
@@ -428,7 +428,7 @@
       "la": "1 Omnibus civilibus bellis nullam cladem nisi per legatos suos passus est, quorum C. Curio in Africa periit, C. Antonius in Illyrico in adversariorum devenit potestatem, P. Dolabella classem in eodem Illyrico, Cn. Domitius Calvinus in Ponto exercitum amiserunt. Ipse prosperrime semper ac ne ancipiti quidem umquam fortuna praeterquam bis dimicavit; semel ad Dyrrachium, ubi pulsus non instante Pompeio negavit eum vincere scire, iterum in Hispania ultimo proelio, desperatis rebus etiam de consciscenda nece cogitavit.",
       "wikiLinks": {
         "Dyrrachium": "https://en.wikipedia.org/wiki/Dyrrachium",
-        "Gaius Antonius": "https://en.wikipedia.org/wiki/Gaius_Antonius_(triumvir's_brother)",
+        "Gaius Antonius": "https://en.wikipedia.org/wiki/Gaius_Antonius_(brother_of_Mark_Antony)",
         "Gnaeus Domitius Calvinus": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Calvinus",
         "Illyricum, Publius Dolabella": "https://en.wikipedia.org/wiki/Publius_Cornelius_Dolabella",
         "Pontus": "https://en.wikipedia.org/wiki/Kingdom_of_Pontus"
@@ -490,7 +490,7 @@
         "praetors, aediles": "https://en.wikipedia.org/wiki/Aedile",
         "quaestors": "https://en.wikipedia.org/wiki/Quaestor",
         "senatorial orders": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "tribunes of the treasury": "https://en.wikipedia.org/wiki/Tribuni_aerarii"
+        "tribunes of the treasury": "https://en.wikipedia.org/wiki/Tribunus_aerarius"
       }
     },
     {
@@ -564,8 +564,8 @@
         "Licinius Calvus": "https://en.wikipedia.org/wiki/Gaius_Licinius_Macer_Calvus",
         "Marcus Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Nicomedes": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
-        "Nysa": "https://en.wikipedia.org/wiki/Nysa_(daughter_of_Nicomedes)",
-        "daughter of Nicomedes": "https://en.wikipedia.org/wiki/Nysa_(daughter_of_Nicomedes)",
+        "Nysa": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
+        "daughter of Nicomedes": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
         "elder Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)"
       }
     },
@@ -580,7 +580,7 @@
         "Postumia, wife": "https://en.wikipedia.org/wiki/Postumia_(wife_of_Servius_Sulpicius_Rufus)",
         "Servilia": "https://en.wikipedia.org/wiki/Servilia_(mother_of_Brutus)",
         "Servius Sulpicius, Lollia": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Rufus",
-        "Tertia": "https://en.wikipedia.org/wiki/Tertia_(daughter_of_Servilia)",
+        "Tertia": "https://en.wikipedia.org/wiki/Tertia_(gens)",
         "younger Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)"
       }
     },
@@ -594,8 +594,8 @@
       "en": "1 He had love affairs with queens too, including Eunoe the Moor, wife of Bogudes, on whom, as well as on her husband, he bestowed many splendid presents, as Naso writes; but above all with Cleopatra, with whom he often feasted until daybreak, and he would have gone through Egypt with her in her state-barge almost to Aethiopia, had not his soldiers refused to follow him. Finally he called her to Rome and did not let her leave until he had ladened her with high honours and rich gifts, and he allowed her to give his name to the child which she bore.\n\n2 In fact, according to certain Greek writers, this child was very like Caesar in looks and carriage. Mark Antony declared to the senate that Caesar had really acknowledged the boy, and that Gaius Matius, Gaius Oppius, and other friends of Caesar knew this. Of these Gaius Oppius, as if admitting that the situation required apology and defence, published a book, to prove that the child whom Cleopatra fathered on Caesar was not his.\n\n3 Helvius Cinna, tribune of the commons, admitted to several that he had a bill drawn up in due form, which Caesar had ordered him to propose to the people in his absence, making it lawful for Caesar to marry what wives he wished, and as many as he wished, \"for the purpose of begetting children.\" But to remove all doubt that he had an evil reputation both for shameless vice and for adultery, I have only to add that the elder Curio in one of his speeches calls him \"every woman's man and every man's woman.\"",
       "la": "1 Dilexit et reginas, inter quas Eunoen Mauram Bogudis uxorem, cui maritoque eius plurima et immensa tribuit, ut Naso⁠ 35 scripsit; sed maxime Cleopatram, cum qua et convivia in primam lucem saepe protraxit et eadem nave thalamego paene Aethiopia tenus Aegyptum penetravit, nisi exercitus sequi recusasset, quam denique accitam in urbem non nisi maximis honoribus praemiisque auctam remisit filiumque natum appellare nomine suo passus est.\n\n2 Quem quidem nonnulli Graecorum similem quoque Caesari et forma et incessu tradiderunt. M. Antonius adgnitum etiam ab eo senatui adfirmavit, idque⁠ 36 scire C. Matium et C. Oppium reliquosque Caesaris amicos; quorum Gaius Oppius, quasi plane defensione ac patrocinio res egeret, librum edidit, non esse Caesaris filium, quem Cleopatra dicat.\n\n3 Helvius Cinna tr. pl. plerisque confessus est habuisse se scriptam paratamque legem, quam Caesar ferre iussisset cum ipse abesset, uti uxores liberorum quaerendorum causa quas et quot vellet ducere liceret. At ne cui dubium omnino sit et impudicitiae et adulteriorum flagrasse infamia, Curio pater quadam eum oratione omnium mulierum virum et omnium virorum mulierem appellat.",
       "wikiLinks": {
-        "Bogudes": "https://en.wikipedia.org/wiki/Bogud_of_Mauretania",
-        "Eunoe the Moor": "https://en.wikipedia.org/wiki/Eunoe_(Queen_of_Mauretania)",
+        "Bogudes": "https://en.wikipedia.org/wiki/Bogud",
+        "Eunoe the Moor": "https://en.wikipedia.org/wiki/Euno%C3%AB_(wife_of_Bogud)",
         "Cleopatra": "https://en.wikipedia.org/wiki/Cleopatra"
       }
     },
@@ -780,7 +780,7 @@
       "en": "1 Then at the request of his father-in‑law, Lucius Piso, the will was unsealed and read in Antony's house, which Caesar had made on the preceding Ides of September at his place near Lavicum, and put in the care of the chief of the Vestals. Quintus Tubero states that from his first consul ­ship until the beginning of the civil war it was his wont to write down Gnaeus Pompeius as his heir, and to read this to the assembled soldiers.\n\n2 In his last will, however, he named three heirs, his sisters' grandsons, Gaius Octavius, to three-fourths of his estate, and Lucius Pinarius and Quintus Pedius to share the remainder. At the end of the will, too, he adopted Gaius Octavius into his family and gave him his name. He named several of his assassins among the guardians of his son, in case one should be born to him, and Decimus Brutus even among his heirs in the second degree. To the people he left his gardens near the Tiber for their common use and three hundred sesterces to each man.",
       "la": "1 Postulante ergo Lucio Pisone socero testamentum eius aperitur recitaturque in Antoni domo, quod Idibus Septembribus proximis in Lavicano suo fecerat demandaveratque virgini Vestali maximae. Quintus Tubero tradit heredem ab eo scribi solitum ex consulatu ipsius primo usque ad initium civilis belli Cn. Pompeium, idque militibus pro contione recitatum.\n\n2 Sed novissimo testamento tres instituit heredes sororum nepotes, Gaium Octavium ex dodrante, et Lucium Pinarium et Quintum Pedium ex quadrante reliquo;⁠ 58 in ima cera Gaium Octavium etiam in familiam nomenque adoptavit; plerosque percussorum in tutoribus fili, si qui sibi nasceretur, nominavit, Decimum Brutum etiam in secundis heredibus. Populo hortos circa Tiberim publice et viritim trecenos sestertios legavit.",
       "wikiLinks": {
-        "Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calurnius_Piso",
+        "Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso",
         "Gaius Octavius": "https://en.wikipedia.org/wiki/Augustus",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Vestals": "https://en.wikipedia.org/wiki/Vestal_Virgins",
@@ -829,7 +829,7 @@
       "wikiLinks": {
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
-        "Comet": "https://en.wikipedia.org/wiki/Julius_Caesar%27s_comet",
+        "Comet": "https://en.wikipedia.org/wiki/Caesar%27s_comet",
         "apotheosis": "https://en.wikipedia.org/wiki/Apotheosis"
       }
     },

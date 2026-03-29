@@ -11,7 +11,7 @@
       "wikiLinks": {
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
         "Cotta": "https://en.wikipedia.org/wiki/Aurelius_Cotta",
-        "Marius": "https://en.wikipedia.org/wiki/Gaius_Marius",
+        "Marius": "https://en.wikipedia.org/wiki/Marius_(general)",
         "Mamercus Aemilius": "https://en.wikipedia.org/wiki/Mamercus_Aemilius_Lepidus_Livianus",
         "Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
         "Cornelia": "https://en.wikipedia.org/wiki/Cornelia_(wife_of_Julius_Caesar)",
@@ -41,7 +41,8 @@
         "Cilicia": "https://en.wikipedia.org/wiki/Cilicia_(Roman_province)",
         "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
-        "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
+        "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -66,7 +67,9 @@
         "Lucius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
         "Lucius Cinna": "https://en.wikipedia.org/wiki/Lucius_Cornelius_Cinna",
         "Plotius": "https://en.wikipedia.org/wiki/Lucius_Plotius_Gallus",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
       }
     },
     {
@@ -86,7 +89,8 @@
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
         "the Marcii": "https://en.wikipedia.org/wiki/Marcia_gens",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
       }
     },
     {
@@ -97,7 +101,8 @@
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
         "Gades": "https://en.wikipedia.org/wiki/Gades",
         "Alexander the Great": "https://en.wikipedia.org/wiki/Alexander_the_Great",
-        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -105,7 +110,7 @@
       "en": "1 Departing therefore before his term was over, he went to the Latin colonies which were in a state of unrest and meditating a demand for citizen ­ship; and he might have spurred them on to some rash act, had not the consuls, in anticipation of that very danger, detained there for a time the legions which had been enrolled for service in Cilicia.",
       "la": "1 Decedens ergo ante tempus colonias Latinas de petenda civitate agitantes adiit, et ad audendum aliquid concitasset, nisi consules conscriptas in Ciliciam legiones paulisper ob id ipsum retinuissent.",
       "wikiLinks": {
-        "Cilicia": "https://en.wikipedia.org/wiki/Cilicia",
+        "Cilicia": "https://en.wikipedia.org/wiki/Cilicia_(Roman_province)",
         "consuls": "https://en.wikipedia.org/wiki/Roman_consul"
       }
     },
@@ -115,17 +120,20 @@
       "la": "1 Nec eo setius maiora mox in urbe molitus est; siquidem ante paucos dies quam aedilitatem iniret, venit in suspicionem conspirasse cum Marco Crasso consulari, item Publio Sulla et L. Autronio post designationem consulatus ambitus condemnatis, ut principio anni senatum adorirentur, et trucidatis quos placitum esset, dictaturam Crassus invaderet, ipse ab eo magister equitum diceretur constitutaque ad arbitrium re publica Sullae et Autronio consulatus restitueretur.\n\n2 Meminerunt huius coniurationis Tanusius Geminus in historia, Marcus Bibulus in edictis, C. Curio pater in orationibus. De hac significare videtur et Cicero in quadam ad Axium epistula referens Caesarem in consulatu confirmasse regnum, de quo aedilis cogitarat. Tanusius adicit Crassum paenitentia vel metu diem caedi destinatum non obisse et idcirco ne Caesarem quidem signum, quod ab eo dari convenerat, dedisse; convenisse autem Curio ait, ut togam de umero deiceret.\n\n3 Idem Curio sed et M. Actorius Naso auctores sunt conspirasse eum etiam cum Gnaeo Pisone adulescente, cui ob suspicionem urbanae coniurationis provincia Hispania ultro extra ordinem data sit; pactumque ut simul foris ille, ipse Romae ad res novas consurgerent, per Ambranos⁠ 2 et Transpadanos; destitutum utriusque consilium morte Pisonis.",
       "wikiLinks": {
         "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
-        "Marcus Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
-        "Gaius Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)",
+        "Marcus Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
+        "Gaius Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
         "Autronius": "https://en.wikipedia.org/wiki/Lucius_Autronius_Paetus",
-        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "Gnaeus Piso": "https://en.wikipedia.org/wiki/Gnaeus_Calpurnius_Piso",
         "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "Publius Sulla": "https://en.wikipedia.org/wiki/Publius_Cornelius_Sulla",
         "Tanusius Geminus": "https://en.wikipedia.org/wiki/Tanusius_Geminus",
         "the elder": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania"
       }
     },
     {
@@ -133,11 +141,11 @@
       "en": "1 When aedile, Caesar decorated not only the Comitium and the Forum with its adjacent basilicas, but the Capitol as well, building temporary colonnades for the display of a part of his material. He exhibited combats with wild beasts and stage-plays too, both with his colleague and independently. The result was that Caesar alone took all the credit even for what they spent in common, and his colleague Marcus Bibulus openly said that his was the fate of Pollux: \"For,\" said he, \"just as the temple erected in the Forum to the twin brethren, bears only the name of Castor, so the joint liberality of Caesar and myself is credited to Caesar alone.\"\n\n2 Caesar gave a gladiatorial show besides, but with somewhat fewer pairs of combatants than he had purposed; for the huge band which he assembled from all quarters so terrified his opponents, that a bill was passed limiting the number of gladiators which anyone was to be allowed to keep in the city.",
       "la": "1 Aedilis praeter Comitium ac Forum basilicasque etiam Capitolium ornavit porticibus ad tempus extructis, in quibus abundante rerum copia pars apparatus exponeretur. Venationes autem ludosque et cum collega et separatim edidit, quo factum est, ut communium quoque inpensarum solus gratiam caperet nec dissimularet collega eius Marcus Bibulus, evenisse sibi quod Polluci; ut enim geminis fratribus aedes in Foro constituta tantum Castoris vocaretur, ita suam Caesarisque munificentiam unius Caesaris dici.\n\n2 Adiecit insuper Caesar etiam gladiatorium munus, sed aliquanto paucioribus quam destinaverat paribus; nam cum multiplici undique familia conparata inimicos exterruisset, cautum est de numero gladiatorum, quo ne maiorem cuiquam habere Romae liceret.",
       "wikiLinks": {
-        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
         "Castor": "https://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux",
         "Comitium": "https://en.wikipedia.org/wiki/Comitium",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Marcus Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
+        "Marcus Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
         "Pollux": "https://en.wikipedia.org/wiki/Temple_of_Castor_and_Pollux",
         "aedile": "https://en.wikipedia.org/wiki/Aedile",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator"
@@ -148,7 +156,7 @@
       "en": "1 Having won the goodwill of the masses, Caesar made an attempt through some of the tribunes to have the charge of Egypt given him by a decree of the commons, seizing the opportunity to ask for so irregular an appointment because the citizens of Alexandria had deposed their king, who had been named by the senate an ally and friend of the Roman people, and their action was generally condemned. He failed however because of the opposition of the aristocratic party; wishing therefore to impair their prestige in every way he could, he restored the trophies commemorating the victories of Gaius Marius over Jugurtha and over the Cimbri and Teutoni, which Sulla had long since demolished. Furthermore in conducting prosecutions for murder, he included in the number of murderers even those who had received moneys from the public treasury during the proscriptions for bringing in the heads of Roman citizens, although they were expressly exempted by the Cornelian laws.",
       "la": "[11] Conciliato populi favore temptavit per partem tribunorum, ut sibi Aegyptus provincia plebiscito daretur, nanctus extra ordinarii imperii occasionem, quod Alexandrini regem suum socium atque amicum a senatu appellatum expulerant resque vulgo inprobabatur. Nec obtinuit adversante optimatium factione: quorum auctoritatem ut quibus posset modis in vicem deminueret, tropaea Gai Mari de Iugurtha deque Cimbris atque Teutonis olim a Sulla disiecta restituit atque in exercenda de sicaris quaestione eos quoque sicariorum numero habuit, qui proscriptione ob relata civium Romanorum capita pecunias ex aerario acceperant, quamquam exceptos Corneliis legibus.",
       "wikiLinks": {
-        "Egypt": "https://en.wikipedia.org/wiki/Ptolemaic_Kingdom",
+        "Egypt": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Cimbri": "https://en.wikipedia.org/wiki/Cimbri",
         "Cornelian laws": "https://en.wikipedia.org/wiki/Lex_Cornelia",
@@ -156,7 +164,7 @@
         "Jugurtha": "https://en.wikipedia.org/wiki/Jugurtha",
         "Teutoni": "https://en.wikipedia.org/wiki/Teutons",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
-        "Marius": "https://en.wikipedia.org/wiki/Gaius_Marius"
+        "Marius": "https://en.wikipedia.org/wiki/Marius_(general)"
       }
     },
     {
@@ -188,7 +196,8 @@
         "House": "https://en.wikipedia.org/wiki/Roman_Senate",
         "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
         "Roman knights": "https://en.wikipedia.org/wiki/Equites",
-        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus"
       }
     },
     {
@@ -197,7 +206,8 @@
       "la": "1 Primo praeturae die Quintum Catulum de refectione Capitoli ad disquisitionem populi vocavit rogatione promulgata, qua curationem eam in alium transferebat; verum impar optimatium conspirationi, quos relicto statim novorum consulum officio frequentes obstinatosque ad resistendum concucurrisse cernebat, hanc quidem actionem deposuit.",
       "wikiLinks": {
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Quintus Catulus": "https://en.wikipedia.org/wiki/Quintus_Lutatius_Catulus_(consul_78_BC)"
+        "Quintus Catulus": "https://en.wikipedia.org/wiki/Quintus_Lutatius_Catulus_(consul_78_BC)",
+        "Catulus": "https://en.wikipedia.org/wiki/Catulus"
       }
     },
     {
@@ -207,7 +217,8 @@
       "wikiLinks": {
         "Caecilius Metellus, tribune of the commons": "https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Nepos",
         "lictors": "https://en.wikipedia.org/wiki/Lictor",
-        "senate": "https://en.wikipedia.org/wiki/Roman_Senate"
+        "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
+        "Metellus": "https://en.wikipedia.org/wiki/Caecilius_Metellus"
       }
     },
     {
@@ -235,13 +246,16 @@
       "en": "1 Of the two other candidates for this office, Lucius Lucceius and Marcus Bibulus, Caesar joined forces with the former, making a bargain with him that since Lucceius had less influence but more funds, he should in their common name promise largess to the electors from his own pocket. When this became known, the aristocracy authorized Bibulus to promise the same amount, being seized with fear that Caesar would stick at nothing when he became chief magistrate, if he had a colleague who was heart and soul with him. Many of them contributed to the fund, and even Cato did not deny that bribery under such circumstances was for the good of the commonwealth.\n\n2 So Caesar was chosen consul with Bibulus. With the same motives the aristocracy took care that provinces of the smallest importance should be assigned to the newly elected consuls; that is, mere woods and pastures. Thereupon Caesar, especially incensed by this slight, by every possible attention courted the goodwill of Gnaeus Pompeius, who was at odds with the senate because of its tardiness in ratifying his acts after his victory over king Mithridates. He also patched up a peace between Pompeius and Marcus Crassus, who had been enemies since their consul ­ship, which had been one of constant wrangling. Then he made a compact with both of them, that no step should be taken in public affairs which did not suit any one of the three.",
       "la": "1 E duobus consulatus competitoribus, Lucio Lucceio Marcoque Bibulo, Lucceium sibi adiunxit, pactus ut is, quoniam inferior gratia esset pecuniaque polleret, nummos de suo communi nomine per centurias pronuntiaret. Qua cognita re optimates, quos metus ceperat nihil non ausurum eum in summo magistratu concordi et consentiente collega, auctores Bibulo fuerunt tantundem pollicendi, ac plerique pecunias contulerunt, ne Catone quidem abnuente eam largitionem e re publica fieri.\n\n2 Igitur cum Bibulo consul creatur. Eandem ob causam opera ab optimatibus data est, ut provinciae futuris consulibus minimi negotii, id est silvae callesque,⁠ 5 decernerentur. Qua maxime iniuria instinctus omnibus officiis Gnaeum Pompeium adsectatus est offensum patribus, quod Mithridate rege victo cunctantius confirmarentur acta sua; Pompeioque Marcum Crassum reconciliavit veterem inimicum ex consulatu, quem summa discordia simul gesserant; ac societatem cum utroque iniit, ne quid ageretur in re publica, quod displicuisset ulli e tribus.",
       "wikiLinks": {
-        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Calpurnius_Bibulus",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
         "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Pompey",
         "Lucius Lucceius": "https://en.wikipedia.org/wiki/Lucius_Lucceius",
         "king Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
         "magistrate": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
-        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+        "Marcus Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
+        "Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
+        "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
       }
     },
     {
@@ -254,7 +268,10 @@
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
         "publicans": "https://en.wikipedia.org/wiki/Publicani",
         "the lictors": "https://en.wikipedia.org/wiki/Lictor",
-        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
+        "Publius Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
       }
     },
     {
@@ -265,7 +282,10 @@
         "Servilius Caepio": "https://en.wikipedia.org/wiki/Quintus_Servilius_Caepio",
         "of Lucius Piso": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Caesoninus",
         "wife Calpurnia": "https://en.wikipedia.org/wiki/Calpurnia_(wife_of_Caesar)",
-        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius"
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
       }
     },
     {
@@ -278,7 +298,8 @@
         "Gallia Comata": "https://en.wikipedia.org/wiki/Gallia_Comata",
         "Gauls": "https://en.wikipedia.org/wiki/Gaul",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "the bill of Vatinius": "https://en.wikipedia.org/wiki/Publius_Vatinius"
+        "the bill of Vatinius": "https://en.wikipedia.org/wiki/Publius_Vatinius",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul"
       }
     },
     {
@@ -286,8 +307,9 @@
       "en": "1 When at the close of his consul ­ship the praetors Gaius Memmius and Lucius Domitius moved an inquiry into his conduct during the previous year, Caesar laid the matter before the senate; and when they failed to take it up, and three days had been wasted in fruitless wrangling, went off to his province. Whereupon his quaestor was at once arraigned on several counts, as a preliminary to his own impeachment. Presently he himself too was prosecuted by Lucius Antistius, tribune of the commons, and it was only by appealing to the whole college that he contrived not to be brought to trial, on the ground that he was absent on public service.\n\n2 Then to secure himself for the future, he took great pains always to put the magistrates for the year under personal obligation, and not to aid any candidates or suffer any to be elected, save such as guaranteed to defend him in his absence. And he did not hesitate in some cases to exact an oath to keep this pledge or even a written contract.",
       "la": "1 Functus consulatu Gaio Memmio Lucioque Domitio praetoribus de superioris anni actis referentibus cognitionem senatui detulit; nec illo suscipiente triduoque per inritas altercationes absumpto in provinciam abiit. Et statim quaestor eius in praeiudicium aliquot criminibus arreptus est. Mox et ipse a Lucio Antistio tr. pl. postulatus appellato demum collegio optinuit, cum rei publicae causa abesset, reus ne fieret.\n\n2 Ad securitatem ergo posteri temporis in magno negotio habuit obligare semper annuos magistratus et e petitoribus non alios adiuvare aut ad honorem pati pervenire, quam qui sibi recepissent propugnaturos absentiam suam; cuius pacti non dubitavit a quibusdam ius iurandum atque etiam syngrapham exigere.",
       "wikiLinks": {
-        "Domitius": "https://en.wikipedia.org/wiki/Lucius_Domitius_Ahenobarbus_(consul_54_BC)",
-        "Gaius Memmius": "https://en.wikipedia.org/wiki/Gaius_Memmius_(praetor_58_BC)"
+        "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+        "Gaius Memmius": "https://en.wikipedia.org/wiki/Gaius_Memmius_(praetor_58_BC)",
+        "Memmius": "https://en.wikipedia.org/wiki/Gaius_Memmius"
       }
     },
     {
@@ -295,10 +317,12 @@
       "en": "1 When however Lucius Domitius, candidate for the consul ­ship, openly threatened to effect as consul what he had been unable to do as praetor, and to take his armies from him, Caesar compelled Pompeius and Crassus to come to Luca, a city in his province, where he prevailed on them to stand for a second consul ­ship, to defeat Domitius; and he also succeeded through their influence in having his term as governor of Gaul made five years longer.\n\n2 Encouraged by this, he added to the legions which he had received from the state others at his own cost, one actually composed of men of Transalpine Gaul and bearing a Gallic name too (for it was called Alauda ), which he trained in the Roman tactics and equipped with Roman arms; and later on he gave every man of it citizen ­ship.\n\n3 After that he did not let slip any pretext for war, however unjust and dangerous it might be, picking quarrels as well with allied, as with hostile and barbarous nations; so that once the senate decreed that a commission be sent to inquire into the condition of the Gallic provinces, and some even recommended that Caesar be handed over to the enemy. But as his enterprises prospered, thanksgivings were appointed in his honour oftener and for longer periods than for anyone before his time.",
       "la": "1 Sed cum Lucius Domitius consulatus candidatus palam minaretur consulem se effecturum quod praetor nequisset adempturumque ei exercitus, Crassum Pompeiumque in urbem provinciae suae Lucam extractos conpulit, ut detrudendi Domitii causa consulatum alterum peterent, perfecitque per 11 utrumque, ut in quinquennium sibi imperium prorogaretur.\n\n2 Qua fiducia ad legiones, quas a re publica acceperat, alias privato sumptu addidit, unam etiam ex Transalpinis conscriptam, vocabulo quoque Gallico — Alauda enim appellabatur —, quam disciplina cultuque Romano institutam et ornatam postea universam civitate donavit.\n\n3 Nec deinde ulla belli occasione, ne⁠ 12 iniusti quidem ac periculosi abstinuit, tam foederatis quam infestis ac feris gentibus ultro lacessitis, adeo ut senatus quondam legatos ad explorandum statum Galliarum mittendos decreverit ac nonnulli dedendum eum hostibus censuerint. Sed prospere cedentibus⁠ 13 rebus et saepius et plurium quam quisquam umquam dierum supplicationes impetravit.",
       "wikiLinks": {
-        "Domitius": "https://en.wikipedia.org/wiki/Lucius_Domitius_Ahenobarbus_(consul_54_BC)",
+        "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Luca": "https://en.wikipedia.org/wiki/Conference_of_Luca",
         "Lucius Domitius": "https://en.wikipedia.org/wiki/Lucius_Domitius_Ahenobarbus_(consul_54_BC)",
-        "Transalpine Gaul": "https://en.wikipedia.org/wiki/Gallia_Transalpina"
+        "Transalpine Gaul": "https://en.wikipedia.org/wiki/Gallia_Transalpina",
+        "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul"
       }
     },
     {
@@ -314,7 +338,10 @@
         "Rhone": "https://en.wikipedia.org/wiki/Rh%C3%B4ne",
         "Titurius": "https://en.wikipedia.org/wiki/Quintus_Titurius_Sabinus",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "the Cévennes": "https://en.wikipedia.org/wiki/C%C3%A9vennes"
+        "the Cévennes": "https://en.wikipedia.org/wiki/C%C3%A9vennes",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Britain": "https://en.wikipedia.org/wiki/Britannia",
+        "Germany": "https://en.wikipedia.org/wiki/Germania"
       }
     },
     {
@@ -324,7 +351,9 @@
       "wikiLinks": {
         "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Pompey",
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
-        "Publius Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
+        "Publius Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -333,10 +362,11 @@
       "la": "1 Ad retinendam autem Pompei necessitudinem ac voluntatem Octaviam sororis suae neptem, quae Gaio Marcello nupta erat, condicionem ei detulit sibique filiam eius in matrimonium petit Fausto Sullae destinatam. Omnibus vero circa eum atque etiam parte magna senatus gratuito aut levi faenore obstrictis, ex reliquo ordinum genere vel invitatos vel sponte ad se commeantis uberrimo congiario prosequebatur,⁠ 17 libertos insuper servulosque cuiusque, prout domino patronove gratus qui⁠ 18 esset.\n\n2 Iam⁠ 19 reorum aut obaeratorum aut prodigae iuventutis subsidium unicum ac promptissimum erat, nisi quos gravior criminum vel inopiae luxuriaeve vis urgeret, quam ut subveniri posset a se; his plane palam bello civili opus esse dicebat.",
       "wikiLinks": {
         "Gaius Marcellus": "https://en.wikipedia.org/wiki/Gaius_Claudius_Marcellus_Minor",
-        "Marcellus": "https://en.wikipedia.org/wiki/Gaius_Claudius_Marcellus_Minor",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia_Minor",
         "Faustus Sulla": "https://en.wikipedia.org/wiki/Faustus_Cornelius_Sulla",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -345,7 +375,13 @@
       "la": "1 Nec minore studio reges atque provincias per terrarum orbem adliciebat, aliis captivorum milia dono offerens, aliis citra senatus populique auctoritatem, quo vellent et quotiens vellent, auxilia submittens, superque Italiae Galliarumque et Hispaniarum, Asiae quoque et Graeciae potentissimas urbes praecipuis operibus exornans;\n\n2 donec, attonitis iam omnibus et quorsum illa tenderent reputantibus, Marcus Claudius Marcellus consul, edicto praefatus, de summa se re publica acturum, rettulit ad senatum, ut ei succederetur ante tempus, quoniam bello confecto pax esset ac dimitti deberet victori exercitus; et ne absentis ratio comitiis haberetur, quo nec plebiscito Pompeius postea abrogasset.\n\n3 Acciderat autem, ut is legem de iure magistratuum ferens eo capite, quo petitione honorum absentis submovebat, ne Caesarem quidem exciperet per oblivionem, ac mox lege iam in aes incisa et in aerarium condita corrigeret errorem. Nec contentus Marcellus provincias Caesari et privilegium eripere, rettulit etiam, ut colonis, quos rogatione Vatinia Novum Comum deduxisset, civitas adimeretur, quod per ambitionem et ultra praescriptum data esset.",
       "wikiLinks": {
         "Comum": "https://en.wikipedia.org/wiki/Como",
-        "Marcus Claudius Marcellus": "https://en.wikipedia.org/wiki/Marcus_Claudius_Marcellus_(consul_51_BC)"
+        "Marcus Claudius Marcellus": "https://en.wikipedia.org/wiki/Marcus_Claudius_Marcellus_(consul_51_BC)",
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -354,11 +390,15 @@
       "la": "1 Commotus his Caesar ac iudicans, quod saepe ex eo auditum ferunt, difficilius se principem civitatis a primo ordine in secundum quam ex secundo in novissimum detrudi, summa ope restitit, partim per intercessores tribunos, partim per Servium Sulpicium alterum consulem. Insequenti quoque anno Gaio Marcello, qui fratri patrueli suo Marco in consulatu successerat, eadem temptante collegam eius Aemilium Paulum Gaiumque Curionem violentissimum tribunorum ingenti mercede defensores paravit.\n\n2 Sed cum obstinatius omnia agi videret et designatos etiam consules e parte diversa, senatum litteris deprecatus est, ne sibi beneficium populi adimeretur, aut ut ceteri quoque imperatores ab exercitibus discederent; confisus, ut putant, facilius se, simul atque libuisset, veteranos convocaturum quam Pompeium novos milites. Cum adversariis autem pepigit, ut dimissis octo legionibus Transalpinaque Gallia duae sibi legiones et Cisalpina provincia vel etiam una legio cum Illyrico concederetur, quoad consul fieret.",
       "wikiLinks": {
         "Aemilius Paulus": "https://en.wikipedia.org/wiki/Lucius_Aemilius_Paullus_(consul_50_BC)",
-        "Gaius Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)",
+        "Gaius Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
         "Servius Sulpicius": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Rufus",
         "Transalpine Gaul": "https://en.wikipedia.org/wiki/Gallia_Transalpina",
-        "and Cisalpine Gaul": "https://en.wikipedia.org/wiki/Cisalpine_Gaul"
+        "and Cisalpine Gaul": "https://en.wikipedia.org/wiki/Cisalpine_Gaul",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul"
       }
     },
     {
@@ -377,7 +417,9 @@
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
         "Asinius Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
         "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius",
-        "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger"
+        "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus"
       }
     },
     {
@@ -405,7 +447,8 @@
       "la": "1 Atque ita traiecto exercitu, adhibitis tribunis plebis, qui pulsi supervenerant, pro contione fidem militum flens ac veste a pectore discissa invocavit. Existimatur etiam equestres census pollicitus singulis; quod accidit opinione falsa. Nam cum in adloquendo adhortandoque saepius digitum laevae manus ostentans adfirmaret se ad satis faciendum omnibus, per quos dignitatem suam defensurus esset, anulum quoque aequo animo detracturum sibi, extrema contio, cui facilius erat videre contionantem quam audire, pro dicto accepit, quod visu suspicabatur; promissumque ius anulorum cum milibus quadringenis fama distulit.",
       "wikiLinks": {
         "tribunes of the commons": "https://en.wikipedia.org/wiki/Tribune_of_the_plebs",
-        "knight's estate": "https://en.wikipedia.org/wiki/Equestrian_(Roman)"
+        "knight's estate": "https://en.wikipedia.org/wiki/Equestrian_(Roman)",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -419,7 +462,11 @@
         "Marcus Petreius, Lucius Afranius": "https://en.wikipedia.org/wiki/Marcus_Petreius",
         "Marcus Varro": "https://en.wikipedia.org/wiki/Marcus_Terentius_Varro",
         "Massilia": "https://en.wikipedia.org/wiki/Massalia",
-        "Umbria, Picenum": "https://en.wikipedia.org/wiki/Picenum"
+        "Umbria, Picenum": "https://en.wikipedia.org/wiki/Picenum",
+        "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania"
       }
     },
     {
@@ -427,17 +474,26 @@
       "en": "1 Returning thence to Rome, he crossed into Macedonia, and after blockading Pompey for almost four months behind mighty ramparts, finally routed him in the battle at Pharsalus, followed him in his flight to Alexandria, and when he learned that his rival had been slain, made war on King Ptolemy, whom he perceived to be plotting against his own safety as well; a war in truth of great difficulty, convenient neither in time nor place, but carried on during the winter season, within the walls of a well-provisioned and crafty foeman, while Caesar himself was without supplies of any kind and ill-prepared. Victor in spite of all, he turned over the rule of Egypt to Cleopatra and her younger brother, fearing that if he made a province of it, it might one day under a headstrong governor be a source of revolution.\n\n2 From Alexandria he crossed to Syria, and from there went to Pontus, spurred on by the news that Pharnaces, son of Mithridates the Great, had taken advantage of the situation to make war, and was already flushed with numerous successes; but Caesar vanquished him in a single battle within five days after his arrival and four hours after getting sight of him, often remarking on Pompey's good luck in gaining his principal fame as a general by victories over such feeble foemen. Then he overcame Scipio and Juba, who were patching up the remnants of their party in Africa, and the sons of Pompey in Spain.",
       "la": "1 Hinc urbe repetita in Macedoniam transgressus Pompeium, per quattuor paene menses maximis obsessum operibus, ad extremum Pharsalico proelio fudit et fugientem Alexandriam persecutus, ut occisum deprehendit, cum Ptolemaeo rege, a quo sibi quoque insidias tendi videbat, bellum sane difficillimum gessit, neque loco neque tempore aequo, sed hieme anni et intra moenia copiosissimi ac sollertissimi hostis, inops ipse omnium rerum atque inparatus. Regnum Aegypti victori Cleopatrae fratrique eius minori permisit, veritus provinciam facere, ne quandoque violentiorem praesidem nacta novarum rerum materia esset.\n\n2 Ab Alexandria in Syriam et inde Pontum transiit urgentibus de Pharnace nuntiis, quem Mithridatis Magni filium ac tunc occasione temporum bellantem⁠ 25 iamque multiplici successu praeferocem, intra quintum quam adfuerat diem, quattuor quibus in conspectum venit horis, una profligavit acie; crebro commemorans Pompei felicitatem, cui praecipua militiae laus de tam inbelli genere hostium contigisset. Dehinc Scipionem ac Iubam reliquias partium in Africa refoventis devicit, Pompei liberos in Hispania.",
       "wikiLinks": {
-        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria",
+        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Cleopatra": "https://en.wikipedia.org/wiki/Cleopatra",
         "Juba": "https://en.wikipedia.org/wiki/Juba_I_of_Numidia",
         "King": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
         "King Ptolemy": "https://en.wikipedia.org/wiki/Ptolemy_XIII_Theos_Philopator",
-        "Macedonia": "https://en.wikipedia.org/wiki/Macedonia_(Roman_province)",
+        "Macedonia": "https://en.wikipedia.org/wiki/Macedonia_(region)",
         "Pharnaces": "https://en.wikipedia.org/wiki/Pharnaces_II_of_Pontus",
-        "Pontus": "https://en.wikipedia.org/wiki/Kingdom_of_Pontus",
+        "Pontus": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
         "battle at Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
         "her younger brother": "https://en.wikipedia.org/wiki/Ptolemy_XIV",
-        "of Mithridates the Great": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator"
+        "of Mithridates the Great": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+        "Ptolemy": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+        "Egypt": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+        "Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
+        "Scipio": "https://en.wikipedia.org/wiki/Scipio_Africanus",
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania"
       }
     },
     {
@@ -449,7 +505,14 @@
         "Gaius Antonius": "https://en.wikipedia.org/wiki/Gaius_Antonius_(brother_of_Mark_Antony)",
         "Gnaeus Domitius Calvinus": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Calvinus",
         "Illyricum, Publius Dolabella": "https://en.wikipedia.org/wiki/Publius_Cornelius_Dolabella",
-        "Pontus": "https://en.wikipedia.org/wiki/Kingdom_of_Pontus"
+        "Pontus": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
+        "Gaius Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
+        "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
+        "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania"
       }
     },
     {
@@ -460,12 +523,13 @@
         "Alexandrian": "https://en.wikipedia.org/wiki/Alexandrian_War",
         "Gallic triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Pontic triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Scipio": "https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Pius_Scipio_Nasica",
+        "Scipio": "https://en.wikipedia.org/wiki/Scipio_Africanus",
         "Velabrum": "https://en.wikipedia.org/wiki/Velabrum",
         "the African": "https://en.wikipedia.org/wiki/Roman_triumph",
         "the Pontic": "https://en.wikipedia.org/wiki/Roman_triumph",
         "the Spanish": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "\"I came, I saw, I conquered,\"": "https://en.wikipedia.org/wiki/Veni,_vidi,_vici"
+        "\"I came, I saw, I conquered,\"": "https://en.wikipedia.org/wiki/Veni,_vidi,_vici",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -474,7 +538,8 @@
       "la": "1 Veteranis legionibus praedae nomine in pedites singulos super bina sestertia, quae initio civilis tumultus numeraverat, vicena quaterna milia nummum dedit. Adsignavit et agros, sed non continuos, ne quis possessorum expelleretur. Populo praeter frumenti denos modios ac totidem olei libras trecenos quoque nummos, quos pollicitus olim erat, viritim divisit et hoc amplius centenos pro mora.\n\n2 Annuam etiam habitationem Romae usque ad bina milia nummum, in Italia non ultra quingenos sestertios remisit. Adiecit epulum ac viscerationem et post Hispaniensem victoriam duo prandia; nam cum prius parce neque pro liberalitate sua praebitum iudicaret, quinto post die aliud largissimum praebuit.",
       "wikiLinks": {
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -490,7 +555,8 @@
         "Roman knight": "https://en.wikipedia.org/wiki/Equites",
         "Tyrian": "https://en.wikipedia.org/wiki/Tyrian_purple",
         "game called Troy": "https://en.wikipedia.org/wiki/Lusus_Troiae",
-        "knight": "https://en.wikipedia.org/wiki/Equites"
+        "knight": "https://en.wikipedia.org/wiki/Equites",
+        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus"
       }
     },
     {
@@ -520,7 +586,8 @@
       "en": "1 Moreover, to keep up the population of the city, depleted as it was by the assignment of eighty thousand citizens to colonies across the sea, he made a law that no citizen older than twenty or younger than forty, who was not detained by service in the army, should be absent from Italy for more than three successive years; that no senator's son should go abroad except as the companion of a magistrate or on his staff; and that those who made a business of grazing should have among their herdsmen at least one-third who were men of free birth. He conferred citizen ­ship on all who practised medicine at Rome, and on all teachers of the liberal arts, to make them more desirous of living in the city and to induce others to resort to it.\n\n2 As to debts, he disappointed those who looked for their cancellation, which was often agitated, but finally decreed that the debtors should satisfy their creditors according to a valuation of their possessions at the price what they had paid for them before the civil war, deducting from the principal whatever interest had been paid in cash or pledged through bankers; an arrangement which wiped out about a fourth part of their indebtedness.\n\n3 He dissolved all guilds, except those of ancient foundation. He increased the penalties for crimes; and inasmuch as the rich involved themselves in guilt with less hesitation because they merely suffered exile, without any loss of property, he punished murderers of freemen by the confiscation of all their goods, as Cicero writes, and others by the loss of one-half.",
       "la": "1 Octoginta autem civium milibus in transmarinas colonias distributis, ut exhaustae quoque urbis frequentia suppeteret, sanxit, ne quis civis maior annis viginti minorve quadraginta,⁠ 28 qui sacramento non teneretur, plus triennio continuo Italia abesset, neu qui senatoris filius nisi contubernalis aut comes magistratus peregre proficisceretur; neve ii, qui pecuariam facerent, minus tertia parte puberum ingenuorum inter pastores haberent. Omnisque medicinam Romae professos et liberalium artium doctores, quo libentius et ipsi urbem incolerent et ceteri adpeterent, civitate donavit.\n\n2 De pecuniis mutuis disiecta novarum tabularum expectatione, quae crebro movebatur, decrevit tandem, ut debitores creditoribus satis facerent per aestimationem possessionum, quanti quasque ante civile bellum comparassent, deducto summae aeris alieni, si quid usurae nomine numeratum aut perscriptum fuisset; qua condicione quarta pars fere crediti deperibat.\n\n3 Cuncta collegia praeter antiquitus constituta distraxit. Poenas facinorum auxit; et cum locupletes eo facilius scelere se obligarent, quod integris patrimoniis exsulabant, parricidas, ut Cicero scribit, bonis omnibus, reliquos dimidia parte multavit.",
       "wikiLinks": {
-        "senator": "https://en.wikipedia.org/wiki/Latus_clavus"
+        "senator": "https://en.wikipedia.org/wiki/Latus_clavus",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -545,7 +612,9 @@
         "Pomptine": "https://en.wikipedia.org/wiki/Pontine_Marshes",
         "Tarpeian rock": "https://en.wikipedia.org/wiki/Tarpeian_Rock",
         "Thrace": "https://en.wikipedia.org/wiki/Thrace",
-        "Tiber": "https://en.wikipedia.org/wiki/Tiber"
+        "Tiber": "https://en.wikipedia.org/wiki/Tiber",
+        "Pontus": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
+        "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)"
       }
     },
     {
@@ -572,7 +641,7 @@
       "en": "1 They say that he was led to invade Britain by the hope of getting pearls, and that in comparing their size he sometimes weighed them with his own hand; that he was always a most enthusiastic collector of gems, carvings, statues, and pictures by early artists; also of slaves of exceptional figure and training at enormous prices, of which he himself was so ashamed that he forbade their entry in his accounts.",
       "la": "1 Britanniam petisse spe margaritarum, quarum amplitudinem conferentem interdum sua manu exegisse pondus; gemmas, toreumata, signa, tabulas operis antiqui semper animosissime comparasse; servitia rectiora politioraque inmenso pretio, et cuius ipsum etiam puderet, sic ut rationibus vetaret inferri.",
       "wikiLinks": {
-        "Britain": "https://en.wikipedia.org/wiki/Britain"
+        "Britain": "https://en.wikipedia.org/wiki/Britannia"
       }
     },
     {
@@ -596,7 +665,14 @@
         "Nicomedes": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
         "Nysa": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
         "daughter of Nicomedes": "https://en.wikipedia.org/wiki/Nysa_(mythology)",
-        "elder Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)"
+        "elder Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(consul_76_BC)",
+        "Bithynia": "https://en.wikipedia.org/wiki/Bithynia",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Bibulus": "https://en.wikipedia.org/wiki/Marcus_Bibulus",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Memmius": "https://en.wikipedia.org/wiki/Gaius_Memmius",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -612,7 +688,11 @@
         "Servius Sulpicius, Lollia": "https://en.wikipedia.org/wiki/Servius_Sulpicius_Rufus",
         "Tertia": "https://en.wikipedia.org/wiki/Tertia",
         "younger Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio_(tribune_50_BC)",
-        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus"
+        "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+        "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
       }
     },
     {
@@ -622,7 +702,8 @@
       "wikiLinks": {
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -633,7 +714,11 @@
         "Bogudes": "https://en.wikipedia.org/wiki/Bogud",
         "Eunoe the Moor": "https://en.wikipedia.org/wiki/Euno%C3%AB",
         "Cleopatra": "https://en.wikipedia.org/wiki/Cleopatra",
-        "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Egypt": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Oppius": "https://en.wikipedia.org/wiki/Oppius",
+        "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio"
       }
     },
     {
@@ -642,7 +727,9 @@
       "la": "1 Vini parcissimum ne inimici quidem negaverunt. Marci Catonis est: unum ex omnibus Caesarem ad evertendam rem publicam sobrium accessisse. Nam circa victum Gaius Oppius adeo indifferentem docet, ut quondam ab hospite conditum oleum pro viridi adpositum aspernantibus ceteris solum etiam largius appetisse scribat, ne hospitem aut neglegentiae aut rusticitatis videretur arguere.",
       "wikiLinks": {
         "Marcus Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
-        "Gaius Oppius": "https://en.wikipedia.org/wiki/Gaius_Oppius"
+        "Gaius Oppius": "https://en.wikipedia.org/wiki/Gaius_Oppius",
+        "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
+        "Oppius": "https://en.wikipedia.org/wiki/Oppius"
       }
     },
     {
@@ -650,7 +737,12 @@
       "en": "1 Neither when in command of armies nor as a magistrate at Rome did he show a scrupulous integrity; for as certain men have declared in their memoirs, when he was proconsul in Spain, he not only begged money from the allies, to help pay his debts, but also attacked and sacked some towns of the Lusitanians although they did not refuse his terms and opened their gates to him on his arrival.\n\n2 In Gaul he pillaged shrines and temples of the gods filled with offerings, and oftener sacked towns for the sake of plunder than for any fault. In consequence he had more gold than he knew what to do with, and offered it for sale throughout Italy and the provinces at the rate of three thousand sesterces the pound. \n3 In his first consul ­ship he stole three thousand pounds of gold from the Capitol, repla­cing it with the same weight of gilded bronze. He made alliances and thrones a matter of barter, for he extorted from Ptolemy alone in his own name and that of Pompey nearly six thousand talents, while later on he met the heavy expenses of the civil wars and of his triumphs and entertainments by the most bare-faced pillage and sacrilege.",
       "la": "1 Abstinentiam neque in imperiis neque in magistratibus praestitit. Ut enim quidam monumentis suis testati sunt, in Hispania pro consule et a sociis pecunias accepit emendicatas in auxilium aeris alieni et Lusitanorum quaedam oppida, quanquam nec imperata detrectarent et advenienti portas patefacerent, diripuit hostiliter.\n\n2 In Gallia fana templaque deum donis referta expilavit, urbes diruit saepius ob praedam quam ob delictum; unde factum, ut auro abundaret ternisque milibus nummum in libras promercale per Italiam provinciasque divenderet.\n\n3 In primo consulatu tria milia pondo auri furatus e Capitolio tantundem inaurati aeris reposuit. Societates ac regna pretio dedit, ut qui uni Ptolemaeo prope sex milia talentorum suo Pompeique nomine abstulerit. Postea vero evidentissimis rapinis ac sacrilegis et onera bellorum civilium et triumphorum ac munerum sustinuit impendia.",
       "wikiLinks": {
-        "Lusitanians": "https://en.wikipedia.org/wiki/Lusitania"
+        "Lusitanians": "https://en.wikipedia.org/wiki/Lusitania",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "Ptolemy": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -658,7 +750,12 @@
       "en": "1 In eloquence and in the art of war he either equalled or surpassed the fame of their most eminent representatives. After his accusation of Dolabella, he was without question numbered with the leading advocates. At all events when Cicero reviews the orators in his Brutus, he says that he does not see to whom Caesar ought to yield the palm, declaring that his style is elegant as well as transparent, even grand and in a sense noble.⁠ f Again in a letter to Cornelius Nepos he writes thus of Caesar:\n\n2 \"Come now, what orator would you rank above him of those who have devoted themselves to nothing else? Who has cleverer or more frequent epigrams? Who is either more picturesque or more choice in diction?\" He appears, at least in his youth, to have imitated the manner of Caesar Strabo, from whose speech entitled \"For the Sardinians\" he actually transferred some passages word for word to a trial address of his own. He is said to have delivered himself in a high-pitched voice with impassioned action and gestures, which were not without grace.\n\n3 He left several speeches, including some which are attributed to him on insufficient evidence. Augustus had good reason to think that the speech \"For Quintus Metellus\" was rather taken down by shorthand writers who could not keep pace with his delivery, than published by Caesar himself; for in some copies I find that even the title is not \"For Metellus,\" but, \"Which he wrote for Metellus,\" although the discourse purports to be from Caesar's lips, defending Metellus and himself against the charges of their common detractors.\n\n4 Augustus also questions the authenticity of the address \"To His Soldiers in Spain,\" although there are two sections of it, one purporting to have been spoken at the first battle, the other at the second, when Asinius Pollio writes that because of the sudden onslaught of the enemy he actually did not have time to make an harangue.",
       "la": "1 Eloquentia militarique⁠ 37 re aut aequavit praestantissimorum gloriam aut excessit. Post accusationem Dolabellae haud dubie principibus patronis adnumeratus est. Certe Cicero ad Brutum oratores enumerans negat se videre, cui debeat Caesar cedere, aitque eum elegantem, splendidam quoque atque etiam magnificam et generosam quodam modo rationem dicendi tenere; et ad Cornelium Nepotem de eodem ita scripsit:\n\n2 \"Quid? oratorem quem huic antepones eorum, qui nihil aliud egerunt? Quis sententiis aut acutior aut crebrior? Quis verbis aut ornatior aut elegantior?\" Genus eloquentiae dumtaxat adulescens adhuc Strabonis Caesaris secutus videtur, cuius etiam ex oratione, quae inscribitur \"pro Sardis,\" ad verbum nonnulla transtulit in divinationem suam. Pronuntiasse autem dicitur voce acuta, ardenti motu gestuque, non sine venustate.\n\n3 Orationes aliquas reliquit, inter quas temere quaedam feruntur. \"Pro Quinto Metello\" non immerito Augustus existimat ab actuariis exceptam male subsequentibus verba dicentis, quam ab ipso editam; nam in quibusdam exemplaribus invenio ne inscriptam quidem \"pro Metello,\" sed \"quam scripsit Metello,\" cum ex persona Caesaris sermo sit Metellum seque adversus communium obtrectatorum criminationes purgantis.\n\n4 \"Apud milites\" quoque \"in Hispania\" idem Augustus vix ipsius putat, quae tamen duplex fertur: una quasi priore habita proelio, altera posteriore, quo Asinius Pollio ne tempus quidem contionandi habuisse eum dicit subita hostium incursione.",
       "wikiLinks": {
-        "Brutus": "https://en.wikipedia.org/wiki/Junius_Brutus"
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "Metellus": "https://en.wikipedia.org/wiki/Caecilius_Metellus",
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+        "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio"
       }
     },
     {
@@ -671,11 +768,17 @@
         "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
         "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
-        "Brutus": "https://en.wikipedia.org/wiki/Junius_Brutus",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Cato": "https://en.wikipedia.org/wiki/Cato_the_Younger",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "Oppius": "https://en.wikipedia.org/wiki/Oppius",
-        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+        "Alps": "https://en.wikipedia.org/wiki/Alps",
+        "battle of Munda": "https://en.wikipedia.org/wiki/Battle_of_Munda",
+        "Munda": "https://en.wikipedia.org/wiki/Battle_of_Munda",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
       }
     },
     {
@@ -692,9 +795,10 @@
       "en": "1 In the conduct of his campaigns it is a question whether he was more cautious or more daring, for he never led his army where ambuscades were possible without carefully reconnoitring the country, and he did not cross to Britain without making personal inquiries about the harbours, the course, and the approach to the island. But on the other hand, when news came that his camp in Germany was beleaguered, he made his way to his men through the enemies' pickets, disguised as a Gaul.\n\n2 He crossed from Brundisium to Dyrrachium in winter time, running the blockade of the enemy's fleets; and when the troops which he had ordered to follow him delayed to do so, and he had sent to fetch them many times in vain, at last in secret and alone he boarded a small boat at night with his head muffled up; and he did not reveal who he was, or suffer the helmsman to give way to the gale blowing in their teeth, until he was all but overwhelmed by the waves.",
       "la": "1 In obeundis expeditionibus dubium cautior an audentior, exercitum neque per insidiosa itinera duxit umquam nisi perspeculatus locorum situs, neque in Britanniam transvexit, nisi ante per se portus et navigationem et accessum ad insulam explorasset. At idem obsessione castrorum in Germania nuntiata per stationes hostium Gallico habitu penetravit ad suos.\n\n2 A Brundisio Dyrrachium inter oppositas classes hieme transmisit cessantibusque copiis, quas subsequi iusserat, cum ad accersendas frustra saepe misisset, novissime ipse clam noctu parvulum navigium solus obvoluto capite conscendit, neque aut quis esset ante detexit aut gubernatorem cedere adversae tempestati passus est quam paene obrutus fluctibus.",
       "wikiLinks": {
-        "Britain": "https://en.wikipedia.org/wiki/Britain",
+        "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
-        "harbour": "https://en.wikipedia.org/wiki/Port"
+        "harbour": "https://en.wikipedia.org/wiki/Port",
+        "Germany": "https://en.wikipedia.org/wiki/Germania"
       }
     },
     {
@@ -702,7 +806,8 @@
       "en": "1 No regard for religion ever turned him from any undertaking, or even delayed him. Though the victim escaped as he was offering sacrifice, he did not put off his expedition against Scipio and Juba. Even when he had a fall as he disembarked, he gave the omen a favourable turn by crying: \"I hold thee fast, Africa.\" Furthermore, to make the prophecies ridiculous which declared that the stock of the Scipios was fated to be fortunate and invincible in that province, he kept with him in camp a contemptible fellow belonging to the Cornelian family, to whom the nickname Salvito had been given as a reproach for his manner of life.",
       "la": "1 Ne religione quidem ulla a quoquam incepto absterritus umquam vel retardatus est. Cum immolanti aufugisset hostia, profectionem adversus Scipionem et Iubam non distulit. Prolapsus etiam in egressu navis verso ad melius omine: \"Teneo te,\" inquit, \"Africa.\" Ad eludendas autem vaticinationes, quibus felix et invictum in ea provincia fataliter Scipionum nomen ferebatur, despectissimum quendam ex Corneliorum genere, cui ad opprobrium vitae Salvitoni⁠ 41 cognomen erat, in castris secum habuit.",
       "wikiLinks": {
-        "Scipio": "https://en.wikipedia.org/wiki/Quintus_Caecilius_Metellus_Pius_Scipio_Nasica"
+        "Scipio": "https://en.wikipedia.org/wiki/Scipio_Africanus",
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province"
       }
     },
     {
@@ -737,7 +842,10 @@
       "en": "1 His presence of mind was no less renowned, and the instances of it will appear even more striking. After the battle of Pharsalus, when he had sent on his troops and was crossing the strait of the Hellespont in a small passenger boat, he met Lucius Cassius, of the hostile party, with ten armoured ships, and made no attempt to escape, but went to meet Cassius and actually urged him to surrender; and Cassius sued for mercy and was taken on board.",
       "la": "1 Non minor illa constantia eius, maiora⁠ 44 etiam indicia fuerint. Post aciem Pharsalicam cum praemissis in Asiam copiis per angustias Hellesponti vectoria navicula traiceret, L. Cassium partis adversae cum decem rostratis navibus obvium sibi neque refugit et comminus tendens, ultro ad deditionem hortatus, supplicem ad se recepit.",
       "wikiLinks": {
-        "Hellespont": "https://en.wikipedia.org/wiki/Hellespont"
+        "Hellespont": "https://en.wikipedia.org/wiki/Hellespont",
+        "battle of Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+        "Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+        "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
       }
     },
     {
@@ -746,7 +854,7 @@
       "la": "1 Alexandriae circa oppugnationem pontis eruptione hostium subita conpulsus in scapham pluribus eodem praecipitantibus, cum desiluisset⁠ 45 in mare, nando per ducentos passus evasit ad proximam navem, elata laeva, ne libelli quos tenebat madefierent, paludamentum mordicus trahens, ne spolio poteretur hostis.",
       "wikiLinks": {
         "trophy": "https://en.wikipedia.org/wiki/Trophy",
-        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria"
+        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt"
       }
     },
     {
@@ -782,7 +890,8 @@
       "la": "1 Quibus rebus et devotissimos sibi et fortissimos reddidit. Ingresso civile bellum centuriones cuiusque legionis singulos equites e viatico suo optulerunt, universi milites gratuitam et sine frumento stipendioque operam, cum tenuiorum tutelam locupletiores in se contulissent. Neque in tam diuturno spatio quisquam omnino descivit, plerique capti concessam sibi sub condicione vitam, si militare adversus eum vellent, recusarunt.\n\n2 Famem et ceteras necessitates, non cum obsiderentur modo sed et si ipsi alios obsiderent, tanto opere tolerabant, ut Dyrrachina munitione Pompeius viso genere panis ex herba, quo sustinebantur, cum feris sibi rem esse dixerit amoverique ocius nec cuiquam ostendi iusserit, ne patientia et pertinacia hostis animi suorum frangerentur.\n\n3 Quanta fortitudine dimicarint, testimonio est quod adverso semel apud Dyrrachium proelio poenam in se ultro depoposcerunt, ut consolandos eos magis imperator quam puniendos habuerit. Ceteris proeliis innumeras adversariorum copias multis partibus ipsi pauciores facile superarunt. Denique una sextae legionis cohors praeposita castello quattuor Pompei legiones per aliquot horas sustinuit paene omnis confixa multitudine hostilium sagittarum, quarum centum ac triginta milia⁠ 47 intra vallum reperta sunt.\n\n4 Nec mirum, si quis singulorum facta respiciat, vel Cassi Scaevae centurionis vel Gai Acili militis, ne de pluribus referam. Scaeva excusso oculo, transfixus femore et umero, centum et viginti ictibus scuto perforato, custodiam portae commissi castelli retinuit. Acilius navali ad Massiliam proelio iniecta in puppem hostium dextera et abscisa memorabile illud apud Graecos Cynegiri exemplum imitatus transiluit in navem umbone obvios agens.",
       "wikiLinks": {
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
-        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
       }
     },
     {
@@ -800,7 +909,8 @@
       "la": "1 Decimanos autem Romae cum ingentibus minis summoque etiam urbis periculo missionem et praemia flagitantes, ardente tunc in Africa bello, neque adire cunctatus est, quanquam deterrentibus amicis, neque dimittere; sed una voce, qua \"Quirites\" eos pro militibus appellarat, tam facile circumegit et flexit, ut ei milites esse confestim responderint et quamvis recusantem ultro in Africam sint secuti; ac sic quoque seditiosissimum quemque et praedae et agri destinati tertia parte multavit.",
       "wikiLinks": {
         "Tenth": "https://en.wikipedia.org/wiki/Legio_X",
-        "Africa": "https://en.wikipedia.org/wiki/Africa_(Roman_province)"
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
+        "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
     {
@@ -828,7 +938,8 @@
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
-        "Valerius": "https://en.wikipedia.org/wiki/Valerius"
+        "Valerius": "https://en.wikipedia.org/wiki/Valerius",
+        "Memmius": "https://en.wikipedia.org/wiki/Gaius_Memmius"
       }
     },
     {
@@ -839,7 +950,8 @@
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
         "Cornelius": "https://en.wikipedia.org/wiki/Cornelius_Sulla",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "Publius Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
       }
     },
     {
@@ -850,7 +962,8 @@
         "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
-        "Sulla": "https://en.wikipedia.org/wiki/Sulla"
+        "Sulla": "https://en.wikipedia.org/wiki/Sulla",
+        "battle of Pharsalus": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus"
       }
     },
     {
@@ -864,7 +977,8 @@
         "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "Praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Temple": "https://en.wikipedia.org/wiki/Temple",
-        "temple": "https://en.wikipedia.org/wiki/Temple"
+        "temple": "https://en.wikipedia.org/wiki/Temple",
+        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt"
       }
     },
     {
@@ -874,7 +988,7 @@
       "wikiLinks": {
         "Dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
-        "Titus": "https://en.wikipedia.org/wiki/Titus"
+        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)"
       }
     },
     {
@@ -897,7 +1011,9 @@
       "wikiLinks": {
         "Latin Festival": "https://en.wikipedia.org/wiki/Feriae_Latinae",
         "Lupercalia": "https://en.wikipedia.org/wiki/Lupercalia",
-        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath"
+        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+        "Cotta": "https://en.wikipedia.org/wiki/Aurelius_Cotta"
       }
     },
     {
@@ -909,7 +1025,12 @@
         "Sacred Way": "https://en.wikipedia.org/wiki/Via_Sacra",
         "Gaius Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
         "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
-        "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March"
+        "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -923,7 +1044,10 @@
         "Spurinna": "https://en.wikipedia.org/wiki/Spurinna",
         "Calpurnia": "https://en.wikipedia.org/wiki/Calpurnia_(wife_of_Caesar)",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(god)",
-        "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus"
+        "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey",
+        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
       }
     },
     {
@@ -937,7 +1061,8 @@
         "Antistius": "https://en.wikipedia.org/wiki/Antistius",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Marcus Antonius": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
+        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
       }
     },
     {
@@ -950,7 +1075,9 @@
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Vestals": "https://en.wikipedia.org/wiki/Vestal_Virgins",
         "Decimus Brutus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
-        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius"
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius",
+        "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
       }
     },
     {
@@ -964,7 +1091,8 @@
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
-        "Pacuvius": "https://en.wikipedia.org/wiki/Pacuvius"
+        "Pacuvius": "https://en.wikipedia.org/wiki/Pacuvius",
+        "Pompey": "https://en.wikipedia.org/wiki/Pompey"
       }
     },
     {
@@ -973,7 +1101,8 @@
       "la": "1 Plebs statim a funere ad domum Bruti et Cassi cum facibus tetendit atque aegre repulsa obvium sibi Helvium Cinnam per errorem nominis, quasi Cornelius is esset, quem graviter pridie contionatum de Caesare requirebat, occidit caputque eius praefixum hastae circumtulit. Postea solidam columnam prope viginti pedum lapidis Numidici in Foro statuit inscripsitque⁠ 60 PARENTI PATRIAE. Apud eam longo tempore sacrificare, vota suscipere, controversias quasdam interposito per Caesarem iure iurando distrahere perseveravit.",
       "wikiLinks": {
         "Helvius Cinna": "https://en.wikipedia.org/wiki/Helvius_Cinna",
-        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus"
+        "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+        "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus"
       }
     },
     {
@@ -992,7 +1121,8 @@
       "la": "1 Illud plane inter omnes fere constitit, talem ei mortem paene ex sententia obtigisse. Nam et quondam, cum apud Xenophontem legisset Cyrum ultima valitudine mandasse quaedam de funere suo, aspernatus tam lentum mortis genus subitam sibi celeremque optaverat; et pridie quam occideretur, in sermone nato super cenam apud Marcum Lepidum, quisnam esset finis vitae commodissimus, repentinum inopinatumque praetulerat.",
       "wikiLinks": {
         "Xenophon": "https://en.wikipedia.org/wiki/Xenophon",
-        "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
+        "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+        "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)"
       }
     },
     {

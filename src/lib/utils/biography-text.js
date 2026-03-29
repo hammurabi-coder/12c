@@ -46,9 +46,7 @@ export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
   if (options.enabled === false || safeEntries.length === 0) return safeText;
 
   // Sort longest first so multi-word entities are matched before substrings.
-  const entities = safeEntries
-    .map(([entity]) => entity)
-    .sort((a, b) => b.length - a.length);
+  const entities = safeEntries.map(([entity]) => entity).sort((a, b) => b.length - a.length);
 
   // Collect all matches: { entity, start, end, url, matchedText }
   const matches = [];
@@ -63,7 +61,7 @@ export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
         start: regexMatch.index,
         end: regexMatch.index + regexMatch[0].length,
         url,
-        matchedText: regexMatch[0],
+        matchedText: regexMatch[0]
       });
     }
   }

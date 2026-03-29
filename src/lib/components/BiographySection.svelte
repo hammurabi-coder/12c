@@ -41,7 +41,7 @@
 
   {#if currentLang === 'both'}
     <!-- EN + LAT side-by-side, equalized once both columns are measured -->
-    <div class="grid gap-6 lg:grid-cols-2 lg:gap-8 items-start">
+    <div class="grid items-start gap-6 lg:grid-cols-2 lg:gap-8">
       <article
         class="reader-panel px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}

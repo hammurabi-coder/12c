@@ -9,8 +9,6 @@
 
   let wikiLinksEnabled = $state(true);
 
-
-
   const sectionMeta = $derived.by(() => {
     if (!caesarData) return [];
 

@@ -1,6 +1,6 @@
 import { caesars } from '$lib/data/caesars';
 import { getCaesarContext } from '$lib/data/caesar-context';
-import { biographySchema } from '$lib/data/schema';
+import { biographySchema, slugSchema, pageLoadOutputSchema } from '$lib/data/schema';
 import { splitParagraphs, escapeHtml } from '$lib/utils/biography-text';
 import { CONTENT_PATH } from '$lib/constants';
 import { error } from '@sveltejs/kit';
@@ -15,6 +15,12 @@ export function entries() {
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
   const { slug } = params;
+
+  try {
+    slugSchema.parse(slug);
+  } catch {
+    throw error(404, 'Invalid slug format');
+  }
 
   const validSlugs = new Set(caesars.map((c) => c.slug));
   if (!validSlugs.has(slug)) {
@@ -44,7 +50,6 @@ export async function load({ params }) {
     throw error(500, `Invalid biography data`);
   }
 
-  // Pre-process paragraphs to free UI from non-UI work
   const processedData = {
     ...parsed.data,
     sections: parsed.data.sections.map((sec) => ({
@@ -55,7 +60,7 @@ export async function load({ params }) {
     }))
   };
 
-  return {
+  const output = {
     caesarData: processedData,
     currentCaesar: context.currentCaesar,
     currentCaesarIndex: context.currentCaesarIndex,
@@ -67,4 +72,10 @@ export async function load({ params }) {
     })),
     slug
   };
+
+  if (process.env.NODE_ENV === 'development') {
+    pageLoadOutputSchema.parse(output);
+  }
+
+  return output;
 }

@@ -16,8 +16,7 @@
         <a href="#reader-top" class="reader-link">Back to Top</a>
       </div>
       <p class="mt-4 text-sm leading-relaxed text-ink/65">
-        Move between emperors directly or return to the index without losing the current route shape
-        used by the static deploy.
+        Navigate between emperors or return to the library index.
       </p>
     </div>
 

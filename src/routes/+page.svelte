@@ -37,6 +37,7 @@
                 alt="Bust of {caesar.name}"
                 frameClass="mb-4 h-32 w-32 rounded-full border-2 border-rubric/20 bg-rubric/5 shadow-inner"
                 imageClass="grayscale transition-all duration-500 group-hover:scale-110 group-hover:grayscale-0"
+                loading={i < 4 ? 'eager' : 'lazy'}
               />
 
               <div class="imperial-numeral mb-1 text-rubric/40">{caesar.n}</div>

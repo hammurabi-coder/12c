@@ -43,7 +43,7 @@
     <!-- EN + LAT side-by-side, equalized once both columns are measured -->
     <div class="grid items-start gap-6 lg:grid-cols-2 lg:gap-8">
       <article
-        class="reader-panel px-5 py-5 md:px-7"
+        class="reader-panel border-r border-rubric/20 px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}
         use:pretextMeasure={{ lang: 'en' }}
         on:pretext-height-en={handleEnHeight}

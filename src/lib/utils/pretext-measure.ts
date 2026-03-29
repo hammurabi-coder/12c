@@ -1,8 +1,9 @@
 /**
  * Svelte action for Pretext-based text measurement.
- * Usage: <div use:pretextMeasure={{ font, maxWidth, lineHeight, lang }}>
+ * Reads font metrics and content width directly from the node's computed style,
+ * so CSS and Pretext are always in sync — no hardcoded values anywhere.
  *
- * Dispatches 'pretext-height-{lang}' event with paragraph heights when measured.
+ * Dispatches 'pretext-height-{lang}' with { totalHeight, totalLines }.
  */
 import { browser } from '$app/environment';
 import type { MeasureResult } from './pretext';
@@ -17,17 +18,48 @@ async function ensureLoaded() {
   _layout = mod.layout;
 }
 
+/**
+ * Build a Pretext font spec string from computed element styles.
+ * Reads font-size, font-weight, font-family from the element's cascade.
+ */
+function resolveFontSpec(el: HTMLElement): string {
+  const style = getComputedStyle(el);
+  const size = parseFloat(style.fontSize);
+  const family = style.fontFamily.split(',')[0].replace(/['"]/g, '').trim();
+  const weight = style.fontWeight === 'normal' ? '400' : style.fontWeight;
+  return `${weight} ${size}px ${family}`;
+}
+
+/**
+ * Resolve the effective line-height in px from an element.
+ * Handles both unitless (multiplier, e.g. 1.95) and px values.
+ */
+function resolveLineHeightPx(el: HTMLElement): number {
+  const style = getComputedStyle(el);
+  const lh = style.lineHeight;
+  if (lh.endsWith('px')) return parseFloat(lh);
+  // unitless: multiply by font-size
+  return parseFloat(lh) * parseFloat(style.fontSize);
+}
+
+/**
+ * Resolve the content width in px of an element (clientWidth minus padding).
+ */
+function resolveContentWidth(el: HTMLElement): number {
+  const style = getComputedStyle(el);
+  const pl = parseFloat(style.paddingLeft) || 0;
+  const pr = parseFloat(style.paddingRight) || 0;
+  return Math.floor(el.clientWidth - pl - pr);
+}
+
 export type PretextMeasureOptions = {
-  font: string;
-  maxWidth: number;
-  lineHeight: number;
-  /** Language key — used to name the dispatched event */
+  /** Language key — drives the dispatched event name */
   lang?: string;
 };
 
 export function pretextMeasure(
   node: HTMLElement,
-  options: PretextMeasureOptions
+  options: PretextMeasureOptions = {}
 ): { destroy: () => void } | void {
   if (!browser) return;
 
@@ -40,28 +72,26 @@ export function pretextMeasure(
     await ensureLoaded();
     if (!_prepare || !_layout) return;
 
-    const { font, maxWidth, lineHeight, lang = 'unknown' } = options;
+    const lang = options.lang ?? 'unknown';
 
-    // Get plain text from each paragraph
-    const paragraphs = Array.from(node.querySelectorAll<HTMLParagraphElement>('p'));
+    // Read resolved values directly from the element's computed styles
+    const font = resolveFontSpec(node);
+    const lineHeight = resolveLineHeightPx(node);
+    const maxWidth = resolveContentWidth(node);
+
+    const paragraphs = Array.from(node.querySelectorAll<HTMLParagraphElement>(':scope > div p'));
     if (paragraphs.length === 0) return;
 
     const results: MeasureResult[] = paragraphs.map((p) => {
       const text = p.textContent ?? '';
       const prepared = _prepare!(text, font);
       const layout = _layout!(prepared, maxWidth, lineHeight);
-      return {
-        ...layout,
-        font,
-        lineHeight,
-        measuredAt: Date.now(),
-      };
+      return { ...layout, font, lineHeight, measuredAt: Date.now() };
     });
 
     const totalHeight = results.reduce((sum, r) => sum + r.height, 0);
     const totalLines = results.reduce((sum, r) => sum + r.lineCount, 0);
 
-    // Dispatch language-specific event so parent can correlate EN + LAT
     node.dispatchEvent(
       new CustomEvent<{ totalHeight: number; totalLines: number }>(`pretext-height-${lang}`, {
         detail: { totalHeight, totalLines },
@@ -70,13 +100,9 @@ export function pretextMeasure(
     );
   }
 
-  // Measure after a tick to ensure DOM is rendered
   requestAnimationFrame(doMeasure);
 
   return {
-    destroy() {
-      // cleanup if needed
-    },
+    destroy() {},
   };
 }
-

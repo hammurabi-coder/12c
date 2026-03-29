@@ -6,12 +6,10 @@
 
   let enHeight = $state(0);
   let laHeight = $state(0);
-
-  // Track whether each column has reported in
   let enReady = $state(false);
   let laReady = $state(false);
 
-  // Both columns get the same height: the taller of the two
+  // Both columns get the taller of the two heights
   let colHeight = $derived(Math.max(enHeight, laHeight));
   let bothReady = $derived(enReady && laReady);
 
@@ -42,12 +40,12 @@
   </div>
 
   {#if currentLang === 'both'}
-    <!-- Dual column: EN + LAT side by side, equalized via Pretext heights -->
+    <!-- EN + LAT side-by-side, equalized once both columns are measured -->
     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8 items-start">
       <article
         class="reader-panel px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}
-        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18, lang: 'en' }}
+        use:pretextMeasure={{ lang: 'en' }}
         on:pretext-height-en={handleEnHeight}
       >
         <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
@@ -61,7 +59,7 @@
       <article
         class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}
-        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18, lang: 'la' }}
+        use:pretextMeasure={{ lang: 'la' }}
         on:pretext-height-la={handleLaHeight}
       >
         <div class="imperial-label mb-4 text-rubric/55">Latin</div>
@@ -73,9 +71,10 @@
       </article>
     </div>
   {:else}
+    <!-- Single-column: EN or LAT -->
     <article
       class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8"
-      use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 720, lineHeight: 35.18, lang: currentLang }}
+      use:pretextMeasure={{ lang: currentLang }}
       on:pretext-height-en={handleEnHeight}
     >
       <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">

@@ -1,7 +1,7 @@
 <script>
   import { getBustUrl } from '$lib/utils/paths';
   import { buildSectionMeta } from '$lib/utils/sections';
-  import { buildLinkedParagraphs } from '$lib/utils/biography-text';
+  import { applyWikiLinks } from '$lib/utils/biography-text';
 
   /** @type {{ currentCaesar: import('$lib/types').Caesar, caesarData: import('$lib/types').Biography | null, currentLang: string }} */
   let { currentCaesar, caesarData = null, currentLang = $bindable('en') } = $props();
@@ -13,17 +13,22 @@
   let wikiLinksEnabled = $state(true);
 
   const bustSrc = $derived(getBustUrl(currentCaesar.name));
+
+  if (caesarData && caesarData.sections && caesarData.sections.length > 0) {
+    console.log('BIOGRAPHY DATA: ', JSON.stringify(caesarData.sections[0]));
+  }
+
   const sectionMeta = $derived.by(() => {
     if (!caesarData) return [];
 
     return buildSectionMeta(caesarData.sections).map((section) => ({
       ...section,
-      enParagraphs: buildLinkedParagraphs(section.en, section.wikiLinks, {
-        enabled: wikiLinksEnabled
-      }),
-      laParagraphs: buildLinkedParagraphs(section.la, section.wikiLinks, {
-        enabled: wikiLinksEnabled
-      })
+      enParagraphs: section.enParagraphs.map((p) =>
+        applyWikiLinks(p, section.wikiLinks, { enabled: wikiLinksEnabled })
+      ),
+      laParagraphs: section.laParagraphs.map((p) =>
+        applyWikiLinks(p, section.wikiLinks, { enabled: wikiLinksEnabled })
+      )
     }));
   });
 </script>

@@ -36,8 +36,12 @@ export function applyChapterWikiLinks(biography, chapterLinks) {
   for (const section of result.sections) {
     const sectionLinks = chapterLinks[section.heading];
     if (!sectionLinks) continue;
-    section.wikiLinks = { ...sectionLinks };
-    changed = true;
+    
+    const nextLinks = { ...(section.wikiLinks || {}), ...sectionLinks };
+    if (JSON.stringify(section.wikiLinks) !== JSON.stringify(nextLinks)) {
+      section.wikiLinks = nextLinks;
+      changed = true;
+    }
   }
 
   return { biography: result, changed };

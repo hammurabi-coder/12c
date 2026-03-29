@@ -21,15 +21,15 @@ export function escapeHtml(text) {
 }
 
 /**
- * @param {string} text
+ * Apply wiki links to text that has ALREADY been escaped.
+ * @param {string} safeText
  * @param {Record<string, string>} [wikiLinks]
  * @param {{ enabled?: boolean }} [options]
  * @returns {string}
  */
-export function applyWikiLinks(text, wikiLinks = {}, options = {}) {
-  if (!text) return '';
+export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
+  if (!safeText) return '';
 
-  const safeText = escapeHtml(text);
   const safeEntries = Object.entries(wikiLinks).filter(
     ([entity, url]) => entity?.trim() && isSafeWikipediaUrl(url)
   );
@@ -43,10 +43,12 @@ export function applyWikiLinks(text, wikiLinks = {}, options = {}) {
   let result = safeText;
   for (const entity of entities) {
     // Skip if this exact text is already wrapped in an anchor (defensive)
-    if (result.includes(`<a `) && result.includes(`>${entity}</a>`)) continue;
+    if (result.includes(`<a `) && result.includes(`>${escapeHtml(entity)}</a>`)) continue;
+
     const url = wikiLinks[entity];
     const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const regex = new RegExp(`(?!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
+
     result = result.replace(
       regex,
       `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`
@@ -57,11 +59,14 @@ export function applyWikiLinks(text, wikiLinks = {}, options = {}) {
 }
 
 /**
+ * Legacy wrapper: safely escapes and links text.
  * @param {string | null | undefined} text
  * @param {Record<string, string>} [wikiLinks]
  * @param {{ enabled?: boolean }} [options]
  * @returns {string[]}
  */
 export function buildLinkedParagraphs(text, wikiLinks = {}, options = {}) {
-  return splitParagraphs(text).map((paragraph) => applyWikiLinks(paragraph, wikiLinks, options));
+  return splitParagraphs(text)
+    .map(escapeHtml)
+    .map((paragraph) => applyWikiLinks(paragraph, wikiLinks, options));
 }

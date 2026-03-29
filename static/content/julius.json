@@ -722,7 +722,12 @@
     {
       "heading": "Chapter 62",
       "en": "1 When his army gave way, he often rallied it single-handed, planting himself in the way of the fleeing men, laying hold of them one by one, and even catching them by the throat and forcing them to face the enemy; that, too, when they were in such a panic that an eagle-bearer made a pass at him with the point as he tried to stop him, while another left the standard in Caesar's hand when he would hold him back.",
-      "la": "1 Inclinatam aciem solus saepe restituit obsistens fugientibus retinensque singulos et contortis faucibus convertens in hostem et quidem adeo plerumque trepidos, ut aquilifer⁠ 43 moranti se cuspide sit comminatus, alius in manu detinentis reliquerit signum."
+      "la": "1 Inclinatam aciem solus saepe restituit obsistens fugientibus retinensque singulos et contortis faucibus convertens in hostem et quidem adeo plerumque trepidos, ut aquilifer⁠ 43 moranti se cuspide sit comminatus, alius in manu detinentis reliquerit signum.",
+      "wikiLinks": {
+        "Caesar": "https://en.wikipedia.org/wiki/Roman_emperor",
+        "hand": "https://en.wikipedia.org/wiki/Hand",
+        "eagle-bearer": "https://en.wikipedia.org/wiki/Signifer"
+      }
     },
     {
       "heading": "Chapter 63",
@@ -751,7 +756,12 @@
     {
       "heading": "Chapter 66",
       "en": "1 When they were in a panic through reports about the enemy's numbers, he used to rouse their courage not by denying or discounting the rumours, but by falsely exaggerating the true danger. For instance, when the anticipation of Juba's coming filled them with terror, he called the soldiers together and said: \"Let me tell you that within the next few days the king will be here with ten legions, thirty thousand horsemen, a hundred thousand light-armed troops, and three hundred elephants. Therefore some of you may as well cease to ask further questions or make surmises and may rather believe me, since I know all about it. Otherwise, I shall surely have them shipped on some worn out craft and carried off to whatever lands the wind may blow them.\"",
-      "la": "1 Fama vero hostilium copiarum perterritos non negando minuendove, sed insuper amplificando ementiendoque confirmabat. Itaque cum expectatio adventus Iubae terribilis esset, convocatis ad contionem militibus: \"Scitote,\" inquit, \"paucissimis his diebus regem adfuturum cum decem legionibus, equitum triginta, levis armaturae centum milibus, elephantis trecentis. Proinde desinant quidam quaerere ultra aut opinari mihique, qui compertum habeo, credant; aut quidem vetustissima nave impositos quocumque vento in quascumque terras iubebo avehi.\""
+      "la": "1 Fama vero hostilium copiarum perterritos non negando minuendove, sed insuper amplificando ementiendoque confirmabat. Itaque cum expectatio adventus Iubae terribilis esset, convocatis ad contionem militibus: \"Scitote,\" inquit, \"paucissimis his diebus regem adfuturum cum decem legionibus, equitum triginta, levis armaturae centum milibus, elephantis trecentis. Proinde desinant quidam quaerere ultra aut opinari mihique, qui compertum habeo, credant; aut quidem vetustissima nave impositos quocumque vento in quascumque terras iubebo avehi.\"",
+      "wikiLinks": {
+        "Juba": "https://en.wikipedia.org/wiki/Juba_I_of_Numidia",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "king": "https://en.wikipedia.org/wiki/Monarchy"
+      }
     },
     {
       "heading": "Chapter 67",
@@ -783,7 +793,11 @@
     {
       "heading": "Chapter 70",
       "en": "1 Again at Rome, when the men of the Tenth clamoured for their discharge and rewards with terrible threats and no little peril to the city, though the war in Africa was then raging, he did not hesitate to appear before them, against the advice of his friends, and to disband them. But with a single word, calling them \"citizens,\" instead of \"soldiers,\" he easily brought them round and bent them to his will; for they at once replied that they were his \"soldiers\" and insisted on following him to Africa, although he refused their service. Even then he punished the most insubordinate by the loss of a third part of the booty and of the land intended for them.",
-      "la": "1 Decimanos autem Romae cum ingentibus minis summoque etiam urbis periculo missionem et praemia flagitantes, ardente tunc in Africa bello, neque adire cunctatus est, quanquam deterrentibus amicis, neque dimittere; sed una voce, qua \"Quirites\" eos pro militibus appellarat, tam facile circumegit et flexit, ut ei milites esse confestim responderint et quamvis recusantem ultro in Africam sint secuti; ac sic quoque seditiosissimum quemque et praedae et agri destinati tertia parte multavit."
+      "la": "1 Decimanos autem Romae cum ingentibus minis summoque etiam urbis periculo missionem et praemia flagitantes, ardente tunc in Africa bello, neque adire cunctatus est, quanquam deterrentibus amicis, neque dimittere; sed una voce, qua \"Quirites\" eos pro militibus appellarat, tam facile circumegit et flexit, ut ei milites esse confestim responderint et quamvis recusantem ultro in Africam sint secuti; ac sic quoque seditiosissimum quemque et praedae et agri destinati tertia parte multavit.",
+      "wikiLinks": {
+        "Tenth": "https://en.wikipedia.org/wiki/Legio_X",
+        "Africa": "https://en.wikipedia.org/wiki/Africa_(Roman_province)"
+      }
     },
     {
       "heading": "Chapter 71",
@@ -959,7 +973,11 @@
       "heading": "Chapter 86",
       "en": "1 Caesar left in the minds of some of his friends the suspicion that he did not wish to live longer and had taken no precautions, because of his failing health; and that therefore he neglected the warnings which came to him from portents and from the reports of his friends. Some think that it was because he had full trust in the last decree of the senators and their oath that he dismissed even the armed bodyguard of Spanish soldiers that formerly attended him.\n\n2 Others, on the contrary, believe that he elected to expose himself once for all to the plots that threatened him on every hand, rather than to be always anxious and on his guard. Some, too, say that he was wont to declare that it was not so much to his own interest as to that of his country that he remain alive; he had long since had his fill of power and glory; but if aught befell him, the commonwealth would have no peace, but would be plunged in strife under much worse conditions.",
       "la": "1 Suspicionem Caesar quibusdam suorum reliquit neque voluisse se diutius vivere neque curasse quod valitudine minus prospera uteretur, ideoque et quae religiones monerent et quae renuntiarent amici neglexisse. Sunt qui putent, confisum eum novissimo illo senatus consulto ac iure iurando etiam custodias Hispanorum cum gladiis † adsectantium⁠ 61 se removisse.\n\n2 Alii e diverso opinantur insidias undique imminentis subire semel quam cavere semper sollicitum maluisse. Quidam dicere etiam⁠ 62 solitum ferunt: non tam sua quam rei publicae interesse, uti salvus esset; se iam pridem potentiae gloriaeque abunde adeptum; rem publicam, si quid sibi eveniret, neque quietam fore et aliquanto deteriore condicione civilia bella subituram.",
-      "wikiLinks": {}
+      "wikiLinks": {
+        "senators": "https://en.wikipedia.org/wiki/Roman_Senate",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Spanish": "https://en.wikipedia.org/wiki/Hispania"
+      }
     },
     {
       "heading": "Chapter 87",
@@ -985,7 +1003,10 @@
       "heading": "Chapter 89",
       "en": "1 Hardly any of his assassins survived him for more than three years, or died a natural death. They were all condemned, and they perished in various ways — some by shipwreck, some in battle; some took their own lives with the self-same dagger with which they had impiously slain Caesar.",
       "la": "1 Percussorum autem fere neque triennio quisquam amplius supervixit neque sua morte defunctus est. Damnati omnes alius alio casu periit, pars naufragio, pars proelio; nonnulli semet eodem illo pugione, quo Caesarem violaverant, interemerunt.",
-      "wikiLinks": {}
+      "wikiLinks": {
+        "Caesar": "https://en.wikipedia.org/wiki/Roman_emperor",
+        "dagger": "https://en.wikipedia.org/wiki/Pugio"
+      }
     }
   ],
   "notes": {

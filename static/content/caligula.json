@@ -18,7 +18,8 @@
         "Drusus": "https://en.wikipedia.org/wiki/Nero_Claudius_Drusus",
         "Antonia": "https://en.wikipedia.org/wiki/Antonia_the_Younger",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
-        "consul": "https://en.wikipedia.org/wiki/Roman_consul"
+        "consul": "https://en.wikipedia.org/wiki/Roman_consul",
+        "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar"
       }
     },
     {
@@ -70,7 +71,8 @@
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Elder",
         "Marcus Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
         "Julia": "https://en.wikipedia.org/wiki/Julia_the_Elder",
-        "Livia": "https://en.wikipedia.org/wiki/Livia"
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar"
       }
     },
     {
@@ -81,7 +83,8 @@
         "Kalends of September": "https://en.wikipedia.org/wiki/Calends",
         "Gaius Fonteius Capito": "https://en.wikipedia.org/wiki/Gaius_Fonteius_Capito",
         "Tibur": "https://en.wikipedia.org/wiki/Tivoli",
-        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus"
+        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
+        "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar"
       }
     },
     {
@@ -144,7 +147,9 @@
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Pandateria": "https://en.wikipedia.org/wiki/Pontiae",
         "Pontian islands": "https://en.wikipedia.org/wiki/Pontiae",
-        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus"
+        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
+        "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
+        "Livia Augusta": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -183,7 +188,8 @@
       "wikiLinks": {
         "Baiae": "https://en.wikipedia.org/wiki/Baiae",
         "Puteoli": "https://en.wikipedia.org/wiki/Puteoli",
-        "Britain": "https://en.wikipedia.org/wiki/Britannia"
+        "Britain": "https://en.wikipedia.org/wiki/Britannia",
+        "Appian Way": "https://en.wikipedia.org/wiki/Appian_Way"
       }
     },
     {
@@ -211,14 +217,17 @@
       "heading": "Chapter 22",
       "en": "1 So much for Caligula as emperor; we must now tell of his career as a monster. After he had assumed various surnames (for he was called \"Pious,\" \"Child of the Camp,\" \"Father of the Armies,\" and \"Greatest and Best of Caesars\"), chancing to overhear some kings, who had come to Rome to pay their respects to him, disputing at dinner about the nobility of their descent, he cried: \" Let there be one Lord, one King.\" And he came near assuming a crown at once and changing the semblance of a principate into the form of a monarchy. \n2 But on being reminded that he had risen above the elevation both of princes and kings, he began from that time on to lay claim to divine majesty; for after giving orders that such statues of the gods as were especially famous for their sanctity or their artistic merit, including that of Jupiter of Olympia, should be brought from Greece, in order to remove their heads and put his own in their place, he built out a part of the Palace as far as the Forum, and making the temple of Castor and Pollux its vestibule, he often took his place between the divine brethren, and exhibited himself there to be worshipped by those who presented themselves; and some hailed him as Jupiter Latiaris.\n\n3 He also set up a special temple to his own godhead, with priests and with victims of the choicest kind. In this temple was a life-sized statue of the emperor in gold, which was dressed each day in clothing such as he wore himself. The richest citizens used all their influence to secure the priesthoods of his cult and bid high for the honour. The victims were flamingoes, peacocks, black grouse, guinea-hens  and pheasants, offered day by day each after its own kind.\n\n4 At night he used constantly to invite the full and radiant moon to his embraces and his bed, while in the daytime he would talk confidentially with Jupiter Capitolinus, now whispering and then in turn his ear to the mouth of the god, now in louder and even angry language; for he was heard to make the threat: \"Lift me up, or I'll lift thee.\" But finally won by entreaties, as he reported, and even invited to live with the god, he built a bridge over the temple to the Deified Augustus, and thus joined his Palace to the Capitol.⁠ e Presently, to be nearer yet, he laid the foundations of a new house in the court of the Capitol.",
       "la": "1 Hactenus quasi de principe, reliqua ut de monstro narranda sunt. Compluribus cognominibus adsumptis — nam et \"pius\" et \"castrorum filius\" et \"pater exercituum\" et \"optimus maximus Caesar\" vocabatur — cum audiret forte reges, qui officii causa in urbem advenerant, concertantes apud se super cenam de nobilitate generis, exclamavit: Εἷς κοίρανος ἔστω, εἷς βασιλεύς. Nec multum afuit quin statim diadema sumeret speciemque principatus in regni formam converteret.\n\n2 Verum admonitus et principum et regum se excessisse fastigium, divinam ex eo maiestatem asserere sibi coepit; datoque negotio, ut simulacra numinum religione et arte praeclara, inter quae Olympii Iovis, apportarentur e Graecia,⁠ 19 quibus capite dempto suum imponeret, partem Palatii ad Forum usque promovit, atque aede Castoris et Pollucis in vestibulum transfigurata, consistens saepe inter fratres deos, medium adorandum se adeuntibus exhibebat; et quidam eum Latiarem iovem consalutarunt.\n\n3 Templum etiam numini suo proprium et sacerdotes et excogitatissimas hostias instituit. In templo simulacrum stabat aureum iconicum amiciebaturque cotidie veste, quali ipse uteretur. Magisteria sacerdotii ditissimus quisque et ambitione et licitatione maxima vicibus comparabant. Hostiae erant phoenicopteri, pavones, tetraones, numidicae, meleagrides, phasianae, quae generatim per singulos dies immolarentur.\n\n4 Et noctibus quidem plenam fulgentemque lunam invitabat assidue in amplexus atque concubitum, interdiu vero cum Capitolino Iove secreto fabulabatur, modo insusurrans ac praebens in vicem aurem, modo clarius nec sine iurgiis. Nam vox comminantis audita est: Ἤ μ’ ἀνάειρ’ ἤ ἐγὼ σέ, donec exoratus, ut referebat, et in contubernium ultro invitatus super templum Divi Augusti ponte transmisso Palatium Capitoliumque coniunxit. Mox, quo propior esset, in area Capitolina novae domus fundamenta iecit.",
-      "wikiLinks": {}
+      "wikiLinks": {
+        "Jupiter Capitolinus": "https://en.wikipedia.org/wiki/Jupiter_(god)"
+      }
     },
     {
       "heading": "Chapter 23",
       "en": "1 He did not wish to be thought the grandson of Agrippa, or called so, because of the latter's humble origin; and he grew very angry if anyone in a speech or a song included Agrippa among the ancestors of the Caesars. He even boasted that his own mother was born in incest, which Augustus had committed with his daughter Julia; and not content with this slur on the memory of Augustus, he forbade the celebration of his victories at Actium and off Sicily by annual festivals, on the ground that they were disastrous and ruinous to the Roman people.\n\n2 He often called his great-grandmother Livia Augusta \"a Ulysses in petticoats,\" and he had the audacity to accuse her of low birth in a letter to the senate, alleging that her maternal grandfather had been nothing but a decurion of Fundi; whereas it is proved by public records that Aufidius Lurco held high offices at Rome. When his grandmother Antonia asked for a private interview, he refused it except in the presence of the praefect Macro, and by such indignities and annoyances he caused her death; although some think that he also gave her poison. After she was dead, he paid her no honour, but viewed her burning pyre from his dining-room.\n\n3 He had his brother Tiberius put to death without warning, suddenly sending a tribune of the soldiers to do the deed; besides driving his father-in‑law Silanus to end his life by cutting his throat with a razor. His charge against the latter was that Silanus had not followed him when he put to sea in stormy weather, but had remained behind in the hope of taking possession of the city in case he should be lost in the storm; against Tiberius, that his breath smelled of an antidote, which he had taken to guard against being poisoned at his hand. Now as a matter of fact, Silanus was subject to sea-sickness and wished to avoid the discomforts of the voyage, while Tiberius had taken medicine for a chronic cough, which was growing worse. As for his uncle Claudius, he spared him merely as a laughing-stock.",
       "la": "1 Agrippae se nepotem neque credi neque dici ob ignobilitatem eius volebat suscensebatque, si qui vel oratione vel carmine imaginibus eum Caesarum insererent. Praedicabat autem matrem suam ex incesto, quod Augustus cum Iulia filia admisisset, procreatam; ac non contentus hac Augusti insectatione Actiacas Siculasque⁠ 20 victorias, ut funestas p. R. et calamitosas, vetuit sollemnibus feriis celebrari.\n\n2 Liviam Augustam proaviam \"Ulixem stolatum\" identidem appellans, etiam ignobilitatis quadam ad senatum epistula arguere ausus est quasi materno avo decurione Fundano ortam, cum publicis monumentis certum sit, Aufidium Lurconem⁠ 21 Romae honoribus functum. Aviae Antoniae secretum petenti denegavit, nisi ut interveniret Macro praefectus, ac per istius modi indignitates et taedia causa exstitit mortis, dato tamen, ut quidam putant, et veneno; nec defunctae ullum honorem habuit prospexitque e triclinio ardentem rogum.\n\n3 Fratrem Tiberium inopinantem repente immisso tribuno militum interemit, Silanum item socerum ad necem secandasque novacula fauces compulit, causatus in utroque, quod hic ingressum se turbatius mare non esset secutus ac spe occupandi urbem, si quid sibi per tempestates accideret, remansisset, ille antidotum oboluisset,⁠ 22 quasi ad praecavenda venena sua sumptum, cum et Silanus impatientiam nauseae vitasset et molestiam navigandi, et Tiberius propter assiduam et ingravescentem tussim medicamento usus esset. Nam Claudium patruum non nisi in ludibrium reservavit.",
       "wikiLinks": {
-        "Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
+        "Livia Augusta": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -246,7 +255,8 @@
       "wikiLinks": {
         "Ptolemy": "https://en.wikipedia.org/wiki/Ptolemy_of_Mauretania",
         "Macro": "https://en.wikipedia.org/wiki/Naevius_Sutorius_Macro",
-        "Ennia": "https://en.wikipedia.org/wiki/Ennia_Thrasylla"
+        "Ennia": "https://en.wikipedia.org/wiki/Ennia_Thrasylla",
+        "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -316,7 +326,8 @@
       "wikiLinks": {
         "Torquatus": "https://en.wikipedia.org/wiki/Titus_Manlius_Torquatus",
         "Cincinnatus": "https://en.wikipedia.org/wiki/Lucius_Quinctius_Cincinnatus",
-        "Pompeius": "https://en.wikipedia.org/wiki/Pompey"
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompey",
+        "Gnaeus Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius"
       }
     },
     {

@@ -29,11 +29,12 @@ test('isSafeWikipediaUrl only allows https English Wikipedia article URLs', () =
 });
 
 test('applyWikiLinks escapes text before link insertion', () => {
-  const result = applyWikiLinks('<Augustus>', {
+  const result = applyWikiLinks('&lt;Augustus&gt;', {
     Augustus: 'https://en.wikipedia.org/wiki/Augustus'
   });
 
   assert.match(result, /&lt;<a href="https:\/\/en\.wikipedia\.org\/wiki\/Augustus"/);
+  assert.match(result, /&gt;$/);
   assert.doesNotMatch(result, /<script>/);
 });
 

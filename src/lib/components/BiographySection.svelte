@@ -1,7 +1,7 @@
 <script>
   import { pretextMeasure } from '$lib/utils/pretext-measure';
 
-  /** @type {{ section: any, currentLang: string }} */
+  /** @type {{ section: import('$lib/types').Section & { enParagraphs: string[], laParagraphs: string[] }, currentLang: string }} */
   let { section, currentLang } = $props();
 
   let enHeight = $state(0);
@@ -9,17 +9,14 @@
   let enReady = $state(false);
   let laReady = $state(false);
 
-  // Both columns get the taller of the two heights
   let colHeight = $derived(Math.max(enHeight, laHeight));
   let bothReady = $derived(enReady && laReady);
 
-  /** @param {CustomEvent} e */
   function handleEnHeight(e) {
     enHeight = e.detail.totalHeight;
     enReady = true;
   }
 
-  /** @param {CustomEvent} e */
   function handleLaHeight(e) {
     laHeight = e.detail.totalHeight;
     laReady = true;
@@ -46,7 +43,7 @@
         class="reader-panel border-r border-rubric/20 px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}
         use:pretextMeasure={{ lang: 'en' }}
-        on:pretext-height-en={handleEnHeight}
+        onpretext-height-en={handleEnHeight}
       >
         <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
         <div class="reader-prose text-ink/92">
@@ -60,7 +57,7 @@
         class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7"
         style={bothReady ? `min-height: ${colHeight}px` : ''}
         use:pretextMeasure={{ lang: 'la' }}
-        on:pretext-height-la={handleLaHeight}
+        onpretext-height-la={handleLaHeight}
       >
         <div class="imperial-label mb-4 text-rubric/55">Latin</div>
         <div class="reader-prose text-ink/78 italic">
@@ -75,7 +72,7 @@
     <article
       class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8"
       use:pretextMeasure={{ lang: currentLang }}
-      on:pretext-height-en={handleEnHeight}
+      onpretext-height-en={handleEnHeight}
     >
       <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">
         {#each currentLang === 'en' ? section.enParagraphs : section.laParagraphs as paragraph}

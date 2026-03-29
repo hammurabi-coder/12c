@@ -35,6 +35,6 @@ export default [
   },
   // Ignore patterns
   {
-    ignores: ['.svelte-kit/', 'docs/', 'suetonius_texts/', 'tools/']
+    ignores: ['.svelte-kit/', 'docs/', 'suetonius_texts/']
   }
 ];

@@ -52,7 +52,7 @@ export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
   const matches = [];
   for (const entity of entities) {
     const url = wikiLinks[entity];
-    const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const escaped = entity.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const regex = new RegExp(`\\b(${escaped})\\b`, 'g');
     let regexMatch;
     while ((regexMatch = regex.exec(safeText)) !== null) {
@@ -78,40 +78,30 @@ export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
   let mi = 0; // match index
 
   for (let pos = 0; pos < safeText.length; ) {
-    // Advance linkedEnd past any matches we've skipped that ended before current pos
-    while (linkedEnd > 0 && mi < matches.length && matches[mi].start < linkedEnd) {
-      // This match overlaps a previously linked range — skip it
-      linked.add(matches[mi].entity); // mark as handled even if not linked
+    if (linkedEnd > 0 && mi < matches.length && matches[mi].start < linkedEnd) {
       linkedEnd = Math.max(linkedEnd, matches[mi].end);
       mi++;
     }
 
-    // If the current position is covered by a linked range, skip to its end
     if (pos < linkedEnd) {
       pos = linkedEnd;
       continue;
     }
 
-    // Try to start a new link at current position
     if (mi < matches.length && matches[mi].start === pos) {
       const m = matches[mi];
 
-      // Skip if already linked (first-occurrence wins, so subsequent occurrences
-      // with the same start but different length are already handled by sort order)
       if (linked.has(m.entity)) {
         mi++;
         continue;
       }
 
-      // This match starts at exactly pos and pos is not inside an existing link.
-      // Safe to link.
       linked.add(m.entity);
       linkedEnd = m.end;
       output += `<a href="${m.url}" class="wiki-link" target="_blank" rel="noopener noreferrer">${m.matchedText}</a>`;
       pos = m.end;
       mi++;
     } else {
-      // Plain character
       output += safeText[pos];
       pos++;
     }

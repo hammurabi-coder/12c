@@ -94,7 +94,7 @@ const rawCaesars = [
   },
   {
     name: 'Titus',
-    latin: 'T. Flavivs Vespasianvs',
+    latin: 'Titus',
     dates: 'AD 39–81',
     reign: 'AD 79–81',
     tag: 'Friends, I have lost a day.',

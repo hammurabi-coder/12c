@@ -2,6 +2,7 @@ import { caesars } from '$lib/data/caesars';
 import { getCaesarContext } from '$lib/data/caesar-context';
 import { biographySchema } from '$lib/data/schema';
 import { splitParagraphs, escapeHtml } from '$lib/utils/biography-text';
+import { CONTENT_PATH } from '$lib/constants';
 import { error } from '@sveltejs/kit';
 import fs from 'fs/promises';
 import path from 'path';
@@ -14,6 +15,12 @@ export function entries() {
 /** @type {import('./$types').PageServerLoad} */
 export async function load({ params }) {
   const { slug } = params;
+
+  const validSlugs = new Set(caesars.map((c) => c.slug));
+  if (!validSlugs.has(slug)) {
+    throw error(404, 'Caesar not found');
+  }
+
   const context = getCaesarContext(slug);
 
   if (!context.currentCaesar) {
@@ -23,7 +30,7 @@ export async function load({ params }) {
   let raw;
   try {
     const rawFile = await fs.readFile(
-      path.join(process.cwd(), 'static/content', `${slug}.json`),
+      path.join(process.cwd(), CONTENT_PATH, `${slug}.json`),
       'utf-8'
     );
     raw = JSON.parse(rawFile);

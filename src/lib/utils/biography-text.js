@@ -40,19 +40,23 @@ export function applyWikiLinks(safeText, wikiLinks = {}, options = {}) {
   // before their shorter substrings (e.g. "Caesar")
   const entities = safeEntries.map(([entity]) => entity).sort((a, b) => b.length - a.length);
 
+  // Track which entities have already been linked in this chapter (per applyWikiLinks call).
+  // Each entity only gets linked on its FIRST occurrence across all paragraphs in the chapter.
+  const linked = new Set();
+
   let result = safeText;
   for (const entity of entities) {
-    // Skip if this exact text is already wrapped in an anchor (defensive)
-    if (result.includes(`<a `) && result.includes(`>${escapeHtml(entity)}</a>`)) continue;
-
     const url = wikiLinks[entity];
     const escaped = escapeHtml(entity).replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
     const regex = new RegExp(`(?!<a[^>]*>)\\b(${escaped})\\b(?!</a>)`, 'g');
 
-    result = result.replace(
-      regex,
-      `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">$1</a>`
-    );
+    let replaced = false;
+    result = result.replace(regex, (match) => {
+      if (replaced || linked.has(entity)) return match;
+      linked.add(entity);
+      replaced = true;
+      return `<a href="${url}" class="wiki-link" target="_blank" rel="noopener noreferrer">${match}</a>`;
+    });
   }
 
   return result;

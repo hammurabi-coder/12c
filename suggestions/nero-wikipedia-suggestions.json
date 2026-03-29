@@ -1,0 +1,1286 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "Domitian",
+    "slug": "Domitian",
+    "url": "https://en.wikipedia.org/wiki/Domitian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Of the Domitian family two branches have acquired distinction, the Calvini and the Ahenobarbi. The latter h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the Ahenobarbi. The latter have as the founder of their race and the origin of their surname Lucius Domitius, to whom, as he was returning from the country, there once appeared twin youths of more tha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... worth while to give an account of several members of this family, to show more clearly that though Nero degenerated from the good qualities of his ancestors, he yet reproduced the vices of each of th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 To begin then somewhat far back, his great-grandfather 's grandfather, Gnaeus Domitius, when tribune of the commons, was enraged at the pontiffs for choosing another than himself..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "Crassus",
+    "slug": "Marcus_Licinius_Crassus",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said that it was not surprising that he had a brazen beard, since he had a face of iron and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...laws. Afterwards in his own consul ­ship he tried to deprive Caesar of the command of the armies in Gaul, and being named Caesar's successor by his party, was taken prisoner at Corfinium at the beginn..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "Pharsalus",
+    "slug": "Battle_of_Pharsalus",
+    "url": "https://en.wikipedia.org/wiki/Battle_of_Pharsalus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...were hard pressed by their besiegers, but suddenly abandoned them and at last fell in the battle at Pharsalus. He was a man of no great resolution, though he had a violent temper, and when he once att..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 3",
+    "caesar": "Nero",
+    "entity": "Brutus",
+    "slug": "Marcus_Junius_Brutus",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...edian law among those implicated in Caesar's death, though he was guiltless, and accordingly joined Brutus and Cassius, who were his near relatives. After the death of both leaders he retained the fle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 3",
+    "caesar": "Nero",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mong those implicated in Caesar's death, though he was guiltless, and accordingly joined Brutus and Cassius, who were his near relatives. After the death of both leaders he retained the fleet of which..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 3",
+    "caesar": "Nero",
+    "entity": "Cleopatra",
+    "slug": "Cleopatra",
+    "url": "https://en.wikipedia.org/wiki/Cleopatra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...den attack of illness, to accept the chief command when it was offered by those who were ashamed of Cleopatra, nor yet positively to decline it; but he went over to Augustus and a few days later died...."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 3",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fered by those who were ashamed of Cleopatra, nor yet positively to decline it; but he went over to Augustus and a few days later died. Even he did not escape with an unblemished reputation, for Anton..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was the father of the Domitius who was later well known from being named in Augustus' will as the purchaser of his goods a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He was the father of the Domitius who was later well known from being named in Augustus' will as the purchaser of his goods and chattels, a man no less famous in his youth for his...",
+      "...us and in all the regions of the city; also a gladiatorial show, but with such inhuman cruelty that Augustus, after his private warning was disregarded, was forced to restrain him by an edict."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...outh for his skill in driving than he was later for winning the insignia of a triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the cens..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 5",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He had by the elder Antonia a son Domitius who became the father of Nero, a man hateful in every walk of life; for when he had gone to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 5",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He had by the elder Antonia a son Domitius who became the father of Nero, a man hateful in every walk of life; for when he had gone to the East on the staff of the youn...",
+      "... Lepida, but escaped owing to the change of rulers and died of dropsy at Pyrgi, after acknowledging Nero son of Agrippina, the daughter of Germanicus."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 6",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 4,
+    "contexts": [
+      "1 Nero was born at Antium nine months after the death of Tiberius, on the eighteenth day before the Ka...",
+      "...inable and a public bane could be born of Agrippina and himself.\" 2 Another manifest indication of Nero's future unhappiness occurred on the day of his purification; for when Gaius Caesar was asked b...",
+      "...child whatever name he liked, he looked at his uncle Claudius, who later became emperor and adopted Nero, and said that he gave him his name. This he did, not seriously, but in jest, and Agrippina sco..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 6",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Many people at once made many direful predictions from his horoscope,⁠ a and a remark of his father Domitius was also regarded as an omen; for while receiving the congratulations of his friends, he sa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 6",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...ius Caesar was asked by his sister to give the child whatever name he liked, he looked at his uncle Claudius, who later became emperor and adopted Nero, and said that he gave him his name. This he did...",
+      ".... This he did, not seriously, but in jest, and Agrippina scorned the proposal, because at that time Claudius was one of the laughing-stocks of the court. 3 At the age of three he lost his father, bei...",
+      "...e house of his aunt Lepida almost in actual want, under two tutors, a dancer and a barber. But when Claudius became emperor, Nero not only recovered his father's property, but was also enriched by an ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
+    "chapter": "Chapter 7",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...he Circus with great self-possession and success. In the eleventh year of his age he was adopted by Claudius and consigned to the training of Annaeus Seneca, who was then already a senator. They say t...",
+      "...ccording to the usual custom, but many of the highest importance, though this had been forbidden by Claudius. Shortly afterwards he took Octavia to wife and gave games and a beast-baiting in the Circu...",
+      "...k Octavia to wife and gave games and a beast-baiting in the Circus, that health might be vouchsafed Claudius."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
+    "chapter": "Chapter 7",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...senator. They say that on the following night Seneca dreamed that he was teaching Gaius Caesar, and Nero soon proved the dream prophetic by revealing the cruelty of his disposition at the earliest pos..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 7",
+    "caesar": "Nero",
+    "entity": "Rhodes",
+    "slug": "Rhodes",
+    "url": "https://en.wikipedia.org/wiki/Rhodes",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r's consul ­ship he pleaded the cause of the people of Bononia before him in Latin, and of those of Rhodes and Ilium in Greek. His first appearance as judge was when he was prefect of the city during ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 8",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When the death of Claudius was made public, Nero, who was seventeen years old, went forth to the watch between the six..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 8",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When the death of Claudius was made public, Nero, who was seventeen years old, went forth to the watch between the sixth and the seventh hour, s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 9",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Then beginning with a display of filial piety, he gave Claudius a magnificent funeral, spoke his eulogy, and deified him. He paid the highest honours to th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 9",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...funeral, spoke his eulogy, and deified him. He paid the highest honours to the memory of his father Domitius. He left to his mother the management of all public and private business. Indeed, on the fi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 10",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s good intentions still more evident, he declared that he would rule according to the principles of Augustus, and he let slip no opportunity for acts of generosity and mercy, or even for displaying hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...very first attempt fell close by the imperial couch and bespattered the emperor with his blood; for Nero very seldom presided at the games, but used to view them while reclining on a couch, at first t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... openings, and then with the entire balcony uncovered. 3 He was likewise the first to establish at Rome a quinquennial⁠ b contest in three parts, after the Greek fashion, that is in music, gymnastics..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g was also offered him by the judges, he knelt before it and ordered that it be laid at the feet of Augustus' statue. 4 At the gymnastic contest, which he gave in the • Saepta, he shaved his first be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "Armenia",
+    "slug": "Armenia_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 I may fairly include among his shows the entrance of Tiridates into the city. He was a king of Armenia, whom Nero induced by great promises to come to Rome; and since he was prevented by bad weat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...rly include among his shows the entrance of Tiridates into the city. He was a king of Armenia, whom Nero induced by great promises to come to Rome; and since he was prevented by bad weather from exhib...",
+      "...is feet, but raised him with his right hand and kissed him. Then, while the king made supplication, Nero took the turban from his head and replaced it with a diadem, while a man of praetorian rank tra...",
+      "... to the throng. From there the king was taken to the theatre, and when he had again done obeisance, Nero gave him a seat at his right hand. Because of all this Nero was hailed as Imperator, and after ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f Tiridates into the city. He was a king of Armenia, whom Nero induced by great promises to come to Rome; and since he was prevented by bad weather from exhibiting him to the people on the day appoint..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 16",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...wn cost. He had also planned to extend the walls as far as Ostia and to bring the sea from there to Rome by a canal. 2 During his reign many abuses were severely punished and put down, and no fewer n..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 18",
+    "caesar": "Nero",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ny wish or hope of increasing or extending the empire, he even thought of withdrawing the army from Britain and changed his purpose only because he was ashamed to seem to belittle the glory of his fat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 18",
+    "caesar": "Nero",
+    "entity": "Pontus",
+    "slug": "Pontus_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...shamed to seem to belittle the glory of his father. He increased the provinces only by the realm of Pontus, when it was given up by Polemon, and that of Cottius in the Alps on the latter's death."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 18",
+    "caesar": "Nero",
+    "entity": "Alps",
+    "slug": "Alps",
+    "url": "https://en.wikipedia.org/wiki/Alps",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... provinces only by the realm of Pontus, when it was given up by Polemon, and that of Cottius in the Alps on the latter's death."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 19",
+    "caesar": "Nero",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He planned but two foreign tours, to Alexandria and Achaia; and he gave up the former on the very day when he was to have started, distur..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
+    "chapter": "Chapter 20",
+    "caesar": "Nero",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ndrians, who had flocked to Naples from a fleet that had lately arrived, and summoned more men from Alexandria. Not content with that, he selected some young men of the order of knights and more than ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Considering it of great importance to appear in Rome as well, he repeated the contest of the Neronia before the appointed time, and when there was a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e most insignificant, at first secretly, and then so openly that no one doubted that he would be in Rome on that particular day. 2 He made no secret of his wish to have the number of prizes increased...",
+      "...e usually occupied by the magistrates. 3 Not content with showing his proficiency in these arts at Rome, he went to Achaia, as I have said, influenced especially by the following consideration. The c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mediately on arriving at Cassiope made a preliminary appearance as a singer at the altar of Jupiter Cassius, and then went the round of all the contests. 65"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 23",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... should return speedily, yet you ought rather to counsel me and to hope that I may return worthy of Nero.\" 2 While he was singing no one was allowed to leave the theatre even for the most urgent reas..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 24",
+    "caesar": "Nero",
+    "entity": "Mithridates",
+    "slug": "Mithridates_VI_Eupator",
+    "url": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n many places, at Olympia even a ten-horse team, although in one of his own poems he had criticised Mithridates for just that thing. But after he had been thrown from the car and put back in it, he wa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Returning from Greece, since it was at Naples that he had made his first appearance, he entered that city with whit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...omary with victors in the sacred games. In like manner he entered Antium, then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, an...",
+      "...ctors in the sacred games. In like manner he entered Antium, then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, and wore a purp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... manner he entered Antium, then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, and wore a purple robe and a Greek cloak adorned ...",
+      "...his claque as by the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
+    "chapter": "Chapter 27",
+    "caesar": "Nero",
+    "entity": "Tiber",
+    "slug": "Tiber",
+    "url": "https://en.wikipedia.org/wiki/Tiber",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mus, waited on by harlots and dancing girls from all over the city. 3 Whenever he drifted down the Tiber to Ostia, or sailed about the Gulf of Baiae, booths were set up at intervals along the banks a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
+    "chapter": "Chapter 27",
+    "caesar": "Nero",
+    "entity": "Baiae",
+    "slug": "Baiae",
+    "url": "https://en.wikipedia.org/wiki/Baiae",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...from all over the city. 3 Whenever he drifted down the Tiber to Ostia, or sailed about the Gulf of Baiae, booths were set up at intervals along the banks and shores, fitted out for debauchery, while ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd the witty jest that someone made is still current, that it would have been well for the world if Nero's father Domitius had had that kind of wife. 2 This Sporus, decked out with the finery of the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...est that someone made is still current, that it would have been well for the world if Nero's father Domitius had had that kind of wife. 2 This Sporus, decked out with the finery of the empresses and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...th the finery of the empresses and riding in a litter, he took with him to the assizes and marts of Greece, and later at Rome through the Street of the Images, fondly kissing him from time to time. Th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...empresses and riding in a litter, he took with him to the assizes and marts of Greece, and later at Rome through the Street of the Images, fondly kissing him from time to time. That he even desired il..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 31",
+    "caesar": "Nero",
+    "entity": "Baiae",
+    "slug": "Baiae",
+    "url": "https://en.wikipedia.org/wiki/Baiae",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...over and enclosed in colonnades, into which he planned to turn all the hot springs in every part of Baiae; a canal from Avernus all the way to Ostia, to enable the journey to be made by ship yet not b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 31",
+    "caesar": "Nero",
+    "entity": "Africa",
+    "slug": "Africa_Province",
+    "url": "https://en.wikipedia.org/wiki/Africa_Province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...which queen Dido had taken with her of old in her flight from Tyre was hidden away in huge caves in Africa and could be recovered with but trifling labour.⁠ c"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 32",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... gifts and melted down the images of gold and silver, including those of the Penates, which however Galba soon afterwards restored."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 33",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 4,
+    "contexts": [
+      "1 He began his career of parricide and murder with Claudius, for even if he was not the instigator of the emperor's death, he was at least privy to it,...",
+      "...tted; for he used afterwards to laud mushrooms, the vehicle in which the poison was administered to Claudius, as \"the food of the gods,\" as the Greek proverb has it. At any rate, after Claudius's deat...",
+      "...dministered to Claudius, as \"the food of the gods,\" as the Greek proverb has it. At any rate, after Claudius's death he vented on him every kind of insult, in act and word, charging him now with folly..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 33",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aken to the dining-room and given to Britannicus. The boy dropped dead at the very first taste, but Nero lied to his guests and declared that he was seized with the falling sickness, to which he was s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 34",
+    "caesar": "Nero",
+    "entity": "Rhodes",
+    "slug": "Rhodes",
+    "url": "https://en.wikipedia.org/wiki/Rhodes",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing upon her a burden of unpopularity by pretending that he would abdicate the throne and go off to Rhodes. Then depriving her of all her honours and of her guard of Roman and German soldiers, he even..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 34",
+    "caesar": "Nero",
+    "entity": "Baiae",
+    "slug": "Baiae",
+    "url": "https://en.wikipedia.org/wiki/Baiae",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f its cabin. Then he pretended a reconciliation and invited her in a most cordial letter to come to Baiae and celebrate the feast of Minerva with him. On her arrival, instructing his captains to wreck..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 34",
+    "caesar": "Nero",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... in the effort to summon her shade and entreat it for forgiveness. Moreover, in his journey through Greece he did not venture to take part in the Eleusinian mysteries, since at the beginning the godle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...relation ­ship that he did not violate in his career of crime. He put to death Antonia, daughter of Claudius, for refusing to marry him after Poppaea's death, charging her with an attempt at revolutio..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "Egypt",
+    "slug": "Egypt_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y at being a general and an emperor. He banished his nurse's son Tuscus, because when procurator in Egypt, he had bathed in some baths which were built for a visit of Nero's. He drove his tutor Seneca..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...scus, because when procurator in Egypt, he had bathed in some baths which were built for a visit of Nero's. He drove his tutor Seneca to suicide, although when the old man often pleaded to be allowed ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
+    "chapter": "Chapter 36",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fter the discovery of two conspiracies. The earlier and more dangerous of these was that of Piso at Rome; the other was set on foot by Vinicius at Beneventum and detected there. 2 The conspirators ma..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ng let to certain states as headquarters three shops which formed part of his house near the Forum; Cassius Longinus, a blind jurist, with retaining in the old family tree of his house the mask of Gai...",
+      "...sius Longinus, a blind jurist, with retaining in the old family tree of his house the mask of Gaius Cassius, the assassin of Julius Caesar; Paetus Thrasea with having a sullen mien, like that of a pre..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "Longinus",
+    "slug": "Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o certain states as headquarters three shops which formed part of his house near the Forum; Cassius Longinus, a blind jurist, with retaining in the old family tree of his house the mask of Gaius Cassi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "Julius Caesar",
+    "slug": "Julius_Caesar",
+    "url": "https://en.wikipedia.org/wiki/Julius_Caesar",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rist, with retaining in the old family tree of his house the mask of Gaius Cassius, the assassin of Julius Caesar; Paetus Thrasea with having a sullen mien, like that of a preceptor. 2 To those who w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ce before a great throng was, that the event might result favourably \"for himself and the people of Rome,\" thus suppressing any mention of the senate."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... which in a single autumn entered thirty thousand deaths in the accounts of Libitina; a disaster in Britain, where two important towns were sacked and great numbers of citizens and allies were butcher..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Armenia",
+    "slug": "Armenia_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and allies were butchered; a shameful defeat in the Orient, in consequence of which the legions in Armenia were • sent under the yoke and Syria was all but lost. It is surprising and of special note ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...ns. 2 Of these many were posted or circulated both in Greek and Latin, for example the following: \"Nero, Orestes, Alcmeon their mothers slew.\" \" A calculation new. Nero his mother slew.\" \"Who can den...",
+      "...Latin, for example the following: \"Nero, Orestes, Alcmeon their mothers slew.\" \" A calculation new. Nero his mother slew.\" \"Who can deny the descent from Aeneas' great line of our Nero? One his mother...",
+      "... A calculation new. Nero his mother slew.\" \"Who can deny the descent from Aeneas' great line of our Nero? One his mother took off, the other one took off his sire.\" \"While our ruler his lyre doth twan..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...h twang and the Parthian his bowstring, Paean-singer our prince shall be, and Far-darter our foe.\" \"Rome is becoming one house; off with you to Veii, Quirites! If that house does not soon seize upon V..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... thee, mother,\" represented drinking and swimming in pantomime, referring of course to the death of Claudius and Agrippina; and in the final tag, \"Orcus guides your steps,\" he indicated the senate by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ius Vindex, who at that time governed their province as propraetor. 2 Astrologers had predicted to Nero that he would one day be repudiated, which was the occasion of that well known saying of his: \"..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "Jerusalem",
+    "slug": "Jerusalem",
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... promised him the rule of the East, when he was cast off, a few expressly naming the sovereignty of Jerusalem, and several the restitution of all his former fortunes. Inclining rather to this last hop..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "Armenia",
+    "slug": "Armenia_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...everal the restitution of all his former fortunes. Inclining rather to this last hope, after losing Armenia and Britain and recovering both, he began to think that he had suffered the misfortunes whic..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...estitution of all his former fortunes. Inclining rather to this last hope, after losing Armenia and Britain and recovering both, he began to think that he had suffered the misfortunes which fate had i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or the seventy-third year, assuming that he would die only at that period, and taking no account of Galba's years, he felt so confident not only of old age, but also of unbroken and unusual good fortu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
+    "chapter": "Chapter 41",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...as the taunt that he was a wretched lyre-player and that he was addressed as Ahenobarbus instead of Nero. With regard to his family name, which was cast in his teeth as an insult, he declared that he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 41",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...knew of any artist who was his superior. 2 Finally, beset by message after message, he returned to Rome in a panic; but on the way, when but slightly encouraged by an insignificant omen, for he notic..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 42",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Thereafter, having learned that Galba also and the Spanish provinces had revolted, he fainted and lay for a long time insensible, wi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 45",
+    "caesar": "Nero",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l out that while the people were suffering from hunger it was reported that a ship had arrived from Alexandria, bringing sand for the court wrestlers. 2 When he had thus aroused the hatred of all, th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Pompey",
+    "slug": "Pompey",
+    "url": "https://en.wikipedia.org/wiki/Pompey",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rm of winged ants, and now was surrounded by the statues of the nations which had been dedicated in Pompey's theatre and stopped in his tracks. A Spanish steed of which he was very fond was changed in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y meet the end which they deserve,\" all who were present cried out with one voice: \"You will do it, Augustus.\" It also had not failed of notice that the last piece which he sang in public was \"Oedipus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hereupon he turned over various plans in his mind, whether to go as a suppliant to the Parthians or Galba, or to appear to the people on the rostra, dressed in black, and beg as pathetically as he cou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "Egypt",
+    "slug": "Egypt_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s; and if he could not soften their hearts, to entreat them at least to allow him the prefecture of Egypt. Afterwards a speech composed for this purpose was found in his writing desk; but it is though..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "Tiber",
+    "slug": "Tiber",
+    "url": "https://en.wikipedia.org/wiki/Tiber",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ppeared, he cried \"Have I then neither friend nor foe?\" and ran out as if to throw himself into the Tiber."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 48",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...houts of the soldiers from the camp hard by, as they prophesied destruction for him and success for Galba. He also heard one of the wayfarers whom he met say: \"These men are after Nero,\" and another a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 48",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...him and success for Galba. He also heard one of the wayfarers whom he met say: \"These men are after Nero,\" and another ask: \"Is there anything new in the city about Nero?\" Then his horse took fright a...",
+      "...m he met say: \"These men are after Nero,\" and another ask: \"Is there anything new in the city about Nero?\" Then his horse took fright at the smell of a corpse which had been thrown out into the road, ...",
+      "...could be made, he scooped up in his hand some water to drink from a pool close by, saying: \"This is Nero's distilled water.\" 4 Then, as his cloak had been torn by the thorns, he pulled out the twigs ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 49",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "... the world is losing!\" 2 While he hesitated, a letter was brought to Phaon by one of his couriers. Nero snatching it from his hand read that he had been pronounced a public enemy by the senate, and t...",
+      "... for his cowardice in such words as these: \"To live is a scandal and a shame — this does not become Nero, does not become him — one should be resolute at such times — come, rouse thyself!\" And now the...",
+      "...centurion rushed in, and as he placed a cloak to the wound, pretending that he had come to aid him, Nero merely gasped: \"Too late!\" and \"This is fidelity!\" With these words he was gone, with eyes so s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 49",
+    "caesar": "Nero",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is head, but to contrive in some way that he be buried unmutilated. And this was granted by Icelus, Galba's freedman, who had shortly before been released from the bondage to which he was consigned at..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 50",
+    "caesar": "Nero",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ld, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by his mistress Acte, in the family tomb of the Domitii on the summit of the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
+    "chapter": "Chapter 51",
+    "caesar": "Nero",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... person and in his dress, always having his hair arranged in tiers of curls, and during the trip to Greece also letting it grow long and hang down behind; and he often appeared in public in a dining-r..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
+    "chapter": "Chapter 53",
+    "caesar": "Nero",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rum have competed with the athletes at Olympia; for he practised wrestling constantly, and all over Greece he had always viewed the gymnastic contests after the fashion of the judges, sitting on the g..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
+    "chapter": "Chapter 55",
+    "caesar": "Nero",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... them new ones from his own name. He also called the month of April Neroneus and was minded to name Rome Neropolis."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
+    "chapter": "Chapter 57",
+    "caesar": "Nero",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...o the senate to renew his alliance, earnestly begged this too, that honour be paid to the memory of Nero. In fact, twenty years later, when I was a young man, a person of obscure origin appeared, who ...",
+      "... years later, when I was a young man, a person of obscure origin appeared, who gave out that he was Nero, and the name was still in such favour with the Parthians that they supported him vigorously an..."
+    ],
+    "status": "approved"
+  }
+]

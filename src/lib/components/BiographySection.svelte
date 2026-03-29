@@ -1,6 +1,17 @@
 <script>
+  import { pretextMeasure } from '$lib/utils/pretext-measure';
+
   /** @type {{ section: any, currentLang: string }} */
   let { section, currentLang } = $props();
+
+  let measureData = $state({ totalHeight: 0, totalLines: 0 });
+
+  /** @param {CustomEvent} e */
+  function handleMeasure(e) {
+    const { totalHeight, totalLines } = e.detail;
+    measureData = { totalHeight, totalLines };
+    console.log(`[pretext] section "${section.heading}": ${totalLines} lines, ${totalHeight.toFixed(1)}px`);
+  }
 </script>
 
 <section
@@ -17,8 +28,13 @@
   </div>
 
   {#if currentLang === 'both'}
+    <!-- Dual column: EN + LAT side by side -->
     <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
-      <article class="reader-panel px-5 py-5 md:px-7">
+      <article
+        class="reader-panel px-5 py-5 md:px-7"
+        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18 }}
+        on:pretext-measured={handleMeasure}
+      >
         <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
         <div class="reader-prose text-ink/92">
           {#each section.enParagraphs as paragraph}
@@ -27,7 +43,11 @@
         </div>
       </article>
 
-      <article class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7">
+      <article
+        class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7"
+        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18 }}
+        on:pretext-measured={handleMeasure}
+      >
         <div class="imperial-label mb-4 text-rubric/55">Latin</div>
         <div class="reader-prose text-ink/78 italic">
           {#each section.laParagraphs as paragraph}
@@ -37,13 +57,23 @@
       </article>
     </div>
   {:else}
-    <article class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8">
+    <article
+      class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8"
+      use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 720, lineHeight: 35.18 }}
+      on:pretext-measured={handleMeasure}
+    >
       <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">
         {#each currentLang === 'en' ? section.enParagraphs : section.laParagraphs as paragraph}
           <p>{@html paragraph}</p>
         {/each}
       </div>
     </article>
+  {/if}
+
+  {#if measureData && measureData.totalLines > 0}
+    <div class="mt-4 imperial-label text-rubric/30">
+      {measureData.totalLines} lines · {measureData.totalHeight.toFixed(0)}px
+    </div>
   {/if}
 </section>
 

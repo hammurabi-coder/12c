@@ -1,0 +1,228 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Titus",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Titus, of the same surname as his father, was the delight and darling of the human race; such surpas..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 2",
+    "caesar": "Titus",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...me masters. At that time, so they say, a physiognomist was brought in by Narcissus, the freedman of Claudius, to examine Britannicus and declared most positively that he would never become emperor; bu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 2",
+    "caesar": "Titus",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...s, to examine Britannicus and declared most positively that he would never become emperor; but that Titus, who was standing near by at the time, would surely rule. The boys were so intimate too, that ...",
+      "...The boys were so intimate too, that it is believed that when Britannicus drained the fatal draught, Titus, who was reclining at his side, also tasted of the potion and for a long time suffered from an...",
+      "...ing at his side, also tasted of the potion and for a long time suffered from an obstinate disorder. Titus did not forget all this, but later set up a golden statue of his friend in the Palace, and ded..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He served as military tribune both in Germany and in Britain, winning a high reputation for energy and no less integrity, as is evident fr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He served as military tribune both in Germany and in Britain, winning a high reputation for energy and no less integrity, as is evident from the great nu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Presently he was sent to congratulate Galba on becoming ruler of the state, and attracted attention wherever he went, through the belief t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "Jerusalem",
+    "slug": "Jerusalem",
+    "url": "https://en.wikipedia.org/wiki/Jerusalem",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Soon realising his hope and left behind to complete the conquest of Judaea, in the final attack on Jerusalem he slew twelve of the defenders with as many arrows; and he took the city on his daughter'..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...from his father and make himself king of the East; and he strengthened this suspicion on his way to Alexandria by wearing a diadem at the consecration of the bull Apis in Memphis, an act quite in acco..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "Puteoli",
+    "slug": "Puteoli",
+    "url": "https://en.wikipedia.org/wiki/Puteoli",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...bly interpreted by some. Because of this he hastened to Italy, and putting in at Regium and then at Puteoli in a transport ship, he went with all speed from there to Rome, where as if to show that the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... putting in at Regium and then at Puteoli in a transport ship, he went with all speed from there to Rome, where as if to show that the reports about him were groundless, he surprised his father with t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 7",
+    "caesar": "Titus",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... accepted bribes. In short, people not only thought, but openly declared, that he would be a second Nero. But this reputation turned out to his advantage and gave place to the highest praise, when no ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 7",
+    "caesar": "Titus",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... to themselves and to the State, and of whose services they made special use. Berenice he sent from Rome at once, against her will and against his own. Some of his most beloved paramours, although the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ious emperors as valid, unless they had themselves conferred the same ones on the same individuals, Titus was the first to ratify them all in a single edict, without allowing himself to be asked. More..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "Vesuvius",
+    "slug": "Mount_Vesuvius",
+    "url": "https://en.wikipedia.org/wiki/Mount_Vesuvius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ommon people. 3 There were some dreadful disasters during his reign, such as the eruption of Mount Vesuvius in Campania, a fire at Rome which continued three days and as many nights, and a plague the...",
+      "... among the ex-consuls for the relief of Campania; and the property of those who lost their lives by Vesuvius and had no heirs left alive he applied to the rebuilding of the buried cities. During the f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "Campania",
+    "slug": "Campania",
+    "url": "https://en.wikipedia.org/wiki/Campania",
+    "occurrenceCount": 2,
+    "contexts": [
+      ".... 3 There were some dreadful disasters during his reign, such as the eruption of Mount Vesuvius in Campania, a fire at Rome which continued three days and as many nights, and a plague the like of whi...",
+      "... as his means allowed. 4 He chose commissioners by lot from among the ex-consuls for the relief of Campania; and the property of those who lost their lives by Vesuvius and had no heirs left alive he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... dreadful disasters during his reign, such as the eruption of Mount Vesuvius in Campania, a fire at Rome which continued three days and as many nights, and a plague the like of which had hardly ever b...",
+      "...s and had no heirs left alive he applied to the rebuilding of the buried cities. During the fire in Rome he made no remark except \"I am ruined,\" and he set aside all the ornaments of his villas for th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 11",
+    "caesar": "Titus",
+    "entity": "Vespasian",
+    "slug": "Vespasian",
+    "url": "https://en.wikipedia.org/wiki/Vespasian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ouse as his father, on the Ides of September, two years two months and twenty days after succeeding Vespasian, in the forty-second year of his age. When his death was made known, the whole populace mo..."
+    ],
+    "status": "approved"
+  }
+]

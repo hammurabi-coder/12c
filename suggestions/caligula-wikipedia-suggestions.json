@@ -1,0 +1,1212 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or ­ship five years before the legal age and passed directly to the consul ­ship. When the death of Augustus was announced, he was sent to the army in Germany, where it is hard to say whether his fili..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... directly to the consul ­ship. When the death of Augustus was announced, he was sent to the army in Germany, where it is hard to say whether his filial piety or his courage was more conspicuous; for a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "Armenia",
+    "slug": "Armenia_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed on his term he was hurried off to restore order in the Orient, and after vanquishing the king of Armenia and redu­cing Cappadocia to the form of a province, died of a lingering illness at Antioch, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "Cappadocia",
+    "slug": "Cappadocia",
+    "url": "https://en.wikipedia.org/wiki/Cappadocia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hurried off to restore order in the Orient, and after vanquishing the king of Armenia and redu­cing Cappadocia to the form of a province, died of a lingering illness at Antioch, in the thirty-fourth y..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "Antioch",
+    "slug": "Antioch",
+    "url": "https://en.wikipedia.org/wiki/Antioch",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... king of Armenia and redu­cing Cappadocia to the form of a province, died of a lingering illness at Antioch, in the thirty-fourth year of his age. There was some suspicion that he was poisoned; for be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 2",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... fell ill. In consequence Piso narrowly escaped being torn to pieces by the people on his return to Rome, and was condemned to death by the senate."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 3",
+    "caesar": "Caligula",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... anyone; a handsome person,⁠ a unequalled valour, surpassing ability in the oratory and learning of Greece and Rome, unexampled kindliness, and a remarkable desire and capacity for winning men's regar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 3",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...handsome person,⁠ a unequalled valour, surpassing ability in the oratory and learning of Greece and Rome, unexampled kindliness, and a remarkable desire and capacity for winning men's regard and inspi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 4",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eaped plenti ­ful fruit from these virtues, for he was so respected and beloved by his kindred that Augustus (to say nothing of the rest of his relatives) after hesitating for a long time whether to a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 4",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s in danger of his life from the crowds that met him or saw him off; in fact, when he returned from Germany after quelling the outbreak, all the cohorts of the praetorian guard went forth to meet him,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 4",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ven that only two should go, and the whole populace, regardless of age, sex, or rank, poured out of Rome as far as the twentieth milestone."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 6",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 At Rome when the community, in grief and consternation at the first report of his illness, was awaiting...",
+      "...s was roused from sleep by the cries of the rejoi­cing throng, who all united in singing:— \"Safe is Rome, safe too our country, for Germanicus is safe.\" 2 But when it was at last made known that he w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 7",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., whose statue, in the guise of Cupid, Livia dedicated in the temple of the Capitoline Venus, while Augustus had another placed in his bed chamber and used to kiss it fondly whenever he entered the ro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 7",
+    "caesar": "Caligula",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ir father, three girls, Agrippina, Drusilla, and Livilla, born in successive years, and three boys, Nero, Drusus, and Gaius Caesar. Nero and Drusus were adjudged public enemies by the senate on the ac...",
+      "...a, Drusilla, and Livilla, born in successive years, and three boys, Nero, Drusus, and Gaius Caesar. Nero and Drusus were adjudged public enemies by the senate on the accusation of Tiberius. 10"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...d untimely death I have already spoken. Pliny has erred in his chronology; 3 for the historians of Augustus agree that Germanicus was not sent to Germany until the close of his consul ­ship, when Gai...",
+      "...d called girls puerae, just as they called boys puelli. 4 Furthermore, we have a letter written by Augustus to his granddaughter Agrippina, a few months before he died, about the Gaius in question (f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...as erred in his chronology; 3 for the historians of Augustus agree that Germanicus was not sent to Germany until the close of his consul ­ship, when Gaius was already born. Moreover, the inscription ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... it is clear enough that Gaius could not have been born in a place to which he was first taken from Rome when he was nearly two years old. This letter also weakens our confidence in the verses, the mo...",
+      "...n thinking, it is said, of transferring there the seat and abode of the empire through weariness of Rome."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 9",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 His surname Caligula he derived from a joke of the troops, because he was brought up in their midst in the dress..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 9",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...p with them is especially evident from the fact that when they threatened mutiny after the death of Augustus and were ready for any act of madness, the mere sight of Gaius unquestionably calmed them. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
+    "chapter": "Chapter 12",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a freedman who cried out at the awful deed. 3 And this is likely enough; for some writers say that Caligula himself later admitted, not it is true that he had committed parricide, but that he had at ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
+    "chapter": "Chapter 14",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...to the wish of Tiberius, who in his will had named his other grandson, still a boy, joint heir with Caligula. So great was the public rejoi­cing, that within the next three months, or less than that, ...",
+      "...the Parthians, who was always outspoken in his hatred and contempt for Tiberius, voluntarily sought Caligula's friendship and came to a conference with the consular governor; then crossing the Euphrat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 14",
+    "caesar": "Caligula",
+    "entity": "Campania",
+    "slug": "Campania",
+    "url": "https://en.wikipedia.org/wiki/Campania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...said to have been slain in sacrifice. 2 A few days after this, when he crossed to the islands near Campania, vows were put up for his safe return, while no one let slip even the slightest chance of g..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 14",
+    "caesar": "Caligula",
+    "entity": "Euphrates",
+    "slug": "Euphrates",
+    "url": "https://en.wikipedia.org/wiki/Euphrates",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sought Caligula's friendship and came to a conference with the consular governor; then crossing the Euphrates, he paid homage to the Roman eagles and standards and to the statues of the Caesars. 16"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... posted off to Pandateria and the Pontian islands, to remove the ashes of his mother and brother to Rome; and in stormy weather, too, to make his filial piety the more conspicuous. He approached them ...",
+      "...he brought them to Ostia in a bireme with a banner set in the stern, and from there up the Tiber to Rome, where he had them carried to the Mausoleum on two biers by the most distinguished men of the o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "Tiber",
+    "slug": "Tiber",
+    "url": "https://en.wikipedia.org/wiki/Tiber",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l effect he brought them to Ostia in a bireme with a banner set in the stern, and from there up the Tiber to Rome, where he had them carried to the Mausoleum on two biers by the most distinguished men..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...heaped upon his grandmother Antonia whatever honours Livia Augusta had ever enjoyed; took his uncle Claudius, who up to that time had been a Roman knight, as his colleague in the consul ­ship; adopted..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the sexual perverts called spintriae, barely persuaded not to sink them in the sea. The writings of Titus Labienus, Cremutius Cordus, and Cassius Severus, which had been suppressed by decrees of the s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...barely persuaded not to sink them in the sea. The writings of Titus Labienus, Cremutius Cordus, and Cassius Severus, which had been suppressed by decrees of the senate, he allowed to be hunted up, cir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...down to posterity. He published the accounts of the empire, which had regularly been made public by Augustus, a practice discontinued by Tiberius. 2 He allowed the magistrates unrestricted jurisdicti..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Lugdunum",
+    "slug": "Lugdunum",
+    "url": "https://en.wikipedia.org/wiki/Lugdunum",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the Ides of the same month. Of all these only the last two were continuous. The third he assumed at Lugdunum without a colleague, not, as some think, through arrogance or disregard of precedent, but b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... not, as some think, through arrogance or disregard of precedent, but because at that distance from Rome he had been unable to get news of the death of the other consul just before the day of the Kale..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 19",
+    "caesar": "Caligula",
+    "entity": "Baiae",
+    "slug": "Baiae",
+    "url": "https://en.wikipedia.org/wiki/Baiae",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Besides this, he devised a novel and unheard of kind of pageant; for he bridged the gap between Baiae and the mole at Puteoli, a distance of about thirty-six hundred paces, by bringing together me...",
+      "...l grandson, that Gaius had no more chance of becoming emperor than of riding about over the gulf of Baiae with horses."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 19",
+    "caesar": "Caligula",
+    "entity": "Puteoli",
+    "slug": "Puteoli",
+    "url": "https://en.wikipedia.org/wiki/Puteoli",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...evised a novel and unheard of kind of pageant; for he bridged the gap between Baiae and the mole at Puteoli, a distance of about thirty-six hundred paces, by bringing together merchant ships from all ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 19",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... little admiration by bridging the much narrower Hellespont; others, that it was to inspire fear in Germany and Britain, on which he had designs, by the fame of some stupendous work. But when I was a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 19",
+    "caesar": "Caligula",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ration by bridging the much narrower Hellespont; others, that it was to inspire fear in Germany and Britain, on which he had designs, by the fame of some stupendous work. But when I was a boy, I used ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 20",
+    "caesar": "Caligula",
+    "entity": "Sicily",
+    "slug": "Sicily",
+    "url": "https://en.wikipedia.org/wiki/Sicily",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He also gave shows in foreign lands, Athenian games at Syracuse in Sicily, and miscellaneous games at Lugdunum in Gaul; at the latter place also a contest in Greek and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 20",
+    "caesar": "Caligula",
+    "entity": "Lugdunum",
+    "slug": "Lugdunum",
+    "url": "https://en.wikipedia.org/wiki/Lugdunum",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... also gave shows in foreign lands, Athenian games at Syracuse in Sicily, and miscellaneous games at Lugdunum in Gaul; at the latter place also a contest in Greek and Latin oratory, in which, they say,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 20",
+    "caesar": "Caligula",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hows in foreign lands, Athenian games at Syracuse in Sicily, and miscellaneous games at Lugdunum in Gaul; at the latter place also a contest in Greek and Latin oratory, in which, they say, the losers ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He completed the public works which had been half finished under Tiberius, namely the temple of Augustus and the • theatre of Pompey. He likewise began an aqueduct in the region near Tibur and an ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Pompey",
+    "slug": "Pompey",
+    "url": "https://en.wikipedia.org/wiki/Pompey",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rks which had been half finished under Tiberius, namely the temple of Augustus and the • theatre of Pompey. He likewise began an aqueduct in the region near Tibur and an amphitheatre beside the Saepta..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n the region near Tibur and an amphitheatre beside the Saepta, the former finished by his successor Claudius, while the latter was abandoned. At Syracuse he repaired the city walls, which had fallen i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Ephesus",
+    "slug": "Ephesus",
+    "url": "https://en.wikipedia.org/wiki/Ephesus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... besides, to rebuild the palace of Polycrates at Samos, to finish the temple of Didymaean Apollo at Ephesus, to found a city high up in the Alps, but, above all, to dig a canal through the Isthmus in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Alps",
+    "slug": "Alps",
+    "url": "https://en.wikipedia.org/wiki/Alps",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rates at Samos, to finish the temple of Didymaean Apollo at Ephesus, to found a city high up in the Alps, but, above all, to dig a canal through the Isthmus in Greece, and he had already sent a chief ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Ephesus, to found a city high up in the Alps, but, above all, to dig a canal through the Isthmus in Greece, and he had already sent a chief centurion to survey the work."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 So much for Caligula as emperor; we must now tell of his career as a monster. After he had assumed various surna..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the Armies,\" and \"Greatest and Best of Caesars\"), chancing to overhear some kings, who had come to Rome to pay their respects to him, disputing at dinner about the nobility of their descent, he cried..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...heir sanctity or their artistic merit, including that of Jupiter of Olympia, should be brought from Greece, in order to remove their heads and put his own in their place, he built out a part of the Pa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e reported, and even invited to live with the god, he built a bridge over the temple to the Deified Augustus, and thus joined his Palace to the Capitol.⁠ e Presently, to be nearer yet, he laid the fou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...a among the ancestors of the Caesars. He even boasted that his own mother was born in incest, which Augustus had committed with his daughter Julia; and not content with this slur on the memory of Augu...",
+      "...ich Augustus had committed with his daughter Julia; and not content with this slur on the memory of Augustus, he forbade the celebration of his victories at Actium and off Sicily by annual festivals, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "Sicily",
+    "slug": "Sicily",
+    "url": "https://en.wikipedia.org/wiki/Sicily",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... this slur on the memory of Augustus, he forbade the celebration of his victories at Actium and off Sicily by annual festivals, on the ground that they were disastrous and ruinous to the Roman people...."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... decurion of Fundi; whereas it is proved by public records that Aufidius Lurco held high offices at Rome. When his grandmother Antonia asked for a private interview, he refused it except in the presen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e, while Tiberius had taken medicine for a chronic cough, which was growing worse. As for his uncle Claudius, he spared him merely as a laughing-stock."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ntonia, at whose house they were brought up in company. Afterwards, when she was the wife of Lucius Cassius Longinus, an ex-consul, he took her from him and openly treated her as his lawful wife; and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "Longinus",
+    "slug": "Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...at whose house they were brought up in company. Afterwards, when she was the wife of Lucius Cassius Longinus, an ex-consul, he took her from him and openly treated her as his lawful wife; and when ill..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "Campania",
+    "slug": "Campania",
+    "url": "https://en.wikipedia.org/wiki/Campania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hildren. He was so beside himself with grief that suddenly fleeing the city by night and traversing Campania, he went to Syracuse and hurriedly returned from there without cutting his hair or shaving ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "Lepidus",
+    "slug": "Marcus_Aemilius_Lepidus_(triumvir)",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., but often prostituted them to his favourites; so that he was the readier at the trial of Aemilius Lepidus to condemn them, as adulteresses and privy to the conspiracies against him; and he not only ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...le, the next day issuing a proclamation that he had got himself a wife in the manner of Romulus and Augustus. 2 When the statement was made that the grandmother of Lollia Paulina, who was married to ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "Memmius",
+    "slug": "Gaius_Memmius",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Memmius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...us. 2 When the statement was made that the grandmother of Lollia Paulina, who was married to Gaius Memmius, an ex-consul commanding armies, had once been a remarkably beauti ­ful woman, he suddenly c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "Ptolemy",
+    "slug": "Ptolemy_XIII",
+    "url": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d be trivial and pointless to add to this an account of his treatment of his relatives and friends, Ptolemy, son of king Juba, his cousin (for he was the grandson of Mark Antony by Antony's daughter S..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 28",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ayed the gods for what has come to pass, that Tiberius might die and you become emperor.\" Thereupon Caligula, thinking that his exiles were likewise praying for his death, sent emissaries from island ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 29",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o had retired to Anticyra for his health, sent frequent requests for an extension of his leave, but Caligula had him put to death, adding that a man who had not been helped by so long a course of hell..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 30",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ggle; but when their death was ordered, one of them caught up his trident and slew all the victors. Caligula bewailed this in a public proclamation as a most cruel murder, and expressed his horror of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 31",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he state of his times, because they had been marked by no public disasters, saying that the rule of Augustus had been made famous by the Varus massacre, and that of Tiberius by the collapse of the amp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 32",
+    "caesar": "Caligula",
+    "entity": "Puteoli",
+    "slug": "Puteoli",
+    "url": "https://en.wikipedia.org/wiki/Puteoli",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a soldier who was adept at decapitation cut off the heads of those who were brought from prison. At Puteoli, at the dedication of the bridge that he contrived, as has been said, after inviting a numbe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
+    "chapter": "Chapter 32",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rs of the ships, he pushed them off into the sea with boathooks and oars. 2 At a public banquet in Rome he immediately handed a slave over to the executioners for stealing a strip of silver from the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 33",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d asked the tragic actor Apelles which of the two seemed to him the greater, and when he hesitated, Caligula had him flayed with whips, extolling his voice from time to time, when the wretch begged fo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... malice than insolence and cruelty. He threw down the statues of famous men, which for lack of room Augustus had moved from the court of the Capitol to the Campus Martius, and so utterly demolished th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ideal commonwealth. More than that, he all but removed the writings and the busts of Vergil and of Titus Livius from all the libraries, railing at the former as a man of no literary talent and very l..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 35",
+    "caesar": "Caligula",
+    "entity": "Ptolemy",
+    "slug": "Ptolemy_XIII",
+    "url": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... lock of hair, from Gnaeus Pompeius the surname Great belonging to his ancient race. After inviting Ptolemy, whom I have mentioned before, to come from his kingdom and receiving him with honour, he su...",
+      "...nly had him executed for no other reason than that when giving a gladiatorial show, he noticed that Ptolemy on entering the theatre attracted general attention by the splendour of his purple cloak. 2..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 35",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...chief centurion, called Colosseros because of his remarkable size and handsome appearance; this man Caligula ordered to be suddenly dragged from his seat in the amphitheatre and led into the arena, wh...",
+      "...nst a Thracian and then against a heavy-armed gladiator; when Proculus was victor in both contests, Caligula gave orders that he be bound at once, clad in rags, and then put to death, after first bein...",
+      "...was vigorously applauded on the day of one of the games for setting his slave free after a victory, Caligula rushed from the amphitheatre in such haste that he trod on the fringe of his toga and went ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
+    "chapter": "Chapter 36",
+    "caesar": "Caligula",
+    "entity": "Lepidus",
+    "slug": "Marcus_Aemilius_Lepidus_(triumvir)",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er his own chastity nor that of anyone else. He is said to have had unnatural relations with Marcus Lepidus, the pantomimic actor Mnester, and certain hostages. Valerius Catullus, a young man of a con..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
+    "chapter": "Chapter 37",
+    "caesar": "Caligula",
+    "entity": "Campania",
+    "slug": "Campania",
+    "url": "https://en.wikipedia.org/wiki/Campania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...; that on board of them he might recline at table from an early hour, and coast along the shores of Campania amid songs and choruses. He built villas and country houses with utter disregard of expense..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 38",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t not to be understood as going beyond that degree; and when certificates of the deified Julius and Augustus were presented to him, he waved them aside as old and out of date. 2 He also charged that ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 39",
+    "caesar": "Caligula",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When he was in Gaul and had sold at immense figures the jewels, furniture, slaves, and even the freedmen of his sis..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 39",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...even public carriages and animals from the bakeries; with the result that bread was often scarce at Rome and many who had cases in court lost them from inability to appear and meet their bail. 2 To g..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 43",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ecessity of recruiting his body-guard of Batavians and was seized with the idea of an expedition to Germany. So without delay he assembled legions and auxiliaries from all quarters, holding levies eve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a small force; yet as if the entire island had submitted to him, he sent a grandiloquent letter to Rome, commanding the couriers who carried it to ride in their post-chaise all the way to the Forum a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 47",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ume barbarian names. He also had the triremes in which he had entered the Ocean carried overland to Rome for the greater part of the way. He wrote besides to his financial agents to prepare for a triu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
+    "chapter": "Chapter 48",
+    "caesar": "Caligula",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...elty, that of butchering the legions that had begun the mutiny years before just after the death of Augustus, because they had beleaguered º his father Germanicus, their leader, and himself, at the ti..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
+    "chapter": "Chapter 49",
+    "caesar": "Caligula",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...imes and meditating still greater ones. For he had made up his mind to move to Antium, and later to Alexandria, after first slaying the noblest members of the two orders. 3 That no one may doubt this..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 49",
+    "caesar": "Caligula",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...des a great chest full of divers kinds of poisons, which they say were later thrown into the sea by Claudius and so infected it as to kill the fish, which were thrown up by the tide upon the neighbour..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 51",
+    "caesar": "Caligula",
+    "entity": "Sicily",
+    "slug": "Sicily",
+    "url": "https://en.wikipedia.org/wiki/Sicily",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... up his head, and if they increased, to leap from his bed and hide under it. In his journey through Sicily, though he made all manner of fun of the miracles in various places, he suddenly fled from Me..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 51",
+    "caesar": "Caligula",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e was passed along from hand to hand over the men's heads. 3 Soon after, hearing of an uprising in Germany, he made preparations to flee from the city and equipped fleets for the purpose, finding com..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 51",
+    "caesar": "Caligula",
+    "entity": "Alps",
+    "slug": "Alps",
+    "url": "https://en.wikipedia.org/wiki/Alps",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... rate be left him, in case the enemy should be victorious and take possession of the summits of the Alps, as the Cimbri, or even of the city, as the Senones had once done. And it was this, I think, th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "Ptolemy",
+    "slug": "Ptolemy_XIII",
+    "url": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...bance, he sent a centurion to bid him go without delay to Ostia and carry a message for him to king Ptolemy in Mauretania; and its purport was this: \"Do neither good nor ill to the man whom I have sen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
+    "chapter": "Chapter 56",
+    "caesar": "Caligula",
+    "entity": "Caligula",
+    "slug": "Caligula",
+    "url": "https://en.wikipedia.org/wiki/Caligula",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e charge that these last were privy to one of the former conspiracies was false, they realised that Caligula hated and feared them. In fact, he exposed them to great odium by at once taking them aside..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 56",
+    "caesar": "Caligula",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ey had decided to attempt his life at the exhibition of the Palatine games, as he went out at noon, Cassius Chaerea, tribune of a cohort of the praetorian guard, claimed for himself the principal part..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...rodigies. The statue of Jupiter at Olympia, which he had ordered to be taken to pieces and moved to Rome, suddenly uttered such a peal of laughter that the scaffoldings collapsed and the workmen took ...",
+      "... was struck by lightning on the Ides of March, and also the room of the doorkeeper of the Palace at Rome. Some inferred from the latter omen that danger was threatened to the owner at the hands of his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...ghter that the scaffoldings collapsed and the workmen took to their heels; and at once a man called Cassius turned up, who declared that he had been bidden in a dream to sacrifice a bull to Jupiter. ...",
+      "...d that inevitable death was close at hand. 3 The lots of Fortune at Antium warned him to beware of Cassius, and he accordingly ordered the death of Cassius Longinus, who was at the time proconsul of ...",
+      "... lots of Fortune at Antium warned him to beware of Cassius, and he accordingly ordered the death of Cassius Longinus, who was at the time proconsul of Asia, forgetting that the family name of Chaerea ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Capua",
+    "slug": "Capua",
+    "url": "https://en.wikipedia.org/wiki/Capua",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., who declared that he had been bidden in a dream to sacrifice a bull to Jupiter. 2 The Capitol at Capua was struck by lightning on the Ides of March, and also the room of the doorkeeper of the Palac..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Sulla",
+    "slug": "Sulla",
+    "url": "https://en.wikipedia.org/wiki/Sulla",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...econd distinguished personage, such as had taken place long before on that same day. The soothsayer Sulla too, when Gaius consulted him about his horoscope, declared that inevitable death was close at..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Longinus",
+    "slug": "Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Fortune at Antium warned him to beware of Cassius, and he accordingly ordered the death of Cassius Longinus, who was at the time proconsul of Asia, forgetting that the family name of Chaerea was Cass..."
+    ],
+    "status": "approved"
+  }
+]

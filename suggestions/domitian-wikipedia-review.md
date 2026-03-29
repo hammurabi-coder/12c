@@ -1,0 +1,303 @@
+# Wikipedia Link Suggestions: Domitian
+
+**Source:** LacusCurtius / Loeb Classical Library (1914)
+**Suggestions:** 34 entities across 12 chapters
+**Review file:** suggestions/domitian-wikipedia-suggestions.json
+
+---
+
+## How to review
+
+1. Open suggestions/domitian-wikipedia-suggestions.json
+2. For each entry set `status`: `approved` | `rejected` | `edited`
+3. For `edited`: add `"editedUrl": "https://en.wikipedia.org/wiki/Exact_Page"`
+4. Run: `node scripts/suggest-wikipedia-links.mjs --caesar=domitian --apply`
+
+---
+
+## Chapter 1
+
+### 1. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 3
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> 1 Domitian was born on the ninth day before the Kalends of November of the year when his father was co...
+
+> ...orian rank, against whom Nero's poem entitled "The One-eyed Man" is directed, preserved a letter in Domitian's handwriting and sometimes exhibited it, in which the future emperor promised him an assig...
+
+> ...future emperor promised him an assignation; and there have not been wanting those who declared that Domitian was also debauched by Nerva, who succeeded him. 2 In the war with Vitellius he took refuge...
+
+### 2. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+**Occurrences:** 1
+**Slug:** `Claudius`
+**Status:** `pending`
+
+> ...poverty and infamy. For he did not possess a single piece of plate and it is a well known fact that Claudius Pollio, a man of praetorian rank, against whom Nero's poem entitled "The One-eyed Man" is d...
+
+### 3. [Pollio](https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio)
+**Occurrences:** 1
+**Slug:** `Gaius_Asinius_Pollio`
+**Status:** `pending`
+
+> ...nd infamy. For he did not possess a single piece of plate and it is a well known fact that Claudius Pollio, a man of praetorian rank, against whom Nero's poem entitled "The One-eyed Man" is directed, ...
+
+### 4. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+**Occurrences:** 1
+**Slug:** `Nero_(emperor)`
+**Status:** `pending`
+
+> ...e of plate and it is a well known fact that Claudius Pollio, a man of praetorian rank, against whom Nero's poem entitled "The One-eyed Man" is directed, preserved a letter in Domitian's handwriting an...
+
+### 5. [Vitellius](https://en.wikipedia.org/wiki/Vitellius)
+**Occurrences:** 1
+**Slug:** `Vitellius`
+**Status:** `pending`
+
+> ...those who declared that Domitian was also debauched by Nerva, who succeeded him. 2 In the war with Vitellius he took refuge in the Capitol with his paternal uncle Sabinus and a part of the forces und...
+
+### 6. [Tiber](https://en.wikipedia.org/wiki/Tiber)
+**Occurrences:** 1
+**Slug:** `Tiber`
+**Status:** `pending`
+
+> ...of a follower of Isis and mingling with the priests of that fickle superstition, he went across the Tiber with a single companion to the mother of one of his school-fellows. There he was so effectuall...
+
+### 7. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+**Occurrences:** 1
+**Slug:** `Vespasian`
+**Status:** `pending`
+
+> ...Lamia, and in a single day he assigned more than twenty positions in the city and abroad, which led Vespasian to say more than once that he was surprised that he did not appoint the emperor's successo...
+
+## Chapter 2
+
+### 8. [Gaul](https://en.wikipedia.org/wiki/Gaul)
+**Occurrences:** 1
+**Slug:** `Gaul`
+**Status:** `pending`
+
+> 1 He began an expedition against Gaul and the Germanies, which was uncalled for and from which his father's friends dissuaded him, me...
+
+### 9. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+**Occurrences:** 1
+**Slug:** `Vespasian`
+**Status:** `pending`
+
+> ... when Vologaesus, king of the Parthians, had asked for auxiliaries against the Alani and for one of Vespasian's sons as their leader, Domitian used every effort to have himself sent rather than Titus;...
+
+### 10. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 2
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...hians, had asked for auxiliaries against the Alani and for one of Vespasian's sons as their leader, Domitian used every effort to have himself sent rather than Titus; and because the affair came to no...
+
+> ...plot against his brother secretly and openly, until Titus was seized with a dangerous illness, when Domitian ordered that he be left for dead, before he had actually drawn his last breath. And after h...
+
+### 11. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
+**Occurrences:** 2
+**Slug:** `Titus_(emperor)`
+**Status:** `pending`
+
+> ...ne of Vespasian's sons as their leader, Domitian used every effort to have himself sent rather than Titus; and because the affair came to nothing, he tried by gifts and promises to induce other easter...
+
+> ... with. And from that time on he never ceased to plot against his brother secretly and openly, until Titus was seized with a dangerous illness, when Domitian ordered that he be left for dead, before he...
+
+## Chapter 4
+
+### 12. [Egypt](https://en.wikipedia.org/wiki/Egypt_(Roman_province))
+**Occurrences:** 1
+**Slug:** `Egypt_(Roman_province)`
+**Status:** `pending`
+
+> ...ask him if he knew why he had decided at the last appointment day to make Mettius Rufus praefect of Egypt. He often gave sea-fights almost with regular fleets, having dug a pool near the Tiber and sur...
+
+### 13. [Tiber](https://en.wikipedia.org/wiki/Tiber)
+**Occurrences:** 1
+**Slug:** `Tiber`
+**Status:** `pending`
+
+> ... praefect of Egypt. He often gave sea-fights almost with regular fleets, having dug a pool near the Tiber and surrounded it with seats;⁠ a and he continued to witness the contests amid heavy rains. 3...
+
+### 14. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+**Occurrences:** 1
+**Slug:** `Claudius`
+**Status:** `pending`
+
+> ...eavy rains. 3 He also celebrated Secular games, reckoning the time, not according to the year when Claudius had last given them, but by the previous calculation of Augustus. In the course of these, t...
+
+### 15. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+**Occurrences:** 1
+**Slug:** `Augustus`
+**Status:** `pending`
+
+> ...me, not according to the year when Claudius had last given them, but by the previous calculation of Augustus. In the course of these, to make it possible to finish a hundred races on the day of contes...
+
+## Chapter 6
+
+### 16. [Oppius](https://en.wikipedia.org/wiki/Oppius)
+**Occurrences:** 1
+**Slug:** `Oppius`
+**Status:** `pending`
+
+> ... by the destruction of a legion with its commander. He made two against the Dacians, the first when Oppius Sabinus an ex-consul was defeated, and the second on the overthrow of Cornelius Fuscus, prefe...
+
+### 17. [Germany](https://en.wikipedia.org/wiki/Germania)
+**Occurrences:** 1
+**Slug:** `Germania`
+**Status:** `pending`
+
+> ... Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, governor of Upper Germany, was put down in the emperor's absence by a remarkable stroke of good fortune; for at the ve...
+
+### 18. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 1
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...battle the Rhine suddenly thawed and prevented his barbarian allies from crossing over to Antonius. Domitian learned of this victory through omens before he actually had news of it, for on the very da...
+
+### 19. [Rome](https://en.wikipedia.org/wiki/Rome)
+**Occurrences:** 2
+**Slug:** `Rome`
+**Status:** `pending`
+
+> ... for on the very day when the decisive battle was fought a magnificent eagle enfolded his statue at Rome with its wings, uttering exultant shrieks; and soon afterwards the report of Antony's death bec...
+
+> ...so current, that several went so far as to assert positively that they had seen his head brought to Rome.
+
+## Chapter 10
+
+### 20. [Tarsus](https://en.wikipedia.org/wiki/Tarsus_(city))
+**Occurrences:** 1
+**Slug:** `Tarsus_(city)`
+**Status:** `pending`
+
+> ...e time, because in his skill and his appearance he seemed not unlike his master; also Hermogenes of Tarsus because of some allusions in his History, besides crucifying even the slaves who had written ...
+
+### 21. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 2
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...ing remarks, which were reflections on him, it is true, but made long before and harmless. For when Domitian had taken away Lamia's wife, the latter replied to someone who praised his voice: "I practi...
+
+> ...ing that in a farce composed for the stage he had under the characters of Paris and Oenone censured Domitian's divorce from his wife; Flavius Sabinus too, one of his cousins, because on the day of the...
+
+### 22. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
+**Occurrences:** 2
+**Slug:** `Titus_(emperor)`
+**Status:** `pending`
+
+> ...amia's wife, the latter replied to someone who praised his voice: "I practise continence"; and when Titus urged him to marry again, he replied: "Are you too looking for a wife?" 3 He put to death Sal...
+
+> ...ivity and carried about a map of the world on parchment and speeches of the kings and generals from Titus Livius, besides giving two of his slaves the names of Mago and Hannibal; Sallustius Lucullus, ...
+
+### 23. [Otho](https://en.wikipedia.org/wiki/Otho)
+**Occurrences:** 1
+**Slug:** `Otho`
+**Status:** `pending`
+
+> ...for a wife?" 3 He put to death Salvius Cocceianus, because he had kept the birthday of the emperor Otho, his paternal uncle; Mettius Pompusianus, because it was commonly reported that he had an imper...
+
+### 24. [Hannibal](https://en.wikipedia.org/wiki/Hannibal)
+**Occurrences:** 1
+**Slug:** `Hannibal`
+**Status:** `pending`
+
+> ...of the kings and generals from Titus Livius, besides giving two of his slaves the names of Mago and Hannibal; Sallustius Lucullus, governor of Britain, for allowing some lances of a new pattern to be ...
+
+### 25. [Britain](https://en.wikipedia.org/wiki/Britannia)
+**Occurrences:** 1
+**Slug:** `Britannia`
+**Status:** `pending`
+
+> ..., besides giving two of his slaves the names of Mago and Hannibal; Sallustius Lucullus, governor of Britain, for allowing some lances of a new pattern to be named "Lucullean," after his own name; Juni...
+
+## Chapter 14
+
+### 26. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+**Occurrences:** 1
+**Slug:** `Nero_(emperor)`
+**Status:** `pending`
+
+> ...he condemned Epaphroditus, his confidential secretary, to death, because it was believed that after Nero was abandoned the freedman's hand had aided him in taking his life. 61
+
+## Chapter 15
+
+### 27. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 4
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...ost before the end of his consul ­ship; and yet Flavius was a man of most contemptible laziness and Domitian had besides openly named his sons, who were then very young, as his successors, changing th...
+
+> ...y young, as his successors, changing their former names and calling the one Vespasian and the other Domitian. And it was by this deed in particular that he hastened his own destruction. 2 For eight s...
+
+> ...art, he was asked what his own end would be. When he replied that he would shortly be rent by dogs, Domitian ordered him killed at once; but to prove the fallibility of his art, he ordered besides tha...
+
+### 28. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+**Occurrences:** 2
+**Slug:** `Vespasian`
+**Status:** `pending`
+
+> ... sons, who were then very young, as his successors, changing their former names and calling the one Vespasian and the other Domitian. And it was by this deed in particular that he hastened his own des...
+
+> ...off in a violent tempest and fell upon a neighbouring tomb. The tree which had been overthrown when Vespasian was still a private citizen but had sprung up anew, then on a sudden fell down again. Fort...
+
+## Chapter 16
+
+### 29. [Germany](https://en.wikipedia.org/wiki/Germania)
+**Occurrences:** 1
+**Slug:** `Germania`
+**Status:** `pending`
+
+> ...fied that he leaped from his bed. The next morning he conducted the trial of a soothsayer sent from Germany, who when consulted about the lightning strokes had foretold a change of rulers, and condemn...
+
+## Chapter 17
+
+### 30. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 2
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...the bedroom, and so was a witness of the murder, gave this additional information. He was bidden by Domitian, immediately after he was dealt the first blow, to hand him the dagger hidden under his pil...
+
+> ...e emperor grappled with Stephanus and bore him to the ground, where they struggled for a long time, Domitian trying now to wrest the dagger from his assailant's hands and now to gouge out his eyes wit...
+
+### 31. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
+**Occurrences:** 1
+**Slug:** `Titus_(emperor)`
+**Status:** `pending`
+
+> ...retly carried to the temple of the Flavian family and mingled them with those of Julia, daughter of Titus, whom she had also reared.
+
+## Chapter 20
+
+### 32. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
+**Occurrences:** 1
+**Slug:** `Alexandria,_Egypt`
+**Status:** `pending`
+
+> ...ewed at very great expense, seeking everywhere for copies of the lost works, and sending scribes to Alexandria to transcribe and correct them. Yet he never took any pains to become acquainted with his...
+
+## Chapter 22
+
+### 33. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
+**Occurrences:** 1
+**Slug:** `Titus_(emperor)`
+**Status:** `pending`
+
+> ...ced her shortly afterwards when she became the wife of another, and that too during the lifetime of Titus. Later, when she was bereft of father and husband, he loved her ardently and without disguise,...
+
+## Chapter 23
+
+### 34. [Domitian](https://en.wikipedia.org/wiki/Domitian)
+**Occurrences:** 2
+**Slug:** `Domitian`
+**Status:** `pending`
+
+> ...h indifference, but the soldiers were greatly grieved and at once attempted to call him the Deified Domitian; while they were prepared also to avenge him, had they not lacked leaders. This, however, t...
+
+> ...le Tarpeian a raven but lately alighting, Could not say 'It is well,' only declared 'It will be.' " Domitian himself, it is said, dreamed that a golden hump grew out on his back, and he regarded this ...
+

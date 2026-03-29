@@ -37,6 +37,7 @@
     "vite": "^5.0.0"
   },
   "dependencies": {
+    "@chenglou/pretext": "^0.0.3",
     "sharp": "^0.34.5",
     "zod": "^3.25.76"
   }

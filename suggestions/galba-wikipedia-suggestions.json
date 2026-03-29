@@ -1,0 +1,845 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 The race of the Caesars ended with Nero. That this would be so was shown by many portents and especially by two very significant ones. ...",
+      "... observed that just before the death of each of them the tree which he had planted withered. Now in Nero's last year the whole grove died from the root up, as well as all the hens. Furthermore, when s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Galba",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      ".... Years before, as Livia was returning to her estate near Veii, immediately after her marriage with Augustus, an eagle which flew by dropped into her lap a white hen, holding in its beak a sprig of la...",
+      "...heads fell from all the statues at the same time, and his sceptre, too, was dashed from the hand of Augustus."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 2",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Nero was succeeded by Galba, who was related in no degree to the house of the Caesars, although unqu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 2",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Nero was succeeded by Galba, who was related in no degree to the house of the Caesars, although unquestionably of noble or..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 2",
+    "caesar": "Galba",
+    "entity": "Catulus",
+    "slug": "Catulus",
+    "url": "https://en.wikipedia.org/wiki/Catulus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y; for he always added to the inscriptions on his statues that he was the great-grandson of Quintus Catulus Capitolinus, and when he became emperor he even displayed a family tree in his hall in which..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...account of his immediate family. It is uncertain why the first of the Sulpicii who bore the surname Galba assumed the name, and whence it was derived. Some think that it was because after having for a...",
+      "...he insects called galbae, which breed in oak trees. 2 The family acquired distinction from Servius Galba, who became consul and was decidedly the most eloquent speaker of his time. This man, they say...",
+      "...o death by the Pedian law. 3 From him were descended the grandfather and the father of the emperor Galba. The former, who was more eminent for his learning than for his rank — for he did not advance ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 2,
+    "contexts": [
+      ".... Some think that it was because after having for a long time un­ success ­fully besieged a town in Spain, he at last set fire to it by torches smeared with galbanum; others because during a long illn...",
+      "...r of his time. This man, they say, was the cause of the war with Viriathus, because while governing Spain as propraetor, he treacherously massacred thirty thousand of the Lusitanians. His grandson had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... massacred thirty thousand of the Lusitanians. His grandson had been one of Caesar's lieutenants in Gaul, but angered because his commander caused his defeat for the consul ­ship, he joined the conspi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Brutus",
+    "slug": "Marcus_Junius_Brutus",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...angered because his commander caused his defeat for the consul ­ship, he joined the conspiracy with Brutus and Cassius, and was consequently condemned to death by the Pedian law. 3 From him were desc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Cassius",
+    "slug": "Gaius_Cassius_Longinus",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ause his commander caused his defeat for the consul ­ship, he joined the conspiracy with Brutus and Cassius, and was consequently condemned to death by the Pedian law. 3 From him were descended the g..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Catulus",
+    "slug": "Catulus",
+    "url": "https://en.wikipedia.org/wiki/Catulus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... speaker, was an industrious pleader at the bar. 4 He married Mummia Achaica, the granddaughter of Catulus and great-granddaughter of Lucius Mummius who destroyed Corinth; and later Livia Ocellina, a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...her by concealing it. By Achaica he had two sons, Gaius and Servius. Gaius, who was the elder, left Rome after squandering the greater part of his estate, and committed suicide because Tiberius would ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 4,
+    "contexts": [
+      "1 The emperor Servius Galba was born in the consul ­ship of Marcus Valerius Messala and Gnaeus Lentulus, on the ninth day ...",
+      "...reek: \"Thou too, child, wilt have a nibble at this power of mine.\" Tiberius too, when he heard that Galba was destined to be emperor, but in his old age, said: \"Well, let him live then, since that doe...",
+      "...but in his old age, said: \"Well, let him live then, since that does not concern me.\" 2 Again, when Galba's grandfather was busy with a sacrifice for a stroke of lightning, and an eagle snatched the i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he became emperor. It is well known that when he was still a boy and called to pay his respects to Augustus with others of his age, the emperor pinched his cheek and said in Greek: \"Thou too, child, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 5",
+    "caesar": "Galba",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r. And he could not be tempted afterwards by any match, not even with Agrippina, who no sooner lost Domitius by death than she set her cap for Galba so obviously, even before the death of his wife, th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 5",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...y any match, not even with Agrippina, who no sooner lost Domitius by death than she set her cap for Galba so obviously, even before the death of his wife, that Lepida's mother scolded her roundly befo...",
+      "...written out in words, Tiberius, who was her heir, reduced the bequest to five hundred thousand, and Galba never received even that amount."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Domitius",
+    "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... held a regular consul ­ship for six months; and it chanced that in this office he succeeded Lucius Domitius, the father of Nero, and was succeeded by Salvius Otho, the father of the emperor Otho, a k..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ship for six months; and it chanced that in this office he succeeded Lucius Domitius, the father of Nero, and was succeeded by Salvius Otho, the father of the emperor Otho, a kind of omen of what happ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Otho",
+    "slug": "Otho",
+    "url": "https://en.wikipedia.org/wiki/Otho",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... that in this office he succeeded Lucius Domitius, the father of Nero, and was succeeded by Salvius Otho, the father of the emperor Otho, a kind of omen of what happened later, when he became emperor ...",
+      "...d Lucius Domitius, the father of Nero, and was succeeded by Salvius Otho, the father of the emperor Otho, a kind of omen of what happened later, when he became emperor between the reigns of the sons o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n he became emperor between the reigns of the sons of these two men. 2 Appointed governor of Upper Germany by Gaius Caesar in room of Gaetulicus, the day after he appeared before the legions he put a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...s; and immediately this verse was bandied about the camp: \"Soldier, learn to play the soldier; 'tis Galba, not Gaetulicus.\" 3 With equal strictness he put a stop to the requests for furloughs. He got...",
+      "...eedily checked the barbarians, who had already made inroads even into Gaul, and when Gaius arrived, Galba and his army made such a good impression, that out of the great body of troops assembled from ...",
+      "...dy of troops assembled from all the provinces none received greater commendation or richer rewards. Galba particularly distinguished himself, while directing the military manoeuvres shield in hand, by..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ion by plenty of hard work, speedily checked the barbarians, who had already made inroads even into Gaul, and when Gaius arrived, Galba and his army made such a good impression, that out of the great ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 When the murder of Gaius was announced, although many urged Galba to take advantage of the opportunity, he preferred quiet. Hence he was in high favour with Cla...",
+      "...treated with such consideration that the departure of the expedition to Britain was put off because Galba was taken with a sudden illness, of no great severity. He governed Africa for two years with t...",
+      "...r was accused of having sold for a hundred denarii a peck of wheat which was left from his rations, Galba gave orders that when the man began to lack food, he should receive aid from no one; and he st..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed Galba to take advantage of the opportunity, he preferred quiet. Hence he was in high favour with Claudius, became one of his staff of intimate friends, and was treated with such consideration that ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f intimate friends, and was treated with such consideration that the departure of the expedition to Britain was put off because Galba was taken with a sudden illness, of no great severity. He governed..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "Africa",
+    "slug": "Africa_Province",
+    "url": "https://en.wikipedia.org/wiki/Africa_Province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ritain was put off because Galba was taken with a sudden illness, of no great severity. He governed Africa for two years with the rank of proconsul, being specially chosen to restore order in the prov..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "Africa",
+    "slug": "Africa_Province",
+    "url": "https://en.wikipedia.org/wiki/Africa_Province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 His services in Africa at that time, and previously in Germany, were recognised by the triumphal regalia and three p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 His services in Africa at that time, and previously in Germany, were recognised by the triumphal regalia and three priesthoods, for he was chosen a member ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ods, for he was chosen a member of the Fifteen, of the brotherhood of Titius, and of the priests of Augustus. After that he lived for the most part in retirement until about the middle of Nero's reign..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... priests of Augustus. After that he lived for the most part in retirement until about the middle of Nero's reign, never going out even for recreation without taking a million sesterces in gold with hi...",
+      "... a change of rulers and of the succession of an old man to a young one; that is to say, of Galba to Nero. Not long after this lightning struck a lake of Cantabria and twelve axes were found there, an ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a sign of a change of rulers and of the succession of an old man to a young one; that is to say, of Galba to Nero. Not long after this lightning struck a lake of Cantabria and twelve axes were found t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...it in case of his death; and when the man invoked the law and declared that he was a Roman citizen, Galba, pretending to lighten his punishment by some consolation and honour, ordered that a cross muc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... set up, and the man transferred to it. But he gradually changed to sloth and inaction, not to give Nero any cause for jealousy, and as he used to say himself, because no one could be forced to render...",
+      "... by hope. For he had intercepted despatches ordering his own death, which had been secretly sent by Nero to his agents. He was encouraged too, in addition to most favourable auspices and omens, by the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "Carthage",
+    "slug": "Carthage",
+    "url": "https://en.wikipedia.org/wiki/Carthage",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...one could be forced to render an account for doing nothing. 2 As he was holding the assizes at New Carthage, he learned of the rebellion of the Gallic provinces through an urgent appeal for help from..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...wo hundred years before. And the purport of the verses was that one day there would come forth from Spain the ruler and lord of the world."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...h he had set up as many images as he could find of those who had been condemned and put to death by Nero; and having by his side a boy of noble family, whom he had summoned for that very purpose from ...",
+      "...alba as he was approaching his camp and was with difficulty prevented. Some slaves too, whom one of Nero's freedmen had given Galba with treachery in view, all but slew him as he was going to the bath..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...on hailed as emperor, he declared that he was their governor, representing the senate and people of Rome. 2 Then proclaiming a holiday, he enrolled from the people of the province legions and auxilia..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ontaining a precious stone engraved with a Victory and a trophy. Immediately afterwards a ship from Alexandria loaded with arms arrived at Dertosa without a pilot, without a single sailor or passenger..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... 5 One of the two divisions of cavalry, repenting of its change of allegiance, attempted to desert Galba as he was approaching his camp and was with difficulty prevented. Some slaves too, whom one of...",
+      "... his camp and was with difficulty prevented. Some slaves too, whom one of Nero's freedmen had given Galba with treachery in view, all but slew him as he was going to the bath through a narrow passage-..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... life, in the belief that all was lost. But when some messengers came from the city, reporting that Nero was dead and that all the people had sworn allegiance to him, he laid aside the title of govern..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... to him, he laid aside the title of governor and assumed that of Caesar. He then began his march to Rome in a general's cloak with a dagger hanging from his neck in front of his breast; and he did not...",
+      "...rthrown those who were plotting against him, Nymphidius Sabinus, prefect of the praetorian guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hose who were plotting against him, Nymphidius Sabinus, prefect of the praetorian guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "Africa",
+    "slug": "Africa_Province",
+    "url": "https://en.wikipedia.org/wiki/Africa_Province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e plotting against him, Nymphidius Sabinus, prefect of the praetorian guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "Clodius",
+    "slug": "Publius_Clodius_Pulcher",
+    "url": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s, prefect of the praetorian guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d and even augmented immediately on his arrival in the city. For having compelled some marines whom Nero had made regular soldiers to return to their former position as rowers, upon their refusing and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 14",
+    "caesar": "Galba",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ly known as his tutors because they lived with him in the palace and never left his side. They were Titus Vinius, one of his generals in Spain, a man of unbounded covetousness; Cornelius Laco, advance..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 14",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ived with him in the palace and never left his side. They were Titus Vinius, one of his generals in Spain, a man of unbounded covetousness; Cornelius Laco, advanced from the position of judge's assist..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
+    "chapter": "Chapter 14",
+    "caesar": "Galba",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n be added to their number, he not only refused, but even deprived them of the privilege granted by Claudius, of not being summoned for court duty in winter and at the beginning of the year."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
+    "chapter": "Chapter 15",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ars, and to give them only to such as did not wish them and declined them. He had all the grants of Nero revoked, allowing only a tenth part to be retained; and he exacted repayment with the help of f...",
+      "...Roman people called for the punishment of Halotus and Tigellinus, the most utterly abandoned of all Nero's creatures, not content with saving their lives, he honoured Halotus with a very important ste..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r although their officers had promised them a larger gift than common when they swore allegiance to Galba in his absence, so far from keeping the promise, he declared more than once that it was his ha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cion of being partisans of Nymphidius. 2 But loudest of all was the grumbling of the army in Upper Germany, because it was defrauded of the reward for its services against the Gauls and Vindex. Hence..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing to send a deputation to the praetorians with the following message: that the emperor created in Spain did not suit them and the Guard must choose one who would be acceptable to all the armies."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 17",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When this was reported to Galba, thinking that it was not so much his age as his lack of children that was criticised, he pick..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 17",
+    "caesar": "Galba",
+    "entity": "Otho",
+    "slug": "Otho",
+    "url": "https://en.wikipedia.org/wiki/Otho",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...led soldiers. But even then he made no mention of largess, thus making it easier for Marcus Salvius Otho to accomplish his purpose within six days after the adoption."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 Many prodigies in rapid succession from the very beginning of his reign had foretold Galba's end exactly as it happened. When victims were being slain to right and left all along his ro...",
+      "... bonds and charged the emperor's chariot, and as it raised its feet, deluged him with blood. And as Galba dismounted, one of his guards, pushed forward by the crowd, almost wounded him with his lance....",
+      "...d of the gift intended for her and threatening in her turn to take away what she had bestowed. When Galba hastened in terror to Tusculum at daybreak, to offer expiatory sacrifices because of the dream..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 19",
+    "caesar": "Galba",
+    "entity": "Otho",
+    "slug": "Otho",
+    "url": "https://en.wikipedia.org/wiki/Otho",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...again to look out for danger, since assassins were not far off. Not long after this he learned that Otho held possession of the Camp, and when several advised him to proceed thither as soon as possibl...",
+      "...t out to meet them with so much confidence, that when one of the soldiers boasted that he had slain Otho, he asked him, \"On whose authority?\" and then he went on as far as the Forum. There the horseme..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 20",
+    "caesar": "Galba",
+    "entity": "Otho",
+    "slug": "Otho",
+    "url": "https://en.wikipedia.org/wiki/Otho",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... grasp it, he put it under his robe, but later thrust his thumb into the mouth and so carried it to Otho. He handed it over to his servants and camp-followers, who set it on a lance and paraded it abo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 20",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...ers, who set it on a lance and paraded it about the camp with jeers, crying out from time to time, \"Galba, thou Cupid, exult in thy vigour!\" The special reason for this saucy jest was, that the report...",
+      "...us for a hundred pieces of gold and thrown aside in the place where his patron had been executed by Galba's order. At last, however, his steward Argivus consigned it to the tomb with the rest of the b...",
+      "... order. At last, however, his steward Argivus consigned it to the tomb with the rest of the body in Galba's private gardens on the Aurelian Road."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 22",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l-grown, strong men. They say that when Icelus, one of his old-time favourites, brought him news in Spain of Nero's death, he not only received him openly with the fondest kisses, but begged him to pr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 22",
+    "caesar": "Galba",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...strong men. They say that when Icelus, one of his old-time favourites, brought him news in Spain of Nero's death, he not only received him openly with the fondest kisses, but begged him to prepare him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 23",
+    "caesar": "Galba",
+    "entity": "Vespasian",
+    "slug": "Vespasian",
+    "url": "https://en.wikipedia.org/wiki/Vespasian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing upon a column adorned with the beaks of ships, in the part of the Forum where he was slain; but Vespasian annulled this decree, believing that Galba had sent assassins from Spain to Judaea, to tak..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 23",
+    "caesar": "Galba",
+    "entity": "Galba",
+    "slug": "Galba",
+    "url": "https://en.wikipedia.org/wiki/Galba",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ps, in the part of the Forum where he was slain; but Vespasian annulled this decree, believing that Galba had sent assassins from Spain to Judaea, to take his life."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 23",
+    "caesar": "Galba",
+    "entity": "Spain",
+    "slug": "Hispania",
+    "url": "https://en.wikipedia.org/wiki/Hispania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...here he was slain; but Vespasian annulled this decree, believing that Galba had sent assassins from Spain to Judaea, to take his life."
+    ],
+    "status": "approved"
+  }
+]

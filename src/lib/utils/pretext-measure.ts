@@ -16,7 +16,13 @@ type MeasureResult = {
 };
 
 let _prepare: ((text: string, font: string) => object) | null = null;
-let _layout: ((prepared: object, maxWidth: number, lineHeight: number) => { lineCount: number; height: number }) | null = null;
+let _layout:
+  | ((
+      prepared: object,
+      maxWidth: number,
+      lineHeight: number
+    ) => { lineCount: number; height: number })
+  | null = null;
 
 async function ensureLoaded() {
   if (!browser || _prepare) return;
@@ -33,7 +39,8 @@ function resolveFontSpec(el: HTMLElement): string {
   const style = getComputedStyle(el);
   const size = parseFloat(style.fontSize);
   const family = style.fontFamily.split(',')[0].replace(/['"]/g, '').trim();
-  const weight = style.fontWeight === 'normal' ? '400' : style.fontWeight;
+  const rawWeight = style.fontWeight;
+  const weight = rawWeight === 'normal' ? '400' : rawWeight === 'bold' ? '700' : rawWeight;
   return `${weight} ${size}px ${family}`;
 }
 
@@ -45,8 +52,10 @@ function resolveLineHeightPx(el: HTMLElement): number {
   const style = getComputedStyle(el);
   const lh = style.lineHeight;
   if (lh.endsWith('px')) return parseFloat(lh);
-  // unitless: multiply by font-size
-  return parseFloat(lh) * parseFloat(style.fontSize);
+  if (lh === 'normal') return parseFloat(style.fontSize) * 1.2;
+  const parsed = parseFloat(lh);
+  if (isNaN(parsed)) return parseFloat(style.fontSize) * 1.2;
+  return parsed * parseFloat(style.fontSize);
 }
 
 /**
@@ -89,12 +98,18 @@ export function pretextMeasure(
     const paragraphs = Array.from(node.querySelectorAll<HTMLParagraphElement>(':scope > div p'));
     if (paragraphs.length === 0) return;
 
-    const results: MeasureResult[] = paragraphs.map((p) => {
+    const results: MeasureResult[] = [];
+    for (const p of paragraphs) {
       const text = p.textContent ?? '';
-      const prepared = _prepare!(text, font);
-      const layout = _layout!(prepared, maxWidth, lineHeight);
-      return { ...layout, font, lineHeight, measuredAt: Date.now() };
-    });
+      try {
+        const prepared = _prepare!(text, font);
+        const layout = _layout!(prepared, maxWidth, lineHeight);
+        results.push({ ...layout, font, lineHeight, measuredAt: Date.now() });
+      } catch {
+        console.warn('[pretext-measure] Failed to measure paragraph:', text.slice(0, 50));
+      }
+    }
+    if (results.length === 0) return;
 
     const totalHeight = results.reduce((sum, r) => sum + r.height, 0);
     const totalLines = results.reduce((sum, r) => sum + r.lineCount, 0);
@@ -102,7 +117,7 @@ export function pretextMeasure(
     node.dispatchEvent(
       new CustomEvent<{ totalHeight: number; totalLines: number }>(`pretext-height-${lang}`, {
         detail: { totalHeight, totalLines },
-        bubbles: true,
+        bubbles: true
       })
     );
   }
@@ -110,6 +125,6 @@ export function pretextMeasure(
   requestAnimationFrame(doMeasure);
 
   return {
-    destroy() {},
+    destroy() {}
   };
 }

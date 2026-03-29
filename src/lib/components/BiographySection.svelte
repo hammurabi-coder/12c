@@ -4,13 +4,27 @@
   /** @type {{ section: any, currentLang: string }} */
   let { section, currentLang } = $props();
 
-  let measureData = $state({ totalHeight: 0, totalLines: 0 });
+  let enHeight = $state(0);
+  let laHeight = $state(0);
+
+  // Track whether each column has reported in
+  let enReady = $state(false);
+  let laReady = $state(false);
+
+  // Both columns get the same height: the taller of the two
+  let colHeight = $derived(Math.max(enHeight, laHeight));
+  let bothReady = $derived(enReady && laReady);
 
   /** @param {CustomEvent} e */
-  function handleMeasure(e) {
-    const { totalHeight, totalLines } = e.detail;
-    measureData = { totalHeight, totalLines };
-    console.log(`[pretext] section "${section.heading}": ${totalLines} lines, ${totalHeight.toFixed(1)}px`);
+  function handleEnHeight(e) {
+    enHeight = e.detail.totalHeight;
+    enReady = true;
+  }
+
+  /** @param {CustomEvent} e */
+  function handleLaHeight(e) {
+    laHeight = e.detail.totalHeight;
+    laReady = true;
   }
 </script>
 
@@ -28,12 +42,13 @@
   </div>
 
   {#if currentLang === 'both'}
-    <!-- Dual column: EN + LAT side by side -->
-    <div class="grid gap-6 lg:grid-cols-2 lg:gap-8">
+    <!-- Dual column: EN + LAT side by side, equalized via Pretext heights -->
+    <div class="grid gap-6 lg:grid-cols-2 lg:gap-8 items-start">
       <article
         class="reader-panel px-5 py-5 md:px-7"
-        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18 }}
-        on:pretext-measured={handleMeasure}
+        style={bothReady ? `min-height: ${colHeight}px` : ''}
+        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18, lang: 'en' }}
+        on:pretext-height-en={handleEnHeight}
       >
         <div class="imperial-label mb-4 text-rubric/50">English · Rolfe</div>
         <div class="reader-prose text-ink/92">
@@ -45,8 +60,9 @@
 
       <article
         class="reader-panel border-rubric/8 bg-black/[0.025] px-5 py-5 md:px-7"
-        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18 }}
-        on:pretext-measured={handleMeasure}
+        style={bothReady ? `min-height: ${colHeight}px` : ''}
+        use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 600, lineHeight: 35.18, lang: 'la' }}
+        on:pretext-height-la={handleLaHeight}
       >
         <div class="imperial-label mb-4 text-rubric/55">Latin</div>
         <div class="reader-prose text-ink/78 italic">
@@ -59,8 +75,8 @@
   {:else}
     <article
       class="reader-panel mx-auto max-w-3xl px-5 py-6 md:px-8 md:py-8"
-      use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 720, lineHeight: 35.18 }}
-      on:pretext-measured={handleMeasure}
+      use:pretextMeasure={{ font: '400 18px Marcellus', maxWidth: 720, lineHeight: 35.18, lang: currentLang }}
+      on:pretext-height-en={handleEnHeight}
     >
       <div class="reader-prose {currentLang === 'la' ? 'italic text-ink/80' : 'text-ink/94'}">
         {#each currentLang === 'en' ? section.enParagraphs : section.laParagraphs as paragraph}
@@ -68,12 +84,6 @@
         {/each}
       </div>
     </article>
-  {/if}
-
-  {#if measureData && measureData.totalLines > 0}
-    <div class="mt-4 imperial-label text-rubric/30">
-      {measureData.totalLines} lines · {measureData.totalHeight.toFixed(0)}px
-    </div>
   {/if}
 </section>
 

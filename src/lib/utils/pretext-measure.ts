@@ -1,8 +1,8 @@
 /**
  * Svelte action for Pretext-based text measurement.
- * Usage: <div use:pretextMeasure={{ font, maxWidth, lineHeight }}>
+ * Usage: <div use:pretextMeasure={{ font, maxWidth, lineHeight, lang }}>
  *
- * Dispatches 'measure' event with paragraph heights when measured.
+ * Dispatches 'pretext-height-{lang}' event with paragraph heights when measured.
  */
 import { browser } from '$app/environment';
 import type { MeasureResult } from './pretext';
@@ -21,12 +21,8 @@ export type PretextMeasureOptions = {
   font: string;
   maxWidth: number;
   lineHeight: number;
-};
-
-export type PretextMeasureResult = {
-  results: MeasureResult[];
-  totalHeight: number;
-  totalLines: number;
+  /** Language key — used to name the dispatched event */
+  lang?: string;
 };
 
 export function pretextMeasure(
@@ -44,7 +40,7 @@ export function pretextMeasure(
     await ensureLoaded();
     if (!_prepare || !_layout) return;
 
-    const { font, maxWidth, lineHeight } = options;
+    const { font, maxWidth, lineHeight, lang = 'unknown' } = options;
 
     // Get plain text from each paragraph
     const paragraphs = Array.from(node.querySelectorAll<HTMLParagraphElement>('p'));
@@ -65,10 +61,10 @@ export function pretextMeasure(
     const totalHeight = results.reduce((sum, r) => sum + r.height, 0);
     const totalLines = results.reduce((sum, r) => sum + r.lineCount, 0);
 
-    // Dispatch custom event so parent can use the data
+    // Dispatch language-specific event so parent can correlate EN + LAT
     node.dispatchEvent(
-      new CustomEvent<PretextMeasureResult>('pretext-measured', {
-        detail: { results, totalHeight, totalLines },
+      new CustomEvent<{ totalHeight: number; totalLines: number }>(`pretext-height-${lang}`, {
+        detail: { totalHeight, totalLines },
         bubbles: true,
       })
     );
@@ -83,3 +79,4 @@ export function pretextMeasure(
     },
   };
 }
+

@@ -6,7 +6,14 @@
  * Dispatches 'pretext-height-{lang}' with { totalHeight, totalLines }.
  */
 import { browser } from '$app/environment';
-import type { MeasureResult } from './pretext';
+
+type MeasureResult = {
+  lineCount: number;
+  height: number;
+  font: string;
+  lineHeight: number;
+  measuredAt: number;
+};
 
 let _prepare: ((text: string, font: string) => object) | null = null;
 let _layout: ((prepared: object, maxWidth: number, lineHeight: number) => { lineCount: number; height: number }) | null = null;

@@ -12,8 +12,8 @@
         "Claudian": "https://en.wikipedia.org/wiki/Gens_Claudia",
         "Sabines": "https://en.wikipedia.org/wiki/Sabines",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
-        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Titus": "https://en.wikipedia.org/wiki/Titus_Tatius",
+        "Claudius": "https://en.wikipedia.org/wiki/Atta_Claudius",
         "Nero": "https://en.wikipedia.org/wiki/Nero"
       }
     },
@@ -30,7 +30,7 @@
         "Pyrrhus": "https://en.wikipedia.org/wiki/Pyrrhus",
         "Claudius Caudex": "https://en.wikipedia.org/wiki/Claudius_Caudex",
         "Tiberius Nero": "https://en.wikipedia.org/wiki/Tiberius_Nero",
-        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius_Caudex",
         "Nero": "https://en.wikipedia.org/wiki/Nero",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
@@ -470,7 +470,6 @@
         "wine": "https://en.wikipedia.org/wiki/Wine",
         "Nero": "https://en.wikipedia.org/wiki/Nero",
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
-        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus"
       }

@@ -3,6 +3,45 @@
     "id": 1,
     "chapter": "Chapter 1",
     "caesar": "Julius Caesar",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ixteenth year he lost his father. In the next consulate, having previously been nominated priest of Jupiter, he broke his engagement with Cossutia, a lady of only equestrian rank, but very wealthy, wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ore he assumed the gown of manhood, and married Cornelia, daughter of that Cinna who was four times consul, by whom he afterwards had a daughter Julia; and the dictator Sulla could by no means force h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Julius Caesar",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ughter of that Cinna who was four times consul, by whom he afterwards had a daughter Julia; and the dictator Sulla could by no means force him to put away his wife. 2 Therefore besides being punished..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Julius Caesar",
     "entity": "Sulla",
     "slug": "Sulla",
     "url": "https://en.wikipedia.org/wiki/Sulla",
@@ -15,7 +54,7 @@
     "status": "approved"
   },
   {
-    "id": 2,
+    "id": 5,
     "chapter": "Chapter 1",
     "caesar": "Julius Caesar",
     "entity": "Cotta",
@@ -28,7 +67,20 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 6,
+    "chapter": "Chapter 1",
+    "caesar": "Julius Caesar",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...who interceded for Caesar, and they obstinately persisted, he at last gave way and cried, either by divine inspiration or a shrewd forecast: \"Have your way and take him; only bear in mind that the man..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
     "chapter": "Chapter 1",
     "caesar": "Julius Caesar",
     "entity": "Marius",
@@ -41,7 +93,33 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 8,
+    "chapter": "Chapter 2",
+    "caesar": "Julius Caesar",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He served his first campaign in Asia on the personal staff of Marcus Thermus, governor of the province. Being sent by Thermus to Bithynia, to fetch a fleet, he dawdled so long at..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 2",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He served his first campaign in Asia on the personal staff of Marcus Thermus, governor of the province. Being sent by Thermus to Bithynia, to fetch a fleet, he dawdled so long at the court of Ni..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
     "chapter": "Chapter 2",
     "caesar": "Julius Caesar",
     "entity": "Bithynia",
@@ -55,7 +133,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 11,
     "chapter": "Chapter 2",
     "caesar": "Julius Caesar",
     "entity": "Mytilene",
@@ -68,7 +146,7 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 12,
     "chapter": "Chapter 3",
     "caesar": "Julius Caesar",
     "entity": "Cilicia",
@@ -81,7 +159,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 13,
     "chapter": "Chapter 3",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -94,7 +172,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 14,
     "chapter": "Chapter 3",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -108,7 +186,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 15,
     "chapter": "Chapter 3",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -121,7 +199,33 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 16,
+    "chapter": "Chapter 4",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l disturbance had been quieted, he brought a charge of extortion against Cornelius Dolabella, an ex-consul who had been honoured with a triumph. On the acquittal of Dolabella Caesar determined to with..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 4",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rought a charge of extortion against Cornelius Dolabella, an ex-consul who had been honoured with a triumph. On the acquittal of Dolabella Caesar determined to withdraw to Rhodes, to escape from the i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
     "chapter": "Chapter 4",
     "caesar": "Julius Caesar",
     "entity": "Rhodes",
@@ -136,7 +240,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 19,
     "chapter": "Chapter 4",
     "caesar": "Julius Caesar",
     "entity": "Pharmacussa",
@@ -149,7 +253,20 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 20,
+    "chapter": "Chapter 4",
+    "caesar": "Julius Caesar",
+    "entity": "talents",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tendants at the outset, to raise money for his ransom. Once he was set on shore on payment of fifty talents, he did not delay then and there to launch a fleet and pursue the departing pirates, and the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
     "chapter": "Chapter 4",
     "caesar": "Julius Caesar",
     "entity": "Mithridates",
@@ -162,7 +279,46 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 22,
+    "chapter": "Chapter 4",
+    "caesar": "Julius Caesar",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ppearance of inaction when the allies of the Roman people were in danger. There he levied a band of auxiliaries and drove the king's prefect from the province, thus holding the wavering and irresolute..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 4",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... people were in danger. There he levied a band of auxiliaries and drove the king's prefect from the province, thus holding the wavering and irresolute states to their allegiance."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 5",
+    "caesar": "Julius Caesar",
+    "entity": "military tribune",
+    "slug": "Tribune",
+    "url": "https://en.wikipedia.org/wiki/Tribune",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 While serving as military tribune, the first office which was conferred on him by vote of the people after his return..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
     "chapter": "Chapter 5",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -175,7 +331,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 26,
     "chapter": "Chapter 5",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -188,7 +344,7 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 27,
     "chapter": "Chapter 5",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -201,7 +357,20 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 28,
+    "chapter": "Chapter 5",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ius Cinna, as well as of the others who had taken part with Lepidus in his revolution and after the consul's death had fled to Sertorius; and he personally spoke in favour of the measure."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
     "chapter": "Chapter 5",
     "caesar": "Julius Caesar",
     "entity": "Sertorius",
@@ -214,7 +383,46 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 30,
+    "chapter": "Chapter 6",
+    "caesar": "Julius Caesar",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When quaestor, he pronounced the customary orations from the rostra in praise of his aunt Julia and his w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 6",
+    "caesar": "Julius Caesar",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When quaestor, he pronounced the customary orations from the rostra in praise of his aunt Julia and his wife Cornelia, who had both died. And in the eulogy of hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 6",
+    "caesar": "Julius Caesar",
+    "entity": "immortal",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of my aunt Julia is descended by her mother from the kings, and on her father's side is akin to the immortal Gods; for the Marcii Reges (her mother's family name) go back to Ancus Marcius, and the Jul..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -227,7 +435,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 34,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -240,7 +448,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 35,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -254,7 +462,20 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 36,
+    "chapter": "Chapter 7",
+    "caesar": "Julius Caesar",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 As quaestor it fell to his lot to serve in Further Spain. When he was there, while making the circuit o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -267,7 +488,20 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 38,
+    "chapter": "Chapter 7",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he was there, while making the circuit of the assize-towns, to hold court under commission from the praetor, he came to Gades, and noti­cing a statue of Alexander the Great in the temple of Hercules, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Gades",
@@ -280,7 +514,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 40,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -293,7 +527,33 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 41,
+    "chapter": "Chapter 8",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...itating a demand for citizen ­ship; and he might have spurred them on to some rash act, had not the consuls, in anticipation of that very danger, detained there for a time the legions which had been e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 8",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e rash act, had not the consuls, in anticipation of that very danger, detained there for a time the legions which had been enrolled for service in Cilicia."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
     "chapter": "Chapter 8",
     "caesar": "Julius Caesar",
     "entity": "Cilicia",
@@ -306,7 +566,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 44,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -321,7 +581,21 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 45,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...all that he presently made a more daring attempt at Rome; for a few days before he entered upon his aedile ­ship he was suspected of having made a conspiracy with Marcus Crassus, an ex-consul, and lik...",
+      "...says that Caesar in his consul ­ship established the despotism which he had had in mind when he was aedile. Tanusius adds that Crassus, either conscience-stricken or moved by fear, did not appear on t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -336,7 +610,22 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 47,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...tered upon his aedile ­ship he was suspected of having made a conspiracy with Marcus Crassus, an ex-consul, and likewise with Publius Sulla and Lucius Autronius, who, after their election to the consu...",
+      "...n ex-consul, and likewise with Publius Sulla and Lucius Autronius, who, after their election to the consul ­ship, had been found guilty of corrupt practices. The design was to set upon the senate at t...",
+      "...esar as his master of horse, and when they had organized the state according to their pleasure, the consul ­ship was to be restored to Sulla and Autronius. 2 This plot is mentioned by Tanusius Geminu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -350,7 +639,20 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 49,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pening of the year and put to the sword as many as they thought good; then Crassus was to usurp the dictator ­ship, naming Caesar as his master of horse, and when they had organized the state accordin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -363,7 +665,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 51,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -376,7 +678,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 52,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -389,7 +691,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 53,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -404,7 +706,46 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 54,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...inus in his History, by Marcus Bibulus in his edicts, and by Gaius Curio the elder in his speeches. Cicero too seems to hint at it in a letter to Axius, where he says that Caesar in his consul ­ship e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...en arranged that he should give; and Curio says that the arrangement was that Caesar should let his toga fall from his shoulder. 3 Not only Curio, but Marcus Actorius Naso as well declare that Caesar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 9",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...torius Naso as well declare that Caesar made another plot with Gnaeus Piso, a young man to whom the province of Spain had been assigned unasked and out of the regular order, because he was suspected o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -417,7 +758,33 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 58,
+    "chapter": "Chapter 10",
+    "caesar": "Julius Caesar",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When aedile, Caesar decorated not only the Comitium and the Forum with its adjacent basilicas, but the Ca..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 10",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n aedile, Caesar decorated not only the Comitium and the Forum with its adjacent basilicas, but the Capitol as well, building temporary colonnades for the display of a part of his material. He exhibit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -430,7 +797,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 61,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -443,7 +810,20 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 62,
+    "chapter": "Chapter 10",
+    "caesar": "Julius Caesar",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sembled from all quarters so terrified his opponents, that a bill was passed limiting the number of gladiators which anyone was to be allowed to keep in the city."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -456,7 +836,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 64,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -469,7 +849,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 65,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Marius",
@@ -482,7 +862,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 66,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -495,7 +875,47 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 67,
+    "chapter": "Chapter 11",
+    "caesar": "Julius Caesar",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r murder, he included in the number of murderers even those who had received moneys from the public treasury during the proscriptions for bringing in the heads of Roman citizens, although they were ex..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 13",
+    "caesar": "Julius Caesar",
+    "entity": "pontifex",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 After giving up hope of the special commission, he announced his candidacy for the office of pontifex maximus, resorting to the most lavish bribery. Thinking on the enormous debt which he had t...",
+      "...lection, as she kissed him when he was starting for the polls, that he would never return except as pontifex. And in fact he so decisively defeated two very strong competitors (for they were greatly h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 14",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...senate favoured inflicting the extreme penalty on those implicated in the plot, Caesar, who was now praetor elect, alone proposed that their goods be confiscated and that they be imprisoned each in a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -508,7 +928,34 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 71,
+    "chapter": "Chapter 14",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...g the hatred which the Roman commons would feel for them for all future time, that Decimus Silanus, consul elect, was not ashamed to give a milder interpretation to his proposal (since it would have b...",
+      "...2 Caesar would have prevailed too, for a number had already gone over to him, including Cicero, the consul's brother, had not the address of Marcus Cato kept the wavering senate in line. Yet not even ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
+    "chapter": "Chapter 14",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... intended. 2 Caesar would have prevailed too, for a number had already gone over to him, including Cicero, the consul's brother, had not the address of Marcus Cato kept the wavering senate in line. Y..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -521,7 +968,33 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 74,
+    "chapter": "Chapter 14",
+    "caesar": "Julius Caesar",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e in line. Yet not even then did he cease to delay the proceedings, but only when an armed troop of Roman knights that stood on guard about the place threatened him with death as he persisted in his h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 15",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 On the first day of his praetor ­ship he called upon Quintus Catulus to render an account owing to the people touching the r..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
     "chapter": "Chapter 15",
     "caesar": "Julius Caesar",
     "entity": "Catulus",
@@ -534,7 +1007,33 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 77,
+    "chapter": "Chapter 15",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...alled upon Quintus Catulus to render an account owing to the people touching the restoration of the Capitol, proposing a bill for turning over the commission to another. But he withdrew the measure, s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 15",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tion of the aristocrats, seeing that they had at once dropped their attendance on the newly elected consuls and hastily gathered in throngs, resolved on an obstinate resistance."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
     "chapter": "Chapter 16",
     "caesar": "Julius Caesar",
     "entity": "Metellus",
@@ -547,7 +1046,86 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 80,
+    "chapter": "Chapter 16",
+    "caesar": "Julius Caesar",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hold court; but when he learned that some were ready to stop him by force of arms, he dismissed his lictors, laid aside his robe of office, and slipped off privily to his house, intending to remain in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 17",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... 2 But Caesar, thinking that such an indignity could in no wise be endured, showed by appealing to Cicero's testimony that he had of his own accord reported to the consul certain details of the plot,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 17",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...be endured, showed by appealing to Cicero's testimony that he had of his own accord reported to the consul certain details of the plot, and thus prevented Curius from getting the reward. As for Vettiu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 17",
+    "caesar": "Julius Caesar",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... declared forfeit and his goods seized, he was roughly handled by the populace assembled before the rostra, and all but torn to pieces. Caesar then put him in prison, and Novius the commissioner went ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 17",
+    "caesar": "Julius Caesar",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e commissioner went there too, for allowing an official of superior rank to be arraigned before his tribunal."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 18",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Being allotted the province of Farther Spain after his praetor ­ship, Caesar got rid of his creditors, who tried to det...",
+      "...aps to respond more promptly to the entreaties of our allies for help. After restoring order in his province, he made off with equal haste, and without waiting for the arrival of his successor, to sue..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -560,7 +1138,61 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 87,
+    "chapter": "Chapter 18",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Being allotted the province of Farther Spain after his praetor ­ship, Caesar got rid of his creditors, who tried to detain him, by means of sureties and co..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 18",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o detain him, by means of sureties and contrary both to precedent and law was on his way before the provinces were provided for; possibly through fear of a private impeachment or perhaps to respond mo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 18",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...th equal haste, and without waiting for the arrival of his successor, to sue at the same time for a triumph and the consul ­ship. 2 But inasmuch as the day for the elections had already been announce...",
+      "... his intrigues to gain exemption from the laws met with general protest, he was forced to forgo the triumph, to avoid losing the consul ­ship."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 18",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...and without waiting for the arrival of his successor, to sue at the same time for a triumph and the consul ­ship. 2 But inasmuch as the day for the elections had already been announced and no account...",
+      "...ion from the laws met with general protest, he was forced to forgo the triumph, to avoid losing the consul ­ship."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -573,7 +1205,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 92,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -588,7 +1220,20 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 93,
+    "chapter": "Chapter 19",
+    "caesar": "Julius Caesar",
+    "entity": "magistrate",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ise the same amount, being seized with fear that Caesar would stick at nothing when he became chief magistrate, if he had a colleague who was heart and soul with him. Many of them contributed to the f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -601,7 +1246,47 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 95,
+    "chapter": "Chapter 19",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...that bribery under such circumstances was for the good of the commonwealth. 2 So Caesar was chosen consul with Bibulus. With the same motives the aristocracy took care that provinces of the smallest ...",
+      "...s. He also patched up a peace between Pompeius and Marcus Crassus, who had been enemies since their consul ­ship, which had been one of constant wrangling. Then he made a compact with both of them, th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
+    "chapter": "Chapter 19",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      ".... 2 So Caesar was chosen consul with Bibulus. With the same motives the aristocracy took care that provinces of the smallest importance should be assigned to the newly elected consuls; that is, mere ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
+    "chapter": "Chapter 19",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tocracy took care that provinces of the smallest importance should be assigned to the newly elected consuls; that is, mere woods and pastures. Thereupon Caesar, especially incensed by this slight, by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 98,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Mithridates",
@@ -614,7 +1299,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 99,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -627,7 +1312,47 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 100,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Caesar's very first enactment after becoming consul was, that the proceedings both of the senate and of the people should day by day be compiled ...",
+      "...itty fellows, pretending by way of jest to sign and seal testamentary documents, wrote \"Done in the consul ­ship of Julius and Caesar,\" instead of \"Bibulus and Caesar,\" writing down the same man twice..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "fasces",
+    "slug": "Fasces",
+    "url": "https://en.wikipedia.org/wiki/Fasces",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed and published. He also revived a by-gone custom, that during the months when he did not have the fasces an orderly should walk before him, while the lictors followed him. He brought forward an agra..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 102,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...that during the months when he did not have the fasces an orderly should walk before him, while the lictors followed him. He brought forward an agrarian law too, and when his colleague announced adver..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -642,7 +1367,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 104,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -655,7 +1380,20 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 105,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...th such fear of malicious prosecution, that Lucullus actually fell on his knees before him. Because Cicero, while pleading in court, deplored the times, Caesar transferred the orator's enemy Publius C..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -668,7 +1406,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 107,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -682,7 +1420,33 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 108,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...plored the times, Caesar transferred the orator's enemy Publius Clodius that very same day from the patricians to the plebeians, a thing for which Clodius had for a long time been vainly striving; and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 109,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "plebeians",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Caesar transferred the orator's enemy Publius Clodius that very same day from the patricians to the plebeians, a thing for which Clodius had for a long time been vainly striving; and that too at the n..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 110,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -695,7 +1459,34 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 111,
+    "chapter": "Chapter 20",
+    "caesar": "Julius Caesar",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rmer to declare that he had been egged on by certain men to murder Pompey, and to come out upon the rostra and name the guilty parties according to a prearranged plot. But when the informer had named ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 21",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...out the same time he took to wife Calpurnia, daughter of Lucius Piso, who was to succeed him in the consul ­ship, and affianced his own daughter Julia to Gnaeus Pompeius, breaking a previous engagemen...",
+      "...on in the senate, although it had been his habit to begin with Crassus, and it was the rule for the consul in calling for opinions to continue throughout the year the order which he had established on..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -708,7 +1499,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 114,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -721,7 +1512,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 115,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -734,7 +1525,59 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 116,
+    "chapter": "Chapter 21",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l in calling for opinions to continue throughout the year the order which he had established on the Kalends of January."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 117,
+    "chapter": "Chapter 21",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l in calling for opinions to continue throughout the year the order which he had established on the Kalends of January."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
+    "chapter": "Chapter 22",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Backed therefore by his father-in‑law and son-in‑law, out of all the numerous provinces he made the Gauls his choice, as the most likely to enrich him and furnish suitable materi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 119,
+    "chapter": "Chapter 22",
+    "caesar": "Julius Caesar",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es he made the Gauls his choice, as the most likely to enrich him and furnish suitable material for triumphs. At first, it is true, by the bill of Vatinius he received only Cisalpine Gaul with the add..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -747,7 +1590,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 121,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -760,7 +1603,33 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 122,
+    "chapter": "Chapter 23",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When at the close of his consul ­ship the praetors Gaius Memmius and Lucius Domitius moved an inquiry into his conduct during..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
+    "chapter": "Chapter 23",
+    "caesar": "Julius Caesar",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When at the close of his consul ­ship the praetors Gaius Memmius and Lucius Domitius moved an inquiry into his conduct during the previous yea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -773,7 +1642,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 125,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -786,7 +1655,46 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 126,
+    "chapter": "Chapter 23",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n they failed to take it up, and three days had been wasted in fruitless wrangling, went off to his province. Whereupon his quaestor was at once arraigned on several counts, as a preliminary to his ow..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 23",
+    "caesar": "Julius Caesar",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... up, and three days had been wasted in fruitless wrangling, went off to his province. Whereupon his quaestor was at once arraigned on several counts, as a preliminary to his own impeachment. Presently..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 23",
+    "caesar": "Julius Caesar",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... on public service. 2 Then to secure himself for the future, he took great pains always to put the magistrates for the year under personal obligation, and not to aid any candidates or suffer any to b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -800,7 +1708,35 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 130,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 When however Lucius Domitius, candidate for the consul ­ship, openly threatened to effect as consul what he had been unable to do as praetor, and to...",
+      "1 When however Lucius Domitius, candidate for the consul ­ship, openly threatened to effect as consul what he had been unable to do as praetor, and to take his armies from him, Caesar compelled P...",
+      "...d Crassus to come to Luca, a city in his province, where he prevailed on them to stand for a second consul ­ship, to defeat Domitius; and he also succeeded through their influence in having his term a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 131,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...didate for the consul ­ship, openly threatened to effect as consul what he had been unable to do as praetor, and to take his armies from him, Caesar compelled Pompeius and Crassus to come to Luca, a c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -813,7 +1749,33 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 133,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d to take his armies from him, Caesar compelled Pompeius and Crassus to come to Luca, a city in his province, where he prevailed on them to stand for a second consul ­ship, to defeat Domitius; and he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nsul ­ship, to defeat Domitius; and he also succeeded through their influence in having his term as governor of Gaul made five years longer. 2 Encouraged by this, he added to the legions which he had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -827,7 +1789,33 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 136,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... having his term as governor of Gaul made five years longer. 2 Encouraged by this, he added to the legions which he had received from the state others at his own cost, one actually composed of men of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 137,
+    "chapter": "Chapter 24",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... that once the senate decreed that a commission be sent to inquire into the condition of the Gallic provinces, and some even recommended that Caesar be handed over to the enemy. But as his enterprises..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 138,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -841,7 +1829,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 139,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Alps",
@@ -854,7 +1842,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 140,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Rhone",
@@ -867,7 +1855,33 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 141,
+    "chapter": "Chapter 25",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he exception of some allied states which had rendered him good service, he reduced to the form of a province; and imposed upon it a yearly tribute of 40,000,000 sesterces. 2 He was the first Roman to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 142,
+    "chapter": "Chapter 25",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d service, he reduced to the form of a province; and imposed upon it a yearly tribute of 40,000,000 sesterces. 2 He was the first Roman to build a bridge and attack the Germans beyond the Rhine; and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -880,7 +1894,20 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 144,
+    "chapter": "Chapter 25",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Britain, where his fleet narrowly escaped destruction in a violent storm; in Gaul, when one of his legions was routed at Gergovia; and on the borders of Germany, when his lieutenants Titurius and Aur..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Gergovia",
@@ -893,7 +1920,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 146,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Germany",
@@ -906,7 +1933,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 147,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -919,7 +1946,7 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 148,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -932,7 +1959,21 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 149,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e, as the community was aghast at the murder of Publius Clodius, the senate had voted that only one consul should be chosen, and expressly named Gnaeus Pompeius. When the tribunes planned to make him ...",
+      "...eague, Caesar urged them rather to propose to the people that he be permitted to stand for a second consul ­ship without coming to Rome, when the term of his governor ­ship drew near its end, to preve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 150,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -945,7 +1986,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 151,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -958,7 +1999,86 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 152,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hat he be permitted to stand for a second consul ­ship without coming to Rome, when the term of his governor ­ship drew near its end, to prevent his being forced for the sake of the office to leave hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 153,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vernor ­ship drew near its end, to prevent his being forced for the sake of the office to leave his province prematurely and without finishing the war. 2 On the granting of this, aiming still higher ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 154,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...egan a forum with the proceeds of his spoils, the ground for which cost more than a hundred million sesterces. He announced a combat of gladiators and a feast for the people in memory of his daughter,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 155,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...s spoils, the ground for which cost more than a hundred million sesterces. He announced a combat of gladiators and a feast for the people in memory of his daughter, a thing quite without precedent. To...",
+      "...ehold, although he had let contracts to the markets as well. 3 He gave orders that whenever famous gladiators fought without winning the favour of the people, they should be rescued by force and kept..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 156,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...He had the novices trained, not in a gladiatorial school by professionals, but in private houses by Roman knights and even by senators who were skilled in arms, earnestly beseeching them, as is shown ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 157,
+    "chapter": "Chapter 26",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the recruits individual attention and personally direct their exercises. He doubled the pay of the legions for all time. Whenever grain was plenti ­ful, he distributed it to them without stint or mea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 158,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -973,7 +2093,7 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 159,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -986,7 +2106,7 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 160,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -999,7 +2119,61 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 161,
+    "chapter": "Chapter 27",
+    "caesar": "Julius Caesar",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oth those whom he invited to accept his bounty and those who applied to him unasked, including even freedmen and slaves who were special favourites of their masters or patrons. 2 In short, he was the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
+    "chapter": "Chapter 27",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he could not save them; and to these he declared in the plainest terms that what they needed was a civil war."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 163,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 He took no less pains to win the devotion of princes and provinces all over the world, offering prisoners to some by the thousand as a gift, and sending auxi...",
+      "...rincipal cities of Asia and Greece with magnificent public works, as well as those of Italy and the provinces of Gaul and Spain. 2 At last, when all were thunder-struck at his actions and wondered wh...",
+      "...ribed on a tablet of bronze and deposited in the treasury. Not content with depriving Caesar of his provinces and his privilege, Marcellus also moved that the colonists whom Caesar had settled in Novu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 164,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "auxiliary",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and provinces all over the world, offering prisoners to some by the thousand as a gift, and sending auxiliary troops to the aid of others whenever they wished, and as often as they wished, without the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 165,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Greece",
@@ -1012,7 +2186,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 166,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1025,7 +2199,7 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 167,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -1038,7 +2212,20 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 168,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... At last, when all were thunder-struck at his actions and wondered what their purpose could be, the consul Marcus Claudius Marcellus, after first making proclamation that he purposed to bring before t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 169,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Claudius",
@@ -1051,7 +2238,7 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 170,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -1065,7 +2252,20 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 171,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he end of his term, on the ground that the war was ended, peace was established, and the victorious army ought to be disbanded; also that no account be taken of Caesar at the elections, unless he were..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1079,7 +2279,33 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 173,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...in Caesar's case, and did not correct the oversight until the law had been inscribed on a tablet of bronze and deposited in the treasury. Not content with depriving Caesar of his provinces and his pri..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 174,
+    "chapter": "Chapter 28",
+    "caesar": "Julius Caesar",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t correct the oversight until the law had been inscribed on a tablet of bronze and deposited in the treasury. Not content with depriving Caesar of his provinces and his privilege, Marcellus also moved..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 175,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -1093,7 +2319,22 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 176,
+    "chapter": "Chapter 29",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...esar stoutly resisted Marcellus, partly through vetoes of the tribunes and partly through the other consul, Servius Sulpicius. When next year Gaius Marcellus, who had succeeded his cousin Marcus as co...",
+      "...r consul, Servius Sulpicius. When next year Gaius Marcellus, who had succeeded his cousin Marcus as consul, tried the same thing, Caesar by a heavy bribe secured the support of the other consul, Aemil...",
+      "...in Marcus as consul, tried the same thing, Caesar by a heavy bribe secured the support of the other consul, Aemilius Paulus, and of Gaius Curio, the most reckless of the tribunes. 2 But seeing that e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -1106,7 +2347,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 178,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -1119,7 +2360,20 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 179,
+    "chapter": "Chapter 29",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f the tribunes. 2 But seeing that everything was being pushed most persistently, and that even the consuls elect were among the opposition, he sent a written appeal to the senate, not to take from hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 180,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1132,7 +2386,21 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 181,
+    "chapter": "Chapter 29",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... newly levied troops. He further proposed a compromise to his opponents, that after giving up eight legions and Transalpine Gaul, he be allowed to keep two legions and Cisalpine Gaul, or at least one ...",
+      "...o his opponents, that after giving up eight legions and Transalpine Gaul, he be allowed to keep two legions and Cisalpine Gaul, or at least one legion and Illyricum, until he was elected consul."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 182,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1146,7 +2414,20 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 183,
+    "chapter": "Chapter 29",
+    "caesar": "Julius Caesar",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...legions and Transalpine Gaul, he be allowed to keep two legions and Cisalpine Gaul, or at least one legion and Illyricum, until he was elected consul."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 184,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -1159,7 +2440,7 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 185,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1172,7 +2453,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 186,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Ravenna",
@@ -1185,7 +2466,33 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 187,
+    "chapter": "Chapter 30",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the tribunes of the commons who interposed vetoes in his behalf. 2 Now this was his excuse for the civil war, but it is believed that he had other motives. Gnaeus Pompeius used to declare that since ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 188,
+    "chapter": "Chapter 30",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Others say that he dreaded the necessity of rendering an account for what he had done in his first consul ­ship contrary to the auspices and the laws, and regardless of vetoes; for Marcus Cato often ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 189,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -1198,7 +2505,21 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 190,
+    "chapter": "Chapter 30",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ato often declared, and took oath too, that he would impeach Caesar the moment he had disbanded his army. It was openly said too that if he was out of office on his return, he would be obliged, like M...",
+      "..., Gaius Caesar, after so many great deeds, should have been found guilty, if I had not turned to my army for help.\" 5 Some think that habit had given him a love of power, and that weighing the streng..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 191,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -1211,7 +2532,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 192,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -1224,7 +2545,7 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 193,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -1237,7 +2558,7 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 194,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -1250,7 +2571,35 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 195,
+    "chapter": "Chapter 30",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...asped the opportunity of usurping the despotism which had been his heart's desire from early youth. Cicero too was seemingly of this opinion, when he wrote in the third book of his De Officiis that C...",
+      "...hird book of his De Officiis that Caesar ever had upon his lips these lines of Euripides, of which Cicero himself adds a version: \" If wrong may e'er be right, for a throne's sake Were wrong most rig..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 196,
+    "chapter": "Chapter 31",
+    "caesar": "Julius Caesar",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... of the tribunes had been set aside and they themselves had left the city, he at once sent on a few cohorts with all secrecy, and then, to disarm suspicion, concealed his purpose by appearing at a pub...",
+      "...ast found a guide at dawn and got back to the road on foot by narrow by-paths. Then, overtaking his cohorts at the river Rubicon, which was the boundary of his province, he paused for a while, and rea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
     "chapter": "Chapter 31",
     "caesar": "Julius Caesar",
     "entity": "Rubicon",
@@ -1263,7 +2612,46 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 198,
+    "chapter": "Chapter 31",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y narrow by-paths. Then, overtaking his cohorts at the river Rubicon, which was the boundary of his province, he paused for a while, and realising what a step he was taking, he turned to those about h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 32",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ho sat and played upon a reed; and when not only the shepherds flocked to hear him, but many of the soldiers left their posts, and among them some of the trumpeters, the apparition snatched a trumpet ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
+    "chapter": "Chapter 33",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Accordingly, crossing with his army, and welcoming the tribunes of the commons, who had come to him after being driven from Rome, h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 201,
     "chapter": "Chapter 33",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1276,7 +2664,33 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 202,
+    "chapter": "Chapter 33",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing the tribunes of the commons, who had come to him after being driven from Rome, he harangued the soldiers with tears, and rending his robe from his breast besought their faithful service. It is eve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
+    "chapter": "Chapter 33",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... so the report went about that he had promised them the right of the ring and four hundred thousand sesterces as well."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 204,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Etruria",
@@ -1289,7 +2703,7 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 205,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -1302,7 +2716,7 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 206,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1316,7 +2730,20 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 207,
+    "chapter": "Chapter 34",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arrison, let him go free, and then proceeded along the Adriatic to Brundisium, where Pompey and the consuls had taken refuge, intending to cross the sea as soon as might be. 2 After trying by every k..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 208,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1329,7 +2756,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 209,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -1342,7 +2769,34 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 210,
+    "chapter": "Chapter 34",
+    "caesar": "Julius Caesar",
+    "entity": "Afranius",
+    "slug": "Afranius_(playwright)",
+    "url": "https://en.wikipedia.org/wiki/Afranius_(playwright)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...est forces, which were in Spain under command of three of his lieutenants — Marcus Petreius, Lucius Afranius, and Marcus Varro — saying to his friends before he left \"I go to meet an army without a le..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 211,
+    "chapter": "Chapter 34",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...Petreius, Lucius Afranius, and Marcus Varro — saying to his friends before he left \"I go to meet an army without a leader, and I shall return to meet a leader without an army.\" And in fact, though his...",
+      "...fore he left \"I go to meet an army without a leader, and I shall return to meet a leader without an army.\" And in fact, though his advance was delayed by the siege of Massilia, which had shut its gate..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1355,7 +2809,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 213,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Macedonia",
@@ -1368,7 +2822,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 214,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1383,7 +2837,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 215,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -1396,7 +2850,7 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 216,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -1410,7 +2864,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 217,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Ptolemy",
@@ -1423,7 +2877,7 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 218,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -1436,7 +2890,7 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 219,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Cleopatra",
@@ -1449,7 +2903,33 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 220,
+    "chapter": "Chapter 35",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l, he turned over the rule of Egypt to Cleopatra and her younger brother, fearing that if he made a province of it, it might one day under a headstrong governor be a source of revolution. 2 From Alex..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 221,
+    "chapter": "Chapter 35",
+    "caesar": "Julius Caesar",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... her younger brother, fearing that if he made a province of it, it might one day under a headstrong governor be a source of revolution. 2 From Alexandria he crossed to Syria, and from there went to P..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 222,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
@@ -1462,7 +2942,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 223,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Mithridates",
@@ -1475,7 +2955,7 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 224,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -1488,7 +2968,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 225,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -1501,7 +2981,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 226,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -1514,7 +2994,20 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 227,
+    "chapter": "Chapter 36",
+    "caesar": "Julius Caesar",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 In all the civil wars he suffered not a single disaster except through his lieutenants, of whom Gaius Curio per..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 228,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -1527,7 +3020,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 229,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -1540,7 +3033,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 230,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -1553,7 +3046,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 231,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -1567,7 +3060,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 232,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -1580,7 +3073,20 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 233,
+    "chapter": "Chapter 36",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...my in Illyricum, Publius Dolabella lost a fleet also off Illyricum, and Gnaeus Domitius Calvinus an army in Pontus. Personally he always fought with the utmost success, and the issue was never even in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 234,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
@@ -1593,7 +3099,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 235,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1606,7 +3112,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 236,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -1619,7 +3125,20 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 237,
+    "chapter": "Chapter 37",
+    "caesar": "Julius Caesar",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Having ended the wars, he celebrated five triumphs, four in a single month, but at intervals of a few days, after vanquishing Scipio; and anot..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 238,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -1632,7 +3151,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 239,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1645,7 +3164,76 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 240,
+    "chapter": "Chapter 37",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...quishing Scipio; and another on defeating Pompey's sons. The first and most splendid was the Gallic triumph, the next the Alexandrian, then the Pontic, after that the African, and finally the Spanish,...",
+      "... its equipment and display of spoils. 2 As he rode through the • Velabrum on the day of his Gallic triumph, the axle of his chariot broke, and he was all but thrown out; and he mounted the Capitol by...",
+      "... Capitol by torchlight, with forty elephants bearing lamps on his right and his left. In his Pontic triumph he displayed among the show-pieces of the procession an inscription of but three words, \"I c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 241,
+    "chapter": "Chapter 37",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is Gallic triumph, the axle of his chariot broke, and he was all but thrown out; and he mounted the Capitol by torchlight, with forty elephants bearing lamps on his right and his left. In his Pontic t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 242,
+    "chapter": "Chapter 38",
+    "caesar": "Julius Caesar",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 To each and every foot-soldier of his veteran legions he gave twenty-four thousand sesterces by way of booty, over and abov..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 243,
+    "chapter": "Chapter 38",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 To each and every foot-soldier of his veteran legions he gave twenty-four thousand sesterces by way of booty, over and above the two thousand apie..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 244,
+    "chapter": "Chapter 38",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 4,
+    "contexts": [
+      "1 To each and every foot-soldier of his veteran legions he gave twenty-four thousand sesterces by way of booty, over and above the two thousand apiece which he had paid them at the begi...",
+      "...esides ten pecks of grain and the same number of pounds of oil,⁠ c he distributed the three hundred sesterces which he had promised at first, and one hundred apiece to boot because of the delay. 2 He...",
+      "...ot because of the delay. 2 He also remitted a year's rent in Rome to tenants who paid two thousand sesterces or less, and in Italy up to five hundred sesterces. He added a banquet and a dole of meat,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 245,
     "chapter": "Chapter 38",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1658,7 +3246,20 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 246,
+    "chapter": "Chapter 39",
+    "caesar": "Julius Caesar",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He gave entertainments of divers kinds: a combat of gladiators and also stage-plays in every ward all over the city, performed too by actors of all lang..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 247,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Bithynia",
@@ -1671,7 +3272,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 248,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -1684,7 +3285,256 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 249,
+    "chapter": "Chapter 39",
+    "caesar": "Julius Caesar",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... performed by the sons of the princes of Asia and Bithynia. 2 During the plays Decimus Laberius, a Roman knight, acted a farce of his own composition, and having been presented with five hundred thou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 250,
+    "chapter": "Chapter 39",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... knight, acted a farce of his own composition, and having been presented with five hundred thousand sesterces and a gold ring, passed from the stage through the orchestra and took his place in the fou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 251,
+    "chapter": "Chapter 39",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ve days, and last of all there was a battle between two opposing armies, in which five hundred foot-soldiers, twenty elephants, and thirty horsemen engaged on each side. To make room for this, the goa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 252,
+    "chapter": "Chapter 39",
+    "caesar": "Julius Caesar",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ompetitions lasted for three days in a temporary stadium built for the purpose in the region of the Campus Martius. 4 For the naval battle a pool was dug in the lesser Codeta and there was a contest ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 253,
+    "chapter": "Chapter 40",
+    "caesar": "Julius Caesar",
+    "entity": "pontiffs",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...attention to the reorganisation of the state, he reformed the calendar, which the negligence of the pontiffs had long since so disordered, through their privilege of adding months or days at pleasure,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 254,
+    "chapter": "Chapter 40",
+    "caesar": "Julius Caesar",
+    "entity": "intercalary month",
+    "slug": "Intercalation",
+    "url": "https://en.wikipedia.org/wiki/Intercalation",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... year to the sun's course by making it consist of three hundred and sixty-five days, abolishing the intercalary month, and adding one day every fourth year. 2 Furthermore, that the correct reckoning ...",
+      "...mber; hence the year in which these arrangements were made was one of fifteen months, including the intercalary month, which belonged to that year according to the former custom."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 255,
+    "chapter": "Chapter 40",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... every fourth year. 2 Furthermore, that the correct reckoning of seasons might begin with the next Kalends of January, he inserted two other months between those of November and December; hence the y..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 256,
+    "chapter": "Chapter 40",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... every fourth year. 2 Furthermore, that the correct reckoning of seasons might begin with the next Kalends of January, he inserted two other months between those of November and December; hence the y..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 257,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He filled the vacancies in the senate, enrolled additional patricians, and increased the number of praetors, aediles, and quaestors, as well as of the minor of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 258,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... He filled the vacancies in the senate, enrolled additional patricians, and increased the number of praetors, aediles, and quaestors, as well as of the minor officials; he reinstated those who had bee...",
+      "...urposes of enrolment, he provided that the places of such as died should be filled each year by the praetors from those who were not on the list."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 259,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "aediles",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the vacancies in the senate, enrolled additional patricians, and increased the number of praetors, aediles, and quaestors, as well as of the minor officials; he reinstated those who had been degraded..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 260,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s in the senate, enrolled additional patricians, and increased the number of praetors, aediles, and quaestors, as well as of the minor officials; he reinstated those who had been degraded by official ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 261,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "censors",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...well as of the minor officials; he reinstated those who had been degraded by official action of the censors or found guilty of bribery by verdict of the jurors. 2 He shared the elections with the peo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 262,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he jurors. 2 He shared the elections with the people on this basis: that except in the case of the consul ­ship, half of the magistrates should be appointed by the people's choice, while the rest sho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 263,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e elections with the people on this basis: that except in the case of the consul ­ship, half of the magistrates should be appointed by the people's choice, while the rest should be those whom he had p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 264,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o had been proscribed. He limited the right of serving as jurors to two classes, the equestrian and senatorial orders, disqualifying the third class, the tribunes of the treasury. 39 3 He made the en..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 265,
+    "chapter": "Chapter 41",
+    "caesar": "Julius Caesar",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o classes, the equestrian and senatorial orders, disqualifying the third class, the tribunes of the treasury. 39 3 He made the enumeration of the people neither in the usual manner nor place, but fro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 266,
+    "chapter": "Chapter 42",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...law that no citizen older than twenty or younger than forty, who was not detained by service in the army, should be absent from Italy for more than three successive years; that no senator's son should..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 267,
+    "chapter": "Chapter 42",
+    "caesar": "Julius Caesar",
+    "entity": "magistrate",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...re than three successive years; that no senator's son should go abroad except as the companion of a magistrate or on his staff; and that those who made a business of grazing should have among their he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 268,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1697,7 +3547,111 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 269,
+    "chapter": "Chapter 42",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s according to a valuation of their possessions at the price what they had paid for them before the civil war, deducting from the principal whatever interest had been paid in cash or pledged through b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 270,
+    "chapter": "Chapter 42",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t any loss of property, he punished murderers of freemen by the confiscation of all their goods, as Cicero writes, and others by the loss of one-half."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 271,
+    "chapter": "Chapter 43",
+    "caesar": "Julius Caesar",
+    "entity": "senatorial order",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he utmost conscientiousness and strictness. Those convicted of extortion he even dismissed from the senatorial order. He annulled the marriage of an ex-praetor, who had married a woman the very day af..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 272,
+    "chapter": "Chapter 43",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nvicted of extortion he even dismissed from the senatorial order. He annulled the marriage of an ex-praetor, who had married a woman the very day after her divorce, although there was no suspicion of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 273,
+    "chapter": "Chapter 43",
+    "caesar": "Julius Caesar",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ring to him dainties which were exposed for sale in violation of the law; and sometimes he sent his lictors and soldiers to take from a dining-room any articles which had escaped the vigilance of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 274,
+    "chapter": "Chapter 43",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dainties which were exposed for sale in violation of the law; and sometimes he sent his lictors and soldiers to take from a dining-room any articles which had escaped the vigilance of his watchmen, ev..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 275,
+    "chapter": "Chapter 44",
+    "caesar": "Julius Caesar",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n of the Empire, he formed more projects and more extensive ones every day: first of all, to rear a temple of Mars, greater than any in existence, filling up and levelling the pool in which he had exh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 276,
+    "chapter": "Chapter 44",
+    "caesar": "Julius Caesar",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mpire, he formed more projects and more extensive ones every day: first of all, to rear a temple of Mars, greater than any in existence, filling up and levelling the pool in which he had exhibited the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 277,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -1710,7 +3664,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 278,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
@@ -1723,7 +3677,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 279,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Armenia",
@@ -1736,7 +3690,20 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 280,
+    "chapter": "Chapter 45",
+    "caesar": "Julius Caesar",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... people there was none which he received or made use of more gladly than the privilege of wearing a laurel wreath at all times. 3 They say, too, that he was remarkable in his dress; that he wore a se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 281,
     "chapter": "Chapter 45",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -1749,7 +3716,20 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 282,
+    "chapter": "Chapter 46",
+    "caesar": "Julius Caesar",
+    "entity": "pontifex",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He lived at first in the • Subura in a modest house, but after he became pontifex maximus, in the official residence on the • Sacred Way. Many have written that he was very ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 283,
     "chapter": "Chapter 47",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -1762,7 +3742,33 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 284,
+    "chapter": "Chapter 48",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 It is further reported that in the provinces he gave banquets constantly in two dining-halls, in one of which his officers or Greek com..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 285,
+    "chapter": "Chapter 48",
+    "caesar": "Julius Caesar",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nother; and he inflicted capital punishment on a favourite freedman for adultery with the wife of a Roman knight, although no complaint was made against him."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 286,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Bithynia",
@@ -1777,7 +3783,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 287,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -1791,7 +3797,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 288,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -1804,7 +3810,7 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 289,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -1817,7 +3823,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 290,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1830,7 +3836,7 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 291,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -1844,7 +3850,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 292,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1857,7 +3863,49 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 293,
+    "chapter": "Chapter 49",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...inner-party, and that among the guests were some merchants from Rome, whose names Memmius gives. 3 Cicero, indeed, is not content with having written in sundry letters that Caesar was led by the king...",
+      "... senate in defence of Nysa, daughter of Nicomedes, and was enumerating his obligations to the king, Cicero cried: \"No more of that, pray, for it is well known what he gave you, and what you gave him i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 294,
+    "chapter": "Chapter 49",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...y, for it is well known what he gave you, and what you gave him in turn.\" 4 Finally, in his Gallic triumph his soldiers, among the bantering songs which are usually sung by those who followed the cha...",
+      "...me a by-word: \"All the Gauls did Caesar vanquish, Nicomedes vanquished him; Lo! now Caesar rides in triumph, victor over all the Gauls, Nicomedes does not triumph, who subdued the conqueror.\"",
+      "...edes vanquished him; Lo! now Caesar rides in triumph, victor over all the Gauls, Nicomedes does not triumph, who subdued the conqueror.\""
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 295,
+    "chapter": "Chapter 49",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... well known what he gave you, and what you gave him in turn.\" 4 Finally, in his Gallic triumph his soldiers, among the bantering songs which are usually sung by those who followed the chariot, shoute..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 296,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -1870,7 +3918,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 297,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1884,7 +3932,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 298,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -1897,7 +3945,20 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 299,
+    "chapter": "Chapter 50",
+    "caesar": "Julius Caesar",
+    "entity": "Aegisthus",
+    "slug": "Aegisthus",
+    "url": "https://en.wikipedia.org/wiki/Aegisthus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...orced a wife who had borne him three children, and whom he had often referred to with a groan as an Aegisthus.⁠ e 2 But beyond all others Caesar loved Servilia, the mother of Marcus Brutus, for whom ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 300,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -1910,7 +3971,98 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 301,
+    "chapter": "Chapter 50",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... 2 But beyond all others Caesar loved Servilia, the mother of Marcus Brutus, for whom in his first consul ­ship he bought a pearl costing six million sesterces. During the civil war, too, besides oth..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 302,
+    "chapter": "Chapter 50",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e mother of Marcus Brutus, for whom in his first consul ­ship he bought a pearl costing six million sesterces. During the civil war, too, besides other presents, he knocked down some fine estates to h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 303,
+    "chapter": "Chapter 50",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tus, for whom in his first consul ­ship he bought a pearl costing six million sesterces. During the civil war, too, besides other presents, he knocked down some fine estates to her in a public auction..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 304,
+    "chapter": "Chapter 50",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r in a public auction at a nominal price, and when some expressed their surprise at the low figure, Cicero wittily remarked: \"It's a better bargain than you think, for there is a third off.\" And in fa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 305,
+    "chapter": "Chapter 51",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 That he did not refrain from intrigues in the provinces is shown in particular by this couplet, which was also shouted by the soldiers in his Gall..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 306,
+    "chapter": "Chapter 51",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...om intrigues in the provinces is shown in particular by this couplet, which was also shouted by the soldiers in his Gallic triumph: \"Men of Rome, keep close to your consorts, here's a bald adulterer. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 307,
+    "chapter": "Chapter 51",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vinces is shown in particular by this couplet, which was also shouted by the soldiers in his Gallic triumph: \"Men of Rome, keep close to your consorts, here's a bald adulterer. Gold in Gaul you spent ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 308,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1924,7 +4076,7 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 309,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1937,7 +4089,7 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 310,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Cleopatra",
@@ -1951,7 +4103,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 311,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -1964,7 +4116,20 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 312,
+    "chapter": "Chapter 52",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., and he would have gone through Egypt with her in her state-barge almost to Aethiopia, had not his soldiers refused to follow him. Finally he called her to Rome and did not let her leave until he had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 313,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1977,7 +4142,7 @@
     "status": "approved"
   },
   {
-    "id": 150,
+    "id": 314,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -1991,7 +4156,7 @@
     "status": "approved"
   },
   {
-    "id": 151,
+    "id": 315,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -2004,7 +4169,7 @@
     "status": "approved"
   },
   {
-    "id": 152,
+    "id": 316,
     "chapter": "Chapter 53",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -2017,7 +4182,7 @@
     "status": "approved"
   },
   {
-    "id": 153,
+    "id": 317,
     "chapter": "Chapter 53",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -2030,7 +4195,20 @@
     "status": "approved"
   },
   {
-    "id": 154,
+    "id": 318,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "magistrate",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Neither when in command of armies nor as a magistrate at Rome did he show a scrupulous integrity; for as certain men have declared in their mem..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 319,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2043,7 +4221,20 @@
     "status": "approved"
   },
   {
-    "id": 155,
+    "id": 320,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "proconsul",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... did he show a scrupulous integrity; for as certain men have declared in their memoirs, when he was proconsul in Spain, he not only begged money from the allies, to help pay his debts, but also attack..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 321,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2056,7 +4247,7 @@
     "status": "approved"
   },
   {
-    "id": 156,
+    "id": 322,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2069,7 +4260,72 @@
     "status": "approved"
   },
   {
-    "id": 157,
+    "id": 323,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nce he had more gold than he knew what to do with, and offered it for sale throughout Italy and the provinces at the rate of three thousand sesterces the pound. 3 In his first consul ­ship he stole t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 324,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o do with, and offered it for sale throughout Italy and the provinces at the rate of three thousand sesterces the pound. 3 In his first consul ­ship he stole three thousand pounds of gold from the Ca..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 325,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...roughout Italy and the provinces at the rate of three thousand sesterces the pound. 3 In his first consul ­ship he stole three thousand pounds of gold from the Capitol, repla­cing it with the same we..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 326,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d sesterces the pound. 3 In his first consul ­ship he stole three thousand pounds of gold from the Capitol, repla­cing it with the same weight of gilded bronze. He made alliances and thrones a matter..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 327,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... stole three thousand pounds of gold from the Capitol, repla­cing it with the same weight of gilded bronze. He made alliances and thrones a matter of barter, for he extorted from Ptolemy alone in his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 328,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Ptolemy",
@@ -2082,7 +4338,7 @@
     "status": "approved"
   },
   {
-    "id": 158,
+    "id": 329,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2095,7 +4351,59 @@
     "status": "approved"
   },
   {
-    "id": 159,
+    "id": 330,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "talents",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f barter, for he extorted from Ptolemy alone in his own name and that of Pompey nearly six thousand talents, while later on he met the heavy expenses of the civil wars and of his triumphs and entertai..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 331,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ame and that of Pompey nearly six thousand talents, while later on he met the heavy expenses of the civil wars and of his triumphs and entertainments by the most bare-faced pillage and sacrilege."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 332,
+    "chapter": "Chapter 54",
+    "caesar": "Julius Caesar",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... nearly six thousand talents, while later on he met the heavy expenses of the civil wars and of his triumphs and entertainments by the most bare-faced pillage and sacrilege."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 333,
+    "chapter": "Chapter 55",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ation of Dolabella, he was without question numbered with the leading advocates. At all events when Cicero reviews the orators in his Brutus, he says that he does not see to whom Caesar ought to yield..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 334,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2108,7 +4416,7 @@
     "status": "approved"
   },
   {
-    "id": 160,
+    "id": 335,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -2122,7 +4430,7 @@
     "status": "approved"
   },
   {
-    "id": 161,
+    "id": 336,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Metellus",
@@ -2137,7 +4445,7 @@
     "status": "approved"
   },
   {
-    "id": 162,
+    "id": 337,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2150,7 +4458,7 @@
     "status": "approved"
   },
   {
-    "id": 163,
+    "id": 338,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -2163,7 +4471,7 @@
     "status": "approved"
   },
   {
-    "id": 164,
+    "id": 339,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -2176,7 +4484,7 @@
     "status": "approved"
   },
   {
-    "id": 165,
+    "id": 340,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2189,7 +4497,7 @@
     "status": "approved"
   },
   {
-    "id": 166,
+    "id": 341,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -2202,7 +4510,21 @@
     "status": "approved"
   },
   {
-    "id": 167,
+    "id": 342,
+    "chapter": "Chapter 56",
+    "caesar": "Julius Caesar",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...lied the final book of the Gallic War, which Caesar left unwritten. With regard to Caesar's memoirs Cicero, also in the Brutus speaks in the following terms: 2 \"He wrote memoirs which deserve the hi...",
+      "...ls and generals sent their reports written right across the sheet. There are also letters of his to Cicero, as well as to his intimates on private affairs, and in the latter, if he had anything confid..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 343,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2215,7 +4537,7 @@
     "status": "approved"
   },
   {
-    "id": 168,
+    "id": 344,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -2228,7 +4550,7 @@
     "status": "approved"
   },
   {
-    "id": 169,
+    "id": 345,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -2241,7 +4563,7 @@
     "status": "approved"
   },
   {
-    "id": 170,
+    "id": 346,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -2254,7 +4576,7 @@
     "status": "approved"
   },
   {
-    "id": 171,
+    "id": 347,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Alps",
@@ -2267,7 +4589,20 @@
     "status": "approved"
   },
   {
-    "id": 172,
+    "id": 348,
+    "chapter": "Chapter 56",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...itled \"The Journey.\" He wrote the first of these works while crossing the Alps and returning to his army from Hither Gaul, where he had held the assizes; the second about the time of the battle of Mun..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 349,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2280,7 +4615,7 @@
     "status": "approved"
   },
   {
-    "id": 173,
+    "id": 350,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "battle of Munda",
@@ -2293,7 +4628,7 @@
     "status": "approved"
   },
   {
-    "id": 174,
+    "id": 351,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Munda",
@@ -2306,7 +4641,7 @@
     "status": "approved"
   },
   {
-    "id": 175,
+    "id": 352,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2319,7 +4654,7 @@
     "status": "approved"
   },
   {
-    "id": 176,
+    "id": 353,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2332,7 +4667,20 @@
     "status": "approved"
   },
   {
-    "id": 177,
+    "id": 354,
+    "chapter": "Chapter 56",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ve been the first to reduce such documents to pages and the form of a note-book, whereas previously consuls and generals sent their reports written right across the sheet. There are also letters of hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 355,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -2345,7 +4693,33 @@
     "status": "approved"
   },
   {
-    "id": 178,
+    "id": 356,
+    "chapter": "Chapter 57",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...illed in arms and horseman ­ship, and of incredible powers of endurance. On the march he headed his army, sometimes on horseback, but oftener on foot, bareheaded both in the heat of the sun and in rai..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 357,
+    "chapter": "Chapter 58",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of his campaigns it is a question whether he was more cautious or more daring, for he never led his army where ambuscades were possible without carefully reconnoitring the country, and he did not cros..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 358,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -2358,7 +4732,7 @@
     "status": "approved"
   },
   {
-    "id": 179,
+    "id": 359,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Germany",
@@ -2371,7 +4745,7 @@
     "status": "approved"
   },
   {
-    "id": 180,
+    "id": 360,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2384,7 +4758,7 @@
     "status": "approved"
   },
   {
-    "id": 181,
+    "id": 361,
     "chapter": "Chapter 59",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -2397,7 +4771,7 @@
     "status": "approved"
   },
   {
-    "id": 182,
+    "id": 362,
     "chapter": "Chapter 59",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -2410,7 +4784,59 @@
     "status": "approved"
   },
   {
-    "id": 183,
+    "id": 363,
+    "chapter": "Chapter 59",
+    "caesar": "Julius Caesar",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ulous which declared that the stock of the Scipios was fated to be fortunate and invincible in that province, he kept with him in camp a contemptible fellow belonging to the Cornelian family, to whom ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 364,
+    "chapter": "Chapter 61",
+    "caesar": "Julius Caesar",
+    "entity": "temple of Venus",
+    "slug": "Temple_of_Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...unt it, for it would endure no other rider. Afterwards, too, he dedicated a statue of it before the temple of Venus Genetrix."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 365,
+    "chapter": "Chapter 61",
+    "caesar": "Julius Caesar",
+    "entity": "Venus Genetrix",
+    "slug": "Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r it would endure no other rider. Afterwards, too, he dedicated a statue of it before the temple of Venus Genetrix."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 366,
+    "chapter": "Chapter 62",
+    "caesar": "Julius Caesar",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When his army gave way, he often rallied it single-handed, planting himself in the way of the fleeing men, la..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 367,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -2423,7 +4849,7 @@
     "status": "approved"
   },
   {
-    "id": 184,
+    "id": 368,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -2436,7 +4862,7 @@
     "status": "approved"
   },
   {
-    "id": 185,
+    "id": 369,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -2451,7 +4877,7 @@
     "status": "approved"
   },
   {
-    "id": 186,
+    "id": 370,
     "chapter": "Chapter 64",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -2464,7 +4890,115 @@
     "status": "approved"
   },
   {
-    "id": 187,
+    "id": 371,
+    "chapter": "Chapter 65",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He valued his soldiers neither for their personal character nor for their fortune, but solely for their prowess, a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 372,
+    "chapter": "Chapter 66",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...danger. For instance, when the anticipation of Juba's coming filled them with terror, he called the soldiers together and said: \"Let me tell you that within the next few days the king will be here wit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 373,
+    "chapter": "Chapter 66",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rs together and said: \"Let me tell you that within the next few days the king will be here with ten legions, thirty thousand horsemen, a hundred thousand light-armed troops, and three hundred elephant..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 374,
+    "chapter": "Chapter 67",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...relieved of all duties and gave them full licence to revel, being in the habit of boasting that his soldiers could fight well even when reeking of perfumes. 2 In the assembly he addressed them not as...",
+      "...ldiers could fight well even when reeking of perfumes. 2 In the assembly he addressed them not as \"soldiers,\" but by the more flattering term \"comrades,\" and he kept them in fine trim, furnishing the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 375,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 In this way he made them most devoted to his interests as well as most valiant. When he began the civil war, every centurion of each legion proposed to supply a horseman from his own savings, and th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 376,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...made them most devoted to his interests as well as most valiant. When he began the civil war, every centurion of each legion proposed to supply a horseman from his own savings, and the soldiers one an...",
+      "... 4 And no wonder, when one thinks of the deeds of individual soldiers, either of Cassius Scaeva the centurion, or of Gaius Acilius of the rank and file, not to mention others. Scaeva, with one eye gon..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 377,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...oted to his interests as well as most valiant. When he began the civil war, every centurion of each legion proposed to supply a horseman from his own savings, and the soldiers one and all offered thei...",
+      "...ss forces of the enemy, though decidedly fewer in number themselves. Indeed one cohort of the sixth legion, when set to defend a redoubt, kept four legions of Pompey at bay for several hours, though a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 378,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...vil war, every centurion of each legion proposed to supply a horseman from his own savings, and the soldiers one and all offered their service without pay and without rations, the richer assuming the ...",
+      "...nd were picked up within the ramparts. 4 And no wonder, when one thinks of the deeds of individual soldiers, either of Cassius Scaeva the centurion, or of Gaius Acilius of the rank and file, not to m..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 379,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2478,7 +5012,33 @@
     "status": "approved"
   },
   {
-    "id": 188,
+    "id": 380,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...me with ease countless forces of the enemy, though decidedly fewer in number themselves. Indeed one cohort of the sixth legion, when set to defend a redoubt, kept four legions of Pompey at bay for sev..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 381,
+    "chapter": "Chapter 68",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n number themselves. Indeed one cohort of the sixth legion, when set to defend a redoubt, kept four legions of Pompey at bay for several hours, though almost all were wounded by the enemy's showers of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 382,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -2491,7 +5051,33 @@
     "status": "approved"
   },
   {
-    "id": 189,
+    "id": 383,
+    "chapter": "Chapter 69",
+    "caesar": "Julius Caesar",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 They did not mutiny once during the ten years of the Gallic war; in the civil wars they did so now and then, but quickly resumed their duty, not so much owing to any indulg..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 384,
+    "chapter": "Chapter 69",
+    "caesar": "Julius Caesar",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ay to them when they were insubordinate, but always boldly faced them, discharging the entire ninth legion in disgrace before Placentia, though Pompey was still in the field, reinstating them unwillin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 385,
     "chapter": "Chapter 69",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2504,7 +5090,7 @@
     "status": "approved"
   },
   {
-    "id": 190,
+    "id": 386,
     "chapter": "Chapter 70",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2517,7 +5103,7 @@
     "status": "approved"
   },
   {
-    "id": 191,
+    "id": 387,
     "chapter": "Chapter 70",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -2531,7 +5117,21 @@
     "status": "approved"
   },
   {
-    "id": 192,
+    "id": 388,
+    "chapter": "Chapter 70",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e of his friends, and to disband them. But with a single word, calling them \"citizens,\" instead of \"soldiers,\" he easily brought them round and bent them to his will; for they at once replied that the...",
+      "...e easily brought them round and bent them to his will; for they at once replied that they were his \"soldiers\" and insisted on following him to Africa, although he refused their service. Even then he p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 389,
     "chapter": "Chapter 71",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2544,7 +5144,46 @@
     "status": "approved"
   },
   {
-    "id": 193,
+    "id": 390,
+    "chapter": "Chapter 71",
+    "caesar": "Julius Caesar",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and kept him hidden for some time in his own house; and when presently he left for Spain after his praetor ­ship, he carried the young man off in his own litter, unnoticed amid the crowd that came to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 391,
+    "chapter": "Chapter 71",
+    "caesar": "Julius Caesar",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ried the young man off in his own litter, unnoticed amid the crowd that came to see him off and the lictors with their fasces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 392,
+    "chapter": "Chapter 71",
+    "caesar": "Julius Caesar",
+    "entity": "fasces",
+    "slug": "Fasces",
+    "url": "https://en.wikipedia.org/wiki/Fasces",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...off in his own litter, unnoticed amid the crowd that came to see him off and the lictors with their fasces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 393,
     "chapter": "Chapter 72",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -2557,7 +5196,7 @@
     "status": "approved"
   },
   {
-    "id": 194,
+    "id": 394,
     "chapter": "Chapter 73",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -2571,7 +5210,20 @@
     "status": "approved"
   },
   {
-    "id": 195,
+    "id": 395,
+    "chapter": "Chapter 73",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... replied with equal bitterness, he went so far as to support Memmius afterwards in his suit for the consul ­ship. When Gaius Calvus, after some scurrilous epigrams, took steps through his friends towa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 396,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -2584,7 +5236,7 @@
     "status": "approved"
   },
   {
-    "id": 196,
+    "id": 397,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -2597,7 +5249,7 @@
     "status": "approved"
   },
   {
-    "id": 197,
+    "id": 398,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -2610,7 +5262,20 @@
     "status": "approved"
   },
   {
-    "id": 198,
+    "id": 399,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He certainly showed admirable self-restraint and mercy, both in his conduct of the civil war and in the hour of victory. While Pompey announced that he would treat as enemies those wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 400,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2625,7 +5290,47 @@
     "status": "approved"
   },
   {
-    "id": 199,
+    "id": 401,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d of neither party would be numbered with his friends. He freely allowed all those whom he had made centurions on Pompey's recommendation to go over to his rival. 2 When conditions of surrender were ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 402,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "Afranius",
+    "slug": "Afranius_(playwright)",
+    "url": "https://en.wikipedia.org/wiki/Afranius_(playwright)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...der were under discussion at Ilerda, and friendly intercourse between the two parties was constant, Afranius and Petreius, with a sudden change of purpose, put to death all of Caesar's soldiers whom t...",
+      "... opposite party. 3 And it will be found that no Pompeian lost his life except in battle, save only Afranius and Faustus, and the young Lucius Caesar; and it is believed that not even these men were s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 403,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... was constant, Afranius and Petreius, with a sudden change of purpose, put to death all of Caesar's soldiers whom they found in their camp; but Caesar could not bring himself to retaliate in kind. At ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 404,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -2638,7 +5343,7 @@
     "status": "approved"
   },
   {
-    "id": 200,
+    "id": 405,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -2651,7 +5356,33 @@
     "status": "approved"
   },
   {
-    "id": 201,
+    "id": 406,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er had taken up arms again after being pardoned, while Caesar had not only cruelly put to death the dictator's slaves and freedmen with fire and sword, but had even butchered the wild beasts which he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 407,
+    "chapter": "Chapter 75",
+    "caesar": "Julius Caesar",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gain after being pardoned, while Caesar had not only cruelly put to death the dictator's slaves and freedmen with fire and sword, but had even butchered the wild beasts which he had procured for the e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 408,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -2664,7 +5395,168 @@
     "status": "approved"
   },
   {
-    "id": 202,
+    "id": 409,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "... power and was justly slain. For not only did he accept excessive honours, such as an uninterrupted consul ­ship, the dictator ­ship for life, and the censor ­ship of public morals, as well as the for...",
+      "...ere were no honours which he did not receive or confer at pleasure. 2 He held his third and fourth consul ­ships in name only, content with the power of the dictator ­ship conferred on him at the sam...",
+      "...in name only, content with the power of the dictator ­ship conferred on him at the same time as the consul ­ships. Moreover, in both years he substituted two consuls for himself for the last three mon..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 410,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...tly slain. For not only did he accept excessive honours, such as an uninterrupted consul ­ship, the dictator ­ship for life, and the censor ­ship of public morals, as well as the forename Imperator, t...",
+      "...pleasure. 2 He held his third and fourth consul ­ships in name only, content with the power of the dictator ­ship conferred on him at the same time as the consul ­ships. Moreover, in both years he su..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 411,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cept excessive honours, such as an uninterrupted consul ­ship, the dictator ­ship for life, and the censor ­ship of public morals, as well as the forename Imperator, the surname of Father of his Count..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 412,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... conferred on him at the same time as the consul ­ships. Moreover, in both years he substituted two consuls for himself for the last three months, in the meantime holding no elections except for tribu...",
+      "...ects instead of the praetors, to manage the affairs of the city during his absence. When one of the consuls suddenly died the day before the Kalends of January, he gave the vacant office for a few hou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 413,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "plebeian",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...for himself for the last three months, in the meantime holding no elections except for tribunes and plebeian aediles, and appointing praefects instead of the praetors, to manage the affairs of the cit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 414,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "aediles",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lf for the last three months, in the meantime holding no elections except for tribunes and plebeian aediles, and appointing praefects instead of the praetors, to manage the affairs of the city during ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 415,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "praefects",
+    "slug": "Praefectus",
+    "url": "https://en.wikipedia.org/wiki/Praefectus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nths, in the meantime holding no elections except for tribunes and plebeian aediles, and appointing praefects instead of the praetors, to manage the affairs of the city during his absence. When one of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 416,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ding no elections except for tribunes and plebeian aediles, and appointing praefects instead of the praetors, to manage the affairs of the city during his absence. When one of the consuls suddenly die...",
+      "...ent he named magistrates for several years to come, bestowed the emblems of consular rank on ten ex-praetors, and admitted to the House men who had been given citizen ­ship, and in some cases half-civ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 417,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he affairs of the city during his absence. When one of the consuls suddenly died the day before the Kalends of January, he gave the vacant office for a few hours to a man who asked for it. 3 With the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 418,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he affairs of the city during his absence. When one of the consuls suddenly died the day before the Kalends of January, he gave the vacant office for a few hours to a man who asked for it. 3 With the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 419,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...for a few hours to a man who asked for it. 3 With the same disregard of law and precedent he named magistrates for several years to come, bestowed the emblems of consular rank on ten ex-praetors, and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 420,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... mint and of the public revenues to his own slaves, and gave the oversight and command of the three legions which he had left at Alexandria to a favourite of his called Rufio, son of one of his freedm..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 421,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -2677,7 +5569,20 @@
     "status": "approved"
   },
   {
-    "id": 203,
+    "id": 422,
+    "chapter": "Chapter 76",
+    "caesar": "Julius Caesar",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...three legions which he had left at Alexandria to a favourite of his called Rufio, son of one of his freedmen."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 423,
     "chapter": "Chapter 77",
     "caesar": "Julius Caesar",
     "entity": "Titus",
@@ -2690,7 +5595,7 @@
     "status": "approved"
   },
   {
-    "id": 204,
+    "id": 424,
     "chapter": "Chapter 77",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -2703,7 +5608,72 @@
     "status": "approved"
   },
   {
-    "id": 205,
+    "id": 425,
+    "chapter": "Chapter 77",
+    "caesar": "Julius Caesar",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...thing, a mere name without body or form; that Sulla did not know his A. B. C. when he laid down his dictator ­ship; that men ought now to be more circumspect in addressing him, and to regard his word ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 426,
+    "chapter": "Chapter 78",
+    "caesar": "Julius Caesar",
+    "entity": "temple of Venus",
+    "slug": "Temple_of_Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the Senate approached him in a body with many highly honorary decrees, he received them before the temple of Venus Genetrix without rising. Some think that when he attempted to get up, he was held ba..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 427,
+    "chapter": "Chapter 78",
+    "caesar": "Julius Caesar",
+    "entity": "Venus Genetrix",
+    "slug": "Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e approached him in a body with many highly honorary decrees, he received them before the temple of Venus Genetrix without rising. Some think that when he attempted to get up, he was held back by Corn..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 428,
+    "chapter": "Chapter 78",
+    "caesar": "Julius Caesar",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... rise. 2 And this action of his seemed the more intolerable, because when he himself in one of his triumphal processions rode past the benches of the tribunes, he was so incensed because a member of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 429,
+    "chapter": "Chapter 79",
+    "caesar": "Julius Caesar",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...agant and unprecedented demonstrations of the populace, someone in the press placed on his statue a laurel wreath with a white fillet tied to it; and when Epidius Marullus and Caesetius Flavius, tribu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 430,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Lupercalia",
@@ -2716,7 +5686,59 @@
     "status": "approved"
   },
   {
-    "id": 206,
+    "id": 431,
+    "chapter": "Chapter 79",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...commons, when they hailed him as king, \"I am Caesar and no king,\" and at the • Lupercalia, when the consul Antony several times attempted to place a crown upon his head as he spoke from the rostra, he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 432,
+    "chapter": "Chapter 79",
+    "caesar": "Julius Caesar",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... when the consul Antony several times attempted to place a crown upon his head as he spoke from the rostra, he put it aside and at last sent it to the Capitol, to be offered to Jupiter Optimus Maximus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 433,
+    "chapter": "Chapter 79",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...place a crown upon his head as he spoke from the rostra, he put it aside and at last sent it to the Capitol, to be offered to Jupiter Optimus Maximus. 3 Nay, more, the report had spread in various qu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 434,
+    "chapter": "Chapter 79",
+    "caesar": "Julius Caesar",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d as he spoke from the rostra, he put it aside and at last sent it to the Capitol, to be offered to Jupiter Optimus Maximus. 3 Nay, more, the report had spread in various quarters that he intended to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 435,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -2729,7 +5751,7 @@
     "status": "approved"
   },
   {
-    "id": 207,
+    "id": 436,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Cotta",
@@ -2742,7 +5764,49 @@
     "status": "approved"
   },
   {
-    "id": 208,
+    "id": 437,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to a newly made senator.\" The following verses too were sung everywhere:— \" Caesar led the Gauls in triumph, led them to the senate house; Then the Gauls put off their breeches, and put on the laticla..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 438,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...s put off their breeches, and put on the laticlave.\" 3 When Quintus Maximus, whom he had appointed consul in his place for three months, was entering the theatre, and his lictor called attention to h...",
+      "...is lictor called attention to his arrival in the usual manner, a general shout was raised: \"He's no consul!\" At the first election after the deposing of Caesetius and Marullus, the tribunes, several v...",
+      "...s' statue: \"Oh, that you were still alive\"; and on that of Caesar himself: \"First of all was Brutus consul, since he drove the kings from Rome; Since this man drove out the consuls, he at last is made..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 439,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...deposing of Caesetius and Marullus, the tribunes, several votes were found for their appointment as consuls. Some wrote on the base of Lucius Brutus' statue: \"Oh, that you were still alive\"; and on th...",
+      "...: \"First of all was Brutus consul, since he drove the kings from Rome; Since this man drove out the consuls, he at last is made our king.\" 4 More than sixty joined the conspiracy against him, led by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 440,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2757,7 +5821,7 @@
     "status": "approved"
   },
   {
-    "id": 209,
+    "id": 441,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2770,7 +5834,7 @@
     "status": "approved"
   },
   {
-    "id": 210,
+    "id": 442,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -2783,7 +5847,7 @@
     "status": "approved"
   },
   {
-    "id": 211,
+    "id": 443,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -2796,7 +5860,46 @@
     "status": "approved"
   },
   {
-    "id": 212,
+    "id": 444,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s and Decimus Brutus. At first they hesitated whether to form two divisions at the elections in the Campus Martius, so that while some hurled him from the bridge as he summoned the tribes to vote, the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 445,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed Way or at the entrance to the theatre. When, however, a meeting of the Senate was called for the Ides of March in the Hall of Pompey, they readily gave that time and place the preference."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 446,
+    "chapter": "Chapter 80",
+    "caesar": "Julius Caesar",
+    "entity": "Ides of March",
+    "slug": "Ides_of_March",
+    "url": "https://en.wikipedia.org/wiki/Ides_of_March",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed Way or at the entrance to the theatre. When, however, a meeting of the Senate was called for the Ides of March in the Hall of Pompey, they readily gave that time and place the preference."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 447,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2809,7 +5912,7 @@
     "status": "approved"
   },
   {
-    "id": 213,
+    "id": 448,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Capua",
@@ -2823,7 +5926,20 @@
     "status": "approved"
   },
   {
-    "id": 214,
+    "id": 449,
+    "chapter": "Chapter 81",
+    "caesar": "Julius Caesar",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ­ship, there was discovered in a tomb, which was said to be that of Capys, the founder of Capua, a bronze tablet, inscribed with Greek words and characters to this purport: \"Whenever the bones of Cap..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 450,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Rubicon",
@@ -2836,7 +5952,36 @@
     "status": "approved"
   },
   {
-    "id": 215,
+    "id": 451,
+    "chapter": "Chapter 81",
+    "caesar": "Julius Caesar",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...rifice, the soothsayer Spurinna warned him to beware of danger, which would come not later than the Ides of March; 3 and on the day before the Ides of that month a little bird called the king-bird fl...",
+      "...o beware of danger, which would come not later than the Ides of March; 3 and on the day before the Ides of that month a little bird called the king-bird flew into the Hall of Pompey⁠ g with a sprig o...",
+      "...he House in defiance of portents, laughing at Spurinna and calling him a false prophet, because the Ides of March were come without bringing him harm; though Spurinna replied that they had of a truth ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 452,
+    "chapter": "Chapter 81",
+    "caesar": "Julius Caesar",
+    "entity": "Ides of March",
+    "slug": "Ides_of_March",
+    "url": "https://en.wikipedia.org/wiki/Ides_of_March",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...rifice, the soothsayer Spurinna warned him to beware of danger, which would come not later than the Ides of March; 3 and on the day before the Ides of that month a little bird called the king-bird fl...",
+      "...he House in defiance of portents, laughing at Spurinna and calling him a false prophet, because the Ides of March were come without bringing him harm; though Spurinna replied that they had of a truth ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 453,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2849,7 +5994,33 @@
     "status": "approved"
   },
   {
-    "id": 216,
+    "id": 454,
+    "chapter": "Chapter 81",
+    "caesar": "Julius Caesar",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es of that month a little bird called the king-bird flew into the Hall of Pompey⁠ g with a sprig of laurel, pursued by others of various kinds from the grove hard by, which tore it to pieces in the ha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 455,
+    "chapter": "Chapter 81",
+    "caesar": "Julius Caesar",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... murder he dreamt now that he was flying above the clouds, and now that he was clasping the hand of Jupiter; and his wife Calpurnia thought that the pediment of their house fell, and that her husband ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 456,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -2862,7 +6033,7 @@
     "status": "approved"
   },
   {
-    "id": 217,
+    "id": 457,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2875,7 +6046,20 @@
     "status": "approved"
   },
   {
-    "id": 218,
+    "id": 458,
+    "chapter": "Chapter 82",
+    "caesar": "Julius Caesar",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ugh to ask something; and when Caesar with a gesture put him off to another time, Cimber caught his toga by both shoulders; then as Caesar cried, \"Why, this is violence!\" one of the Cascas stabbed him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 459,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2888,7 +6072,7 @@
     "status": "approved"
   },
   {
-    "id": 219,
+    "id": 460,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -2901,7 +6085,20 @@
     "status": "approved"
   },
   {
-    "id": 220,
+    "id": 461,
+    "chapter": "Chapter 82",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fiscate his property, and revoke his decrees; but they forebore through fear of Marcus Antonius the consul, and Lepidus, the master of horse."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 462,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -2914,7 +6111,59 @@
     "status": "approved"
   },
   {
-    "id": 221,
+    "id": 463,
+    "chapter": "Chapter 83",
+    "caesar": "Julius Caesar",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cius Piso, the will was unsealed and read in Antony's house, which Caesar had made on the preceding Ides of September at his place near Lavicum, and put in the care of the chief of the Vestals. Quintu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 464,
+    "chapter": "Chapter 83",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Lavicum, and put in the care of the chief of the Vestals. Quintus Tubero states that from his first consul ­ship until the beginning of the civil war it was his wont to write down Gnaeus Pompeius as h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 465,
+    "chapter": "Chapter 83",
+    "caesar": "Julius Caesar",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f of the Vestals. Quintus Tubero states that from his first consul ­ship until the beginning of the civil war it was his wont to write down Gnaeus Pompeius as his heir, and to read this to the assembl..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 466,
+    "chapter": "Chapter 83",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...il war it was his wont to write down Gnaeus Pompeius as his heir, and to read this to the assembled soldiers. 2 In his last will, however, he named three heirs, his sisters' grandsons, Gaius Octavius..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 467,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -2927,7 +6176,7 @@
     "status": "approved"
   },
   {
-    "id": 222,
+    "id": 468,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2940,7 +6189,7 @@
     "status": "approved"
   },
   {
-    "id": 223,
+    "id": 469,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -2953,7 +6202,193 @@
     "status": "approved"
   },
   {
-    "id": 224,
+    "id": 470,
+    "chapter": "Chapter 83",
+    "caesar": "Julius Caesar",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ond degree. To the people he left his gardens near the Tiber for their common use and three hundred sesterces to each man."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 471,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 When the funeral was announced, a pyre was erected in the Campus Martius near the tomb of Julia, and on the r...",
+      "...pus by whatsoever streets of the city they wished, regardless of any order of precedence. 2 At the funeral games, to rouse pity and indignation at his death, these words from the \"Contest for the Arm...",
+      "...the flames, and the veterans of the legions the arms with which they had adorned themselves for the funeral; many of the women too, offered up the jewels which they wore and the amulets and robes of t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 472,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When the funeral was announced, a pyre was erected in the Campus Martius near the tomb of Julia, and on the rostra a gilded shrine was placed, made after the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 473,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... funeral was announced, a pyre was erected in the Campus Martius near the tomb of Julia, and on the rostra a gilded shrine was placed, made after the model of the temple of Venus Genetrix; within was ...",
+      "...o watch over his personal safety; to which he added a very few words of his own. 3 The bier on the rostra was carried down into the Forum by magistrates and ex-magistrates; and while some were urging..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 474,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "temple of Venus",
+    "slug": "Temple_of_Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s near the tomb of Julia, and on the rostra a gilded shrine was placed, made after the model of the temple of Venus Genetrix; within was a couch of ivory with coverlets of purple and gold, and at its ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 475,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Venus Genetrix",
+    "slug": "Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... tomb of Julia, and on the rostra a gilded shrine was placed, made after the model of the temple of Venus Genetrix; within was a couch of ivory with coverlets of purple and gold, and at its head a pil..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 476,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Pacuvius",
+    "slug": "Pacuvius",
+    "url": "https://en.wikipedia.org/wiki/Pacuvius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l games, to rouse pity and indignation at his death, these words from the \"Contest for the Arms\" of Pacuvius were sung:— \"Saved I these men that they might murder me?\" and words of like purport from t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 477,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Atilius",
+    "slug": "Atilius_(playwright)",
+    "url": "https://en.wikipedia.org/wiki/Atilius_(playwright)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng:— \"Saved I these men that they might murder me?\" and words of like purport from the \"Electra\" of Atilius. Instead of a eulogy the consul Antonius caused a herald to recite the decree of the Senate ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 478,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... might murder me?\" and words of like purport from the \"Electra\" of Atilius. Instead of a eulogy the consul Antonius caused a herald to recite the decree of the Senate in which it had voted Caesar all ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 479,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...consul Antonius caused a herald to recite the decree of the Senate in which it had voted Caesar all divine and human honours at once, and likewise the oath with which they had all pledged themselves t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 480,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... he added a very few words of his own. 3 The bier on the rostra was carried down into the Forum by magistrates and ex-magistrates; and while some were urging that it be burned in the temple of Jupite...",
+      "...w words of his own. 3 The bier on the rostra was carried down into the Forum by magistrates and ex-magistrates; and while some were urging that it be burned in the temple of Jupiter on the Capitol, a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 481,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to the Forum by magistrates and ex-magistrates; and while some were urging that it be burned in the temple of Jupiter on the Capitol, and others in the Hall of Pompey, on a sudden two beings with swor..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 482,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...um by magistrates and ex-magistrates; and while some were urging that it be burned in the temple of Jupiter on the Capitol, and others in the Hall of Pompey, on a sudden two beings with swords by thei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 483,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es and ex-magistrates; and while some were urging that it be burned in the temple of Jupiter on the Capitol, and others in the Hall of Pompey, on a sudden two beings with swords by their sides and bra..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 484,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2966,7 +6401,59 @@
     "status": "approved"
   },
   {
-    "id": 225,
+    "id": 485,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Then the musicians and actors tore off their robes, which they had taken from the equipment of his triumphs and put on for the occasion, rent them to bits and threw them into the flames, and the vete..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 486,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... put on for the occasion, rent them to bits and threw them into the flames, and the veterans of the legions the arms with which they had adorned themselves for the funeral; many of the women too, offe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 487,
+    "chapter": "Chapter 84",
+    "caesar": "Julius Caesar",
+    "entity": "Jews",
+    "slug": "Jews",
+    "url": "https://en.wikipedia.org/wiki/Jews",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ef a throng of foreigners went about lamenting each after the fashion of his country, above all the Jews, who even flocked to the place for several successive nights."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 488,
+    "chapter": "Chapter 85",
+    "caesar": "Julius Caesar",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Immediately after the funeral the commons ran to the houses of Brutus and Cassius with firebrands, and after being repelle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 489,
     "chapter": "Chapter 85",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -2979,7 +6466,7 @@
     "status": "approved"
   },
   {
-    "id": 226,
+    "id": 490,
     "chapter": "Chapter 85",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -2992,7 +6479,46 @@
     "status": "approved"
   },
   {
-    "id": 227,
+    "id": 491,
+    "chapter": "Chapter 86",
+    "caesar": "Julius Caesar",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he last decree of the senators and their oath that he dismissed even the armed bodyguard of Spanish soldiers that formerly attended him. 2 Others, on the contrary, believe that he elected to expose h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 492,
+    "chapter": "Chapter 87",
+    "caesar": "Julius Caesar",
+    "entity": "Xenophon",
+    "slug": "Xenophon",
+    "url": "https://en.wikipedia.org/wiki/Xenophon",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...most all are fully agreed, that he all but desired such a death as he met; for once when he read in Xenophon how Cyrus in his last illness gave directions for his funeral, he expressed his horror of s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 493,
+    "chapter": "Chapter 87",
+    "caesar": "Julius Caesar",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... as he met; for once when he read in Xenophon how Cyrus in his last illness gave directions for his funeral, he expressed his horror of such a lingering kind of end and his wish for one which was swif..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 494,
     "chapter": "Chapter 87",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -3005,7 +6531,7 @@
     "status": "approved"
   },
   {
-    "id": 228,
+    "id": 495,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -3014,6 +6540,59 @@
     "occurrenceCount": 1,
     "contexts": [
       "...cree, but also in the conviction of the common people. For at the first of the games which his heir Augustus gave in honour of his apotheosis, a comet shone for seven successive days, rising about the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 496,
+    "chapter": "Chapter 88",
+    "caesar": "Julius Caesar",
+    "entity": "apotheosis",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...n of the common people. For at the first of the games which his heir Augustus gave in honour of his apotheosis, a comet shone for seven successive days, rising about the eleventh hour, and was believe...",
+      "...n of the common people. For at the first of the games which his heir Augustus gave in honour of his apotheosis, a comet shone for seven successive days, rising about the eleventh hour, and was believe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 497,
+    "chapter": "Chapter 88",
+    "caesar": "Julius Caesar",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of his head in his statue. It was voted that the hall in which he was slain be walled up, that the Ides of March be called the Day of Parricide, and that a meeting of the senate should never be calle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 498,
+    "chapter": "Chapter 88",
+    "caesar": "Julius Caesar",
+    "entity": "Ides of March",
+    "slug": "Ides_of_March",
+    "url": "https://en.wikipedia.org/wiki/Ides_of_March",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of his head in his statue. It was voted that the hall in which he was slain be walled up, that the Ides of March be called the Day of Parricide, and that a meeting of the senate should never be calle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 499,
+    "chapter": "Chapter 88",
+    "caesar": "Julius Caesar",
+    "entity": "Parricide",
+    "slug": "Parricide",
+    "url": "https://en.wikipedia.org/wiki/Parricide",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...voted that the hall in which he was slain be walled up, that the Ides of March be called the Day of Parricide, and that a meeting of the senate should never be called on that day."
     ],
     "status": "approved"
   }

@@ -29,6 +29,33 @@
     "id": 3,
     "chapter": "Chapter 1",
     "caesar": "Vespasian",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is avarice and cruelty was fully merited. 2 Titus Flavius Petro, a burgher of Reate and during the civil war a centurion or a volunteer veteran on Pompey's side, fled from the field of Pharsalus and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Vespasian",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...nd cruelty was fully merited. 2 Titus Flavius Petro, a burgher of Reate and during the civil war a centurion or a volunteer veteran on Pompey's side, fled from the field of Pharsalus and went home, w...",
+      "...e business of a collector of moneys. His son, surnamed Sabinus (although some say that he was an ex-centurion of the first grade; others that while still in command of a cohort he was retired because ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Vespasian",
     "entity": "Pompey",
     "slug": "Pompey",
     "url": "https://en.wikipedia.org/wiki/Pompey",
@@ -39,7 +66,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 6,
     "chapter": "Chapter 1",
     "caesar": "Vespasian",
     "entity": "Pharsalus",
@@ -52,7 +79,20 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 7,
+    "chapter": "Chapter 1",
+    "caesar": "Vespasian",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gh some say that he was an ex-centurion of the first grade; others that while still in command of a cohort he was retired because of ill-health) took no part in military life, but farmed the public ta..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
     "chapter": "Chapter 1",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -65,7 +105,7 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 9,
     "chapter": "Chapter 1",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -78,7 +118,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 10,
     "chapter": "Chapter 1",
     "caesar": "Vespasian",
     "entity": "Pollio",
@@ -91,7 +131,33 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 11,
+    "chapter": "Chapter 1",
+    "caesar": "Vespasian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... was born of an honourable family at Nursia, had for father Vespasius Pollio, thrice tribune of the soldiers and prefect of the camp, while her brother became a senator with the rank of praetor. There..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 1",
+    "caesar": "Vespasian",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ribune of the soldiers and prefect of the camp, while her brother became a senator with the rank of praetor. There is moreover on the top of a mountain, near the sixth milestone on the road from Nursi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -104,7 +170,20 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 14,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n a small village beyond Reate, called Falacrina,⁠ b on the evening of the fifteenth day before the Kalends of December, in the consulate of Quintus Sulpicius Camerinus and Gaius Poppaeus Sabinus, fiv..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
     "chapter": "Chapter 2",
     "caesar": "Vespasian",
     "entity": "Augustus",
@@ -117,7 +196,46 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 16,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...constantly taunted him with being his brother's footman. 4 3 He served in Thrace as tribune of the soldiers; as quaestor was assigned by lot to the province of Crete and Cyrene; became a candidate fo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...unted him with being his brother's footman. 4 3 He served in Thrace as tribune of the soldiers; as quaestor was assigned by lot to the province of Crete and Cyrene; became a candidate for the aedile ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ootman. 4 3 He served in Thrace as tribune of the soldiers; as quaestor was assigned by lot to the province of Crete and Cyrene; became a candidate for the aedile ­ship and then for the praetor ­ship..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
     "chapter": "Chapter 2",
     "caesar": "Vespasian",
     "entity": "Crete",
@@ -130,7 +248,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 20,
     "chapter": "Chapter 2",
     "caesar": "Vespasian",
     "entity": "Cyrene",
@@ -143,7 +261,34 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 21,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rs; as quaestor was assigned by lot to the province of Crete and Cyrene; became a candidate for the aedile ­ship and then for the praetor ­ship, attaining the former only after one defeat and then bar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 2",
+    "caesar": "Vespasian",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...y lot to the province of Crete and Cyrene; became a candidate for the aedile ­ship and then for the praetor ­ship, attaining the former only after one defeat and then barely landing in the sixth place...",
+      "...hen barely landing in the sixth place, but the latter on his canvass and among the foremost. In his praetor ­ship, to lose no opportunity º of winning the favour of Gaius, who was at odds with the sen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
     "chapter": "Chapter 2",
     "caesar": "Vespasian",
     "entity": "Germany",
@@ -156,7 +301,20 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 24,
+    "chapter": "Chapter 3",
+    "caesar": "Vespasian",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Meanwhile he took to wife Flavia Domitilla, formerly the mistress of Statilius Capella, a Roman knight of Sabrata in Africa, a woman originally only of Latin rank, but afterwards declared a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
     "chapter": "Chapter 3",
     "caesar": "Vespasian",
     "entity": "Africa",
@@ -169,7 +327,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 26,
     "chapter": "Chapter 3",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -182,7 +340,20 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 27,
+    "chapter": "Chapter 3",
+    "caesar": "Vespasian",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a suit before arbiters, brought by her father Flavius Liberalis, a native of Ferentum and merely a quaestor's clerk. By her he had three children, Titus, Domitian, and Domitilla. He outlived his wife..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
     "chapter": "Chapter 3",
     "caesar": "Vespasian",
     "entity": "Titus",
@@ -195,7 +366,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 29,
     "chapter": "Chapter 3",
     "caesar": "Vespasian",
     "entity": "Domitian",
@@ -208,7 +379,7 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 30,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Claudius",
@@ -222,7 +393,20 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 31,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 In the reign of Claudius he was sent in command of a legion to Germany, through the influence of Narcissus; from there he was transferred to Britain, whe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Germany",
@@ -235,7 +419,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 33,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Britain",
@@ -249,7 +433,47 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 34,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...d the island of Vectis, near Britain, partly under the leader ­ship of Aulus Plautius, the consular governor, and partly under that of Claudius himself. 2 For this he received the triumphal regalia, ...",
+      "...e event, the people of Judaea took to themselves; accordingly they revolted and after killing their governor, they routed the consular ruler of Syria as well, when he came to the rescue, and took one ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tius, the consular governor, and partly under that of Claudius himself. 2 For this he received the triumphal regalia, and shortly after two priesthoods, besides the consul ­ship, which he held for th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...self. 2 For this he received the triumphal regalia, and shortly after two priesthoods, besides the consul ­ship, which he held for the last two months of the year. The rest of the time up to his proc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Africa",
@@ -262,7 +486,20 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 38,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nown as \"the Muleteer.\" He is also said to have been found guilty of squeezing two hundred thousand sesterces out of a young man for whom he obtained the broad stripe against his father's wish, and to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Greece",
@@ -275,7 +512,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 40,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -289,7 +526,36 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 41,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e emperor but even with his public receptions, he withdrew to a little out‑of-the‑way town, until a province and an army were offered him while he was in hiding and in fear of his life. 5 There had s...",
+      "...lry and ten cohorts. He took his elder son as one of his lieutenants, and as soon as he reached his province he attracted the attention of the neighbouring provinces also; for he at once reformed the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...en with his public receptions, he withdrew to a little out‑of-the‑way town, until a province and an army were offered him while he was in hiding and in fear of his life. 5 There had spread over all t...",
+      "...to the rescue, and took one of his eagles. Since to put down this rebellion required a considerable army with a leader of no little enterprise, yet one to whom so great power could be entrusted withou...",
+      "...ted the attention of the neighbouring provinces also; for he at once reformed the discipline of the army and fought one or two battles with such daring, that in the storming of a fortress he was wound..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -302,7 +568,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 44,
     "chapter": "Chapter 4",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -315,7 +581,59 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 45,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of the obscurity of his family and name. 6 Therefore there were added to the forces in Judaea two legions with eight divisions of cavalry and ten cohorts. He took his elder son as one of his lieuten..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and name. 6 Therefore there were added to the forces in Judaea two legions with eight divisions of cavalry and ten cohorts. He took his elder son as one of his lieutenants, and as soon as he reached ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...refore there were added to the forces in Judaea two legions with eight divisions of cavalry and ten cohorts. He took his elder son as one of his lieutenants, and as soon as he reached his province he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... lieutenants, and as soon as he reached his province he attracted the attention of the neighbouring provinces also; for he at once reformed the discipline of the army and fought one or two battles wit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Otho",
@@ -328,7 +646,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 50,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -341,7 +659,7 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 51,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -356,7 +674,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 52,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Galba",
@@ -370,7 +688,20 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 53,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he following portents. 2 On the suburban estate of the Flavii an old oak tree, which was sacred to Mars, on each of the three occasions when Vespasia was delivered suddenly put forth a branch from it..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -385,7 +716,46 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 55,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n should already be in his dotage, while she was still of strong mind. 3 Later, when Vespasian was aedile, Gaius Caesar, incensed at his neglect of his duty of cleaning the streets, ordered that he b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... at his neglect of his duty of cleaning the streets, ordered that he be covered with mud, which the soldiers accordingly heaped into the bosom of his purple-bordered toga; this some interpreted as an ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he be covered with mud, which the soldiers accordingly heaped into the bosom of his purple-bordered toga; this some interpreted as an omen that one day in some civil commotion his country, trampled un..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Greece",
@@ -398,7 +768,7 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 59,
     "chapter": "Chapter 5",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -411,7 +781,77 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 60,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...reported from Rome: Nero in his latter days was admonished in a dream to take the sacred chariot of Jupiter Optimus Maximus from its shrine to the house of Vespasian and from there to the Circus. Not ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 5",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cus. Not long after this, too, when Galba was on his way to the elections which gave him his second consul ­ship, a statue of the Deified Julius of its own accord turned towards the East; and on the f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...was roused to it by the accidental support of men unknown to him and at a distance. 2 Two thousand soldiers of the three legions that made up the army in Moesia had been sent to help Otho. When word ...",
+      "...ith inscribed his name on all their banners. At the time, however, the movement was checked and the soldiers recalled to their allegiance for a season. But when their action became known, Tiberius Ale..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...e accidental support of men unknown to him and at a distance. 2 Two thousand soldiers of the three legions that made up the army in Moesia had been sent to help Otho. When word came to them after the...",
+      "...t when their action became known, Tiberius Alexander, prefect of Egypt, was the first to compel his legions to take the oath for Vespasian on the Kalends of July, the day which was afterwards celebrat...",
+      "...h spread abroad that Vitellius had planned, after his victory, to change the winter quarters of the legions and to transfer those in Germany to the Orient, to a safer and milder service; and finally, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 5,
+    "contexts": [
+      "...en unknown to him and at a distance. 2 Two thousand soldiers of the three legions that made up the army in Moesia had been sent to help Otho. When word came to them after they had begun their march t...",
+      "...nto their heads to select and appoint an emperor, saying that they were just as good as the Spanish army which had appointed Galba, or the praetorian guard which had elected Otho, or the German army w...",
+      "...anish army which had appointed Galba, or the praetorian guard which had elected Otho, or the German army which had chosen Vitellius. 3 Accordingly the names of all the consular governors who were ser..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Moesia",
@@ -425,7 +865,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 66,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Otho",
@@ -440,7 +880,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 67,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Galba",
@@ -453,7 +893,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 68,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -467,7 +907,34 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 69,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...d Otho, or the German army which had chosen Vitellius. 3 Accordingly the names of all the consular governors who were serving anywhere were taken up, and since objection was made to the rest for one ...",
+      "...d to transfer those in Germany to the Orient, to a safer and milder service; and finally, among the governors of provinces, by the support of Licinius Mucianus, and among the kings, by that of Vologae..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and since objection was made to the rest for one reason or another, while some members of the third legion, which had been transferred from Syria to Moesia just before the death of Nero, highly commen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -480,7 +947,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 72,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -495,7 +962,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 73,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Egypt",
@@ -508,7 +975,33 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 74,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...xander, prefect of Egypt, was the first to compel his legions to take the oath for Vespasian on the Kalends of July, the day which was afterwards celebrated as that of his accession; then the army in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s accession; then the army in Judaea swore allegiance to him personally on the fifth day before the Ides of July. 16 4 The enterprise was greatly forwarded by the circulation of a copy of a letter of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
     "chapter": "Chapter 6",
     "caesar": "Vespasian",
     "entity": "Germany",
@@ -521,7 +1014,33 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 77,
+    "chapter": "Chapter 6",
+    "caesar": "Vespasian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... those in Germany to the Orient, to a safer and milder service; and finally, among the governors of provinces, by the support of Licinius Mucianus, and among the kings, by that of Vologaesus, the Part..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 7",
+    "caesar": "Vespasian",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Therefore beginning a civil war and sending ahead generals with troops to Italy, he crossed meanwhile to Alexandria, to ta..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Alexandria",
@@ -534,7 +1053,7 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 80,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Egypt",
@@ -547,7 +1066,21 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 81,
+    "chapter": "Chapter 7",
+    "caesar": "Vespasian",
+    "entity": "Serapis",
+    "slug": "Serapis",
+    "url": "https://en.wikipedia.org/wiki/Serapis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ake possession of the key to Egypt. There he dismissed all his attendants and entered the temple of Serapis alone, to consult the auspices as to the duration of his power. And when after many propitia...",
+      "...ame, came to him together as he sat on the tribunal, begging for the help for their disorders which Serapis had promised in a dream; for the god declared that Vespasian would restore the eyes, if he w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -560,7 +1093,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 83,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Cremona",
@@ -573,7 +1106,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 84,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -586,7 +1119,7 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 85,
     "chapter": "Chapter 7",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -601,7 +1134,34 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 86,
+    "chapter": "Chapter 7",
+    "caesar": "Vespasian",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... A man of the people who was blind, and another who was lame, came to him together as he sat on the tribunal, begging for the help for their disorders which Serapis had promised in a dream; for the go..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 7",
+    "caesar": "Vespasian",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian.",
+      "...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -615,7 +1175,86 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 89,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Returning to Rome under such auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "Jews",
+    "slug": "Jews",
+    "url": "https://en.wikipedia.org/wiki/Jews",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g to Rome under such auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during the whole period of his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during the whole period of his rule he considered nothing more essential than first..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...g their humiliating defeat, had abandoned themselves to every form of licence and recklessness; the provinces, too, and the free cities, as well as some of the kingdoms, were in a state of internal di...",
+      "...ed that in future they should make the run barefooted; and they have done so ever since. 4 He made provinces of Achaia, Lycia, Rhodes, Byzantium and Samos, taking away their freedom, and likewise of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s some of the kingdoms, were in a state of internal dissension. Therefore he discharged many of the soldiers of Vitellius and punished many; but so far from showing any special indulgence to those who..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -628,7 +1267,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 96,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -641,7 +1280,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 97,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Puteoli",
@@ -654,7 +1293,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 98,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Rhodes",
@@ -667,7 +1306,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 99,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Cilicia",
@@ -680,7 +1319,20 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 100,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f Trachian Cilicia and Commagene, which up to that time had been ruled by kings. He sent additional legions to Cappadocia because of the constant inroads of the barbarians, and gave it a consular gove..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Cappadocia",
@@ -693,7 +1345,59 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 102,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nal legions to Cappadocia because of the constant inroads of the barbarians, and gave it a consular governor in place of a Roman knight. 5 As the city was unsightly from former fires and fallen build..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ia because of the constant inroads of the barbarians, and gave it a consular governor in place of a Roman knight. 5 As the city was unsightly from former fires and fallen buildings, he allowed anyone..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 104,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cant sites and build upon them, in case the owners failed to do so. He began the restoration of the Capitol in person, was the first to lend a hand in clearing away the debris, and carried some of it ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 105,
+    "chapter": "Chapter 8",
+    "caesar": "Vespasian",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the debris, and carried some of it off on his own head. He undertook to restore the three thousand bronze tablets which were destroyed with the temple, making a thorough search for copies: priceless ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Claudius",
@@ -706,7 +1410,20 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 107,
+    "chapter": "Chapter 9",
+    "caesar": "Vespasian",
+    "entity": "Caelian",
+    "slug": "Caelian_Hill",
+    "url": "https://en.wikipedia.org/wiki/Caelian_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o undertook new works, the temple of Peace hard by the Forum and one to the Deified Claudius on the Caelian mount, which was begun by Agrippina, but almost utterly destroyed by Nero; also an amphithea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -719,7 +1436,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 109,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Augustus",
@@ -732,7 +1449,60 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 110,
+    "chapter": "Chapter 9",
+    "caesar": "Vespasian",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...so much in their privileges as in their rank, in the case of an altercation between a senator and a Roman knight, he rendered his decision: \"Unseemly language should not be used towards senators, but ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 111,
+    "chapter": "Chapter 12",
+    "caesar": "Vespasian",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ghed at them for their pains. So far was he from a desire for pomp and show, that on the day of his triumph, he did not hesitate to say: \"It serves me right for being such a fool as to want a triumph ...",
+      "... of his triumph, he did not hesitate to say: \"It serves me right for being such a fool as to want a triumph in my old age, as if it were due to my ancestors or had ever been among my own ambitions.\" H..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 12",
+    "caesar": "Vespasian",
+    "entity": "tribunician",
+    "slug": "Tribunician_power",
+    "url": "https://en.wikipedia.org/wiki/Tribunician_power",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...if it were due to my ancestors or had ever been among my own ambitions.\" He did not even assume the tribunician power at once nor the title of Father of his Country until late. As for the custom of se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
+    "chapter": "Chapter 12",
+    "caesar": "Vespasian",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s for the custom of searching those who came to pay their morning calls, he gave that up before the civil war was over."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 114,
     "chapter": "Chapter 13",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -745,7 +1515,20 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 115,
+    "chapter": "Chapter 13",
+    "caesar": "Vespasian",
+    "entity": "client",
+    "slug": "Client_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Client_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ificant words: \"I at least am a man.\" When Salvius Liberalis ventured to say while defending a rich client, \"What is it to Caesar if Hipparchus had a hundred millions,\" he personally commended him. Wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 116,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -758,7 +1541,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 117,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -771,7 +1554,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 118,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -784,7 +1567,20 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 119,
+    "chapter": "Chapter 14",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ius Pompusianus, since it was commonly believed that he had an imperial horoscope, he even made him consul, guaranteeing that he would one day be mindful of the favour."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
     "chapter": "Chapter 15",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -798,7 +1594,20 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 121,
+    "chapter": "Chapter 15",
+    "caesar": "Vespasian",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ne who greeted him on his return from Syria by his private name of \"Vespasian,\" and moreover in his praetor ­ship left the emperor unhonoured and unmentioned in all his edicts. He did not show anger u..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 122,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "Galba",
@@ -811,7 +1620,20 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 123,
+    "chapter": "Chapter 16",
+    "caesar": "Vespasian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... repealed under Galba, he added new and heavy burdens, increasing the amount of tribute paid by the provinces, in some cases actually doubling it, and quite openly carrying on traffic which would be s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -824,7 +1646,85 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 125,
+    "chapter": "Chapter 16",
+    "caesar": "Vespasian",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... driven by necessity to raise money by spoliation and robbery because of the desperate state of the treasury and the privy purse; to which he bore witness at the very beginning of his reign by declari..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 126,
+    "chapter": "Chapter 17",
+    "caesar": "Vespasian",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was most generous to all classes, making up the requisite estate for senators, giving needy ex-consuls an annual stipend of five hundred thousand sesterces, restoring to a better condition many c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 17",
+    "caesar": "Vespasian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e requisite estate for senators, giving needy ex-consuls an annual stipend of five hundred thousand sesterces, restoring to a better condition many cities throughout the empire which had suffered from..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 17",
+    "caesar": "Vespasian",
+    "entity": "talent",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ghout the empire which had suffered from earthquakes or fires, and in particular encouraging men of talent and the arts."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
+    "chapter": "Chapter 18",
+    "caesar": "Vespasian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was the first to establish a regular salary of a hundred thousand sesterces for Latin and Greek teachers of rhetoric, paid from the privy purse. He also presented emi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 130,
+    "chapter": "Chapter 18",
+    "caesar": "Vespasian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and of the Colossus. To a mechanical engineer, who promised to transport some heavy columns to the Capitol at small expense, he gave no mean reward for his invention, but refused to make use of it, s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 131,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Marcellus",
@@ -837,7 +1737,74 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 132,
+    "chapter": "Chapter 19",
+    "caesar": "Vespasian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...revived the old musical entertainments. To Apelles, the tragic actor, he gave four hundred thousand sesterces; to Terpnus and Diodorus, the lyre-players, two hundred thousand each; of several a hundre...",
+      "...tors in a loud voice how much his funeral procession would cost, and hearing the reply \"Ten million sesterces,\" cried out: \"Give me a hundred thousand and fling me even into the Tiber.\""
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 133,
+    "chapter": "Chapter 19",
+    "caesar": "Vespasian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arties, too, usually formally and sumptuously, to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 19",
+    "caesar": "Vespasian",
+    "entity": "Kalends of March",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arties, too, usually formally and sumptuously, to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 19",
+    "caesar": "Vespasian",
+    "entity": "Saturnalia",
+    "slug": "Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his former ill-repute for covetousness. The Alexan..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
+    "chapter": "Chapter 19",
+    "caesar": "Vespasian",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...calling him Cybiosactes, the surname of one of their kings who was scandalously stingy. Even at his funeral, Favor, a leading actor of mimes, who wore his mask and, according to the usual custom, imit...",
+      "...nd words of the deceased during his lifetime, having asked procurators in a loud voice how much his funeral procession would cost, and hearing the reply \"Ten million sesterces,\" cried out: \"Give me a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 137,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Tiber",
@@ -850,7 +1817,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 138,
     "chapter": "Chapter 20",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -864,7 +1831,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 139,
     "chapter": "Chapter 20",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -877,7 +1844,33 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 140,
+    "chapter": "Chapter 22",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s remarks are still remembered which are full of fine wit, and among them the following. When an ex-consul called Mestrius Florus called his attention to the fact that the proper pronunciation was pla..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 141,
+    "chapter": "Chapter 22",
+    "caesar": "Vespasian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...said that she was dying for love for him, he took her to his bed and gave her four hundred thousand sesterces for her favours. Being asked by his steward how he would have the sum entered in his accou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 142,
     "chapter": "Chapter 22",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -890,7 +1883,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 143,
     "chapter": "Chapter 23",
     "caesar": "Vespasian",
     "entity": "Titus",
@@ -904,7 +1897,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 144,
     "chapter": "Chapter 23",
     "caesar": "Vespasian",
     "entity": "Augustus",
@@ -917,7 +1910,20 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 145,
+    "chapter": "Chapter 24",
+    "caesar": "Vespasian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 In his ninth consul ­ship he had a slight illness in Campania, and returning at once to the city, he left for Cut..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 146,
     "chapter": "Chapter 24",
     "caesar": "Vespasian",
     "entity": "Campania",
@@ -930,7 +1936,20 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 147,
+    "chapter": "Chapter 24",
+    "caesar": "Vespasian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to get on his feet, he died in the arms of those who tried to help him, on the ninth day before the Kalends of July, at the age of sixty-nine years, seven months and seven days.⁠ e"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 148,
     "chapter": "Chapter 25",
     "caesar": "Vespasian",
     "entity": "Claudius",
@@ -943,7 +1962,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 149,
     "chapter": "Chapter 25",
     "caesar": "Vespasian",
     "entity": "Nero",

@@ -29,6 +29,46 @@
   },
   {
     "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Galba",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...h Augustus, an eagle which flew by dropped into her lap a white hen, holding in its beak a sprig of laurel, just as the eagle had carried it off. Livia resolved to rear the fowl and plant the sprig, w...",
+      "...brood of chickens was hatched that to this day the villa is called Ad Gallinas, and such a grove of laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Galba",
+    "entity": "laurels",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... villa is called Ad Gallinas, and such a grove of laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate triumphs. Moreover it was the habit of those who t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Galba",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate triumphs. Moreover it was the habit of those who triumphed to plant other branches at once in that s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
     "chapter": "Chapter 2",
     "caesar": "Galba",
     "entity": "Nero",
@@ -41,7 +81,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 7,
     "chapter": "Chapter 2",
     "caesar": "Galba",
     "entity": "Galba",
@@ -54,7 +94,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 8,
     "chapter": "Chapter 2",
     "caesar": "Galba",
     "entity": "Catulus",
@@ -67,7 +107,20 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 9,
+    "chapter": "Chapter 2",
+    "caesar": "Galba",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n displayed a family tree in his hall in which he carried back his ancestry on his father's side to Jupiter and on his mother's to Pasiphae, the wife of Minos."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Galba",
@@ -82,7 +135,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 11,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Spain",
@@ -96,7 +149,22 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 12,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...galbae, which breed in oak trees. 2 The family acquired distinction from Servius Galba, who became consul and was decidedly the most eloquent speaker of his time. This man, they say, was the cause of...",
+      "...en one of Caesar's lieutenants in Gaul, but angered because his commander caused his defeat for the consul ­ship, he joined the conspiracy with Brutus and Cassius, and was consequently condemned to de...",
+      "...yond the grade of praetor — published a voluminous and painstaking history. The father attained the consul ­ship, and although he was short of stature and even hunchbacked, besides being only an indif..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Gaul",
@@ -109,7 +177,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 14,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Brutus",
@@ -122,7 +190,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 15,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Cassius",
@@ -135,7 +203,20 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 16,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ho was more eminent for his learning than for his rank — for he did not advance beyond the grade of praetor — published a voluminous and painstaking history. The father attained the consul ­ship, and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Catulus",
@@ -148,7 +229,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 18,
     "chapter": "Chapter 3",
     "caesar": "Galba",
     "entity": "Rome",
@@ -161,7 +242,20 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 19,
+    "chapter": "Chapter 3",
+    "caesar": "Galba",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...te, and committed suicide because Tiberius would not allow him to take part in the allotment of the provinces in his year. 9"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
     "chapter": "Chapter 4",
     "caesar": "Galba",
     "entity": "Galba",
@@ -176,7 +270,46 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 21,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The emperor Servius Galba was born in the consul ­ship of Marcus Valerius Messala and Gnaeus Lentulus, on the ninth day before the Kalends of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...orn in the consul ­ship of Marcus Valerius Messala and Gnaeus Lentulus, on the ninth day before the Kalends of January, in a country house situated on a hill near Tarracina, on the left as you go towa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...orn in the consul ­ship of Marcus Valerius Messala and Gnaeus Lentulus, on the ninth day before the Kalends of January, in a country house situated on a hill near Tarracina, on the left as you go towa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
     "chapter": "Chapter 4",
     "caesar": "Galba",
     "entity": "Augustus",
@@ -189,7 +322,47 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 25,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... to the first comer. When he awoke, opening the door of the hall, he found close by the threshold a bronze statue of Fortune • more than a cubit high. This he carried in his arms to Tusculum, where he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... than a cubit high. This he carried in his arms to Tusculum, where he usually spent the summer, and consecrated it in a room of his house; and from that time on he honoured it with monthly sacrifices ...",
+      "... than a cubit high. This he carried in his arms to Tusculum, where he usually spent the summer, and consecrated it in a room of his house; and from that time on he honoured it with monthly sacrifices ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 4",
+    "caesar": "Galba",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...an old and forgotten custom of his country, which survived only in his own household, of having his freedmen and slaves appear before him twice a day in a body, greeting him in the morning and bidding..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
     "chapter": "Chapter 5",
     "caesar": "Galba",
     "entity": "Domitius",
@@ -202,7 +375,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 29,
     "chapter": "Chapter 5",
     "caesar": "Galba",
     "entity": "Galba",
@@ -216,7 +389,59 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 30,
+    "chapter": "Chapter 5",
+    "caesar": "Galba",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e almost became a rich man; for he had the largest bequest among her legatees, one of fifty million sesterces. But because the sum was designated in figures and not written out in words, Tiberius, who..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...egan his career of office before the legal age, and in celebrating the games of the Floralia in his praetor ­ship he gave a new kind of exhibition, namely of elephants walking the rope. Then he govern..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ­ship he gave a new kind of exhibition, namely of elephants walking the rope. Then he governed the province of Aquitania for nearly a year and soon afterwards held a regular consul ­ship for six mont..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pe. Then he governed the province of Aquitania for nearly a year and soon afterwards held a regular consul ­ship for six months; and it chanced that in this office he succeeded Lucius Domitius, the fa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Domitius",
@@ -229,7 +454,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 35,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Nero",
@@ -242,7 +467,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 36,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Otho",
@@ -256,7 +481,20 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 37,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...appened later, when he became emperor between the reigns of the sons of these two men. 2 Appointed governor of Upper Germany by Gaius Caesar in room of Gaetulicus, the day after he appeared before th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Germany",
@@ -269,7 +507,33 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 39,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vernor of Upper Germany by Gaius Caesar in room of Gaetulicus, the day after he appeared before the legions he put a stop to their applause at a festival which chanced to fall at that time, by issuing..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er their cloaks; and immediately this verse was bandied about the camp: \"Soldier, learn to play the soldier; 'tis Galba, not Gaetulicus.\" 3 With equal strictness he put a stop to the requests for fur..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Galba",
@@ -284,7 +548,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 42,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Gaul",
@@ -297,7 +561,33 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 43,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the barbarians, who had already made inroads even into Gaul, and when Gaius arrived, Galba and his army made such a good impression, that out of the great body of troops assembled from all the provin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 6",
+    "caesar": "Galba",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d his army made such a good impression, that out of the great body of troops assembled from all the provinces none received greater commendation or richer rewards. Galba particularly distinguished him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Galba",
@@ -312,7 +602,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 46,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Claudius",
@@ -325,7 +615,7 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 47,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Britain",
@@ -338,7 +628,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 48,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Africa",
@@ -351,7 +641,59 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 49,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "proconsul",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aken with a sudden illness, of no great severity. He governed Africa for two years with the rank of proconsul, being specially chosen to restore order in the province, which was disturbed both by inte..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ned Africa for two years with the rank of proconsul, being specially chosen to restore order in the province, which was disturbed both by internal strife and by a revolt of the barbarians. And he was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vance of justice even in trifling matters. 2 When provisions were very scarce during a foray and a soldier was accused of having sold for a hundred denarii a peck of wheat which was left from his rat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 7",
+    "caesar": "Galba",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n provisions were very scarce during a foray and a soldier was accused of having sold for a hundred denarii a peck of wheat which was left from his rations, Galba gave orders that when the man began t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Africa",
@@ -364,7 +706,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 54,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Germany",
@@ -377,7 +719,20 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 55,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 His services in Africa at that time, and previously in Germany, were recognised by the triumphal regalia and three priesthoods, for he was chosen a member of the Fifteen, of the brotherho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Augustus",
@@ -390,7 +745,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 57,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Nero",
@@ -404,7 +759,33 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 58,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ntil about the middle of Nero's reign, never going out even for recreation without taking a million sesterces in gold with him in a second carriage; until at last, while he was staying in the town of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 8",
+    "caesar": "Galba",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m. 2 And it fell out that as he was offering sacrifice in a public temple after his arrival in the province, the hair of a young attendant who was carrying an incense-box suddenly turned white all ov..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Galba",
@@ -417,7 +798,20 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 61,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 For eight years he governed the province in a variable and inconsistent manner. At first he was vigorous and energetic and even over..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Galba",
@@ -430,7 +824,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 63,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Nero",
@@ -444,7 +838,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 64,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Carthage",
@@ -457,7 +851,46 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 65,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...othing. 2 As he was holding the assizes at New Carthage, he learned of the rebellion of the Gallic provinces through an urgent appeal for help from the governor of Aquitania; then came letters from V..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...age, he learned of the rebellion of the Gallic provinces through an urgent appeal for help from the governor of Aquitania; then came letters from Vindex, calling upon him to make himself the liberator..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 9",
+    "caesar": "Galba",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s and omens, by the prediction of a young girl of high birth, and the more so because the priest of Jupiter at Clunia, directed by a dream, had found in the inner shrine of his temple the very same pr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Spain",
@@ -470,7 +903,20 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 69,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Accordingly, pretending that he was going to attend to the manumitting of slaves, he mounted the tribunal, on the front of which he had set up as many images as he could find of those who had been ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Nero",
@@ -484,7 +930,20 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 71,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e deplored the state of the times; being thereupon hailed as emperor, he declared that he was their governor, representing the senate and people of Rome. 2 Then proclaiming a holiday, he enrolled fro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Rome",
@@ -497,7 +956,100 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 73,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ng the senate and people of Rome. 2 Then proclaiming a holiday, he enrolled from the people of the province legions and auxiliaries in addition to his former force of one legion, two divisions of cav...",
+      "...thout losing their right to wear the gold ring. He also sent proclamations broadcast throughout the province, urging all men individually and collectively to join the revolution and aid the common cau..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nate and people of Rome. 2 Then proclaiming a holiday, he enrolled from the people of the province legions and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ple of Rome. 2 Then proclaiming a holiday, he enrolled from the people of the province legions and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and three cohor..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lled from the people of the province legions and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and three cohorts. But from the oldest and most experienced of the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...he province legions and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and three cohorts. But from the oldest and most experienced of the nobles he chose a kind o...",
+      "...ddenly and unexpectedly the whole plan was almost brought to naught. 5 One of the two divisions of cavalry, repenting of its change of allegiance, attempted to desert Galba as he was approaching his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and auxiliaries in addition to his former force of one legion, two divisions of cavalry, and three cohorts. But from the oldest and most experienced of the nobles he chose a kind of senate, to whom h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o were to have the title of volunteers and keep guard before his bedchamber in place of the regular soldiers, without losing their right to wear the gold ring. He also sent proclamations broadcast thr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Alexandria",
@@ -510,7 +1062,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 81,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Galba",
@@ -524,7 +1076,20 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 82,
+    "chapter": "Chapter 10",
+    "caesar": "Galba",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he was approaching his camp and was with difficulty prevented. Some slaves too, whom one of Nero's freedmen had given Galba with treachery in view, all but slew him as he was going to the bath throug..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Nero",
@@ -537,7 +1102,20 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 84,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... that Nero was dead and that all the people had sworn allegiance to him, he laid aside the title of governor and assumed that of Caesar. He then began his march to Rome in a general's cloak with a dag..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Rome",
@@ -551,7 +1129,20 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 86,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...neral's cloak with a dagger hanging from his neck in front of his breast; and he did not resume the toga until he had overthrown those who were plotting against him, Nymphidius Sabinus, prefect of the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Germany",
@@ -564,7 +1155,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 88,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Africa",
@@ -577,7 +1168,20 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 89,
+    "chapter": "Chapter 11",
+    "caesar": "Galba",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...against him, Nymphidius Sabinus, prefect of the praetorian guard at Rome, in Germany and Africa the governors Fonteius Capito and Clodius Macer."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Clodius",
@@ -590,7 +1194,59 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 91,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and avarice had gone before him; men said that he had punished the cities of the Spanish and Gallic provinces which had hesitated about taking sides with him by heavier taxes and some even by the razi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng sides with him by heavier taxes and some even by the razing of their walls, putting to death the governors and imperial deputies along with their wives and children. Further, that he had melted dow..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n a golden crown of fifteen pounds weight, which the people of Tarraco had taken from their ancient temple of Jupiter and presented to him, with orders that the three ounces which were found lacking b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... crown of fifteen pounds weight, which the people of Tarraco had taken from their ancient temple of Jupiter and presented to him, with orders that the three ounces which were found lacking be exacted ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "Nero",
@@ -603,7 +1259,59 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 96,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mmediately on his arrival in the city. For having compelled some marines whom Nero had made regular soldiers to return to their former position as rowers, upon their refusing and obstinately demanding..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...on their refusing and obstinately demanding an eagle and standards, he not only dispersed them by a cavalry charge, but even decimated them. He also disbanded a cohort of Germans, whom the previous Ca..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 98,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dards, he not only dispersed them by a cavalry charge, but even decimated them. He also disbanded a cohort of Germans, whom the previous Caesars had made their body-guard and had found absolutely fai..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 99,
+    "chapter": "Chapter 12",
+    "caesar": "Galba",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d carefulness; and that when the flute player Canus greatly pleased him, he presented him with five denarii, which he took from his own purse with his own hand. 35"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Titus",
@@ -616,7 +1324,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 101,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Spain",
@@ -629,7 +1337,20 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 102,
+    "chapter": "Chapter 14",
+    "caesar": "Galba",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f the gold ring and the surname of Marcianus, yet already aspired to the highest office open to the equestrian order. To these brigands, each with his different vice, he so entrusted and handed himsel..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Claudius",
@@ -642,7 +1363,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 104,
     "chapter": "Chapter 15",
     "caesar": "Galba",
     "entity": "Nero",
@@ -656,7 +1377,47 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 105,
+    "chapter": "Chapter 15",
+    "caesar": "Galba",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...revoked, allowing only a tenth part to be retained; and he exacted repayment with the help of fifty Roman knights, stipulating that even if the actors and athletes had sold anything that had formerly ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
+    "chapter": "Chapter 15",
+    "caesar": "Galba",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d could not repay it. 2 On the other hand, there was nothing that he did not allow his friends and freedmen to sell at a price or bestow as a favour, taxes and freedom from taxation, the punishment o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...Having thus incurred the hatred of almost all men of every class, he was especially detested by the soldiers; for although their officers had promised them a larger gift than common when they swore al...",
+      "...than once that it was his habit to levy troops, not buy them; and on this account he embittered the soldiers all over the empire. The praetorians he filled besides with both fear and indignation by di..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Galba",
@@ -669,7 +1430,20 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 109,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...as under suspicion of being partisans of Nymphidius. 2 But loudest of all was the grumbling of the army in Upper Germany, because it was defrauded of the reward for its services against the Gauls and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 110,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Germany",
@@ -682,7 +1456,33 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 111,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vices against the Gauls and Vindex. Hence they were the first to venture on mutiny, refusing on the Kalends of January to swear allegiance to anyone save the senate, and at once resolving to send a de..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 16",
+    "caesar": "Galba",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vices against the Gauls and Vindex. Hence they were the first to venture on mutiny, refusing on the Kalends of January to swear allegiance to anyone save the senate, and at once resolving to send a de..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Spain",
@@ -695,7 +1495,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 114,
     "chapter": "Chapter 17",
     "caesar": "Galba",
     "entity": "Galba",
@@ -708,7 +1508,20 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 115,
+    "chapter": "Chapter 17",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d his name. Calling him son, he led him to the praetorian camp and adopted him before the assembled soldiers. But even then he made no mention of largess, thus making it easier for Marcus Salvius Otho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 116,
     "chapter": "Chapter 17",
     "caesar": "Galba",
     "entity": "Otho",
@@ -721,7 +1534,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 117,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "Galba",
@@ -736,7 +1549,86 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 118,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...precious stones, for the adornment of his image of Fortune at Tusculum. This on a sudden impulse he consecrated to the Capitoline Venus, thinking it worthy of a more august position. The next night Fo...",
+      "...precious stones, for the adornment of his image of Fortune at Tusculum. This on a sudden impulse he consecrated to the Capitoline Venus, thinking it worthy of a more august position. The next night Fo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 119,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ass dish and the wine in an earthen cup. 3 It was also remarked that as he was sacrifi­cing on the Kalends of January, the garland fell from his head, and that as he took the auspices, the sacred chi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ass dish and the wine in an earthen cup. 3 It was also remarked that as he was sacrifi­cing on the Kalends of January, the garland fell from his head, and that as he took the auspices, the sacred chi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 121,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...at as he took the auspices, the sacred chickens flew away. As he was on the point of addressing the soldiers on the day of the adoption, his camp chair, through the forget ­fulness of his attendants, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 122,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the adoption, his camp chair, through the forget ­fulness of his attendants, was not placed on the tribunal, as is customary, and in the senate his curule chair was set wrong side foremost."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
+    "chapter": "Chapter 18",
+    "caesar": "Galba",
+    "entity": "curule chair",
+    "slug": "Curule_chair",
+    "url": "https://en.wikipedia.org/wiki/Curule_chair",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ­fulness of his attendants, was not placed on the tribunal, as is customary, and in the senate his curule chair was set wrong side foremost."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
     "chapter": "Chapter 19",
     "caesar": "Galba",
     "entity": "Otho",
@@ -750,7 +1642,59 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 125,
+    "chapter": "Chapter 19",
+    "caesar": "Galba",
+    "entity": "legionaries",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d to do no more than hold his present position and strengthen it by getting together a guard of the legionaries, who were encamped in many different quarters of the city. He did however put on a linen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 126,
+    "chapter": "Chapter 19",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to submit to all his orders, he went out to meet them with so much confidence, that when one of the soldiers boasted that he had slain Otho, he asked him, \"On whose authority?\" and then he went on as ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 20",
+    "caesar": "Galba",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Some say that at the beginning of the disturbance he cried out, \"What mean you, fellow soldiers? I am yours and you are mine,\" and that he even promised them largess. But the more general..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 20",
+    "caesar": "Galba",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...late. 2 He was killed beside the Lake of Curtius and was left lying just as he was, until a common soldier, returning from a distribution of grain, threw down his load and cut off the head. Then, sin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "Otho",
@@ -763,7 +1707,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 130,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "Galba",
@@ -778,7 +1722,20 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 131,
+    "chapter": "Chapter 20",
+    "caesar": "Galba",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eedman of Patrobius Neronianus for a hundred pieces of gold and thrown aside in the place where his patron had been executed by Galba's order. At last, however, his steward Argivus consigned it to the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
     "chapter": "Chapter 22",
     "caesar": "Galba",
     "entity": "Spain",
@@ -791,7 +1748,7 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 133,
     "chapter": "Chapter 22",
     "caesar": "Galba",
     "entity": "Nero",
@@ -804,7 +1761,7 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 134,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Vespasian",
@@ -817,7 +1774,7 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 135,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Galba",
@@ -830,7 +1787,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 136,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Spain",

@@ -1,7 +1,7 @@
 # Wikipedia Link Suggestions: Nero
 
 **Source:** LacusCurtius / Loeb Classical Library (1914)
-**Suggestions:** 97 entities across 44 chapters
+**Suggestions:** 239 entities across 52 chapters
 **Review file:** suggestions/nero-wikipedia-suggestions.json
 
 ---
@@ -31,7 +31,42 @@
 
 > ...the Ahenobarbi. The latter have as the founder of their race and the origin of their surname Lucius Domitius, to whom, as he was returning from the country, there once appeared twin youths of more tha...
 
-### 3. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 3. [bronze](https://en.wikipedia.org/wiki/Roman_copper_alloy)
+**Occurrences:** 1
+**Slug:** `Roman_copper_alloy`
+**Status:** `pending`
+
+> ...ity it is said that they stroked his cheeks and turned his black beard to a ruddy hue, like that of bronze. This sign was perpetuated in his descendants, a great part of whom had red beards. 2 After ...
+
+### 4. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...rpetuated in his descendants, a great part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all co...
+
+### 5. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...descendants, a great part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use th...
+
+### 6. [censor](https://en.wikipedia.org/wiki/Censor)
+**Occurrences:** 1
+**Slug:** `Censor`
+**Status:** `pending`
+
+> ...eat part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use the same surname. T...
+
+### 7. [patricians](https://en.wikipedia.org/wiki/Patrician_(ancient_Rome))
+**Occurrences:** 1
+**Slug:** `Patrician_(ancient_Rome)`
+**Status:** `pending`
+
+> ...hey had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use the same surname. They confined their forenames to Gnaeus and ...
+
+### 8. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -40,28 +75,81 @@
 
 ## Chapter 2
 
-### 4. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 9. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > 1 To begin then somewhat far back, his great-grandfather 's grandfather, Gnaeus Domitius, when tribune of the commons, was enraged at the pontiffs for choosing another than himself...
 
-### 5. [Crassus](https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus)
+### 10. [pontiffs](https://en.wikipedia.org/wiki/Pontifex)
+**Occurrences:** 1
+**Slug:** `Pontifex`
+**Status:** `pending`
+
+> ... great-grandfather 's grandfather, Gnaeus Domitius, when tribune of the commons, was enraged at the pontiffs for choosing another than himself in his father's place among them, and transferred the rig...
+
+### 11. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 3
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...the colleges themselves to the people. Then having vanquished the Allobroges and the Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a ki...
+
+> ...raetor at the time, summoned Gaius Caesar to an investigation before the senate at the close of his consul ­ship, because it was thought that his administration had been in violation of the auspices a...
+
+> ...t that his administration had been in violation of the auspices and the laws. Afterwards in his own consul ­ship he tried to deprive Caesar of the command of the armies in Gaul, and being named Caesar...
+
+### 12. [province](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...ple. Then having vanquished the Allobroges and the Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He ...
+
+### 13. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...e Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said t...
+
+### 14. [triumphal](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ... ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said that it was not surprisi...
+
+### 15. [Crassus](https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus)
 **Occurrences:** 1
 **Slug:** `Marcus_Licinius_Crassus`
 **Status:** `pending`
 
 > ...y a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said that it was not surprising that he had a brazen beard, since he had a face of iron and ...
 
-### 6. [Gaul](https://en.wikipedia.org/wiki/Gaul)
+### 16. [praetor](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ...ising that he had a brazen beard, since he had a face of iron and a heart of lead. His son, who was praetor at the time, summoned Gaius Caesar to an investigation before the senate at the close of his...
+
+### 17. [Gaul](https://en.wikipedia.org/wiki/Gaul)
 **Occurrences:** 1
 **Slug:** `Gaul`
 **Status:** `pending`
 
 > ...laws. Afterwards in his own consul ­ship he tried to deprive Caesar of the command of the armies in Gaul, and being named Caesar's successor by his party, was taken prisoner at Corfinium at the beginn...
 
-### 7. [Pharsalus](https://en.wikipedia.org/wiki/Battle_of_Pharsalus)
+### 18. [civil war](https://en.wikipedia.org/wiki/Roman_civil_wars)
+**Occurrences:** 1
+**Slug:** `Roman_civil_wars`
+**Status:** `pending`
+
+> ...eing named Caesar's successor by his party, was taken prisoner at Corfinium at the beginning of the civil war. 3 Granted his freedom, he at first gave courage by his presence to the people of Massili...
+
+### 19. [Pharsalus](https://en.wikipedia.org/wiki/Battle_of_Pharsalus)
 **Occurrences:** 1
 **Slug:** `Battle_of_Pharsalus`
 **Status:** `pending`
@@ -70,28 +158,28 @@
 
 ## Chapter 3
 
-### 8. [Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus)
+### 20. [Brutus](https://en.wikipedia.org/wiki/Marcus_Junius_Brutus)
 **Occurrences:** 1
 **Slug:** `Marcus_Junius_Brutus`
 **Status:** `pending`
 
 > ...edian law among those implicated in Caesar's death, though he was guiltless, and accordingly joined Brutus and Cassius, who were his near relatives. After the death of both leaders he retained the fle...
 
-### 9. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
+### 21. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
 **Occurrences:** 1
 **Slug:** `Gaius_Cassius_Longinus`
 **Status:** `pending`
 
 > ...mong those implicated in Caesar's death, though he was guiltless, and accordingly joined Brutus and Cassius, who were his near relatives. After the death of both leaders he retained the fleet of which...
 
-### 10. [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra)
+### 22. [Cleopatra](https://en.wikipedia.org/wiki/Cleopatra)
 **Occurrences:** 1
 **Slug:** `Cleopatra`
 **Status:** `pending`
 
 > ...den attack of illness, to accept the chief command when it was offered by those who were ashamed of Cleopatra, nor yet positively to decline it; but he went over to Augustus and a few days later died....
 
-### 11. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 23. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
@@ -100,14 +188,14 @@
 
 ## Chapter 4
 
-### 12. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 24. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > 1 He was the father of the Domitius who was later well known from being named in Augustus' will as the purchaser of his goods a...
 
-### 13. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 25. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 2
 **Slug:** `Augustus`
 **Status:** `pending`
@@ -116,23 +204,65 @@
 
 > ...us and in all the regions of the city; also a gladiatorial show, but with such inhuman cruelty that Augustus, after his private warning was disregarded, was forced to restrain him by an edict.
 
-### 14. [Germany](https://en.wikipedia.org/wiki/Germania)
+### 26. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...o less famous in his youth for his skill in driving than he was later for winning the insignia of a triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an a...
+
+### 27. [Germany](https://en.wikipedia.org/wiki/Germania)
 **Occurrences:** 1
 **Slug:** `Germania`
 **Status:** `pending`
 
 > ...outh for his skill in driving than he was later for winning the insignia of a triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the cens...
 
+### 28. [aedile](https://en.wikipedia.org/wiki/Aedile)
+**Occurrences:** 1
+**Slug:** `Aedile`
+**Status:** `pending`
+
+> ... triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the censor Lucius Plancus to make way for him on the street. While holding the office...
+
+### 29. [censor](https://en.wikipedia.org/wiki/Censor)
+**Occurrences:** 1
+**Slug:** `Censor`
+**Status:** `pending`
+
+> ... in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and co...
+
+### 30. [praetor](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ...e, forced the censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-...
+
+### 31. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...e censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-baitings bot...
+
+### 32. [Roman knights](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...ncus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-baitings both in the Circus and...
+
 ## Chapter 5
 
-### 15. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 33. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > 1 He had by the elder Antonia a son Domitius who became the father of Nero, a man hateful in every walk of life; for when he had gone to...
 
-### 16. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 34. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 2
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -141,9 +271,30 @@
 
 > ... Lepida, but escaped owing to the change of rulers and died of dropsy at Pyrgi, after acknowledging Nero son of Agrippina, the daughter of Germanicus.
 
+### 35. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...fe; for when he had gone to the East on the staff of the young Gaius Caesar, he slew one of his own freedmen for refusing to drink as much as he ordered, and when he was in consequence dismissed from ...
+
+### 36. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...am, he purposely ran over and killed a boy; and right in the Roman Forum he gouged out the eye of a Roman knight for being too outspoken in chiding him. 2 He was moreover so dishonest that he not onl...
+
+### 37. [praetor](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ...honest that he not only cheated some bankers of the prices of wares which he had bought, but in his praetor ­ship he even defrauded the victors in the chariot races of the amount of their prizes. When...
+
 ## Chapter 6
 
-### 17. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 38. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 4
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -154,14 +305,28 @@
 
 > ...child whatever name he liked, he looked at his uncle Claudius, who later became emperor and adopted Nero, and said that he gave him his name. This he did, not seriously, but in jest, and Agrippina sco...
 
-### 18. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 39. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> 1 Nero was born at Antium nine months after the death of Tiberius, on the eighteenth day before the Kalends of January, just as the sun rose, so that he was touched by its rays almost before he could ...
+
+### 40. [Kalends of January](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> 1 Nero was born at Antium nine months after the death of Tiberius, on the eighteenth day before the Kalends of January, just as the sun rose, so that he was touched by its rays almost before he could ...
+
+### 41. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > ...Many people at once made many direful predictions from his horoscope,⁠ a and a remark of his father Domitius was also regarded as an omen; for while receiving the congratulations of his friends, he sa...
 
-### 19. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 42. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 4
 **Slug:** `Claudius`
 **Status:** `pending`
@@ -174,7 +339,7 @@
 
 ## Chapter 7
 
-### 20. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 43. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 3
 **Slug:** `Claudius`
 **Status:** `pending`
@@ -185,14 +350,28 @@
 
 > ...k Octavia to wife and gave games and a beast-baiting in the Circus, that health might be vouchsafed Claudius.
 
-### 21. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 44. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...senator. They say that on the following night Seneca dreamed that he was teaching Gaius Caesar, and Nero soon proved the dream prophetic by revealing the cruelty of his disposition at the earliest pos...
 
-### 22. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
+### 45. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...ormal introduction into public life he announced a largess to the people and a gift of money to the soldiers, ordered a drill of the praetorians and headed them shield in hand; and thereafter returned...
+
+### 46. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...ed them shield in hand; and thereafter returned thanks to his father in the senate. In the latter's consul ­ship he pleaded the cause of the people of Bononia before him in Latin, and of those of Rhod...
+
+### 47. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
 **Occurrences:** 1
 **Slug:** `Rhodes`
 **Status:** `pending`
@@ -201,78 +380,194 @@
 
 ## Chapter 8
 
-### 23. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 48. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > 1 When the death of Claudius was made public, Nero, who was seventeen years old, went forth to the watch between the six...
 
-### 24. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 49. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > 1 When the death of Claudius was made public, Nero, who was seventeen years old, went forth to the watch between the sixth and the seventh hour, s...
 
+### 50. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... of the Palace, he was carried in a litter to the praetorian camp, and after a brief address to the soldiers was taken from there to the House, which he did not leave until evening, of the unbounded h...
+
 ## Chapter 9
 
-### 25. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 51. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > 1 Then beginning with a display of filial piety, he gave Claudius a magnificent funeral, spoke his eulogy, and deified him. He paid the highest honours to th...
 
-### 26. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 52. [funeral](https://en.wikipedia.org/wiki/Funus)
+**Occurrences:** 1
+**Slug:** `Funus`
+**Status:** `pending`
+
+> 1 Then beginning with a display of filial piety, he gave Claudius a magnificent funeral, spoke his eulogy, and deified him. He paid the highest honours to the memory of his father ...
+
+### 53. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > ...funeral, spoke his eulogy, and deified him. He paid the highest honours to the memory of his father Domitius. He left to his mother the management of all public and private business. Indeed, on the fi...
 
+### 54. [centurions](https://en.wikipedia.org/wiki/Centurion)
+**Occurrences:** 1
+**Slug:** `Centurion`
+**Status:** `pending`
+
+> ...m, enrolling the veterans of the praetorian guard and joining with them the wealthiest of the chief centurions, whom he compelled to change their residence; and he also made a harbour there at great e...
+
 ## Chapter 10
 
-### 27. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 55. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
 
 > ...s good intentions still more evident, he declared that he would rule according to the principles of Augustus, and he let slip no opportunity for acts of generosity and mercy, or even for displaying hi...
 
+### 56. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 2
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> ...against violators of the Papian law to one fourth of the former amount. He distributed four hundred sesterces to each man of the people, and granted to the most distinguished of the senators who were ...
+
+> ...d of the senators who were without means an annual salary, to some as much as five hundred thousand sesterces; and to the praetorian cohorts he gave a monthly allowance of grain free of cost. 2 When ...
+
+### 57. [cohorts](https://en.wikipedia.org/wiki/Roman_cohort)
+**Occurrences:** 1
+**Slug:** `Roman_cohort`
+**Status:** `pending`
+
+> ...t means an annual salary, to some as much as five hundred thousand sesterces; and to the praetorian cohorts he gave a monthly allowance of grain free of cost. 2 When he was asked according to custom ...
+
+### 58. [Jupiter](https://en.wikipedia.org/wiki/Jupiter_(mythology))
+**Occurrences:** 1
+**Slug:** `Jupiter_(mythology)`
+**Status:** `pending`
+
+> ...ause of his recital, while that part of his poems was inscribed in letters of gold and dedicated to Jupiter of the Capitol.
+
+### 59. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+**Occurrences:** 1
+**Slug:** `Capitoline_Hill`
+**Status:** `pending`
+
+> ...ital, while that part of his poems was inscribed in letters of gold and dedicated to Jupiter of the Capitol.
+
+## Chapter 11
+
+### 60. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ... called the Ludi Maximi, parts were taken by several men and women of both the orders; a well known Roman knight mounted an elephant and rode down a rope; a Roman play of Afranius, too, was staged, en...
+
+### 61. [Afranius](https://en.wikipedia.org/wiki/Afranius_(playwright))
+**Occurrences:** 1
+**Slug:** `Afranius_(playwright)`
+**Status:** `pending`
+
+> ...oth the orders; a well known Roman knight mounted an elephant and rode down a rope; a Roman play of Afranius, too, was staged, entitled "The Fire," and the actors were allowed to carry off the furnitu...
+
 ## Chapter 12
 
-### 28. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 62. [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius)
+**Occurrences:** 1
+**Slug:** `Campus_Martius`
+**Status:** `pending`
+
+> ...m. At the gladiatorial show, which he gave in a wooden amphitheatre, erected in the district of the Campus Martius within the space of a single year, he had no one put to death, not even criminals. Bu...
+
+### 63. [Roman knights](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...had no one put to death, not even criminals. But he compelled four hundred senators and six hundred Roman knights, some of whom were well to do and of unblemished reputation, to fight in the arena. Ev...
+
+### 64. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...very first attempt fell close by the imperial couch and bespattered the emperor with his blood; for Nero very seldom presided at the games, but used to view them while reclining on a couch, at first t...
 
-### 29. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 65. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ... openings, and then with the entire balcony uncovered. 3 He was likewise the first to establish at Rome a quinquennial⁠ b contest in three parts, after the Greek fashion, that is in music, gymnastics...
 
-### 30. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 66. [senatorial](https://en.wikipedia.org/wiki/Roman_Senate)
+**Occurrences:** 1
+**Slug:** `Roman_Senate`
+**Status:** `pending`
+
+> ...d the Neronia; at the same time he dedicated his baths and gymnasium, supplying every member of the senatorial and equestrian orders with oil. To preside over the whole contest he appointed ex-consuls...
+
+### 67. [consuls](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...of the senatorial and equestrian orders with oil. To preside over the whole contest he appointed ex-consuls, chosen by lot, who occupied the seats of the praetors. Then he went down into the orchestra...
+
+### 68. [praetors](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ...reside over the whole contest he appointed ex-consuls, chosen by lot, who occupied the seats of the praetors. Then he went down into the orchestra among the senators and accepted the prize for Latin o...
+
+### 69. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
 
 > ...g was also offered him by the judges, he knelt before it and ordered that it be laid at the feet of Augustus' statue. 4 At the gymnastic contest, which he gave in the • Saepta, he shaved his first be...
 
+### 70. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+**Occurrences:** 1
+**Slug:** `Capitoline_Hill`
+**Status:** `pending`
+
+> ...ice of bullocks, put it in a golden box adorned with pearls of great price, and dedicated it in the Capitol. He invited the Vestal virgins also to witness the contests of the athletes, because at Olym...
+
+### 71. [Ceres](https://en.wikipedia.org/wiki/Ceres_(mythology))
+**Occurrences:** 1
+**Slug:** `Ceres_(mythology)`
+**Status:** `pending`
+
+> ... Vestal virgins also to witness the contests of the athletes, because at Olympia the priestesses of Ceres were allowed the same privilege.
+
 ## Chapter 13
 
-### 31. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
+### 72. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Armenia_(Roman_province)`
 **Status:** `pending`
 
 > 1 I may fairly include among his shows the entrance of Tiridates into the city. He was a king of Armenia, whom Nero induced by great promises to come to Rome; and since he was prevented by bad weat...
 
-### 32. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 73. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 4
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -283,39 +578,182 @@
 
 > ... to the throng. From there the king was taken to the theatre, and when he had again done obeisance, Nero gave him a seat at his right hand. Because of all this Nero was hailed as Imperator, and after ...
 
-### 33. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 74. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...f Tiridates into the city. He was a king of Armenia, whom Nero induced by great promises to come to Rome; and since he was prevented by bad weather from exhibiting him to the people on the day appoint...
 
+### 75. [cohorts](https://en.wikipedia.org/wiki/Roman_cohort)
+**Occurrences:** 1
+**Slug:** `Roman_cohort`
+**Status:** `pending`
+
+> ...appointed by proclamation, he produced him at the first favourable opportunity, with the praetorian cohorts drawn up in full armour about the temples in the Forum, while he himself sat in a curule cha...
+
+### 76. [curule chair](https://en.wikipedia.org/wiki/Curule_chair)
+**Occurrences:** 1
+**Slug:** `Curule_chair`
+**Status:** `pending`
+
+> ...raetorian cohorts drawn up in full armour about the temples in the Forum, while he himself sat in a curule chair on the rostra in the attire of a triumphing general, surrounded by military ensigns and...
+
+### 77. [rostra](https://en.wikipedia.org/wiki/Rostra)
+**Occurrences:** 1
+**Slug:** `Rostra`
+**Status:** `pending`
+
+> ...awn up in full armour about the temples in the Forum, while he himself sat in a curule chair on the rostra in the attire of a triumphing general, surrounded by military ensigns and standards. 2 As th...
+
+### 78. [laurel](https://en.wikipedia.org/wiki/Laurel_wreath)
+**Occurrences:** 1
+**Slug:** `Laurel_wreath`
+**Status:** `pending`
+
+> ... a seat at his right hand. Because of all this Nero was hailed as Imperator, and after depositing a laurel wreath in the Capitol, he closed the two doors of the temple of Janus, as a sign that no war ...
+
+### 79. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+**Occurrences:** 1
+**Slug:** `Capitoline_Hill`
+**Status:** `pending`
+
+> ...hand. Because of all this Nero was hailed as Imperator, and after depositing a laurel wreath in the Capitol, he closed the two doors of the temple of Janus, as a sign that no war was left anywhere.
+
+## Chapter 14
+
+### 80. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> 1 He held four consul ­ships, the first for two months, the second and the last for six months each, the third for ...
+
+## Chapter 15
+
+### 81. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...lination, as if it were the view of the majority. 2 For a long time he would not admit the sons of freedmen to the senate and he refused office to those who had been admitted by his predecessors. Can...
+
+### 82. [legion](https://en.wikipedia.org/wiki/Roman_legion)
+**Occurrences:** 1
+**Slug:** `Roman_legion`
+**Status:** `pending`
+
+> ...is predecessors. Candidates who were in excess of the number of vacancies received the command of a legion as compensation for the postponement and delay. He commonly appointed consuls for a period of...
+
+### 83. [consuls](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 2
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...eived the command of a legion as compensation for the postponement and delay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he app...
+
+> ...ed over the quaestors, whose duty it was to read them, and usually had them presented by one of the consuls.
+
+### 84. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...ay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he appointed no one in his place, expressing his disapproval of the old-time cas...
+
+### 85. [Kalends of January](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...ay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he appointed no one in his place, expressing his disapproval of the old-time cas...
+
+### 86. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...is place, expressing his disapproval of the old-time case of Caninius Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some o...
+
+### 87. [triumphal](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...disapproval of the old-time case of Caninius Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some of the knights, and someti...
+
+### 88. [quaestor](https://en.wikipedia.org/wiki/Quaestor)
+**Occurrences:** 1
+**Slug:** `Quaestor`
+**Status:** `pending`
+
+> ...Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some of the knights, and sometimes for other than military services. As rega...
+
+### 89. [quaestors](https://en.wikipedia.org/wiki/Quaestor)
+**Occurrences:** 1
+**Slug:** `Quaestor`
+**Status:** `pending`
+
+> ...ervices. As regards the speeches which he sent to the senate on various matters, he passed over the quaestors, whose duty it was to read them, and usually had them presented by one of the consuls.
+
 ## Chapter 16
 
-### 34. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 90. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...wn cost. He had also planned to extend the walls as far as Ostia and to bring the sea from there to Rome by a canal. 2 During his reign many abuses were severely punished and put down, and no fewer n...
 
+### 91. [Christians](https://en.wikipedia.org/wiki/Early_Christianity)
+**Occurrences:** 1
+**Slug:** `Early_Christianity`
+**Status:** `pending`
+
+> ...getables, whereas before every sort of dainty was exposed for sale. Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition. He put an end to the diversi...
+
+## Chapter 17
+
+### 92. [treasury](https://en.wikipedia.org/wiki/Aerarium)
+**Occurrences:** 2
+**Slug:** `Aerarium`
+**Status:** `pending`
+
+> ... advocates, but nothing at all for benches, which were to be furnished free of charge by the public treasury; finally as regarded the pleading of cases, that those connected with the treasury should b...
+
+> ...ge by the public treasury; finally as regarded the pleading of cases, that those connected with the treasury should be transferred to the Forum and a board of arbiters, and that any appeal from the ju...
+
 ## Chapter 18
 
-### 35. [Britain](https://en.wikipedia.org/wiki/Britannia)
+### 93. [army](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...uated by any wish or hope of increasing or extending the empire, he even thought of withdrawing the army from Britain and changed his purpose only because he was ashamed to seem to belittle the glory ...
+
+### 94. [Britain](https://en.wikipedia.org/wiki/Britannia)
 **Occurrences:** 1
 **Slug:** `Britannia`
 **Status:** `pending`
 
 > ...ny wish or hope of increasing or extending the empire, he even thought of withdrawing the army from Britain and changed his purpose only because he was ashamed to seem to belittle the glory of his fat...
 
-### 36. [Pontus](https://en.wikipedia.org/wiki/Pontus_(Roman_province))
+### 95. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...s purpose only because he was ashamed to seem to belittle the glory of his father. He increased the provinces only by the realm of Pontus, when it was given up by Polemon, and that of Cottius in the A...
+
+### 96. [Pontus](https://en.wikipedia.org/wiki/Pontus_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Pontus_(Roman_province)`
 **Status:** `pending`
 
 > ...shamed to seem to belittle the glory of his father. He increased the provinces only by the realm of Pontus, when it was given up by Polemon, and that of Cottius in the Alps on the latter's death.
 
-### 37. [Alps](https://en.wikipedia.org/wiki/Alps)
+### 97. [Alps](https://en.wikipedia.org/wiki/Alps)
 **Occurrences:** 1
 **Slug:** `Alps`
 **Status:** `pending`
@@ -324,34 +762,92 @@
 
 ## Chapter 19
 
-### 38. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
+### 98. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
 **Occurrences:** 1
 **Slug:** `Alexandria,_Egypt`
 **Status:** `pending`
 
 > 1 He planned but two foreign tours, to Alexandria and Achaia; and he gave up the former on the very day when he was to have started, distur...
 
+### 99. [Vesta](https://en.wikipedia.org/wiki/Vesta_(mythology))
+**Occurrences:** 1
+**Slug:** `Vesta_(mythology)`
+**Status:** `pending`
+
+> ...hreatening portent. For as he was making the round of the temples and had sat down in the shrine of Vesta, first the fringe of his garment caught when he attempted to get up, and then such darkness ov...
+
+### 100. [legion](https://en.wikipedia.org/wiki/Roman_legion)
+**Occurrences:** 1
+**Slug:** `Roman_legion`
+**Status:** `pending`
+
+> ... upon his shoulders. He also prepared for an expedition to the Caspian Gates, after enrolling a new legion of raw recruits of Italian birth, each • six feet tall, which he called the "phalanx of Alexa...
+
 ## Chapter 20
 
-### 39. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
+### 101. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
 **Occurrences:** 1
 **Slug:** `Alexandria,_Egypt`
 **Status:** `pending`
 
 > ...ndrians, who had flocked to Naples from a fleet that had lately arrived, and summoned more men from Alexandria. Not content with that, he selected some young men of the order of knights and more than ...
 
+### 102. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 1
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> ...arel; their left hands were bare and without rings, and the leaders were paid four hundred thousand sesterces each.
+
 ## Chapter 21
 
-### 40. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 103. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > 1 Considering it of great importance to appear in Rome as well, he repeated the contest of the Neronia before the appointed time, and when there was a...
 
+### 104. [divine](https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome))
+**Occurrences:** 1
+**Slug:** `Imperial_cult_(ancient_Rome)`
+**Status:** `pending`
+
+> ...ed the contest of the Neronia before the appointed time, and when there was a general call for his "divine voice," he replied that if any wished to hear him, he would favour them in the gardens; but w...
+
+### 105. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 2
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... replied that if any wished to hear him, he would favour them in the gardens; but when the guard of soldiers which was then on duty seconded the entreaties of the people, he gladly agreed to appear at...
+
+> ... turn, attended by the prefects of the Guard carrying his lyre, and followed by the tribunes of the soldiers and his intimate friends. 2 Having taken his place and finished his preliminary speech, he...
+
+### 106. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...friends. 2 Having taken his place and finished his preliminary speech, he announced through the ex-consul Cluvius Rufus that "he would sing Niobe"; and he kept at it until late in the afternoon, putt...
+
+### 107. [praetors](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ... even thought of taking part in private performances among the professional actors, when one of the praetors offered him a million sesterces. 3 He also put on the mask and sang tragedies representing...
+
+### 108. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 1
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> ... private performances among the professional actors, when one of the praetors offered him a million sesterces. 3 He also put on the mask and sang tragedies representing gods and heroes and even heroi...
+
 ## Chapter 22
 
-### 41. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 109. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 2
 **Slug:** `Rome`
 **Status:** `pending`
@@ -360,7 +856,35 @@
 
 > ...e usually occupied by the magistrates. 3 Not content with showing his proficiency in these arts at Rome, he went to Achaia, as I have said, influenced especially by the following consideration. The c...
 
-### 42. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
+### 110. [Circus Maximus](https://en.wikipedia.org/wiki/Circus_Maximus)
+**Occurrences:** 1
+**Slug:** `Circus_Maximus`
+**Status:** `pending`
+
+> ...ns before his slaves and the dregs of the populace, he gave all an opportunity of seeing him in the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magis...
+
+### 111. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...e dregs of the populace, he gave all an opportunity of seeing him in the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magistrates. 3 Not content with...
+
+### 112. [magistrates](https://en.wikipedia.org/wiki/Roman_magistrate)
+**Occurrences:** 1
+**Slug:** `Roman_magistrate`
+**Status:** `pending`
+
+> ... the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magistrates. 3 Not content with showing his proficiency in these arts at Rome, he went to Achaia, a...
+
+### 113. [Jupiter](https://en.wikipedia.org/wiki/Jupiter_(mythology))
+**Occurrences:** 1
+**Slug:** `Jupiter_(mythology)`
+**Status:** `pending`
+
+> ...y and immediately on arriving at Cassiope made a preliminary appearance as a singer at the altar of Jupiter Cassius, and then went the round of all the contests. 65
+
+### 114. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
 **Occurrences:** 1
 **Slug:** `Gaius_Cassius_Longinus`
 **Status:** `pending`
@@ -369,7 +893,7 @@
 
 ## Chapter 23
 
-### 43. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 115. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -378,23 +902,30 @@
 
 ## Chapter 24
 
-### 44. [Mithridates](https://en.wikipedia.org/wiki/Mithridates_VI_Eupator)
+### 116. [Mithridates](https://en.wikipedia.org/wiki/Mithridates_VI_Eupator)
 **Occurrences:** 1
 **Slug:** `Mithridates_VI_Eupator`
 **Status:** `pending`
 
 > ...n many places, at Olympia even a ten-horse team, although in one of his own poems he had criticised Mithridates for just that thing. But after he had been thrown from the car and put back in it, he wa...
 
+### 117. [province](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...nd of the course; but he received the crown just the same. On his departure he presented the entire province with freedom and at the same time gave the judges Roman citizen ­ship and a large sum of mo...
+
 ## Chapter 25
 
-### 45. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
+### 118. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Greece_(Roman_province)`
 **Status:** `pending`
 
 > 1 Returning from Greece, since it was at Naples that he had made his first appearance, he entered that city with whit...
 
-### 46. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 119. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 2
 **Slug:** `Rome`
 **Status:** `pending`
@@ -403,7 +934,7 @@
 
 > ...ctors in the sacred games. In like manner he entered Antium, then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, and wore a purp...
 
-### 47. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 120. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 2
 **Slug:** `Augustus`
 **Status:** `pending`
@@ -412,62 +943,203 @@
 
 > ...his claque as by the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was ...
 
+### 121. [triumphs](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ..., then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, and wore a purple robe and a Greek cloak adorned with stars of gold, beari...
+
+### 122. [triumphal](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ... the songs or of the subject of the plays. His car was followed by his claque as by the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his ...
+
+### 123. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 2
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he m...
+
+> ...e. 3 So far from neglecting or relaxing his practice of the art after this, he never addressed the soldiers except by letter or in a speech delivered by another, to save his voice; and he never did a...
+
+### 124. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he made his way acro...
+
+### 125. [Circus Maximus](https://en.wikipedia.org/wiki/Circus_Maximus)
+**Occurrences:** 1
+**Slug:** `Circus_Maximus`
+**Status:** `pending`
+
+> ...ey were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he made his way across the Velabrum and the Forum to the Pala...
+
+### 126. [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill)
+**Occurrences:** 1
+**Slug:** `Palatine_Hill`
+**Status:** `pending`
+
+> ...the Circus Maximus, which was thrown down, he made his way across the Velabrum and the Forum to the Palatine and the temple of Apollo. All along the route victims were slain, the streets were sprinkle...
+
+## Chapter 26
+
+### 127. [senatorial order](https://en.wikipedia.org/wiki/Roman_Senate)
+**Occurrences:** 1
+**Slug:** `Roman_Senate`
+**Status:** `pending`
+
+> ...ran the risk of losing his eyes or even his life, for he was beaten almost to death by a man of the senatorial order, whose wife he had maltreated. Warned by this, he never afterwards ventured to appe...
+
+### 128. [praetor](https://en.wikipedia.org/wiki/Praetor)
+**Occurrences:** 1
+**Slug:** `Praetor`
+**Status:** `pending`
+
+> ...ought with stones and broken benches, he himself threw many missiles at the people and even broke a praetor's head.
+
 ## Chapter 27
 
-### 48. [Tiber](https://en.wikipedia.org/wiki/Tiber)
+### 129. [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius)
+**Occurrences:** 1
+**Slug:** `Campus_Martius`
+**Status:** `pending`
+
+> ...led with snow. Sometimes too he closed the inlets and banqueted in public in the great tank, in the Campus Martius, or in the Circus Maximus, waited on by harlots and dancing girls from all over the c...
+
+### 130. [Circus Maximus](https://en.wikipedia.org/wiki/Circus_Maximus)
+**Occurrences:** 1
+**Slug:** `Circus_Maximus`
+**Status:** `pending`
+
+> ...oo he closed the inlets and banqueted in public in the great tank, in the Campus Martius, or in the Circus Maximus, waited on by harlots and dancing girls from all over the city. 3 Whenever he drifte...
+
+### 131. [Tiber](https://en.wikipedia.org/wiki/Tiber)
 **Occurrences:** 1
 **Slug:** `Tiber`
 **Status:** `pending`
 
 > ...mus, waited on by harlots and dancing girls from all over the city. 3 Whenever he drifted down the Tiber to Ostia, or sailed about the Gulf of Baiae, booths were set up at intervals along the banks a...
 
-### 49. [Baiae](https://en.wikipedia.org/wiki/Baiae)
+### 132. [Baiae](https://en.wikipedia.org/wiki/Baiae)
 **Occurrences:** 1
 **Slug:** `Baiae`
 **Status:** `pending`
 
 > ...from all over the city. 3 Whenever he drifted down the Tiber to Ostia, or sailed about the Gulf of Baiae, booths were set up at intervals along the banks and shores, fitted out for debauchery, while ...
 
+### 133. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 1
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> ...solicited him to come ashore. He also levied dinners on his friends, one of whom spent four million sesterces for a banquet at which turbans were distributed, and another a considerably larger sum for...
+
 ## Chapter 28
 
-### 50. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 134. [vestal](https://en.wikipedia.org/wiki/Vestal_Virgins)
+**Occurrences:** 1
+**Slug:** `Vestal_Virgins`
+**Status:** `pending`
+
+> 1 Besides abusing freeborn boys and sedu­cing married women, he debauched the vestal virgin Rubria. The freedwoman Acte he all but made his lawful wife, after bribing some ex-con...
+
+### 135. [consuls](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...he vestal virgin Rubria. The freedwoman Acte he all but made his lawful wife, after bribing some ex-consuls to perjure themselves by swearing that she was of royal birth. He castrated the boy Sporus a...
+
+### 136. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...nd the witty jest that someone made is still current, that it would have been well for the world if Nero's father Domitius had had that kind of wife. 2 This Sporus, decked out with the finery of the ...
 
-### 51. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
+### 137. [Domitius](https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC))
 **Occurrences:** 1
 **Slug:** `Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)`
 **Status:** `pending`
 
 > ...est that someone made is still current, that it would have been well for the world if Nero's father Domitius had had that kind of wife. 2 This Sporus, decked out with the finery of the empresses and ...
 
-### 52. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
+### 138. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Greece_(Roman_province)`
 **Status:** `pending`
 
 > ...th the finery of the empresses and riding in a litter, he took with him to the assizes and marts of Greece, and later at Rome through the Street of the Images, fondly kissing him from time to time. Th...
 
-### 53. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 139. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...empresses and riding in a litter, he took with him to the assizes and marts of Greece, and later at Rome through the Street of the Images, fondly kissing him from time to time. That he even desired il...
 
+## Chapter 30
+
+### 140. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 2
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> ...out stint. On Tiridates, though it would seem hardly within belief, he spent eight hundred thousand sesterces a day, and on his departure presented him with more than a hundred millions. He gave the l...
+
+> ...gal splendour. 3 He never wore the same garment twice. He played at dice for four hundred thousand sesterces a point. He fished with a golden net drawn by cords woven of purple and scarlet threads. I...
+
+### 141. [gladiator](https://en.wikipedia.org/wiki/Gladiator)
+**Occurrences:** 1
+**Slug:** `Gladiator`
+**Status:** `pending`
+
+> ...parture presented him with more than a hundred millions. He gave the lyre-player Menecrates and the gladiator Spiculus properties and residences equal to those of men who had celebrated triumphs. He e...
+
+### 142. [triumphs](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...rates and the gladiator Spiculus properties and residences equal to those of men who had celebrated triumphs. He enriched the monkey-faced usurer Paneros with estates in the country and in the city an...
+
 ## Chapter 31
 
-### 54. [Baiae](https://en.wikipedia.org/wiki/Baiae)
+### 143. [Palatine](https://en.wikipedia.org/wiki/Palatine_Hill)
+**Occurrences:** 1
+**Slug:** `Palatine_Hill`
+**Status:** `pending`
+
+> ...ch he was more ruinously prodigal than in building. He made a palace extending all the way from the Palatine to the Esquiline, which at first he called the House of Passage, but when it was burned sho...
+
+### 144. [Esquiline](https://en.wikipedia.org/wiki/Esquiline_Hill)
+**Occurrences:** 1
+**Slug:** `Esquiline_Hill`
+**Status:** `pending`
+
+> ...uinously prodigal than in building. He made a palace extending all the way from the Palatine to the Esquiline, which at first he called the House of Passage, but when it was burned shortly after its c...
+
+### 145. [Baiae](https://en.wikipedia.org/wiki/Baiae)
 **Occurrences:** 1
 **Slug:** `Baiae`
 **Status:** `pending`
 
 > ...over and enclosed in colonnades, into which he planned to turn all the hot springs in every part of Baiae; a canal from Avernus all the way to Ostia, to enable the journey to be made by ship yet not b...
 
-### 55. [Africa](https://en.wikipedia.org/wiki/Africa_Province)
+### 146. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...urces of the empire, by the hope of a vast hidden treasure, suddenly inspired by the assurance of a Roman knight, who declared positively that the enormous wealth which queen Dido had taken with her o...
+
+### 147. [Africa](https://en.wikipedia.org/wiki/Africa_Province)
 **Occurrences:** 1
 **Slug:** `Africa_Province`
 **Status:** `pending`
@@ -476,7 +1148,21 @@
 
 ## Chapter 32
 
-### 56. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 148. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...resources and so utterly impoverished that he was obliged to postpone and defer even the pay of the soldiers and the rewards due to the veterans. 2 First of all he made a law, that instead of one-hal...
+
+### 149. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...s. 2 First of all he made a law, that instead of one-half, five-sixths of the property of deceased freedmen should be made over to him, if without good and sufficient reason they bore the name of any...
+
+### 150. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
@@ -485,7 +1171,7 @@
 
 ## Chapter 33
 
-### 57. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 151. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 4
 **Slug:** `Claudius`
 **Status:** `pending`
@@ -496,7 +1182,7 @@
 
 > ...dministered to Claudius, as "the food of the gods," as the Greek proverb has it. At any rate, after Claudius's death he vented on him every kind of insult, in act and word, charging him now with folly...
 
-### 58. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 152. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -505,21 +1191,37 @@
 
 ## Chapter 34
 
-### 59. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
+### 153. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
 **Occurrences:** 1
 **Slug:** `Rhodes`
 **Status:** `pending`
 
 > ...ing upon her a burden of unpopularity by pretending that he would abdicate the throne and go off to Rhodes. Then depriving her of all her honours and of her guard of Roman and German soldiers, he even...
 
-### 60. [Baiae](https://en.wikipedia.org/wiki/Baiae)
+### 154. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 2
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...ne and go off to Rhodes. Then depriving her of all her honours and of her guard of Roman and German soldiers, he even forbade her to live with him and drove her from the Palace. After that he passed a...
+
+> ...ok a drink. Yet he could not either then or ever afterwards endure the stings of conscience, though soldiers, senate and people tried to hearten him with their congratulations; for he often owned that...
+
+### 155. [Baiae](https://en.wikipedia.org/wiki/Baiae)
 **Occurrences:** 1
 **Slug:** `Baiae`
 **Status:** `pending`
 
 > ...f its cabin. Then he pretended a reconciliation and invited her in a most cordial letter to come to Baiae and celebrate the feast of Minerva with him. On her arrival, instructing his captains to wreck...
 
-### 61. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
+### 156. [Minerva](https://en.wikipedia.org/wiki/Minerva)
+**Occurrences:** 1
+**Slug:** `Minerva`
+**Status:** `pending`
+
+> ...reconciliation and invited her in a most cordial letter to come to Baiae and celebrate the feast of Minerva with him. On her arrival, instructing his captains to wreck the galley in which she had come...
+
+### 157. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Greece_(Roman_province)`
 **Status:** `pending`
@@ -528,30 +1230,67 @@
 
 ## Chapter 35
 
-### 62. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 158. [quaestor](https://en.wikipedia.org/wiki/Quaestor)
+**Occurrences:** 1
+**Slug:** `Quaestor`
+**Status:** `pending`
+
+> 1 Besides Octavia he later took two wives, Poppaea Sabina, daughter of an ex-quaestor and previously married to a Roman knight, and then Statilia Messalina, daughter of the grea...
+
+### 159. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...via he later took two wives, Poppaea Sabina, daughter of an ex-quaestor and previously married to a Roman knight, and then Statilia Messalina, daughter of the great-granddaughter of Taurus, who had be...
+
+### 160. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 2
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...ght, and then Statilia Messalina, daughter of the great-granddaughter of Taurus, who had been twice consul and awarded a triumph. To possess the latter he slew her husband Atticus Vestinus while he he...
+
+> ...d a triumph. To possess the latter he slew her husband Atticus Vestinus while he held the office of consul. He soon grew tired of living with Octavia, and when his friends took him to task, replied th...
+
+### 161. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+**Occurrences:** 1
+**Slug:** `Roman_triumph`
+**Status:** `pending`
+
+> ...a Messalina, daughter of the great-granddaughter of Taurus, who had been twice consul and awarded a triumph. To possess the latter he slew her husband Atticus Vestinus while he held the office of cons...
+
+### 162. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > ...relation ­ship that he did not violate in his career of crime. He put to death Antonia, daughter of Claudius, for refusing to marry him after Poppaea's death, charging her with an attempt at revolutio...
 
-### 63. [Egypt](https://en.wikipedia.org/wiki/Egypt_(Roman_province))
+### 163. [Egypt](https://en.wikipedia.org/wiki/Egypt_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Egypt_(Roman_province)`
 **Status:** `pending`
 
 > ...y at being a general and an emperor. He banished his nurse's son Tuscus, because when procurator in Egypt, he had bathed in some baths which were built for a visit of Nero's. He drove his tutor Seneca...
 
-### 64. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 164. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...scus, because when procurator in Egypt, he had bathed in some baths which were built for a visit of Nero's. He drove his tutor Seneca to suicide, although when the old man often pleaded to be allowed ...
 
+### 165. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ... prefect of the Guard, in place of a throat medicine which he had promised him. The old and wealthy freedmen who had helped him first to his adoption and later to the throne, and aided him by their ad...
+
 ## Chapter 36
 
-### 65. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 166. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
@@ -560,7 +1299,7 @@
 
 ## Chapter 37
 
-### 66. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
+### 167. [Cassius](https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus)
 **Occurrences:** 2
 **Slug:** `Gaius_Cassius_Longinus`
 **Status:** `pending`
@@ -569,44 +1308,95 @@
 
 > ...sius Longinus, a blind jurist, with retaining in the old family tree of his house the mask of Gaius Cassius, the assassin of Julius Caesar; Paetus Thrasea with having a sullen mien, like that of a pre...
 
-### 67. [Longinus](https://en.wikipedia.org/wiki/Cassius_Longinus)
+### 168. [Longinus](https://en.wikipedia.org/wiki/Cassius_Longinus)
 **Occurrences:** 1
 **Slug:** `Cassius_Longinus`
 **Status:** `pending`
 
 > ...o certain states as headquarters three shops which formed part of his house near the Forum; Cassius Longinus, a blind jurist, with retaining in the old family tree of his house the mask of Gaius Cassi...
 
-### 68. [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)
+### 169. [Julius Caesar](https://en.wikipedia.org/wiki/Julius_Caesar)
 **Occurrences:** 1
 **Slug:** `Julius_Caesar`
 **Status:** `pending`
 
 > ...rist, with retaining in the old family tree of his house the mask of Gaius Cassius, the assassin of Julius Caesar; Paetus Thrasea with having a sullen mien, like that of a preceptor. 2 To those who w...
 
-### 69. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 170. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...o survived, but would one day blot out the whole order from the State and hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that...
+
+### 171. [Roman knights](https://en.wikipedia.org/wiki/Equestrian_order)
+**Occurrences:** 1
+**Slug:** `Equestrian_order`
+**Status:** `pending`
+
+> ...e order from the State and hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that neither on beginning a journey nor on returnin...
+
+### 172. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...d hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that neither on beginning a journey nor on returning did he kiss any member ...
+
+### 173. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...ce before a great throng was, that the event might result favourably "for himself and the people of Rome," thus suppressing any mention of the senate.
 
+## Chapter 38
+
+### 174. [consuls](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...he old buildings and the narrow, crooked streets, he set fire to the city so openly that several ex-consuls did not venture to lay hands on his chamberlains although they caught them on their estates ...
+
+### 175. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ... and from the contributions which he not only received, but even demanded, he nearly bankrupted the provinces and exhausted the resources of individuals.
+
 ## Chapter 39
 
-### 70. [Britain](https://en.wikipedia.org/wiki/Britannia)
+### 176. [Libitina](https://en.wikipedia.org/wiki/Libitina)
+**Occurrences:** 1
+**Slug:** `Libitina`
+**Status:** `pending`
+
+> ...nts of fortune; a plague which in a single autumn entered thirty thousand deaths in the accounts of Libitina; a disaster in Britain, where two important towns were sacked and great numbers of citizens...
+
+### 177. [Britain](https://en.wikipedia.org/wiki/Britannia)
 **Occurrences:** 1
 **Slug:** `Britannia`
 **Status:** `pending`
 
 > ... which in a single autumn entered thirty thousand deaths in the accounts of Libitina; a disaster in Britain, where two important towns were sacked and great numbers of citizens and allies were butcher...
 
-### 71. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
+### 178. [legions](https://en.wikipedia.org/wiki/Roman_legion)
+**Occurrences:** 1
+**Slug:** `Roman_legion`
+**Status:** `pending`
+
+> ...of citizens and allies were butchered; a shameful defeat in the Orient, in consequence of which the legions in Armenia were • sent under the yoke and Syria was all but lost. It is surprising and of sp...
+
+### 179. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Armenia_(Roman_province)`
 **Status:** `pending`
 
 > ... and allies were butchered; a shameful defeat in the Orient, in consequence of which the legions in Armenia were • sent under the yoke and Syria was all but lost. It is surprising and of special note ...
 
-### 72. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 180. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 4
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -617,85 +1407,179 @@
 
 > ... A calculation new. Nero his mother slew." "Who can deny the descent from Aeneas' great line of our Nero? One his mother took off, the other one took off his sire." "While our ruler his lyre doth twan...
 
-### 73. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 181. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...h twang and the Parthian his bowstring, Paean-singer our prince shall be, and Far-darter our foe." "Rome is becoming one house; off with you to Veii, Quirites! If that house does not soon seize upon V...
 
-### 74. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 182. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > ... thee, mother," represented drinking and swimming in pantomime, referring of course to the death of Claudius and Agrippina; and in the final tag, "Orcus guides your steps," he indicated the senate by ...
 
+### 183. [Orcus](https://en.wikipedia.org/wiki/Orcus)
+**Occurrences:** 1
+**Slug:** `Orcus`
+**Status:** `pending`
+
+> ...ng in pantomime, referring of course to the death of Claudius and Agrippina; and in the final tag, "Orcus guides your steps," he indicated the senate by a gesture. Nero contented himself with banishin...
+
 ## Chapter 40
 
-### 75. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 184. [province](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ... and the Gauls took the first step under the lead of Julius Vindex, who at that time governed their province as propraetor. 2 Astrologers had predicted to Nero that he would one day be repudiated, wh...
+
+### 185. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...ius Vindex, who at that time governed their province as propraetor. 2 Astrologers had predicted to Nero that he would one day be repudiated, which was the occasion of that well known saying of his: "...
 
-### 76. [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem)
+### 186. [Jerusalem](https://en.wikipedia.org/wiki/Jerusalem)
 **Occurrences:** 1
 **Slug:** `Jerusalem`
 **Status:** `pending`
 
 > ... promised him the rule of the East, when he was cast off, a few expressly naming the sovereignty of Jerusalem, and several the restitution of all his former fortunes. Inclining rather to this last hop...
 
-### 77. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
+### 187. [Armenia](https://en.wikipedia.org/wiki/Armenia_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Armenia_(Roman_province)`
 **Status:** `pending`
 
 > ...everal the restitution of all his former fortunes. Inclining rather to this last hope, after losing Armenia and Britain and recovering both, he began to think that he had suffered the misfortunes whic...
 
-### 78. [Britain](https://en.wikipedia.org/wiki/Britannia)
+### 188. [Britain](https://en.wikipedia.org/wiki/Britannia)
 **Occurrences:** 1
 **Slug:** `Britannia`
 **Status:** `pending`
 
 > ...estitution of all his former fortunes. Inclining rather to this last hope, after losing Armenia and Britain and recovering both, he began to think that he had suffered the misfortunes which fate had i...
 
-### 79. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 189. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
 
 > ...or the seventy-third year, assuming that he would die only at that period, and taking no account of Galba's years, he felt so confident not only of old age, but also of unbroken and unusual good fortu...
 
+### 190. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 2
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...ish would bring them back to him. 4 He was at Naples when he learned of the uprising of the Gallic provinces, on the anniversary of his mother's murder, and received the news with such calmness and i...
+
+> ...e suspicion of actually rejoi­cing in it, because it gave him an excuse for pillaging those wealthy provinces according to the laws of war. And he at once proceeded to the gymnasium, where he watched ...
+
 ## Chapter 41
 
-### 80. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 191. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...as the taunt that he was a wretched lyre-player and that he was addressed as Ahenobarbus instead of Nero. With regard to his family name, which was cast in his teeth as an insult, he declared that he ...
 
-### 81. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 192. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
 
 > ...knew of any artist who was his superior. 2 Finally, beset by message after message, he returned to Rome in a panic; but on the way, when but slightly encouraged by an insignificant omen, for he notic...
 
+### 193. [soldier](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... an insignificant omen, for he noticed a monument on which was sculptured the overthrow of a Gallic soldier by a Roman horseman, who was dragging him along by the hair, he leaped for joy at the sight ...
+
 ## Chapter 42
 
-### 82. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 194. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
 
 > 1 Thereafter, having learned that Galba also and the Spanish provinces had revolted, he fainted and lay for a long time insensible, wi...
 
+### 195. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 2
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> 1 Thereafter, having learned that Galba also and the Spanish provinces had revolted, he fainted and lay for a long time insensible, without a word and all but de...
+
+> ...n or amend his slothful and luxurious habits; on the contrary, whenever any good news came from the provinces, he not only gave lavish feasts, but even ridiculed the leaders of the revolt in verses se...
+
+## Chapter 43
+
+### 196. [governors](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...way inconsistent with his character: to depose and assassinate the commanders of the armies and the governors of the provinces, on the ground that they were all united in a conspiracy against him; to ...
+
+### 197. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 3
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ...with his character: to depose and assassinate the commanders of the armies and the governors of the provinces, on the ground that they were all united in a conspiracy against him; to massacre all the ...
+
+> ...ebels; the latter, as sharing and abetting the designs of their countrymen; to turn over the Gallic provinces to his armies to ravage; to poison the entire senate at banquets; to set fire to the city,...
+
+> ... term and assumed the office alone in place of both of them, alleging that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was ...
+
+### 198. [consuls](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ...he despaired of being able to carry them out, and feeling obliged to take the field, he deposed the consuls before the end of their term and assumed the office alone in place of both of them, alleging...
+
+### 199. [consul](https://en.wikipedia.org/wiki/Consul)
+**Occurrences:** 1
+**Slug:** `Consul`
+**Status:** `pending`
+
+> ... of both of them, alleging that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was leaving the dining-room after a banquet, le...
+
+### 200. [fasces](https://en.wikipedia.org/wiki/Fasces)
+**Occurrences:** 1
+**Slug:** `Fasces`
+**Status:** `pending`
+
+> ...that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was leaving the dining-room after a banquet, leaning on the shoulders of h...
+
+### 201. [province](https://en.wikipedia.org/wiki/Roman_province)
+**Occurrences:** 1
+**Slug:** `Roman_province`
+**Status:** `pending`
+
+> ... after a banquet, leaning on the shoulders of his comrades, that immediately on setting foot in the province he would go before the soldiers unarmed and do nothing but weep; and having thus led the re...
+
+### 202. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... shoulders of his comrades, that immediately on setting foot in the province he would go before the soldiers unarmed and do nothing but weep; and having thus led the rebels to change their purpose, he...
+
 ## Chapter 45
 
-### 83. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
+### 203. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
 **Occurrences:** 1
 **Slug:** `Alexandria,_Egypt`
 **Status:** `pending`
@@ -704,14 +1588,49 @@
 
 ## Chapter 46
 
-### 84. [Pompey](https://en.wikipedia.org/wiki/Pompey)
+### 204. [Pompey](https://en.wikipedia.org/wiki/Pompey)
 **Occurrences:** 1
 **Slug:** `Pompey`
 **Status:** `pending`
 
 > ...rm of winged ants, and now was surrounded by the statues of the nations which had been dedicated in Pompey's theatre and stopped in his tracks. A Spanish steed of which he was very fond was changed in...
 
-### 85. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 205. [Lares](https://en.wikipedia.org/wiki/Lares)
+**Occurrences:** 1
+**Slug:** `Lares`
+**Status:** `pending`
+
+> ...m flew open of their own accord, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the prepar...
+
+### 206. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...d, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the preparations for the sacrifice. As h...
+
+### 207. [Kalends of January](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...d, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the preparations for the sacrifice. As h...
+
+### 208. [Proserpina](https://en.wikipedia.org/wiki/Proserpina)
+**Occurrences:** 1
+**Slug:** `Proserpina`
+**Status:** `pending`
+
+> ...ng the auspices, Sporus made him a present of a ring with a stone on which was engraved the rape of Proserpina. When the vows were to be taken and a great throng of all classes had assembled, the keys...
+
+### 209. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+**Occurrences:** 1
+**Slug:** `Capitoline_Hill`
+**Status:** `pending`
+
+> ...na. When the vows were to be taken and a great throng of all classes had assembled, the keys of the Capitol could not be found for a long time. 3 When a speech of his in which he assailed Vindex was ...
+
+### 210. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
@@ -720,21 +1639,70 @@
 
 ## Chapter 47
 
-### 86. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 211. [Homeric](https://en.wikipedia.org/wiki/Homer)
+**Occurrences:** 1
+**Slug:** `Homer`
+**Status:** `pending`
+
+> ...ning, tipped over the table, and dashed to the ground two favourite drinking cups, which he called "Homeric," because they were carved with scenes from Homer's poems. Then taking some poison from Locu...
+
+### 212. [Homer](https://en.wikipedia.org/wiki/Homer)
+**Occurrences:** 1
+**Slug:** `Homer`
+**Status:** `pending`
+
+> ...d two favourite drinking cups, which he called "Homeric," because they were carved with scenes from Homer's poems. Then taking some poison from Locusta and putting it into a golden box, he crossed ove...
+
+### 213. [centurions](https://en.wikipedia.org/wiki/Centurion)
+**Occurrences:** 1
+**Slug:** `Centurion`
+**Status:** `pending`
+
+> ...a golden box, he crossed over into the Servilian gardens, where he tried to induce the tribunes and centurions of the Guard to accompany him in his flight, first sending his most trustworthy freedmen ...
+
+### 214. [freedmen](https://en.wikipedia.org/wiki/Freedman)
+**Occurrences:** 1
+**Slug:** `Freedman`
+**Status:** `pending`
+
+> ...unes and centurions of the Guard to accompany him in his flight, first sending his most trustworthy freedmen to Ostia, to get a fleet ready. 2 But when some gave evasive answers and some openly refus...
+
+### 215. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
 
 > ...hereupon he turned over various plans in his mind, whether to go as a suppliant to the Parthians or Galba, or to appear to the people on the rostra, dressed in black, and beg as pathetically as he cou...
 
-### 87. [Egypt](https://en.wikipedia.org/wiki/Egypt_(Roman_province))
+### 216. [rostra](https://en.wikipedia.org/wiki/Rostra)
+**Occurrences:** 1
+**Slug:** `Rostra`
+**Status:** `pending`
+
+> ...his mind, whether to go as a suppliant to the Parthians or Galba, or to appear to the people on the rostra, dressed in black, and beg as pathetically as he could for pardon for his past offences; and ...
+
+### 217. [Egypt](https://en.wikipedia.org/wiki/Egypt_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Egypt_(Roman_province)`
 **Status:** `pending`
 
 > ...s; and if he could not soften their hearts, to entreat them at least to allow him the prefecture of Egypt. Afterwards a speech composed for this purpose was found in his writing desk; but it is though...
 
-### 88. [Tiber](https://en.wikipedia.org/wiki/Tiber)
+### 218. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ...f further consideration to the following day, he awoke about midnight and finding that the guard of soldiers had left, he sprang from his bed and sent for all his friends. Since no reply came back fro...
+
+### 219. [gladiator](https://en.wikipedia.org/wiki/Gladiator)
+**Occurrences:** 1
+**Slug:** `Gladiator`
+**Status:** `pending`
+
+> ... fled, taking with them even the bed-clothing and the box of poison. Then he at once called for the gladiator Spiculus or any other adept at whose hand he might find death, and when no one appeared, h...
+
+### 220. [Tiber](https://en.wikipedia.org/wiki/Tiber)
 **Occurrences:** 1
 **Slug:** `Tiber`
 **Status:** `pending`
@@ -743,14 +1711,21 @@
 
 ## Chapter 48
 
-### 89. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 221. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... by a shock of earthquake and a flash of lightning full in his face, and he heard the shouts of the soldiers from the camp hard by, as they prophesied destruction for him and success for Galba. He als...
+
+### 222. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
 
 > ...houts of the soldiers from the camp hard by, as they prophesied destruction for him and success for Galba. He also heard one of the wayfarers whom he met say: "These men are after Nero," and another a...
 
-### 90. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 223. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 3
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -761,9 +1736,16 @@
 
 > ...could be made, he scooped up in his hand some water to drink from a pool close by, saying: "This is Nero's distilled water." 4 Then, as his cloak had been torn by the thorns, he pulled out the twigs ...
 
+### 224. [soldier](https://en.wikipedia.org/wiki/Roman_army)
+**Occurrences:** 1
+**Slug:** `Roman_army`
+**Status:** `pending`
+
+> ... the smell of a corpse which had been thrown out into the road, his face was exposed, and a retired soldier of the Guard recognised him and saluted him. 3 When they came to a by-path leading to the v...
+
 ## Chapter 49
 
-### 91. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 225. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 3
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
@@ -774,7 +1756,14 @@
 
 > ...centurion rushed in, and as he placed a cloak to the wound, pretending that he had come to aid him, Nero merely gasped: "Too late!" and "This is fidelity!" With these words he was gone, with eyes so s...
 
-### 92. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 226. [centurion](https://en.wikipedia.org/wiki/Centurion)
+**Occurrences:** 1
+**Slug:** `Centurion`
+**Status:** `pending`
+
+> ...dagger into his throat, aided by Epaphroditus, his private secretary. 4 He was all but dead when a centurion rushed in, and as he placed a cloak to the wound, pretending that he had come to aid him, ...
+
+### 227. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
@@ -783,16 +1772,44 @@
 
 ## Chapter 50
 
-### 93. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
+### 228. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+**Occurrences:** 1
+**Slug:** `Sestertius`
+**Status:** `pending`
+
+> 1 He was buried at a cost of two hundred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of Jan...
+
+### 229. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...dred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by hi...
+
+### 230. [Kalends of January](https://en.wikipedia.org/wiki/Kalends)
+**Occurrences:** 1
+**Slug:** `Kalends`
+**Status:** `pending`
+
+> ...dred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by hi...
+
+### 231. [Alexandria](https://en.wikipedia.org/wiki/Alexandria,_Egypt)
 **Occurrences:** 1
 **Slug:** `Alexandria,_Egypt`
 **Status:** `pending`
 
 > ...ld, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by his mistress Acte, in the family tomb of the Domitii on the summit of the...
 
+### 232. [Campus Martius](https://en.wikipedia.org/wiki/Campus_Martius)
+**Occurrences:** 1
+**Slug:** `Campus_Martius`
+**Status:** `pending`
+
+> ..., in the family tomb of the Domitii on the summit of the Hill of Gardens, which is visible from the Campus Martius. In that monument his sarcophagus of porphyry, with an altar of Luna marble standing ...
+
 ## Chapter 51
 
-### 94. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
+### 233. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Greece_(Roman_province)`
 **Status:** `pending`
@@ -801,7 +1818,14 @@
 
 ## Chapter 53
 
-### 95. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
+### 234. [lustrum](https://en.wikipedia.org/wiki/Lustrum)
+**Occurrences:** 1
+**Slug:** `Lustrum`
+**Status:** `pending`
+
+> ...ng of the mob. It was the general belief that after his victories on the stage he would at the next lustrum have competed with the athletes at Olympia; for he practised wrestling constantly, and all o...
+
+### 235. [Greece](https://en.wikipedia.org/wiki/Greece_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Greece_(Roman_province)`
 **Status:** `pending`
@@ -810,7 +1834,7 @@
 
 ## Chapter 55
 
-### 96. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 236. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
@@ -819,7 +1843,21 @@
 
 ## Chapter 57
 
-### 97. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 237. [rostra](https://en.wikipedia.org/wiki/Rostra)
+**Occurrences:** 1
+**Slug:** `Rostra`
+**Status:** `pending`
+
+> ... a long time decorated his tomb with spring and summer flowers, and now produced his statues on the rostra in the fringed toga, and now his edicts, as if he were still alive and would shortly return a...
+
+### 238. [toga](https://en.wikipedia.org/wiki/Toga)
+**Occurrences:** 1
+**Slug:** `Toga`
+**Status:** `pending`
+
+> ... his tomb with spring and summer flowers, and now produced his statues on the rostra in the fringed toga, and now his edicts, as if he were still alive and would shortly return and deal destruction to...
+
+### 239. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 2
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`

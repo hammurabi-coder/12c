@@ -29,6 +29,71 @@
     "id": 3,
     "chapter": "Chapter 1",
     "caesar": "Nero",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ity it is said that they stroked his cheeks and turned his black beard to a ruddy hue, like that of bronze. This sign was perpetuated in his descendants, a great part of whom had red beards. 2 After ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rpetuated in his descendants, a great part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all co..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...descendants, a great part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eat part of whom had red beards. 2 After they had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use the same surname. T..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hey had attained seven consul ­ships, a triumph, and two censor ­ships, and were enrolled among the patricians, they all continued to use the same surname. They confined their forenames to Gnaeus and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 1",
+    "caesar": "Nero",
     "entity": "Nero",
     "slug": "Nero_(emperor)",
     "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
@@ -39,7 +104,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 9,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -52,7 +117,74 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 10,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "pontiffs",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... great-grandfather 's grandfather, Gnaeus Domitius, when tribune of the commons, was enraged at the pontiffs for choosing another than himself in his father's place among them, and transferred the rig..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...the colleges themselves to the people. Then having vanquished the Allobroges and the Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a ki...",
+      "...raetor at the time, summoned Gaius Caesar to an investigation before the senate at the close of his consul ­ship, because it was thought that his administration had been in violation of the auspices a...",
+      "...t that his administration had been in violation of the auspices and the laws. Afterwards in his own consul ­ship he tried to deprive Caesar of the command of the armies in Gaul, and being named Caesar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ple. Then having vanquished the Allobroges and the Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e Arverni in his consul ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ­ship, he rode through the province on an elephant, attended by a throng of soldiers, in a kind of triumphal procession. 2 He it was of whom the orator Licinius Crassus said that it was not surprisi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Crassus",
@@ -65,7 +197,20 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 16,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ising that he had a brazen beard, since he had a face of iron and a heart of lead. His son, who was praetor at the time, summoned Gaius Caesar to an investigation before the senate at the close of his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Gaul",
@@ -78,7 +223,20 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 18,
+    "chapter": "Chapter 2",
+    "caesar": "Nero",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eing named Caesar's successor by his party, was taken prisoner at Corfinium at the beginning of the civil war. 3 Granted his freedom, he at first gave courage by his presence to the people of Massili..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Pharsalus",
@@ -91,7 +249,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 20,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Brutus",
@@ -104,7 +262,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 21,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -117,7 +275,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 22,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Cleopatra",
@@ -130,7 +288,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 23,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -143,7 +301,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 24,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -156,7 +314,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 25,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -170,7 +328,20 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 26,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o less famous in his youth for his skill in driving than he was later for winning the insignia of a triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Germany",
@@ -183,7 +354,72 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 28,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... triumph in the war in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the censor Lucius Plancus to make way for him on the street. While holding the office..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... in Germany. But he was haughty, extravagant, and cruel, and when he was only an aedile, forced the censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and co..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e, forced the censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e censor Lucius Plancus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-baitings bot..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 4",
+    "caesar": "Nero",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ncus to make way for him on the street. While holding the offices of praetor and consul, he brought Roman knights and matrons on the stage to act a farce. He gave beast-baitings both in the Circus and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -196,7 +432,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 34,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "Nero",
@@ -210,7 +446,46 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 35,
+    "chapter": "Chapter 5",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fe; for when he had gone to the East on the staff of the young Gaius Caesar, he slew one of his own freedmen for refusing to drink as much as he ordered, and when he was in consequence dismissed from ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 5",
+    "caesar": "Nero",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...am, he purposely ran over and killed a boy; and right in the Roman Forum he gouged out the eye of a Roman knight for being too outspoken in chiding him. 2 He was moreover so dishonest that he not onl..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 5",
+    "caesar": "Nero",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...honest that he not only cheated some bankers of the prices of wares which he had bought, but in his praetor ­ship he even defrauded the victors in the chariot races of the amount of their prizes. When..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Nero",
@@ -225,7 +500,33 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 39,
+    "chapter": "Chapter 6",
+    "caesar": "Nero",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Nero was born at Antium nine months after the death of Tiberius, on the eighteenth day before the Kalends of January, just as the sun rose, so that he was touched by its rays almost before he could ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 6",
+    "caesar": "Nero",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Nero was born at Antium nine months after the death of Tiberius, on the eighteenth day before the Kalends of January, just as the sun rose, so that he was touched by its rays almost before he could ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -238,7 +539,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 42,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -253,7 +554,7 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 43,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -268,7 +569,7 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 44,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Nero",
@@ -281,7 +582,33 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 45,
+    "chapter": "Chapter 7",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ormal introduction into public life he announced a largess to the people and a gift of money to the soldiers, ordered a drill of the praetorians and headed them shield in hand; and thereafter returned..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 7",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed them shield in hand; and thereafter returned thanks to his father in the senate. In the latter's consul ­ship he pleaded the cause of the people of Bononia before him in Latin, and of those of Rhod..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Rhodes",
@@ -294,7 +621,7 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 48,
     "chapter": "Chapter 8",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -307,7 +634,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 49,
     "chapter": "Chapter 8",
     "caesar": "Nero",
     "entity": "Nero",
@@ -320,7 +647,20 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 50,
+    "chapter": "Chapter 8",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of the Palace, he was carried in a litter to the praetorian camp, and after a brief address to the soldiers was taken from there to the House, which he did not leave until evening, of the unbounded h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -333,7 +673,20 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 52,
+    "chapter": "Chapter 9",
+    "caesar": "Nero",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Then beginning with a display of filial piety, he gave Claudius a magnificent funeral, spoke his eulogy, and deified him. He paid the highest honours to the memory of his father ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -346,7 +699,20 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 54,
+    "chapter": "Chapter 9",
+    "caesar": "Nero",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m, enrolling the veterans of the praetorian guard and joining with them the wealthiest of the chief centurions, whom he compelled to change their residence; and he also made a harbour there at great e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -359,7 +725,112 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 56,
+    "chapter": "Chapter 10",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...against violators of the Papian law to one fourth of the former amount. He distributed four hundred sesterces to each man of the people, and granted to the most distinguished of the senators who were ...",
+      "...d of the senators who were without means an annual salary, to some as much as five hundred thousand sesterces; and to the praetorian cohorts he gave a monthly allowance of grain free of cost. 2 When ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 10",
+    "caesar": "Nero",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t means an annual salary, to some as much as five hundred thousand sesterces; and to the praetorian cohorts he gave a monthly allowance of grain free of cost. 2 When he was asked according to custom ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 10",
+    "caesar": "Nero",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ause of his recital, while that part of his poems was inscribed in letters of gold and dedicated to Jupiter of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 10",
+    "caesar": "Nero",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ital, while that part of his poems was inscribed in letters of gold and dedicated to Jupiter of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 11",
+    "caesar": "Nero",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... called the Ludi Maximi, parts were taken by several men and women of both the orders; a well known Roman knight mounted an elephant and rode down a rope; a Roman play of Afranius, too, was staged, en..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 11",
+    "caesar": "Nero",
+    "entity": "Afranius",
+    "slug": "Afranius_(playwright)",
+    "url": "https://en.wikipedia.org/wiki/Afranius_(playwright)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oth the orders; a well known Roman knight mounted an elephant and rode down a rope; a Roman play of Afranius, too, was staged, entitled \"The Fire,\" and the actors were allowed to carry off the furnitu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m. At the gladiatorial show, which he gave in a wooden amphitheatre, erected in the district of the Campus Martius within the space of a single year, he had no one put to death, not even criminals. Bu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...had no one put to death, not even criminals. But he compelled four hundred senators and six hundred Roman knights, some of whom were well to do and of unblemished reputation, to fight in the arena. Ev..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Nero",
@@ -372,7 +843,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 65,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Rome",
@@ -385,7 +856,46 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 66,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d the Neronia; at the same time he dedicated his baths and gymnasium, supplying every member of the senatorial and equestrian orders with oil. To preside over the whole contest he appointed ex-consuls..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of the senatorial and equestrian orders with oil. To preside over the whole contest he appointed ex-consuls, chosen by lot, who occupied the seats of the praetors. Then he went down into the orchestra..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...reside over the whole contest he appointed ex-consuls, chosen by lot, who occupied the seats of the praetors. Then he went down into the orchestra among the senators and accepted the prize for Latin o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -398,7 +908,33 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 70,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ice of bullocks, put it in a golden box adorned with pearls of great price, and dedicated it in the Capitol. He invited the Vestal virgins also to witness the contests of the athletes, because at Olym..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
+    "chapter": "Chapter 12",
+    "caesar": "Nero",
+    "entity": "Ceres",
+    "slug": "Ceres_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Vestal virgins also to witness the contests of the athletes, because at Olympia the priestesses of Ceres were allowed the same privilege."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -411,7 +947,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 73,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Nero",
@@ -426,7 +962,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 74,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Rome",
@@ -439,7 +975,203 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 75,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...appointed by proclamation, he produced him at the first favourable opportunity, with the praetorian cohorts drawn up in full armour about the temples in the Forum, while he himself sat in a curule cha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "curule chair",
+    "slug": "Curule_chair",
+    "url": "https://en.wikipedia.org/wiki/Curule_chair",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...raetorian cohorts drawn up in full armour about the temples in the Forum, while he himself sat in a curule chair on the rostra in the attire of a triumphing general, surrounded by military ensigns and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...awn up in full armour about the temples in the Forum, while he himself sat in a curule chair on the rostra in the attire of a triumphing general, surrounded by military ensigns and standards. 2 As th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a seat at his right hand. Because of all this Nero was hailed as Imperator, and after depositing a laurel wreath in the Capitol, he closed the two doors of the temple of Janus, as a sign that no war ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
+    "chapter": "Chapter 13",
+    "caesar": "Nero",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hand. Because of all this Nero was hailed as Imperator, and after depositing a laurel wreath in the Capitol, he closed the two doors of the temple of Janus, as a sign that no war was left anywhere."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
+    "chapter": "Chapter 14",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He held four consul ­ships, the first for two months, the second and the last for six months each, the third for ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lination, as if it were the view of the majority. 2 For a long time he would not admit the sons of freedmen to the senate and he refused office to those who had been admitted by his predecessors. Can..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is predecessors. Candidates who were in excess of the number of vacancies received the command of a legion as compensation for the postponement and delay. He commonly appointed consuls for a period of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...eived the command of a legion as compensation for the postponement and delay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he app...",
+      "...ed over the quaestors, whose duty it was to read them, and usually had them presented by one of the consuls."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he appointed no one in his place, expressing his disapproval of the old-time cas..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ay. He commonly appointed consuls for a period of six months. When one of them died just before the Kalends of January, he appointed no one in his place, expressing his disapproval of the old-time cas..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is place, expressing his disapproval of the old-time case of Caninius Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...disapproval of the old-time case of Caninius Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some of the knights, and someti..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Rebilus, the twenty-four hour consul. He conferred the triumphal regalia even on men of the rank of quaestor, as well as on some of the knights, and sometimes for other than military services. As rega..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 15",
+    "caesar": "Nero",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ervices. As regards the speeches which he sent to the senate on various matters, he passed over the quaestors, whose duty it was to read them, and usually had them presented by one of the consuls."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
     "chapter": "Chapter 16",
     "caesar": "Nero",
     "entity": "Rome",
@@ -452,7 +1184,47 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 91,
+    "chapter": "Chapter 16",
+    "caesar": "Nero",
+    "entity": "Christians",
+    "slug": "Early_Christianity",
+    "url": "https://en.wikipedia.org/wiki/Early_Christianity",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...getables, whereas before every sort of dainty was exposed for sale. Punishment was inflicted on the Christians, a class of men given to a new and mischievous superstition. He put an end to the diversi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 17",
+    "caesar": "Nero",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... advocates, but nothing at all for benches, which were to be furnished free of charge by the public treasury; finally as regarded the pleading of cases, that those connected with the treasury should b...",
+      "...ge by the public treasury; finally as regarded the pleading of cases, that those connected with the treasury should be transferred to the Forum and a board of arbiters, and that any appeal from the ju..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 18",
+    "caesar": "Nero",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uated by any wish or hope of increasing or extending the empire, he even thought of withdrawing the army from Britain and changed his purpose only because he was ashamed to seem to belittle the glory ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Britain",
@@ -465,7 +1237,20 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 95,
+    "chapter": "Chapter 18",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s purpose only because he was ashamed to seem to belittle the glory of his father. He increased the provinces only by the realm of Pontus, when it was given up by Polemon, and that of Cottius in the A..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Pontus",
@@ -478,7 +1263,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 97,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Alps",
@@ -491,7 +1276,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 98,
     "chapter": "Chapter 19",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -504,7 +1289,33 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 99,
+    "chapter": "Chapter 19",
+    "caesar": "Nero",
+    "entity": "Vesta",
+    "slug": "Vesta_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Vesta_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hreatening portent. For as he was making the round of the temples and had sat down in the shrine of Vesta, first the fringe of his garment caught when he attempted to get up, and then such darkness ov..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
+    "chapter": "Chapter 19",
+    "caesar": "Nero",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... upon his shoulders. He also prepared for an expedition to the Caspian Gates, after enrolling a new legion of raw recruits of Italian birth, each • six feet tall, which he called the \"phalanx of Alexa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
     "chapter": "Chapter 20",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -517,7 +1328,20 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 102,
+    "chapter": "Chapter 20",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arel; their left hands were bare and without rings, and the leaders were paid four hundred thousand sesterces each."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "Rome",
@@ -530,7 +1354,73 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 104,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed the contest of the Neronia before the appointed time, and when there was a general call for his \"divine voice,\" he replied that if any wished to hear him, he would favour them in the gardens; but w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 105,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... replied that if any wished to hear him, he would favour them in the gardens; but when the guard of soldiers which was then on duty seconded the entreaties of the people, he gladly agreed to appear at...",
+      "... turn, attended by the prefects of the Guard carrying his lyre, and followed by the tribunes of the soldiers and his intimate friends. 2 Having taken his place and finished his preliminary speech, he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...friends. 2 Having taken his place and finished his preliminary speech, he announced through the ex-consul Cluvius Rufus that \"he would sing Niobe\"; and he kept at it until late in the afternoon, putt..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... even thought of taking part in private performances among the professional actors, when one of the praetors offered him a million sesterces. 3 He also put on the mask and sang tragedies representing..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
+    "chapter": "Chapter 21",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... private performances among the professional actors, when one of the praetors offered him a million sesterces. 3 He also put on the mask and sang tragedies representing gods and heroes and even heroi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 109,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Rome",
@@ -544,7 +1434,59 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 110,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "Circus Maximus",
+    "slug": "Circus_Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ns before his slaves and the dregs of the populace, he gave all an opportunity of seeing him in the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magis..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 111,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e dregs of the populace, he gave all an opportunity of seeing him in the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magistrates. 3 Not content with..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the Circus Maximus, one of his freedmen dropping the napkin from the place usually occupied by the magistrates. 3 Not content with showing his proficiency in these arts at Rome, he went to Achaia, a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
+    "chapter": "Chapter 22",
+    "caesar": "Nero",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y and immediately on arriving at Cassiope made a preliminary appearance as a singer at the altar of Jupiter Cassius, and then went the round of all the contests. 65"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 114,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -557,7 +1499,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 115,
     "chapter": "Chapter 23",
     "caesar": "Nero",
     "entity": "Nero",
@@ -570,7 +1512,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 116,
     "chapter": "Chapter 24",
     "caesar": "Nero",
     "entity": "Mithridates",
@@ -583,7 +1525,20 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 117,
+    "chapter": "Chapter 24",
+    "caesar": "Nero",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd of the course; but he received the crown just the same. On his departure he presented the entire province with freedom and at the same time gave the judges Roman citizen ­ship and a large sum of mo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Greece",
@@ -596,7 +1551,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 119,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Rome",
@@ -610,7 +1565,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 120,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -624,7 +1579,138 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 121,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., then Albanum, and finally Rome; but at Rome he rode in the chariot which Augustus had used in his triumphs in days gone by, and wore a purple robe and a Greek cloak adorned with stars of gold, beari..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 122,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the songs or of the subject of the plays. His car was followed by his claque as by the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...the escort of a triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he m...",
+      "...e. 3 So far from neglecting or relaxing his practice of the art after this, he never addressed the soldiers except by letter or in a speech delivered by another, to save his voice; and he never did a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...triumphal procession, who shouted that they were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he made his way acro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 125,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "Circus Maximus",
+    "slug": "Circus_Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ey were the attendants of Augustus and the soldiers of his triumph. 2 Then through the arch of the Circus Maximus, which was thrown down, he made his way across the Velabrum and the Forum to the Pala..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 126,
+    "chapter": "Chapter 25",
+    "caesar": "Nero",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the Circus Maximus, which was thrown down, he made his way across the Velabrum and the Forum to the Palatine and the temple of Apollo. All along the route victims were slain, the streets were sprinkle..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 26",
+    "caesar": "Nero",
+    "entity": "senatorial order",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ran the risk of losing his eyes or even his life, for he was beaten almost to death by a man of the senatorial order, whose wife he had maltreated. Warned by this, he never afterwards ventured to appe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 26",
+    "caesar": "Nero",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ought with stones and broken benches, he himself threw many missiles at the people and even broke a praetor's head."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
+    "chapter": "Chapter 27",
+    "caesar": "Nero",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...led with snow. Sometimes too he closed the inlets and banqueted in public in the great tank, in the Campus Martius, or in the Circus Maximus, waited on by harlots and dancing girls from all over the c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 130,
+    "chapter": "Chapter 27",
+    "caesar": "Nero",
+    "entity": "Circus Maximus",
+    "slug": "Circus_Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oo he closed the inlets and banqueted in public in the great tank, in the Campus Martius, or in the Circus Maximus, waited on by harlots and dancing girls from all over the city. 3 Whenever he drifte..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 131,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Tiber",
@@ -637,7 +1723,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 132,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -650,7 +1736,46 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 133,
+    "chapter": "Chapter 27",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...solicited him to come ashore. He also levied dinners on his friends, one of whom spent four million sesterces for a banquet at which turbans were distributed, and another a considerably larger sum for..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "vestal",
+    "slug": "Vestal_Virgins",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Besides abusing freeborn boys and sedu­cing married women, he debauched the vestal virgin Rubria. The freedwoman Acte he all but made his lawful wife, after bribing some ex-con..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 28",
+    "caesar": "Nero",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he vestal virgin Rubria. The freedwoman Acte he all but made his lawful wife, after bribing some ex-consuls to perjure themselves by swearing that she was of royal birth. He castrated the boy Sporus a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Nero",
@@ -663,7 +1788,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 137,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -676,7 +1801,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 138,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Greece",
@@ -689,7 +1814,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 139,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Rome",
@@ -702,7 +1827,73 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 140,
+    "chapter": "Chapter 30",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...out stint. On Tiridates, though it would seem hardly within belief, he spent eight hundred thousand sesterces a day, and on his departure presented him with more than a hundred millions. He gave the l...",
+      "...gal splendour. 3 He never wore the same garment twice. He played at dice for four hundred thousand sesterces a point. He fished with a golden net drawn by cords woven of purple and scarlet threads. I..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 141,
+    "chapter": "Chapter 30",
+    "caesar": "Nero",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...parture presented him with more than a hundred millions. He gave the lyre-player Menecrates and the gladiator Spiculus properties and residences equal to those of men who had celebrated triumphs. He e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 142,
+    "chapter": "Chapter 30",
+    "caesar": "Nero",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rates and the gladiator Spiculus properties and residences equal to those of men who had celebrated triumphs. He enriched the monkey-faced usurer Paneros with estates in the country and in the city an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
+    "chapter": "Chapter 31",
+    "caesar": "Nero",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ch he was more ruinously prodigal than in building. He made a palace extending all the way from the Palatine to the Esquiline, which at first he called the House of Passage, but when it was burned sho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 144,
+    "chapter": "Chapter 31",
+    "caesar": "Nero",
+    "entity": "Esquiline",
+    "slug": "Esquiline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Esquiline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uinously prodigal than in building. He made a palace extending all the way from the Palatine to the Esquiline, which at first he called the House of Passage, but when it was burned shortly after its c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -715,7 +1906,20 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 146,
+    "chapter": "Chapter 31",
+    "caesar": "Nero",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...urces of the empire, by the hope of a vast hidden treasure, suddenly inspired by the assurance of a Roman knight, who declared positively that the enormous wealth which queen Dido had taken with her o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 147,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Africa",
@@ -728,7 +1932,33 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 148,
+    "chapter": "Chapter 32",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...resources and so utterly impoverished that he was obliged to postpone and defer even the pay of the soldiers and the rewards due to the veterans. 2 First of all he made a law, that instead of one-hal..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 149,
+    "chapter": "Chapter 32",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s. 2 First of all he made a law, that instead of one-half, five-sixths of the property of deceased freedmen should be made over to him, if without good and sufficient reason they bore the name of any..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 150,
     "chapter": "Chapter 32",
     "caesar": "Nero",
     "entity": "Galba",
@@ -741,7 +1971,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 151,
     "chapter": "Chapter 33",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -756,7 +1986,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 152,
     "chapter": "Chapter 33",
     "caesar": "Nero",
     "entity": "Nero",
@@ -769,7 +1999,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 153,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Rhodes",
@@ -782,7 +2012,21 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 154,
+    "chapter": "Chapter 34",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ne and go off to Rhodes. Then depriving her of all her honours and of her guard of Roman and German soldiers, he even forbade her to live with him and drove her from the Palace. After that he passed a...",
+      "...ok a drink. Yet he could not either then or ever afterwards endure the stings of conscience, though soldiers, senate and people tried to hearten him with their congratulations; for he often owned that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 155,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -795,7 +2039,20 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 156,
+    "chapter": "Chapter 34",
+    "caesar": "Nero",
+    "entity": "Minerva",
+    "slug": "Minerva",
+    "url": "https://en.wikipedia.org/wiki/Minerva",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...reconciliation and invited her in a most cordial letter to come to Baiae and celebrate the feast of Minerva with him. On her arrival, instructing his captains to wreck the galley in which she had come..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 157,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Greece",
@@ -808,7 +2065,60 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 158,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Besides Octavia he later took two wives, Poppaea Sabina, daughter of an ex-quaestor and previously married to a Roman knight, and then Statilia Messalina, daughter of the grea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 159,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...via he later took two wives, Poppaea Sabina, daughter of an ex-quaestor and previously married to a Roman knight, and then Statilia Messalina, daughter of the great-granddaughter of Taurus, who had be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 160,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ght, and then Statilia Messalina, daughter of the great-granddaughter of Taurus, who had been twice consul and awarded a triumph. To possess the latter he slew her husband Atticus Vestinus while he he...",
+      "...d a triumph. To possess the latter he slew her husband Atticus Vestinus while he held the office of consul. He soon grew tired of living with Octavia, and when his friends took him to task, replied th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 161,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a Messalina, daughter of the great-granddaughter of Taurus, who had been twice consul and awarded a triumph. To possess the latter he slew her husband Atticus Vestinus while he held the office of cons..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -821,7 +2131,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 163,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Egypt",
@@ -834,7 +2144,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 164,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Nero",
@@ -847,7 +2157,20 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 165,
+    "chapter": "Chapter 35",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... prefect of the Guard, in place of a throat medicine which he had promised him. The old and wealthy freedmen who had helped him first to his adoption and later to the throne, and aided him by their ad..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 166,
     "chapter": "Chapter 36",
     "caesar": "Nero",
     "entity": "Rome",
@@ -860,7 +2183,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 167,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -874,7 +2197,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 168,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Longinus",
@@ -887,7 +2210,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 169,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Julius Caesar",
@@ -900,7 +2223,46 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 170,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o survived, but would one day blot out the whole order from the State and hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 171,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e order from the State and hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that neither on beginning a journey nor on returnin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
+    "chapter": "Chapter 37",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d hand over the rule of the provinces and the command of the armies to the Roman knights and to his freedmen. Certain it is that neither on beginning a journey nor on returning did he kiss any member ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 173,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Rome",
@@ -913,7 +2275,46 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 174,
+    "chapter": "Chapter 38",
+    "caesar": "Nero",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he old buildings and the narrow, crooked streets, he set fire to the city so openly that several ex-consuls did not venture to lay hands on his chamberlains although they caught them on their estates ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 175,
+    "chapter": "Chapter 38",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and from the contributions which he not only received, but even demanded, he nearly bankrupted the provinces and exhausted the resources of individuals."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 176,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Libitina",
+    "slug": "Libitina",
+    "url": "https://en.wikipedia.org/wiki/Libitina",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nts of fortune; a plague which in a single autumn entered thirty thousand deaths in the accounts of Libitina; a disaster in Britain, where two important towns were sacked and great numbers of citizens..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Britain",
@@ -926,7 +2327,20 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 178,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of citizens and allies were butchered; a shameful defeat in the Orient, in consequence of which the legions in Armenia were • sent under the yoke and Syria was all but lost. It is surprising and of sp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 179,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -939,7 +2353,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 180,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Nero",
@@ -954,7 +2368,7 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 181,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Rome",
@@ -967,7 +2381,7 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 182,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -980,7 +2394,33 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 183,
+    "chapter": "Chapter 39",
+    "caesar": "Nero",
+    "entity": "Orcus",
+    "slug": "Orcus",
+    "url": "https://en.wikipedia.org/wiki/Orcus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng in pantomime, referring of course to the death of Claudius and Agrippina; and in the final tag, \"Orcus guides your steps,\" he indicated the senate by a gesture. Nero contented himself with banishin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 184,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and the Gauls took the first step under the lead of Julius Vindex, who at that time governed their province as propraetor. 2 Astrologers had predicted to Nero that he would one day be repudiated, wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 185,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Nero",
@@ -993,7 +2433,7 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 186,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Jerusalem",
@@ -1006,7 +2446,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 187,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -1019,7 +2459,7 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 188,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Britain",
@@ -1032,7 +2472,7 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 189,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1045,7 +2485,21 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 190,
+    "chapter": "Chapter 40",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ish would bring them back to him. 4 He was at Naples when he learned of the uprising of the Gallic provinces, on the anniversary of his mother's murder, and received the news with such calmness and i...",
+      "...e suspicion of actually rejoi­cing in it, because it gave him an excuse for pillaging those wealthy provinces according to the laws of war. And he at once proceeded to the gymnasium, where he watched ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 191,
     "chapter": "Chapter 41",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1058,7 +2512,7 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 192,
     "chapter": "Chapter 41",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1071,7 +2525,20 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 193,
+    "chapter": "Chapter 41",
+    "caesar": "Nero",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... an insignificant omen, for he noticed a monument on which was sculptured the overthrow of a Gallic soldier by a Roman horseman, who was dragging him along by the hair, he leaped for joy at the sight ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 194,
     "chapter": "Chapter 42",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1084,7 +2551,114 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 195,
+    "chapter": "Chapter 42",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Thereafter, having learned that Galba also and the Spanish provinces had revolted, he fainted and lay for a long time insensible, without a word and all but de...",
+      "...n or amend his slothful and luxurious habits; on the contrary, whenever any good news came from the provinces, he not only gave lavish feasts, but even ridiculed the leaders of the revolt in verses se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 196,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...way inconsistent with his character: to depose and assassinate the commanders of the armies and the governors of the provinces, on the ground that they were all united in a conspiracy against him; to ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...with his character: to depose and assassinate the commanders of the armies and the governors of the provinces, on the ground that they were all united in a conspiracy against him; to massacre all the ...",
+      "...ebels; the latter, as sharing and abetting the designs of their countrymen; to turn over the Gallic provinces to his armies to ravage; to poison the entire senate at banquets; to set fire to the city,...",
+      "... term and assumed the office alone in place of both of them, alleging that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 198,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he despaired of being able to carry them out, and feeling obliged to take the field, he deposed the consuls before the end of their term and assumed the office alone in place of both of them, alleging..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of both of them, alleging that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was leaving the dining-room after a banquet, le..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "fasces",
+    "slug": "Fasces",
+    "url": "https://en.wikipedia.org/wiki/Fasces",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...that it was fated that Gallic provinces could not be subdued except by a consul. Having assumed the fasces, he declared as he was leaving the dining-room after a banquet, leaning on the shoulders of h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 201,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... after a banquet, leaning on the shoulders of his comrades, that immediately on setting foot in the province he would go before the soldiers unarmed and do nothing but weep; and having thus led the re..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 202,
+    "chapter": "Chapter 43",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... shoulders of his comrades, that immediately on setting foot in the province he would go before the soldiers unarmed and do nothing but weep; and having thus led the rebels to change their purpose, he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
     "chapter": "Chapter 45",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -1097,7 +2671,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 204,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Pompey",
@@ -1110,7 +2684,72 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 205,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Lares",
+    "slug": "Lares",
+    "url": "https://en.wikipedia.org/wiki/Lares",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m flew open of their own accord, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the prepar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 206,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the preparations for the sacrifice. As h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 207,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d, and a voice was heard from within summoning him by name. After the Lares had been adorned on the Kalends of January, they fell to the ground in the midst of the preparations for the sacrifice. As h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 208,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Proserpina",
+    "slug": "Proserpina",
+    "url": "https://en.wikipedia.org/wiki/Proserpina",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng the auspices, Sporus made him a present of a ring with a stone on which was engraved the rape of Proserpina. When the vows were to be taken and a great throng of all classes had assembled, the keys..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 209,
+    "chapter": "Chapter 46",
+    "caesar": "Nero",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...na. When the vows were to be taken and a great throng of all classes had assembled, the keys of the Capitol could not be found for a long time. 3 When a speech of his in which he assailed Vindex was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 210,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -1123,7 +2762,59 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 211,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "Homeric",
+    "slug": "Homer",
+    "url": "https://en.wikipedia.org/wiki/Homer",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ning, tipped over the table, and dashed to the ground two favourite drinking cups, which he called \"Homeric,\" because they were carved with scenes from Homer's poems. Then taking some poison from Locu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "Homer",
+    "slug": "Homer",
+    "url": "https://en.wikipedia.org/wiki/Homer",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d two favourite drinking cups, which he called \"Homeric,\" because they were carved with scenes from Homer's poems. Then taking some poison from Locusta and putting it into a golden box, he crossed ove..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 213,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a golden box, he crossed over into the Servilian gardens, where he tried to induce the tribunes and centurions of the Guard to accompany him in his flight, first sending his most trustworthy freedmen ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 214,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...unes and centurions of the Guard to accompany him in his flight, first sending his most trustworthy freedmen to Ostia, to get a fleet ready. 2 But when some gave evasive answers and some openly refus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 215,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1136,7 +2827,20 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 216,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...his mind, whether to go as a suppliant to the Parthians or Galba, or to appear to the people on the rostra, dressed in black, and beg as pathetically as he could for pardon for his past offences; and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 217,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Egypt",
@@ -1149,7 +2853,33 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 218,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f further consideration to the following day, he awoke about midnight and finding that the guard of soldiers had left, he sprang from his bed and sent for all his friends. Since no reply came back fro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 219,
+    "chapter": "Chapter 47",
+    "caesar": "Nero",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... fled, taking with them even the bed-clothing and the box of poison. Then he at once called for the gladiator Spiculus or any other adept at whose hand he might find death, and when no one appeared, h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 220,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Tiber",
@@ -1162,7 +2892,20 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 221,
+    "chapter": "Chapter 48",
+    "caesar": "Nero",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... by a shock of earthquake and a flash of lightning full in his face, and he heard the shouts of the soldiers from the camp hard by, as they prophesied destruction for him and success for Galba. He als..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 222,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1175,7 +2918,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 223,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1190,7 +2933,20 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 224,
+    "chapter": "Chapter 48",
+    "caesar": "Nero",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the smell of a corpse which had been thrown out into the road, his face was exposed, and a retired soldier of the Guard recognised him and saluted him. 3 When they came to a by-path leading to the v..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 225,
     "chapter": "Chapter 49",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1205,7 +2961,20 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 226,
+    "chapter": "Chapter 49",
+    "caesar": "Nero",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dagger into his throat, aided by Epaphroditus, his private secretary. 4 He was all but dead when a centurion rushed in, and as he placed a cloak to the wound, pretending that he had come to aid him, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 227,
     "chapter": "Chapter 49",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1218,7 +2987,46 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 228,
+    "chapter": "Chapter 50",
+    "caesar": "Nero",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was buried at a cost of two hundred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of Jan..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 229,
+    "chapter": "Chapter 50",
+    "caesar": "Nero",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 230,
+    "chapter": "Chapter 50",
+    "caesar": "Nero",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dred thousand sesterces and laid out in white robes embroidered with gold, which he had worn on the Kalends of January. His ashes were deposited by his nurses, Egloge and Alexandria, accompanied by hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 231,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -1231,7 +3039,20 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 232,
+    "chapter": "Chapter 50",
+    "caesar": "Nero",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., in the family tomb of the Domitii on the summit of the Hill of Gardens, which is visible from the Campus Martius. In that monument his sarcophagus of porphyry, with an altar of Luna marble standing ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 233,
     "chapter": "Chapter 51",
     "caesar": "Nero",
     "entity": "Greece",
@@ -1244,7 +3065,20 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 234,
+    "chapter": "Chapter 53",
+    "caesar": "Nero",
+    "entity": "lustrum",
+    "slug": "Lustrum",
+    "url": "https://en.wikipedia.org/wiki/Lustrum",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng of the mob. It was the general belief that after his victories on the stage he would at the next lustrum have competed with the athletes at Olympia; for he practised wrestling constantly, and all o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 235,
     "chapter": "Chapter 53",
     "caesar": "Nero",
     "entity": "Greece",
@@ -1257,7 +3091,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 236,
     "chapter": "Chapter 55",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1270,7 +3104,33 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 237,
+    "chapter": "Chapter 57",
+    "caesar": "Nero",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a long time decorated his tomb with spring and summer flowers, and now produced his statues on the rostra in the fringed toga, and now his edicts, as if he were still alive and would shortly return a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 238,
+    "chapter": "Chapter 57",
+    "caesar": "Nero",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... his tomb with spring and summer flowers, and now produced his statues on the rostra in the fringed toga, and now his edicts, as if he were still alive and would shortly return and deal destruction to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 239,
     "chapter": "Chapter 57",
     "caesar": "Nero",
     "entity": "Nero",

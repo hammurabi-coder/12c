@@ -3,6 +3,33 @@
     "id": 1,
     "chapter": "Chapter 1",
     "caesar": "Tiberius",
+    "entity": "patrician",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 The patrician branch of the Claudian family (for there was, besides, a plebeian branch of no less influe...",
+      "...the head of the family) about six years after the expulsion of the kings. It was admitted among the patrician families, receiving, besides, from the State a piece of land on the farther side of the An..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
+    "entity": "plebeian",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The patrician branch of the Claudian family (for there was, besides, a plebeian branch of no less influence and prestige) originated at Regilli, a town of the Sabines. Fro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
     "entity": "Rome",
     "slug": "Rome",
     "url": "https://en.wikipedia.org/wiki/Rome",
@@ -13,7 +40,7 @@
     "status": "approved"
   },
   {
-    "id": 2,
+    "id": 4,
     "chapter": "Chapter 1",
     "caesar": "Tiberius",
     "entity": "Titus",
@@ -26,7 +53,7 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 5,
     "chapter": "Chapter 1",
     "caesar": "Tiberius",
     "entity": "Claudius",
@@ -39,7 +66,59 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 6,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...amily at the foot of the Capitoline hill. 2 Then as time went on it was honoured with twenty-eight consul ­ships, five dictator ­ships, seven censor ­ships, six triumphs, and two ovations. While the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the Capitoline hill. 2 Then as time went on it was honoured with twenty-eight consul ­ships, five dictator ­ships, seven censor ­ships, six triumphs, and two ovations. While the members of the famil..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...2 Then as time went on it was honoured with twenty-eight consul ­ships, five dictator ­ships, seven censor ­ships, six triumphs, and two ovations. While the members of the family were known by various..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 1",
+    "caesar": "Tiberius",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... on it was honoured with twenty-eight consul ­ships, five dictator ­ships, seven censor ­ships, six triumphs, and two ovations. While the members of the family were known by various forenames and surn..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
     "chapter": "Chapter 1",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -52,7 +131,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 11,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Claudius",
@@ -67,7 +146,7 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 12,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Sicily",
@@ -81,7 +160,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -94,7 +173,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 14,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Spain",
@@ -107,7 +186,20 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 15,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e Carthaginians from Sicily. Tiberius Nero crushed Hasdrubal, on his arrival from Spain with a vast army, before he could unite with his brother Hannibal. 2 On the other hand, Claudius Regillianus, d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Hannibal",
@@ -120,7 +212,47 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 17,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "plebeians",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...slave a freeborn maid, to gratify his passion for her, was the cause of the second secession of the plebeians from the patricians. Claudius Russus, having set up his statue at Forum Appi with a crown ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...id, to gratify his passion for her, was the cause of the second secession of the plebeians from the patricians. Claudius Russus, having set up his statue at Forum Appi with a crown upon his head, trie...",
+      "...es that all the Claudii were aristocrats and staunch upholders of the prestige and influence of the patricians, with the sole exception of Publius Clodius, who for the sake of driving Cicero from the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ht drink, since they would not eat. He was defeated, and on being bidden by the senate to appoint a dictator, he appointed his messenger Glycias, as if again making a jest of his country's peril. 3 T..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -133,7 +265,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 21,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -146,7 +278,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 22,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Publius Clodius",
@@ -159,7 +291,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 23,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Clodius",
@@ -172,7 +304,33 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 24,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nfluence of the patricians, with the sole exception of Publius Clodius, who for the sake of driving Cicero from the city had himself adopted by a plebeian and one too who was younger than himself. The..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "plebeian",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ption of Publius Clodius, who for the sake of driving Cicero from the city had himself adopted by a plebeian and one too who was younger than himself. Their attitude towards the commons was so headstr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
     "chapter": "Chapter 2",
     "caesar": "Tiberius",
     "entity": "Vestal",
@@ -185,7 +343,33 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 27,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the commons. Even a Vestal virgin mounted her brother's chariot with him, when he was celebrating a triumph without the sanction of the people, and attended him all the way to the Capitol, in order to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 2",
+    "caesar": "Tiberius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e was celebrating a triumph without the sanction of the people, and attended him all the way to the Capitol, in order to make it an act of sacrilege for any one of the tribunes to forbid him or interp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
     "chapter": "Chapter 3",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -198,7 +382,89 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 30,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "plebeian",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of the Livii, through the adoption into it of his maternal grandfather. This family too, though of plebeian origin, was yet of great prominence and had been honoured with eight consul ­ships, two cen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...family too, though of plebeian origin, was yet of great prominence and had been honoured with eight consul ­ships, two censor ­ships, and three triumphs, as well as with the offices of dictator and ma...",
+      "...all the tribes on the charge of fickleness, because having convicted and fined him after a previous consul ­ship, they made him consul a second time and censor as well. Drusus gained a surname for him...",
+      "... of fickleness, because having convicted and fined him after a previous consul ­ship, they made him consul a second time and censor as well. Drusus gained a surname for himself and his descendants by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...of plebeian origin, was yet of great prominence and had been honoured with eight consul ­ships, two censor ­ships, and three triumphs, as well as with the offices of dictator and master of the horse. ...",
+      "...lustrious too by distinguished members, in particular Salinator and the Drusi. 2 The former in his censor ­ship put the brand on all the tribes on the charge of fickleness, because having convicted a...",
+      "...aving convicted and fined him after a previous consul ­ship, they made him consul a second time and censor as well. Drusus gained a surname for himself and his descendants by slaying Drausus, leader o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...et of great prominence and had been honoured with eight consul ­ships, two censor ­ships, and three triumphs, as well as with the offices of dictator and master of the horse. It was made illustrious t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...red with eight consul ­ships, two censor ­ships, and three triumphs, as well as with the offices of dictator and master of the horse. It was made illustrious too by distinguished members, in particula..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eader of the enemy, in single combat. It is also said that when propraetor he brought back from his province of Gaul the gold which was paid long before to the Senones, when they beleaguered the Capit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
     "chapter": "Chapter 3",
     "caesar": "Tiberius",
     "entity": "Gaul",
@@ -211,7 +477,20 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 37,
+    "chapter": "Chapter 3",
+    "caesar": "Tiberius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... his province of Gaul the gold which was paid long before to the Senones, when they beleaguered the Capitol, and that this had not been wrested from them by Camillus, as tradition has it. His grandson..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -226,7 +505,20 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 39,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Nero, the father of Tiberius, as a quaestor of Julius Caesar during the Alexandrian war and commander of a fleet, contributed materiall..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Julius Caesar",
@@ -239,7 +531,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 41,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Scipio",
@@ -252,7 +544,7 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 42,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Gaul",
@@ -265,7 +557,7 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 43,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Arelate",
@@ -278,7 +570,59 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 44,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... violence, he even favoured a proposal for rewarding the tyrannicides. 2 Later on, having held the praetor ­ship, since a dispute arose among the triumvirs at the close of his term, he retained the b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "triumvirs",
+    "slug": "Triumvirate",
+    "url": "https://en.wikipedia.org/wiki/Triumvirate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rding the tyrannicides. 2 Later on, having held the praetor ­ship, since a dispute arose among the triumvirs at the close of his term, he retained the badges of his rank beyond the legitimate time an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s term, he retained the badges of his rank beyond the legitimate time and followed Lucius Antonius, consul and brother of the triumvir, to Perusia. When the others capitulated, he alone held to his al..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "triumvir",
+    "slug": "Triumvirate",
+    "url": "https://en.wikipedia.org/wiki/Triumvirate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dges of his rank beyond the legitimate time and followed Lucius Antonius, consul and brother of the triumvir, to Perusia. When the others capitulated, he alone held to his allegiance and got away firs..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Sicily",
@@ -291,7 +635,20 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 49,
+    "chapter": "Chapter 4",
+    "caesar": "Tiberius",
+    "entity": "fasces",
+    "slug": "Fasces",
+    "url": "https://en.wikipedia.org/wiki/Fasces",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er because he was not at once given an audience with Sextus Pompeius, and was denied the use of the fasces, he crossed to Achaia and joined Mark Antony. With him he shortly returned to Rome, on the co..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -304,7 +661,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 51,
     "chapter": "Chapter 4",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -317,7 +674,7 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 52,
     "chapter": "Chapter 5",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -330,7 +687,46 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 53,
+    "chapter": "Chapter 5",
+    "caesar": "Tiberius",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...senate. But according to the most numerous and trustworthy authorities, he was born at Rome, on the Palatine, the sixteenth day before the Kalends of December, in the consul ­ship of Marcus Aemilius L..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 5",
+    "caesar": "Tiberius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ous and trustworthy authorities, he was born at Rome, on the Palatine, the sixteenth day before the Kalends of December, in the consul ­ship of Marcus Aemilius Lepidus and Lucius Munatius Plancus (the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 5",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ies, he was born at Rome, on the Palatine, the sixteenth day before the Kalends of December, in the consul ­ship of Marcus Aemilius Lepidus and Lucius Munatius Plancus (the former for the second time)..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
     "chapter": "Chapter 5",
     "caesar": "Tiberius",
     "entity": "Lepidus",
@@ -343,7 +739,7 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 57,
     "chapter": "Chapter 5",
     "caesar": "Tiberius",
     "entity": "Philippi",
@@ -356,7 +752,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 58,
     "chapter": "Chapter 6",
     "caesar": "Tiberius",
     "entity": "Sicily",
@@ -370,7 +766,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 59,
     "chapter": "Chapter 6",
     "caesar": "Tiberius",
     "entity": "Baiae",
@@ -383,7 +779,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 60,
     "chapter": "Chapter 6",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -397,7 +793,33 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 61,
+    "chapter": "Chapter 6",
+    "caesar": "Tiberius",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... party opposed to Augustus. 4 At the age of nine he delivered a eulogy of his dead father from the rostra. Then, just as he was arriving at puberty, he accompanied the chariot of Augustus in his triu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 6",
+    "caesar": "Tiberius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the rostra. Then, just as he was arriving at puberty, he accompanied the chariot of Augustus in his triumph after Actium, riding the left trace-horse, while Marcellus, son of Octavia, rode the one on ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
     "chapter": "Chapter 6",
     "caesar": "Tiberius",
     "entity": "Marcellus",
@@ -410,7 +832,59 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 64,
+    "chapter": "Chapter 7",
+    "caesar": "Tiberius",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ifferent places, the former in the Forum and the latter in the amphitheatre, indu­cing some retired gladiators to appear with the rest by the payment of hundred thousand sesterces to each. He also gav..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
+    "chapter": "Chapter 7",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eatre, indu­cing some retired gladiators to appear with the rest by the payment of hundred thousand sesterces to each. He also gave stage-plays, but without being present in person. All these were on ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 7",
+    "caesar": "Tiberius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...her. 2 He married Agrippina, daughter of Marcus Agrippa, and granddaughter of Caecilius Atticus, a Roman knight, to whom Cicero's letters are addressed; but after he had acknowledged a son from her, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 7",
+    "caesar": "Tiberius",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ippina, daughter of Marcus Agrippa, and granddaughter of Caecilius Atticus, a Roman knight, to whom Cicero's letters are addressed; but after he had acknowledged a son from her, Drusus, although she w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
     "chapter": "Chapter 7",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -423,7 +897,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 69,
     "chapter": "Chapter 7",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -436,7 +910,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 70,
     "chapter": "Chapter 7",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -449,7 +923,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 71,
     "chapter": "Chapter 8",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -463,7 +937,33 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 72,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 His first military service was as tribune of the soldiers in the campaign against the Cantabrians; then he led an army to the Orient and restored the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tary service was as tribune of the soldiers in the campaign against the Cantabrians; then he led an army to the Orient and restored the throne of Armenia to Tigranes, crowning him on the tribunal. He ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
     "chapter": "Chapter 9",
     "caesar": "Tiberius",
     "entity": "Armenia",
@@ -476,7 +976,20 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 75,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...en he led an army to the Orient and restored the throne of Armenia to Tigranes, crowning him on the tribunal. He besides recovered the standards which the Parthians had taken from Marcus Crassus. Then..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
     "chapter": "Chapter 9",
     "caesar": "Tiberius",
     "entity": "Crassus",
@@ -489,7 +1002,20 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 77,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vered the standards which the Parthians had taken from Marcus Crassus. Then for about a year he was governor of Gallia Comata, which was in a state of unrest through the inroads of the barbarians and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
     "chapter": "Chapter 9",
     "caesar": "Tiberius",
     "entity": "Pannonia",
@@ -502,7 +1028,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 79,
     "chapter": "Chapter 9",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -515,7 +1041,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 80,
     "chapter": "Chapter 9",
     "caesar": "Tiberius",
     "entity": "Gaul",
@@ -528,7 +1054,73 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 81,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "ovation",
+    "slug": "Ovatio",
+    "url": "https://en.wikipedia.org/wiki/Ovatio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ned them homes near the bank of the Rhine. Because of these exploits he entered the city both in an ovation and riding in a chariot, having previously, as some think, been honoured with the triumphal ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oth in an ovation and riding in a chariot, having previously, as some think, been honoured with the triumphal regalia, a new kind of distinction never before conferred upon anyone. 3 He entered upon ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ia, a new kind of distinction never before conferred upon anyone. 3 He entered upon the offices of quaestor, praetor, and consul before the usual age, and held them almost without an interval; then a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...kind of distinction never before conferred upon anyone. 3 He entered upon the offices of quaestor, praetor, and consul before the usual age, and held them almost without an interval; then after a tim..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 9",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...nction never before conferred upon anyone. 3 He entered upon the offices of quaestor, praetor, and consul before the usual age, and held them almost without an interval; then after a time he was made...",
+      "...onsul before the usual age, and held them almost without an interval; then after a time he was made consul again, at the same time receiving the tribunicial power for five years."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
     "chapter": "Chapter 10",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -541,7 +1133,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 87,
     "chapter": "Chapter 10",
     "caesar": "Tiberius",
     "entity": "Mytilene",
@@ -554,7 +1146,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 88,
     "chapter": "Chapter 10",
     "caesar": "Tiberius",
     "entity": "Marcellus",
@@ -567,7 +1159,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 89,
     "chapter": "Chapter 10",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -580,7 +1172,7 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 90,
     "chapter": "Chapter 11",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -593,7 +1185,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 91,
     "chapter": "Chapter 11",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -607,7 +1199,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 92,
     "chapter": "Chapter 11",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -620,7 +1212,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 93,
     "chapter": "Chapter 11",
     "caesar": "Tiberius",
     "entity": "Armenia",
@@ -633,7 +1225,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 94,
     "chapter": "Chapter 11",
     "caesar": "Tiberius",
     "entity": "Greece",
@@ -646,7 +1238,33 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 95,
+    "chapter": "Chapter 11",
+    "caesar": "Tiberius",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ur one side. Thereupon he gradually backed away to his house, and then suddenly coming out with his lictors and attendants, and bidding his crier to summon the foul-mouthed fellow before his tribunal,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
+    "chapter": "Chapter 11",
+    "caesar": "Tiberius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...with his lictors and attendants, and bidding his crier to summon the foul-mouthed fellow before his tribunal, he had him taken off to prison. 4 Shortly after this he learned that his wife Julia had b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
     "chapter": "Chapter 12",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -660,7 +1278,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 98,
     "chapter": "Chapter 12",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -673,7 +1291,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 99,
     "chapter": "Chapter 12",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -687,7 +1305,59 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 100,
+    "chapter": "Chapter 12",
+    "caesar": "Tiberius",
+    "entity": "magistrate",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s of those that sailed that way; these, however, were constantly thrust on him, since no general or magistrate who was on his way to any province failed to put in at Rhodes. He had besides reasons for..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
+    "chapter": "Chapter 12",
+    "caesar": "Tiberius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e, however, were constantly thrust on him, since no general or magistrate who was on his way to any province failed to put in at Rhodes. He had besides reasons for still greater anxiety; for when he h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 102,
+    "chapter": "Chapter 12",
+    "caesar": "Tiberius",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ill greater anxiety; for when he had crossed to Samos to visit his stepson Gaius, who had been made governor of the Orient, he found him somewhat estranged through the slanders of Marcus Lollius, a me..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
+    "chapter": "Chapter 12",
+    "caesar": "Tiberius",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a member of Gaius' staff and his guardian. 3 He also incurred the suspicion of having through some centurions of his appointment, who were returning to camp after a furlough, sent messages to several..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 104,
     "chapter": "Chapter 13",
     "caesar": "Tiberius",
     "entity": "Nemausus",
@@ -700,7 +1370,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 105,
     "chapter": "Chapter 13",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -713,7 +1383,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 106,
     "chapter": "Chapter 13",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -726,7 +1396,33 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 107,
+    "chapter": "Chapter 14",
+    "caesar": "Tiberius",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ly years because of omens and predictions. 2 When Livia was with child with him, and was trying to divine by various omens whether she would bring forth a male, she took an egg from under a setting-h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
+    "chapter": "Chapter 14",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... rule of the Caesars was as yet unheard of. 3 Again, on his first campaign, when he was leading an army through Macedonia into Syria, it chanced that at Philippi the altars consecrated in bygone days..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 109,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Macedonia",
@@ -739,7 +1435,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 110,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Philippi",
@@ -752,7 +1448,34 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 111,
+    "chapter": "Chapter 14",
+    "caesar": "Tiberius",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...n, when he was leading an army through Macedonia into Syria, it chanced that at Philippi the altars consecrated in bygone days by the victorious legions gleamed of their own accord with sudden fires. ...",
+      "...n, when he was leading an army through Macedonia into Syria, it chanced that at Philippi the altars consecrated in bygone days by the victorious legions gleamed of their own accord with sudden fires. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 14",
+    "caesar": "Tiberius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nia into Syria, it chanced that at Philippi the altars consecrated in bygone days by the victorious legions gleamed of their own accord with sudden fires. When later, on his way to Illyricum, he visit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -765,7 +1488,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 114,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -778,7 +1501,7 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 115,
     "chapter": "Chapter 15",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -791,7 +1514,20 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 116,
+    "chapter": "Chapter 15",
+    "caesar": "Tiberius",
+    "entity": "Esquiline",
+    "slug": "Esquiline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Esquiline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he at once moved from the Carinae and the house of the Pompeys to the • gardens of Maecenas on the Esquiline, where he led a very retired life, merely attending to his personal affairs and exercising..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 117,
     "chapter": "Chapter 15",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -804,7 +1540,20 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 118,
+    "chapter": "Chapter 16",
+    "caesar": "Tiberius",
+    "entity": "tribunician",
+    "slug": "Tribunician_power",
+    "url": "https://en.wikipedia.org/wiki/Tribunician_power",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was given the tribunician power for a second term of three years, the duty of subjugating Germany was assigned him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 119,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -817,7 +1566,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 120,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -830,7 +1579,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 121,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -843,7 +1592,20 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 122,
+    "chapter": "Chapter 16",
+    "caesar": "Tiberius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ter presenting their instructions to Augustus in Rome, were bidden to appear also before him in his province. But when the revolt of Illyricum was reported, he was transferred to the charge of a new w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -857,7 +1619,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 124,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Carthage",
@@ -870,7 +1632,33 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 125,
+    "chapter": "Chapter 16",
+    "caesar": "Tiberius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ous of all foreign wars since those with Carthage, which he carried on for three years with fifteen legions and a corresponding force of auxiliaries, amid great difficulties of every kind and the utmo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 126,
+    "chapter": "Chapter 16",
+    "caesar": "Tiberius",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ith Carthage, which he carried on for three years with fifteen legions and a corresponding force of auxiliaries, amid great difficulties of every kind and the utmost scarcity of supplies. 2 But thoug..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Macedonia",
@@ -883,7 +1671,20 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 128,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er and crowning glory; for it was at just about that time that Quintilius Varus perished with three legions in Germany, and no one doubted that the victorious Germans would have united with the Pannon..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -896,7 +1697,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 130,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -909,7 +1710,21 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 131,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...Germans would have united with the Pannonians, had not Illyricum been subdued first. Consequently a triumph was voted him and many high honours. 2 Some also recommended that he be given the surname o...",
+      "...ld be satisfied with one which he would receive at his father's death. Tiberius himself put off the triumph, because the country was in mourning for the disaster to Varus; but he entered the city clad..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -923,7 +1738,59 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 133,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ntry was in mourning for the disaster to Varus; but he entered the city clad in the purple-bordered toga and crowned with laurel, and mounting a tribunal which had been set up in the • Saepta, while t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or the disaster to Varus; but he entered the city clad in the purple-bordered toga and crowned with laurel, and mounting a tribunal which had been set up in the • Saepta, while the senate stood alongs..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s; but he entered the city clad in the purple-bordered toga and crowned with laurel, and mounting a tribunal which had been set up in the • Saepta, while the senate stood alongside, he took his seat b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
+    "chapter": "Chapter 17",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...in the • Saepta, while the senate stood alongside, he took his seat beside Augustus between the two consuls. Having greeted the people from this position, he was escorted to the various temples."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 137,
     "chapter": "Chapter 18",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -936,7 +1803,46 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 138,
+    "chapter": "Chapter 19",
+    "caesar": "Tiberius",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...scipline, reviving bygone methods of punishment and ignominy, and even degrading the commander of a legion for sending a few soldiers across the river to accompany one of his freedmen on a hunting exp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 139,
+    "chapter": "Chapter 19",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... methods of punishment and ignominy, and even degrading the commander of a legion for sending a few soldiers across the river to accompany one of his freedmen on a hunting expedition. Although he left..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 140,
+    "chapter": "Chapter 19",
+    "caesar": "Tiberius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ading the commander of a legion for sending a few soldiers across the river to accompany one of his freedmen on a hunting expedition. Although he left very little to fortune and chance, he entered bat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 141,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -949,7 +1855,46 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 142,
+    "chapter": "Chapter 20",
+    "caesar": "Tiberius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 After two years he returned to the city from Germany and celebrated the triumph which he had postponed, accompanied also by his generals, for whom he had obtained the trium..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
+    "chapter": "Chapter 20",
+    "caesar": "Tiberius",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the triumph which he had postponed, accompanied also by his generals, for whom he had obtained the triumphal regalia. And before turning to enter the Capitol, he dismounted from his chariot and fell ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 144,
+    "chapter": "Chapter 20",
+    "caesar": "Tiberius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...so by his generals, for whom he had obtained the triumphal regalia. And before turning to enter the Capitol, he dismounted from his chariot and fell at the knees of his father, who was presiding over ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "Ravenna",
@@ -962,7 +1907,59 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 146,
+    "chapter": "Chapter 20",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ch gifts; thus showing his gratitude to him for allowing him to escape when he was trapped with his army in a dangerous place. Then he gave a banquet to the people at a thousand tables, and a largess ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 147,
+    "chapter": "Chapter 20",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...us place. Then he gave a banquet to the people at a thousand tables, and a largess of three hundred sesterces to every man. With the proceeds of his spoils he restored and dedicated the temple of Conc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 148,
+    "chapter": "Chapter 21",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Since the consuls caused a law to be passed soon after this that he should govern the provinces jointly with A..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 149,
+    "chapter": "Chapter 21",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Since the consuls caused a law to be passed soon after this that he should govern the provinces jointly with Augustus and hold the census with him, he set out for Illyricum on the conclu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 150,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -977,7 +1974,20 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 151,
+    "chapter": "Chapter 21",
+    "caesar": "Tiberius",
+    "entity": "census",
+    "slug": "Census",
+    "url": "https://en.wikipedia.org/wiki/Census",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to be passed soon after this that he should govern the provinces jointly with Augustus and hold the census with him, he set out for Illyricum on the conclusion of the lustral ceremonies; but he was at..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 152,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -990,7 +2000,33 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 153,
+    "chapter": "Chapter 21",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ould have acted with better judgment than you did amid so many difficulties and such apathy of your army. All who were with you agree that the well-known line could be applied to you: ' One man alone ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 154,
+    "chapter": "Chapter 21",
+    "caesar": "Tiberius",
+    "entity": "Homer",
+    "slug": "Homer",
+    "url": "https://en.wikipedia.org/wiki/Homer",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... I am vexed at anything, I long mightily, so help me Heaven, for my dear Tiberius, and the lines of Homer come to my mind: ' Let him but follow and we too, though flames round about us be raging, Both..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 155,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1003,7 +2039,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 156,
     "chapter": "Chapter 22",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1017,7 +2053,20 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 157,
+    "chapter": "Chapter 22",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ustus public until the young Agrippa had been disposed of. The latter was slain by a tribune of the soldiers appointed to guard him, who received a letter in which he was bidden to do the deed; but it..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 158,
     "chapter": "Chapter 23",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1030,7 +2079,46 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 159,
+    "chapter": "Chapter 23",
+    "caesar": "Tiberius",
+    "entity": "senatorial order",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e will of Augustus, he had it read by a freedman, admitting of the signers only such as were of the senatorial order, while the others acknowledged their seals outside the House. The will began thus: ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 160,
+    "chapter": "Chapter 24",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...itate at once to assume and to exercise the imperial authority, surrounding himself with a guard of soldiers, that is, with the actual power and the outward sign of sovereignty, yet he refused the tit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 161,
+    "chapter": "Chapter 25",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Lucius Scribonius Libo, one of the nobles, was secretly plotting a revolution; and a mutiny of the soldiers broke out in two places, Illyricum and Germany. 2 Both armies demanded numerous special pr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -1043,7 +2131,7 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 163,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -1057,7 +2145,46 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 164,
+    "chapter": "Chapter 25",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...erous special privileges — above all, that they should receive the same pay as the praetorians. The army in Germany was, besides, reluctant to accept an emperor who was not its own choice, and with th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 165,
+    "chapter": "Chapter 25",
+    "caesar": "Tiberius",
+    "entity": "pontiffs",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...in the meantime merely to be on his guard. Thus when Libo was offering sacrifice with him among the pontiffs, he had a leaden knife substituted for the usual one, and when he asked for a private inter..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 166,
+    "chapter": "Chapter 26",
+    "caesar": "Tiberius",
+    "entity": "flamens",
+    "slug": "Flamen",
+    "url": "https://en.wikipedia.org/wiki/Flamen",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., to be recognized by the addition of a single two-horse chariot. He forbade the voting of temples, flamens, and priests in his honour, and even the setting up of statues and busts without his permiss..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 167,
     "chapter": "Chapter 26",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1070,7 +2197,125 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 168,
+    "chapter": "Chapter 26",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...letters except those to kings and potentates, although it was his by inheritance. He held but three consul ­ships after becoming emperor — one for a few days, a second for three months, and a third, d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 169,
+    "chapter": "Chapter 26",
+    "caesar": "Tiberius",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...for a few days, a second for three months, and a third, during his absence from the city, until the Ides of May."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 170,
+    "chapter": "Chapter 27",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...allow any senator to approach his litter, either to pay his respects or on business, and when an ex-consul in apologizing to him attempted to embrace his knees, he drew back in such haste that he fell..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 171,
+    "chapter": "Chapter 30",
+    "caesar": "Tiberius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a semblance of free government by maintaining the ancient dignity and powers of the senate and the magistrates; for there was no matter of public or private business so small or so great that he did ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
+    "chapter": "Chapter 30",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... monopolies, constructing and restoring public buildings, and even about levying and disbanding the soldiers, and the disposal of the legionaries and auxiliaries; finally about the extension of milita..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 173,
+    "chapter": "Chapter 30",
+    "caesar": "Tiberius",
+    "entity": "legionaries",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oring public buildings, and even about levying and disbanding the soldiers, and the disposal of the legionaries and auxiliaries; finally about the extension of military commands and appointments to th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 174,
+    "chapter": "Chapter 30",
+    "caesar": "Tiberius",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ldings, and even about levying and disbanding the soldiers, and the disposal of the legionaries and auxiliaries; finally about the extension of military commands and appointments to the conduct of war..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 175,
+    "chapter": "Chapter 31",
+    "caesar": "Tiberius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o were elected to office ought to remain in the city and give personal attention to their duties, a praetor elect obtained permission to travel abroad with the privileges of an ambassador. On another ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 176,
+    "chapter": "Chapter 31",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... well was done solely through meetings and the ordinary process of law, while the importance of the consuls was such that certain envoys from Africa presented themselves before them with the complaint...",
+      "...s was not surprising, for it was plain to all that he himself actually arose in the presence of the consuls, and made way for them on the street."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
     "chapter": "Chapter 31",
     "caesar": "Tiberius",
     "entity": "Africa",
@@ -1083,7 +2328,59 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 178,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He rebuked some ex-consuls in command of armies, because they did not write their reports to the senate, and for referr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 179,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... as if they had not themselves the right to bestow everything of the kind. He highly complimented a praetor, because on entering upon his office he had revived the custom of eulogizing his ancestors b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 180,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...estors before the people. He attended the obsequies of certain distinguished men, even going to the funeral-pyre. 2 He showed equal modesty towards persons of lower rank and in matters of less moment..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 181,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...equal modesty towards persons of lower rank and in matters of less moment. When he had summoned the magistrates of Rhodes, because they had written him letters on public business without the concludin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 182,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -1097,7 +2394,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 183,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1110,7 +2407,216 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 184,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pay his respects, Tiberius took no further revenge than to bid him return seven years later. To the governors who recommended burdensome taxes for his provinces, he wrote in answer that it was the par..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 185,
+    "chapter": "Chapter 32",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...than to bid him return seven years later. To the governors who recommended burdensome taxes for his provinces, he wrote in answer that it was the part of a good shepherd to shear his flock, not skin i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 186,
+    "chapter": "Chapter 33",
+    "caesar": "Tiberius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the prevention of abuses. Thus he revoked some regulations of the senate and sometimes offered the magistrates his services as adviser, when they sat in judgment on the tribunal, taking his place bes..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 187,
+    "chapter": "Chapter 33",
+    "caesar": "Tiberius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ate and sometimes offered the magistrates his services as adviser, when they sat in judgment on the tribunal, taking his place beside them or opposite them at one end of the platform; and if it was ru...",
+      "...cquitted through influence, he would suddenly appear, and either from the floor or from the judge's tribunal remind the jurors of the laws and of their oath, as well as of the nature of the crime on w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 188,
+    "chapter": "Chapter 34",
+    "caesar": "Tiberius",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ced the cost of the games and shows by cutting down the pay of the actors and limiting the pairs of gladiators to a fixed number. Complaining bitterly that the prices of Corinthian bronzes had risen t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 189,
+    "chapter": "Chapter 34",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ian bronzes had risen to an immense figure and that three mullets had been sold for thirty thousand sesterces,⁠ b1 he proposed that a limit be set to household furniture and that the prices in the mar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 190,
+    "chapter": "Chapter 34",
+    "caesar": "Tiberius",
+    "entity": "aediles",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t the prices in the market should be regulated each year at the discretion of the senate; while the aediles were instructed to put such restrictions on cook-shops and eating-houses as not to allow eve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 191,
+    "chapter": "Chapter 34",
+    "caesar": "Tiberius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e issued an edict forbidding general kissing, as well as the exchange of New Year's gifts after the Kalends of January. It was his custom to return a gift of four-fold value, and in person; but annoye..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 192,
+    "chapter": "Chapter 34",
+    "caesar": "Tiberius",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e issued an edict forbidding general kissing, as well as the exchange of New Year's gifts after the Kalends of January. It was his custom to return a gift of four-fold value, and in person; but annoye..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 193,
+    "chapter": "Chapter 35",
+    "caesar": "Tiberius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of ill-repute be punished according to the decision of a council of their relatives. He absolved a Roman knight from his oath and allowed him to put away his wife, who was taken in adultery with her ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 194,
+    "chapter": "Chapter 35",
+    "caesar": "Tiberius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...deprived a senator of his broad stripe on learning that he had moved to his gardens just before the Kalends of July, with the design of renting a house in the city at a lower figure after that date. H..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 195,
+    "chapter": "Chapter 35",
+    "caesar": "Tiberius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...esign of renting a house in the city at a lower figure after that date. He deposed another from his quaestor ­ship, because he had taken a wife the day before casting lots and divorced her the day aft..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 196,
+    "chapter": "Chapter 36",
+    "caesar": "Tiberius",
+    "entity": "Jews",
+    "slug": "Jews",
+    "url": "https://en.wikipedia.org/wiki/Jews",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d to such superstitions to burn their religious vestments and all their paraphernalia. Those of the Jews who were of military age he assigned to provinces of less healthy climate, ostensibly to serve ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
+    "chapter": "Chapter 36",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...us vestments and all their paraphernalia. Those of the Jews who were of military age he assigned to provinces of less healthy climate, ostensibly to serve in the army; the others of that same race or ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 198,
+    "chapter": "Chapter 36",
+    "caesar": "Tiberius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o were of military age he assigned to provinces of less healthy climate, ostensibly to serve in the army; the others of that same race or of similar beliefs he banished from the city, on pain of slave..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 37",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ttention to securing safety from prowling brigands and lawless outbreaks. He stationed garrisons of soldiers nearer together than before throughout Italy, while at Rome he established a camp for the b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1124,7 +2630,46 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 201,
+    "chapter": "Chapter 37",
+    "caesar": "Tiberius",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...han before throughout Italy, while at Rome he established a camp for the barracks of the praetorian cohorts, which before that time had been quartered in isolated groups in divers lodging houses. 2 H..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 202,
+    "chapter": "Chapter 37",
+    "caesar": "Tiberius",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er induce him to recall them. 3 When the populace of Pollentia would not allow the body of a chief-centurion to be taken from the forum until their violence had extorted money from his heirs for a gl..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
+    "chapter": "Chapter 37",
+    "caesar": "Tiberius",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m until their violence had extorted money from his heirs for a gladiatorial show, he dispatched one cohort from the city and another from the kingdom of Cottius, concealing the reason for the move, se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 204,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Mithridates",
@@ -1137,7 +2682,7 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 205,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Cappadocia",
@@ -1150,7 +2695,33 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 206,
+    "chapter": "Chapter 37",
+    "caesar": "Tiberius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Rhascuporis the Thracian, and Archelaus of Cappadocia, whose realm he also reduced to the form of a province."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 207,
+    "chapter": "Chapter 38",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...even that very seldom and for a few days at a time. Yet he often gave out that he would revisit the provinces too and the armies, and nearly every year he made preparations for a journey by chartering..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 208,
     "chapter": "Chapter 39",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1164,7 +2735,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 209,
     "chapter": "Chapter 39",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -1177,7 +2748,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 210,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -1190,7 +2761,20 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 211,
+    "chapter": "Chapter 40",
+    "caesar": "Tiberius",
+    "entity": "Capitolium",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 After traversing Campania and dedicating the Capitolium at Capua and a temple to Augustus at Nola, which was the pretext he had given for his jou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Capua",
@@ -1203,7 +2787,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 213,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1216,7 +2800,48 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 214,
+    "chapter": "Chapter 41",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ime on never filling the vacancies in the decuries of the knights, nor changing the tribunes of the soldiers and prefects or the governors of any of his provinces. He left Spain and Syria without cons..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 215,
+    "chapter": "Chapter 41",
+    "caesar": "Tiberius",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ncies in the decuries of the knights, nor changing the tribunes of the soldiers and prefects or the governors of any of his provinces. He left Spain and Syria without consular governors for several ye...",
+      "...ers and prefects or the governors of any of his provinces. He left Spain and Syria without consular governors for several years, suffered Armenia to be overrun by the Parthians, Moesia to be laid wast..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 216,
+    "chapter": "Chapter 41",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... the knights, nor changing the tribunes of the soldiers and prefects or the governors of any of his provinces. He left Spain and Syria without consular governors for several years, suffered Armenia to...",
+      "... be overrun by the Parthians, Moesia to be laid waste by the Dacians and Sarmatians, and the Gallic provinces by the Germans, to the great dishonour of the empire and no less to its danger."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 217,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Spain",
@@ -1229,7 +2854,7 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 218,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Armenia",
@@ -1242,7 +2867,7 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 219,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Moesia",
@@ -1255,7 +2880,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 220,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Claudius",
@@ -1268,7 +2893,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 221,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -1281,7 +2906,33 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 222,
+    "chapter": "Chapter 42",
+    "caesar": "Tiberius",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...feasting and drinking with Pomponius Flaccus and Lucius Piso, immediately afterwards making the one governor of the province of Syria and the other prefect of the city, and even declaring in their com..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 223,
+    "chapter": "Chapter 42",
+    "caesar": "Tiberius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nking with Pomponius Flaccus and Lucius Piso, immediately afterwards making the one governor of the province of Syria and the other prefect of the city, and even declaring in their commissions that th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 224,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1294,7 +2945,33 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 225,
+    "chapter": "Chapter 42",
+    "caesar": "Tiberius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...stoms, and that nude girls should wait upon them at table. He gave a very obscure candidate for the quaestor ­ship preference over men of the noblest families, because at the emperor's challenge he ha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 226,
+    "chapter": "Chapter 42",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lenge he had drained an amphora of wine at a banquet. He paid Asellius Sabinus two hundred thousand sesterces for a dialogue, in which he had introduced a contest of a mushroom, a fig-pecker, an oyste..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 227,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Titus",
@@ -1307,7 +2984,46 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 228,
+    "chapter": "Chapter 42",
+    "caesar": "Tiberius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ablished a new office, master of the imperial pleasures, assigning it to Titus Caesonius Priscus, a Roman knight."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 229,
+    "chapter": "Chapter 44",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uring Meleager with her lips on condition that if the theme displeased him he was to have a million sesterces instead, he chose to keep it and actually hung it in his bedroom. The story is also told t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 230,
+    "chapter": "Chapter 46",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hen he formed three classes according to each man's rank and gave to the first six hundred thousand sesterces, to the second four hundred thousand, and to the third, which he called one, not of his fr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 231,
     "chapter": "Chapter 47",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1321,7 +3037,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 232,
     "chapter": "Chapter 47",
     "caesar": "Tiberius",
     "entity": "Pompey",
@@ -1334,7 +3050,34 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 233,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...howed generosity to the public in but two instances, once when he offered to lend a hundred million sesterces without interest for a period of three years, and again when he made good the losses of so..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 234,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "Caelian",
+    "slug": "Caelian_Hill",
+    "url": "https://en.wikipedia.org/wiki/Caelian_Hill",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...od of three years, and again when he made good the losses of some owners of blocks of houses on the Caelian mount, which had burned down. The former was forced upon him by the clamour of the people fo...",
+      "...eat hardship. Yet he made so much of his liberality in the latter case, that he had the name of the Caelian changed to the Augustan Mount. 2 After he had doubled the legacies provided for in the will..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 235,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1347,7 +3090,100 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 236,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...fter he had doubled the legacies provided for in the will of Augustus, he never gave largess to the soldiers, with the exception of a thousand denarii to each of the praetorians, for not taking sides ...",
+      "...lone had consecrated no image of Sejanus among their standards. He also very rarely allowed veteran soldiers their discharge, having an eye to their death from years, and a saving of money through the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 237,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or in the will of Augustus, he never gave largess to the soldiers, with the exception of a thousand denarii to each of the praetorians, for not taking sides with Sejanus, and some presents to the legi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 238,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and denarii to each of the praetorians, for not taking sides with Sejanus, and some presents to the legions in Syria, because they alone had consecrated no image of Sejanus among their standards. He a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 239,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...or not taking sides with Sejanus, and some presents to the legions in Syria, because they alone had consecrated no image of Sejanus among their standards. He also very rarely allowed veteran soldiers ...",
+      "...or not taking sides with Sejanus, and some presents to the legions in Syria, because they alone had consecrated no image of Sejanus among their standards. He also very rarely allowed veteran soldiers ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 240,
+    "chapter": "Chapter 48",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...an eye to their death from years, and a saving of money through their death. He did not relieve the provinces either by any act of liberality, except Asia, when some cities were destroyed by an earthq..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 241,
+    "chapter": "Chapter 49",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n of very high birth, was condemned to banishment to gratify Quirinius, an opulent and childless ex-consul, who had divorced her, and twenty years later accused her of having attempted to poison him m..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 242,
+    "chapter": "Chapter 49",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ted to poison him many years before; 2 that besides this the leading men of the Spanish and Gallic provinces, as well as of Syria and Greece, had their property confiscated on trivial and shameless c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 243,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "Greece",
@@ -1360,7 +3196,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 244,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "Antioch",
@@ -1373,7 +3209,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 245,
     "chapter": "Chapter 50",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1388,7 +3224,46 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 246,
+    "chapter": "Chapter 50",
+    "caesar": "Tiberius",
+    "entity": "temple of Vesta",
+    "slug": "Temple_of_Vesta",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Vesta",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...h affairs of importance and unbecoming a woman, especially after he learned that at a fire near the temple of Vesta she had been present in person, and urged the people and soldiers to greater efforts..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 247,
+    "chapter": "Chapter 50",
+    "caesar": "Tiberius",
+    "entity": "Vesta",
+    "slug": "Vesta_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Vesta_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of importance and unbecoming a woman, especially after he learned that at a fire near the temple of Vesta she had been present in person, and urged the people and soldiers to greater efforts, as had b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 248,
+    "chapter": "Chapter 50",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed that at a fire near the temple of Vesta she had been present in person, and urged the people and soldiers to greater efforts, as had been her way while her husband was alive."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 249,
     "chapter": "Chapter 51",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1401,7 +3276,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 250,
     "chapter": "Chapter 51",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1414,7 +3289,20 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 251,
+    "chapter": "Chapter 52",
+    "caesar": "Tiberius",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      ".... Therefore, even when he died, Tiberius was not greatly affected, but almost immediately after the funeral returned to his usual routine, forbidding a longer period of mourning. 2 Nay, more, when a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 252,
     "chapter": "Chapter 52",
     "caesar": "Tiberius",
     "entity": "Alexandria",
@@ -1427,7 +3315,20 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 253,
+    "chapter": "Chapter 52",
+    "caesar": "Tiberius",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ithout consulting him. 3 It is even believed that he caused his death at the hands of Gnaeus Piso, governor of Syria, and some think that when Piso was tried on that charge, he would have produced hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 254,
     "chapter": "Chapter 53",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1440,7 +3341,60 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 255,
+    "chapter": "Chapter 53",
+    "caesar": "Tiberius",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rmies, he exiled her to Pandataria, and when she loaded him with reproaches, he had her beaten by a centurion until one of her eyes was destroyed. Again, when she resolved to die of starvation, he had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 256,
+    "chapter": "Chapter 53",
+    "caesar": "Tiberius",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... in recognition of this remarkable clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol.",
+      "... in recognition of this remarkable clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 257,
+    "chapter": "Chapter 53",
+    "caesar": "Tiberius",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of this remarkable clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 258,
+    "chapter": "Chapter 53",
+    "caesar": "Tiberius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...able clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 259,
     "chapter": "Chapter 54",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -1455,7 +3409,20 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 260,
+    "chapter": "Chapter 57",
+    "caesar": "Tiberius",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or, even at the beginning, when he was still courting popularity by a show of moderation. 2 When a funeral was passing by and a jester called aloud to the corpse to let Augustus know that the legacie..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 261,
     "chapter": "Chapter 57",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1468,7 +3435,33 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 262,
+    "chapter": "Chapter 57",
+    "caesar": "Tiberius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... his due and put to death, and bade him go tell the truth to his father. Shortly afterwards, when a Roman knight called Pompeius stoutly opposed some action in the senate, Tiberius threatened him with..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 263,
+    "chapter": "Chapter 58",
+    "caesar": "Tiberius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 It was at about this time that a praetor asked him whether he should have the courts convened to consider cases of lese-majesty; to w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 264,
     "chapter": "Chapter 58",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1483,7 +3476,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 265,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -1496,7 +3489,20 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 266,
+    "chapter": "Chapter 59",
+    "caesar": "Tiberius",
+    "entity": "Saturn",
+    "slug": "Saturn_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...you ask the whole tale, you were an exile at Rhodes. You, O Caesar, have altered the golden ages of Saturn; For while you are alive, iron they ever will be. Nothing for wine cares this fellow, since n..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 267,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1511,7 +3517,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 268,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Sulla",
@@ -1524,7 +3530,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 269,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Marius",
@@ -1537,7 +3543,46 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 270,
+    "chapter": "Chapter 60",
+    "caesar": "Tiberius",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r an enormous crab that he had caught, Tiberius had his face torn with the crab also. He punished a soldier of the praetorian guard with death for having stolen a peacock from his preserves. When the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 271,
+    "chapter": "Chapter 60",
+    "caesar": "Tiberius",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ich he was making a trip was stopped by brambles, he had the man who went ahead to clear the way, a centurion of the first cohorts, stretched out on the ground and flogged half to death."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 272,
+    "chapter": "Chapter 60",
+    "caesar": "Tiberius",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...p was stopped by brambles, he had the man who went ahead to clear the way, a centurion of the first cohorts, stretched out on the ground and flogged half to death."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 273,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Brutus",
@@ -1550,7 +3595,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 274,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Cassius",
@@ -1563,7 +3608,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 275,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1576,7 +3621,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 276,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -1589,7 +3634,20 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 277,
+    "chapter": "Chapter 61",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sons and a man begged for a speedy death, he replied: \"I have not yet become your friend.\" 6 An ex-consul has recorded in his Annals that once at a large dinner-party, at which the writer himself was..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 278,
     "chapter": "Chapter 62",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -1602,7 +3660,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 279,
     "chapter": "Chapter 62",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1615,7 +3673,20 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 280,
+    "chapter": "Chapter 63",
+    "caesar": "Tiberius",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eed, he even attempted to do away with the oracles near the city, but forbore through terror at the divine power of the Praenestine lots; for though he had them sealed up in a chest and brought to Rom..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 281,
     "chapter": "Chapter 63",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1629,7 +3700,72 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 282,
+    "chapter": "Chapter 63",
+    "caesar": "Tiberius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ught to Rome, he could not find them until the box was taken back to the temple. 2 He had assigned provinces to one or two ex-consuls, of whom he did not dare to lose sight, but he detained them at R..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 283,
+    "chapter": "Chapter 63",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...find them until the box was taken back to the temple. 2 He had assigned provinces to one or two ex-consuls, of whom he did not dare to lose sight, but he detained them at Rome and finally appointed t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 284,
+    "chapter": "Chapter 64",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ren he never moved them anywhere except in fetters and in a tightly closed litter, while a guard of soldiers kept any who met them on the road from looking at them or even from stopping as they went b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 285,
+    "chapter": "Chapter 65",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ve him from his person under colour of showing him honour, he chose him as his colleague in a fifth consul ­ship, which, with this very end in view, he assumed after a long interval while absent from ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 286,
+    "chapter": "Chapter 65",
+    "caesar": "Tiberius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed it in a shameful and pitiable speech, begging the senators among other things to send one of the consuls to bring him, a lonely old man, into their presence under military protection. 2 Even then ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 287,
     "chapter": "Chapter 65",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1642,7 +3778,20 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 288,
+    "chapter": "Chapter 65",
+    "caesar": "Tiberius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...demanded, and made commander-in‑chief. He even got ships ready and thought of flight to some of the legions, constantly watching from a high cliff for the signals which he had ordered to be raised afa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 289,
     "chapter": "Chapter 68",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1655,7 +3804,20 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 290,
+    "chapter": "Chapter 69",
+    "caesar": "Tiberius",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he was nevertheless immoderately afraid of thunder. Whenever the sky was lowering, he always wore a laurel wreath, because it is said that that kind of leaf is not blasted by lightning. 94"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 291,
     "chapter": "Chapter 70",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1668,7 +3830,20 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 292,
+    "chapter": "Chapter 71",
+    "caesar": "Tiberius",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e idea be expressed by several words, if necessary, and by periphrasis. On another occasion, when a soldier was asked in Greek to give testimony, he forbade him to answer except in Latin."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 293,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1681,7 +3856,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 294,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -1694,7 +3869,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 295,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -1707,7 +3882,46 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 296,
+    "chapter": "Chapter 72",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Circeii. To avoid giving any suspicion of his weak condition, he not only attended the games of the soldiers, but even threw down darts from his high seat at a boar which was let into the arena. Immed..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 297,
+    "chapter": "Chapter 73",
+    "caesar": "Tiberius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...seventy-eighth year of his age and the twenty-third of his reign, on the seventeenth day before the Kalends of April, in the consul ­ship of Gnaeus Acerronius Proculus and Gaius Pontius Nigrinus. 2 S..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 298,
+    "chapter": "Chapter 73",
+    "caesar": "Tiberius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s age and the twenty-third of his reign, on the seventeenth day before the Kalends of April, in the consul ­ship of Gnaeus Acerronius Proculus and Gaius Pontius Nigrinus. 2 Some think that Gaius gave..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 299,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -1720,7 +3934,33 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 300,
+    "chapter": "Chapter 75",
+    "caesar": "Tiberius",
+    "entity": "Manes",
+    "slug": "Manes",
+    "url": "https://en.wikipedia.org/wiki/Manes",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of it some ran about shouting, \"Tiberius to the Tiber,\" while others prayed to Mother Earth and the Manes to allow the dead man no abode except among the damned. Still others threatened his body with ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 301,
+    "chapter": "Chapter 75",
+    "caesar": "Tiberius",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...refore hatred of the tyrant waxed greater, since his cruelty endured even after his death. When the funeral procession left Misenum, many cried out that the body ought rather to be carried to Atella, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 302,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1733,7 +3973,33 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 303,
+    "chapter": "Chapter 75",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ather to be carried to Atella, and half-burned in the amphitheatre; but it was taken to Rome by the soldiers and reduced to ashes with public ceremonies."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 304,
+    "chapter": "Chapter 76",
+    "caesar": "Tiberius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he gave legacies to several, including the vestal virgins, as well as to each and every man of the soldiers and the commons of Rome, with separate ones to the masters of the city wards."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 305,
     "chapter": "Chapter 76",
     "caesar": "Tiberius",
     "entity": "Rome",

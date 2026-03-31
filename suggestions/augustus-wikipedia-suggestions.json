@@ -1,6 +1,99 @@
 [
   {
     "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Augustus",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...in the most frequented part of town long ago called Octavian, but an altar was shown there besides, consecrated by an Octavius. This man was leader in a war with a neighbouring town, and when news of ...",
+      "...in the most frequented part of town long ago called Octavian, but an altar was shown there besides, consecrated by an Octavius. This man was leader in a war with a neighbouring town, and when news of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Augustus",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...hen news of a sudden onset of the enemy was brought to him just as he chanced to be sacrifi­cing to Mars, he snatched the inwards of the victim from the fire and offered them up half raw; and thus he ...",
+      "... decree of the people on record, providing that for the future too the inwards should be offered to Mars in the same way, and the rest of the victims be handed over to the Octavii."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... by king Tarquinius Priscus among the lesser clans; was later enrolled by Servius Tullius among the patricians; in course of time returned to the ranks of the plebeians; and after a long interval was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "plebeians",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er enrolled by Servius Tullius among the patricians; in course of time returned to the ranks of the plebeians; and after a long interval was restored to patrician rank by the Deified Julius. The first..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "patrician",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...in course of time returned to the ranks of the plebeians; and after a long interval was restored to patrician rank by the Deified Julius. The first of the house to be elected by the people to a magist..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ius. The first of the house to be elected by the people to a magistracy was Gaius Rufus, who became quaestor. 2 He begot Gnaeus and Gaius, from whom two branches of the Octavian family were derived, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...held the highest offices, but Gaius and his progeny, whether from chance or choice, remained in the equestrian order down to the father of Augustus. Augustus's great - grandfather served in Sicily in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
     "chapter": "Chapter 2",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -15,7 +108,7 @@
     "status": "approved"
   },
   {
-    "id": 2,
+    "id": 9,
     "chapter": "Chapter 2",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -28,7 +121,20 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 10,
+    "chapter": "Chapter 2",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Augustus. Augustus's great - grandfather served in Sicily in the second Punic war as tribune of the soldiers under the command of Aemilius Papus. His grandfather, content with the offices of a municip..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
     "chapter": "Chapter 3",
     "caesar": "Augustus",
     "entity": "Macedonia",
@@ -41,7 +147,60 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 12,
+    "chapter": "Chapter 3",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ned to high positions and filled them with distinction. Macedonia fell to his lot at the end of his praetor ­ship; on his way to the province, executing a special commission from the senate, he wiped ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 3",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...them with distinction. Macedonia fell to his lot at the end of his praetor ­ship; on his way to the province, executing a special commission from the senate, he wiped out a band of run away slaves, re...",
+      "...ies of Spartacus and Catiline, who held possession of the country about Thurii. 2 In governing his province he showed equal justice and courage; for besides routing the Bessi and the other Thracians ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 3",
+    "caesar": "Augustus",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Bessi and the other Thracians in a great battle, his treatment of our allies was such, that Marcus Cicero, in letters which are still in existence, urges and admonishes his brother Quintus, who at th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 3",
+    "caesar": "Augustus",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... in existence, urges and admonishes his brother Quintus, who at the time was serving as proconsular governor of Asia with no great credit to himself, to imitate his neighbour Octavius in winning the f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
     "chapter": "Chapter 4",
     "caesar": "Augustus",
     "entity": "Macedonia",
@@ -54,7 +213,20 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 17,
+    "chapter": "Chapter 4",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 While returning from Macedonia, before he could declare himself a candidate for the consul ­ship, he died suddenly, survived by three children, an elder Octavia by Ancharia, and by Ati..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
     "chapter": "Chapter 4",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -69,7 +241,20 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 19,
+    "chapter": "Chapter 4",
+    "caesar": "Augustus",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r of Gaius Caesar. Balbus, a native of Aricia on his father's side, and of a family displaying many senatorial portraits, was closely connected on his mother's side with Pompey the Great. After holdin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
     "chapter": "Chapter 4",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -82,7 +267,20 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 21,
+    "chapter": "Chapter 4",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aits, was closely connected on his mother's side with Pompey the Great. After holding the office of praetor, he was one of the commission of twenty appointed by the Julian law to distribute lands in C..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
     "chapter": "Chapter 4",
     "caesar": "Augustus",
     "entity": "Campania",
@@ -95,7 +293,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 23,
     "chapter": "Chapter 4",
     "caesar": "Augustus",
     "entity": "Cassius",
@@ -108,7 +306,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 24,
     "chapter": "Chapter 5",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -122,7 +320,112 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 25,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Augustus was born just before sunrise on the ninth day before the Kalends of October⁠ a in the consul ­ship of Marcus Tullius Cicero and Gaius Antonius, at the Ox‑Hea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Augustus was born just before sunrise on the ninth day before the Kalends of October⁠ a in the consul ­ship of Marcus Tullius Cicero and Gaius Antonius, at the Ox‑Heads in the Palatine quarter, w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ore sunrise on the ninth day before the Kalends of October⁠ a in the consul ­ship of Marcus Tullius Cicero and Gaius Antonius, at the Ox‑Heads in the Palatine quarter, where he now has a shrine, built..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... October⁠ a in the consul ­ship of Marcus Tullius Cicero and Gaius Antonius, at the Ox‑Heads in the Palatine quarter, where he now has a shrine, built shortly after his death. For it is recorded in th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "patrician",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ath. For it is recorded in the proceedings of the senate, that when Gaius Laetorius, a young man of patrician family, was pleading for a milder punishment for adultery because of his youth and positio..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 5",
+    "caesar": "Augustus",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...might be called his own special god. Whereupon it was decreed that that part of his house should be consecrated.",
+      "...might be called his own special god. Whereupon it was decreed that that part of his house should be consecrated."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 7",
+    "caesar": "Augustus",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s. That he was surnamed Thurinus I may assert on very trustworthy evidence, since I once obtained a bronze statuette, representing him as a boy and inscribed with that name in letters of iron almost i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 7",
+    "caesar": "Augustus",
+    "entity": "Lares",
+    "slug": "Lares",
+    "url": "https://en.wikipedia.org/wiki/Lares",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ters of iron almost illegible from age. This I presented to the emperor, who cherishes it among the Lares of his bed-chamber. Furthermore, he is often called Thurinus in Mark Antony's letters by way o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
     "chapter": "Chapter 7",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -137,7 +440,34 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 34,
+    "chapter": "Chapter 7",
+    "caesar": "Augustus",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... new title but a more honourable one, inasmuch as sacred places too, and those in which anything is consecrated by augural rites are called \"august\" ( augusta ), from the increase ( auctus ) in dignit...",
+      "... new title but a more honourable one, inasmuch as sacred places too, and those in which anything is consecrated by augural rites are called \"august\" ( augusta ), from the increase ( auctus ) in dignit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 7",
+    "caesar": "Augustus",
+    "entity": "Ennius",
+    "slug": "Ennius",
+    "url": "https://en.wikipedia.org/wiki/Ennius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ease ( auctus ) in dignity, or front movements or feeding of the birds ( avium gestus gustuve ), as Ennius also shows when he writes: \"After by augury august illustrious Rome had been founded.\""
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
     "chapter": "Chapter 7",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -150,7 +480,33 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 37,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 At the age of four he lost his father. In his twelfth year he delivered a funeral oration to the assembled people in honour of his grandmother Julia. Four years later, after ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ur years later, after assuming the gown of manhood, he received military prizes at Caesar's African triumph, although he had taken no part in the war on account of his youth. When his uncle presently ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
     "chapter": "Chapter 8",
     "caesar": "Augustus",
     "entity": "Spain",
@@ -163,7 +519,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 40,
     "chapter": "Chapter 8",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -176,7 +532,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 41,
     "chapter": "Chapter 8",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -190,7 +546,46 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 42,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d above the energy with which he had made the journey. 2 When Caesar, after recovering the Spanish provinces, planned an expedition against the Dacians and then against the Parthians, Augustus, who h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...been slain and that he was his heir, he was in doubt for some time whether to appeal to the nearest legions, but gave up the idea as hasty and premature. He did, however, return to the city and enter ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...heritance, in spite of the doubts of his mother and the strong opposition of his stepfather, the ex-consul Marcius Philippus. 3 Then he levied armies and henceforth ruled the State, at first with Mar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
     "chapter": "Chapter 8",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -203,7 +598,20 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 46,
+    "chapter": "Chapter 9",
+    "caesar": "Augustus",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... not in chronological order, but by classes, to make the account clearer and more intelligible. The civil wars which he waged were five, called by the names of Mutina, Philippi, Perusia, Sicily, and A..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
     "chapter": "Chapter 9",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -216,7 +624,7 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 48,
     "chapter": "Chapter 9",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -229,7 +637,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 49,
     "chapter": "Chapter 9",
     "caesar": "Augustus",
     "entity": "Brutus",
@@ -242,7 +650,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 50,
     "chapter": "Chapter 9",
     "caesar": "Augustus",
     "entity": "Cassius",
@@ -255,7 +663,20 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 51,
+    "chapter": "Chapter 9",
+    "caesar": "Augustus",
+    "entity": "triumvir",
+    "slug": "Triumvirate",
+    "url": "https://en.wikipedia.org/wiki/Triumvirate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Antonius, the second against Brutus and Cassius, the third against Lucius Antonius, brother of the triumvir, and the fourth against Sextus Pompeius, son of Gnaeus."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
     "chapter": "Chapter 10",
     "caesar": "Augustus",
     "entity": "Brutus",
@@ -270,7 +691,7 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 53,
     "chapter": "Chapter 10",
     "caesar": "Augustus",
     "entity": "Cassius",
@@ -283,7 +704,33 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 54,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "patrician",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...idature for the position of one of the tribunes of the people, who happened to die; though he was a patrician, and not yet a senator. But when his designs were opposed by Marcus Antonius, who was then..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...atrician, and not yet a senator. But when his designs were opposed by Marcus Antonius, who was then consul, and on whose help he had especially counted, and Antony would not allow him even common and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
     "chapter": "Chapter 10",
     "caesar": "Augustus",
     "entity": "Decimus",
@@ -297,7 +744,85 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 57,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ecause he was besieging Decimus Brutus at Mutina, and trying to drive him by force of arms from the province given him by Caesar and ratified by the senate. 3 Accordingly at the advice of certain men..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he money he could command, both for his own protection and that of the State. Put in command of the army which he had raised, with the rank of propraetor, and bidden to join with Hirtius and Pansa, wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... had raised, with the rank of propraetor, and bidden to join with Hirtius and Pansa, who had become consuls, in lending aid to Decimus Brutus, he finished the war which had been entrusted to him withi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...his horse; but in that which followed all agree that he played the part not only a leader, but of a soldier as well, and that, in the thick of the fight, when the eagle-bearer of his legion was sorely..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 10",
+    "caesar": "Augustus",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...leader, but of a soldier as well, and that, in the thick of the fight, when the eagle-bearer of his legion was sorely wounded, he shouldered the eagle and carried it for some time."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 11",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed the death of both, in order that after Antony had been put to flight and the state bereft of its consuls, he might gain sole control of the victorious armies. The circumstances of Pansa's death in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
     "chapter": "Chapter 11",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -310,7 +835,20 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 64,
+    "chapter": "Chapter 11",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aving applied poison to his wound. Aquilius Niger adds to this that Augustus himself slew the other consul Hirtius amid the confusion of the battle."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
     "chapter": "Chapter 12",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -323,7 +861,7 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 66,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -336,7 +874,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 67,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -349,7 +887,7 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 68,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Brutus",
@@ -362,7 +900,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 69,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -375,7 +913,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 70,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Cato",
@@ -388,7 +926,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 71,
     "chapter": "Chapter 13",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -402,7 +940,85 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 72,
+    "chapter": "Chapter 14",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When Lucius Antonius at this juncture attempted a revolution, relying on his position as consul and his brother's power, he forced him to take refuge in Perusia, and starved him into surren..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 14",
+    "caesar": "Augustus",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...th before and during the war. For at an exhibition of games, when he had given orders that a common soldier who was sitting in the fourteen rows be put out by an attendant, the report was spread by hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 14",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d the man killed later and tortured as well; whereupon he all but lost his life in a furious mob of soldiers, owing his escape to the sudden appearance of the missing man safe and sound. Again, when h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 14",
+    "caesar": "Augustus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d. Again, when he was sacrifi­cing near the walls of Perusia, he was well nigh cut off by a band of gladiators, who had made a sally from the town."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 15",
+    "caesar": "Augustus",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...that three hundred men of both orders were selected from the prisoners of war and sacrificed on the Ides of March like so many victims at the altar raised to the Deified Julius. Some have written that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 15",
+    "caesar": "Augustus",
+    "entity": "Ides of March",
+    "slug": "Ides_of_March",
+    "url": "https://en.wikipedia.org/wiki/Ides_of_March",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...that three hundred men of both orders were selected from the prisoners of war and sacrificed on the Ides of March like so many victims at the altar raised to the Deified Julius. Some have written that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Baiae",
@@ -415,7 +1031,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 79,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -430,7 +1046,34 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 80,
+    "chapter": "Chapter 16",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ttle, but lay in a stupor on his back, looking up at the sky, and did not rise or appear before the soldiers until the enemy's ships had been put to flight by Marcus Agrippa.\" Some censured an act and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 16",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...t in none of his wars did he encounter more dangers or greater ones. For when he had transported an army to Sicily and was on his way back to the rest of his forces on the mainland, he was surprised b...",
+      "... twenty legions and claimed the first place with terrible threats; but Augustus stripped him of his army; and though he granted him his life when he sued for it, he banished him for all time to Circei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -443,7 +1086,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 83,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -458,7 +1101,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 84,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -471,7 +1114,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 85,
     "chapter": "Chapter 16",
     "caesar": "Augustus",
     "entity": "Africa",
@@ -484,7 +1127,20 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 86,
+    "chapter": "Chapter 16",
+    "caesar": "Augustus",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...us Lepidus, whom he had summoned from Africa to help him, was puffed up by confidence in his twenty legions and claimed the first place with terrible threats; but Augustus stripped him of his army; an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -497,7 +1153,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 88,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Cleopatra",
@@ -512,7 +1168,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 89,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Titus",
@@ -525,7 +1181,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 90,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Domitius",
@@ -538,7 +1194,46 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 91,
+    "chapter": "Chapter 17",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...k to him all his kinsfolk and friends, among others Gaius Sosius and Titus Domitius, who were still consuls at the time. He also excused the community of Bononia from joining in the rally of all Italy..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 17",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...was disturbed by the news of a mutiny of the troops that he had selected from every division of his army and sent on to Brundisium after the victory, who demanded their rewards and discharge; and on h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 17",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e delayed at Brundisium only twenty-seven days — just long enough to satisfy all the demands of the soldiers — and then went to Egypt by a roundabout way through Asia and Syria, laid siege to Alexandr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Egypt",
@@ -551,7 +1246,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 95,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Alexandria",
@@ -564,7 +1259,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 96,
     "chapter": "Chapter 17",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -577,7 +1272,20 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 97,
+    "chapter": "Chapter 17",
+    "caesar": "Augustus",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed him to commit suicide, and viewed his corpse. He greatly desired to save Cleopatra alive for his triumph, and even had Psylli brought to her, to suck the poison from her wound, since it was thought..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 98,
     "chapter": "Chapter 18",
     "caesar": "Augustus",
     "entity": "Egypt",
@@ -590,7 +1298,60 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 99,
+    "chapter": "Chapter 18",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...as well, he replied, \"My wish was to see a king, not corpses.\" 2 He reduced Egypt to the form of a province, and then to make it more fruitful and better adapted to supply the city with grain, he set..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
+    "chapter": "Chapter 18",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nce, and then to make it more fruitful and better adapted to supply the city with grain, he set his soldiers at work cleaning out all the canals into which the Nile overflows, which in the course of m..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
+    "chapter": "Chapter 18",
+    "caesar": "Augustus",
+    "entity": "consecrated",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...emple of Apollo; and after adorning the site of the camp which he had occupied with naval trophies, consecrated it to Neptune and Mars.⁠ b",
+      "...emple of Apollo; and after adorning the site of the camp which he had occupied with naval trophies, consecrated it to Neptune and Mars.⁠ b"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 102,
+    "chapter": "Chapter 18",
+    "caesar": "Augustus",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rning the site of the camp which he had occupied with naval trophies, consecrated it to Neptune and Mars.⁠ b"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
     "chapter": "Chapter 19",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -603,7 +1364,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 104,
     "chapter": "Chapter 19",
     "caesar": "Augustus",
     "entity": "Asinius",
@@ -616,7 +1377,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 105,
     "chapter": "Chapter 19",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -629,7 +1390,33 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 106,
+    "chapter": "Chapter 19",
+    "caesar": "Augustus",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...on both Augustus and the senate, under the delusion that he himself was destined for empire. Even a soldier's servant from the army in Illyricum, who had escaped the vigilance of the door-keepers, was..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 19",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nate, under the delusion that he himself was destined for empire. Even a soldier's servant from the army in Illyricum, who had escaped the vigilance of the door-keepers, was caught at night near the e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
     "chapter": "Chapter 19",
     "caesar": "Augustus",
     "entity": "Illyricum",
@@ -642,7 +1429,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 109,
     "chapter": "Chapter 20",
     "caesar": "Augustus",
     "entity": "Pannonia",
@@ -655,7 +1442,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 110,
     "chapter": "Chapter 20",
     "caesar": "Augustus",
     "entity": "Germany",
@@ -668,7 +1455,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 111,
     "chapter": "Chapter 20",
     "caesar": "Augustus",
     "entity": "Ravenna",
@@ -681,7 +1468,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 112,
     "chapter": "Chapter 20",
     "caesar": "Augustus",
     "entity": "Mediolanum",
@@ -694,7 +1481,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 113,
     "chapter": "Chapter 21",
     "caesar": "Augustus",
     "entity": "Pannonia",
@@ -707,7 +1494,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 114,
     "chapter": "Chapter 21",
     "caesar": "Augustus",
     "entity": "Illyricum",
@@ -720,7 +1507,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 115,
     "chapter": "Chapter 21",
     "caesar": "Augustus",
     "entity": "Gaul",
@@ -733,7 +1520,33 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 116,
+    "chapter": "Chapter 21",
+    "caesar": "Augustus",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...his military glory at any cost, that he forced the chiefs of certain barbarians to take oath in the temple of Mars the Avenger that they would faithfully keep the peace for which they asked; in some c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 117,
+    "chapter": "Chapter 21",
+    "caesar": "Augustus",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ry glory at any cost, that he forced the chiefs of certain barbarians to take oath in the temple of Mars the Avenger that they would faithfully keep the peace for which they asked; in some cases, inde..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
     "chapter": "Chapter 21",
     "caesar": "Augustus",
     "entity": "Armenia",
@@ -746,7 +1559,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 119,
     "chapter": "Chapter 21",
     "caesar": "Augustus",
     "entity": "Crassus",
@@ -759,7 +1572,20 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 120,
+    "chapter": "Chapter 22",
+    "caesar": "Augustus",
+    "entity": "ovation",
+    "slug": "Ovatio",
+    "url": "https://en.wikipedia.org/wiki/Ovatio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ee times in a far shorter period, having won peace on land and sea. He twice entered the city in an ovation, after the war of Philippi, again after that in Sicily, and he celebrated three regular triu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 121,
     "chapter": "Chapter 22",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -772,7 +1598,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 122,
     "chapter": "Chapter 22",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -785,7 +1611,20 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 123,
+    "chapter": "Chapter 22",
+    "caesar": "Augustus",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... an ovation, after the war of Philippi, again after that in Sicily, and he celebrated three regular triumphs for his victories in Dalmatia, at Actium, and at Alexandria, all on three successive days."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
     "chapter": "Chapter 22",
     "caesar": "Augustus",
     "entity": "Alexandria",
@@ -798,7 +1637,7 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 125,
     "chapter": "Chapter 23",
     "caesar": "Augustus",
     "entity": "Germany",
@@ -811,7 +1650,166 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 126,
+    "chapter": "Chapter 23",
+    "caesar": "Augustus",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...Of these the former was more humiliating than serious, but the latter was almost fatal, since three legions were cut to pieces with their general, his lieutenants, and all the auxiliaries. When the ne...",
+      "...ir, and sometimes he would dash his head against a door, crying: \"Quintilius Varus, give me back my legions!\" And he observed the day of the disaster each year as one of sorrow and mourning."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 23",
+    "caesar": "Augustus",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...most fatal, since three legions were cut to pieces with their general, his lieutenants, and all the auxiliaries. When the news of this came, he ordered that watch be kept by night throughout the city,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 23",
+    "caesar": "Augustus",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hat watch be kept by night throughout the city, to prevent outbreak, and prolonged the terms of the governors of the provinces, that the allies might be held to their allegiance by experienced men wit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
+    "chapter": "Chapter 23",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... by night throughout the city, to prevent outbreak, and prolonged the terms of the governors of the provinces, that the allies might be held to their allegiance by experienced men with whom they were ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 130,
+    "chapter": "Chapter 23",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...their allegiance by experienced men with whom they were acquainted. 2 He also vowed great games to Jupiter Optimus Maximus, in case the condition of the commonwealth should improve, a thing which had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 131,
+    "chapter": "Chapter 24",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He made many changes and innovations in the army, besides reviving some usages of former times. He exacted the strictest discipline. It was with..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
+    "chapter": "Chapter 24",
+    "caesar": "Augustus",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...at he allowed even his generals to visit their wives, and then only in the winter season. He sold a Roman knight and his property at public auction, because he had cut off the thumbs of two young sons..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 133,
+    "chapter": "Chapter 24",
+    "caesar": "Augustus",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...banished to the country districts, but allowed to live in freedom. 2 He dismissed the entire tenth legion in disgrace, because they were insubordinate, and others, too, that demanded their discharge ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 24",
+    "caesar": "Augustus",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nt fashion, he disbanded without the rewards which would have been due for faithful service. If any cohorts gave way in battle, he decimated them, and fed the rest on barley. When centurions left thei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 24",
+    "caesar": "Augustus",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ful service. If any cohorts gave way in battle, he decimated them, and fed the rest on barley. When centurions left their posts, he punished them with death, just as he did the rank and file; for faul..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
+    "chapter": "Chapter 25",
+    "caesar": "Augustus",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 After the civil wars he never called any of the troops \"comrades,\" either in the assembly or in an edict, but ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 137,
+    "chapter": "Chapter 25",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...rs he never called any of the troops \"comrades,\" either in the assembly or in an edict, but always \"soldiers\"; and he would not allow them to be addressed otherwise, even by those of his sons or steps...",
+      "...ire-brigade in Rome, and when there was fear of riots in times of scarcity, he employed freedmen as soldiers only twice: once as a guard for the colonies in the vicinity of Illyricum, and again to def...",
+      "... once gave them freedom; and he kept them under their original standard, not mingling them with the soldiers of free birth or arming them in the same fashion. 3 As military prizes he was somewhat mor..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 138,
     "chapter": "Chapter 25",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -824,7 +1822,20 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 139,
+    "chapter": "Chapter 25",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...xcept as a fire-brigade in Rome, and when there was fear of riots in times of scarcity, he employed freedmen as soldiers only twice: once as a guard for the colonies in the vicinity of Illyricum, and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 140,
     "chapter": "Chapter 25",
     "caesar": "Augustus",
     "entity": "Illyricum",
@@ -837,7 +1848,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 141,
     "chapter": "Chapter 25",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -850,7 +1861,139 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 142,
+    "chapter": "Chapter 25",
+    "caesar": "Augustus",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ented Marcus Agrippa with a blue banner in Sicily after his naval victory. Those who had celebrated triumphs were the only ones whom he thought ineligible for prizes, even though they had been the com..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 5,
+    "contexts": [
+      "...eived offices and honours before the usual age, and some of a new kind and for life. He usurped the consul ­ship in the twentieth year of his age, leading his legions against the city as if it were th...",
+      "... cloak and showing the hilt of his sword, did not hesitate to say in the House, \"This will make him consul, if you do not.\" 2 He held his second consul ­ship nine years later, and a third after a yea...",
+      "...not hesitate to say in the House, \"This will make him consul, if you do not.\" 2 He held his second consul ­ship nine years later, and a third after a year's interval; the rest up to the eleventh were..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 144,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a new kind and for life. He usurped the consul ­ship in the twentieth year of his age, leading his legions against the city as if it were that of an enemy, and sending messengers to demand the office..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...if it were that of an enemy, and sending messengers to demand the office for him in the name of his army; and when the Senate hesitated, his centurion, Cornelius, leader of the deputation, throwing ba..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 146,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...messengers to demand the office for him in the name of his army; and when the Senate hesitated, his centurion, Cornelius, leader of the deputation, throwing back his cloak and showing the hilt of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 147,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "curule chair",
+    "slug": "Curule_chair",
+    "url": "https://en.wikipedia.org/wiki/Curule_chair",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...months, except the second, which lasted only a few hours; for after sitting for a short time on the curule chair in front of the temple of Jupiter Capitolinus in the early morning, he resigned the hon..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 148,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ich lasted only a few hours; for after sitting for a short time on the curule chair in front of the temple of Jupiter Capitolinus in the early morning, he resigned the honour on the Kalends of January..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 149,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... only a few hours; for after sitting for a short time on the curule chair in front of the temple of Jupiter Capitolinus in the early morning, he resigned the honour on the Kalends of January and appoi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 150,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r in front of the temple of Jupiter Capitolinus in the early morning, he resigned the honour on the Kalends of January and appointed another in his place. He did not begin all his consul ­ships in Rom..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 151,
+    "chapter": "Chapter 26",
+    "caesar": "Augustus",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r in front of the temple of Jupiter Capitolinus in the early morning, he resigned the honour on the Kalends of January and appointed another in his place. He did not begin all his consul ­ships in Rom..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 152,
     "chapter": "Chapter 26",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -863,7 +2006,20 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 153,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the list his guardian Gaius Toranius, who had also been the colleague of his father Octavius in the aedile ­ship. 2 Julius Saturninus adds that after the proscription was over Marcus Lepidus addresse..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 154,
     "chapter": "Chapter 27",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -876,7 +2032,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 155,
     "chapter": "Chapter 27",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -891,7 +2047,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 156,
     "chapter": "Chapter 27",
     "caesar": "Augustus",
     "entity": "Titus",
@@ -904,7 +2060,235 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 157,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... honoured Titus Vinius Philopoemen with equestrian rank, because it was said that he had hidden his patron, who was on the list. 3 While he was triumvir, Augustus incurred general detestation by many..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 158,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "triumvir",
+    "slug": "Triumvirate",
+    "url": "https://en.wikipedia.org/wiki/Triumvirate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...trian rank, because it was said that he had hidden his patron, who was on the list. 3 While he was triumvir, Augustus incurred general detestation by many of his acts. For example, when he was addres..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 159,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... Augustus incurred general detestation by many of his acts. For example, when he was addressing the soldiers and a throng of civilians had been admitted to the assembly, noti­cing that Pinarius, a Rom...",
+      "... something else; but a little later he had Gallius hustled from the tribunal by some centurions and soldiers, tortured him as if he were a slave, and though he made no confession, ordered his executio..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 160,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he soldiers and a throng of civilians had been admitted to the assembly, noti­cing that Pinarius, a Roman knight, was taking notes, he ordered that he be stabbed on the spot, thinking him an eavesdrop..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 161,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rdered that he be stabbed on the spot, thinking him an eavesdropper and a spy. Because Tedius Afer, consul elect, railed at some act of his in spiteful terms, he uttered such terrible threats that Afe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ms, he uttered such terrible threats that Afer committed suicide. 4 Again, when Quintus Gallius, a praetor, held some folded tablets under his robe as he was paying his respects, Augustus, suspecting..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 163,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or fear it should turn out to be something else; but a little later he had Gallius hustled from the tribunal by some centurions and soldiers, tortured him as if he were a slave, and though he made no ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 164,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... turn out to be something else; but a little later he had Gallius hustled from the tribunal by some centurions and soldiers, tortured him as if he were a slave, and though he made no confession, order..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 165,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "tribunician",
+    "slug": "Tribunician_power",
+    "url": "https://en.wikipedia.org/wiki/Tribunician_power",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of banishment, he either lost his life by shipwreck or was waylaid by brigands. 5 He received the tribunician power for life, and once or twice chose a colleague in the office for periods of five ye..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 166,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...als and of the laws for all time, and by the virtue of this position, although without the title of censor, he nevertheless took the census thrice, the first and last time with a colleague, the second..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 167,
+    "chapter": "Chapter 27",
+    "caesar": "Augustus",
+    "entity": "census",
+    "slug": "Census",
+    "url": "https://en.wikipedia.org/wiki/Census",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and by the virtue of this position, although without the title of censor, he nevertheless took the census thrice, the first and last time with a colleague, the second time alone."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 168,
+    "chapter": "Chapter 28",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t restored; and again in the weariness of a lingering illness, when he went so far as to summon the magistrates and the senate to his house, and submit an account of the general condition of the empir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 169,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 He built many public works, in particular the following: his forum with the temple of Mars the Avenger, the temple of Apollo on the Palatine, and the fane of Jupiter the Thunde...",
+      "...ince two were no longer adequate. Therefore it was opened to the public with some haste, before the temple of Mars was finished, and it was provided that the public prosecutions be held there apart fr...",
+      "...e apart from the rest, as well as the selection of jurors by lot. 2 He had made a vow to build the temple of Mars in the war of Philippi, which he undertook to avenge his father; accordingly he decre..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 170,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 He built many public works, in particular the following: his forum with the temple of Mars the Avenger, the temple of Apollo on the Palatine, and the fane of Jupiter the Thunderer on the...",
+      "...ere no longer adequate. Therefore it was opened to the public with some haste, before the temple of Mars was finished, and it was provided that the public prosecutions be held there apart from the res...",
+      "...om the rest, as well as the selection of jurors by lot. 2 He had made a vow to build the temple of Mars in the war of Philippi, which he undertook to avenge his father; accordingly he decreed that in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 171,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...articular the following: his forum with the temple of Mars the Avenger, the temple of Apollo on the Palatine, and the fane of Jupiter the Thunderer on the Capitol. His reason for building the forum wa...",
+      "...ar the tokens of their triumphs. 3 He reared the temple of Apollo in that part of his house on the Palatine for which the soothsayers declared that the god had shown his desire by striking it with li..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...is forum with the temple of Mars the Avenger, the temple of Apollo on the Palatine, and the fane of Jupiter the Thunderer on the Capitol. His reason for building the forum was the increase in the numb...",
+      "...d meetings of the senate there as well, and revised the lists of jurors. He dedicated the shrine to Jupiter the Thunderer because of a narrow escape; for on his Cantabrian expedition during a march by..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 173,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ars the Avenger, the temple of Apollo on the Palatine, and the fane of Jupiter the Thunderer on the Capitol. His reason for building the forum was the increase in the number of the people and of cases..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 174,
     "chapter": "Chapter 29",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -917,7 +2301,34 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 175,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...avenge his father; accordingly he decreed that in it the senate should consider wars and claims for triumphs, from it those who were on their way to the provinces with military commands should be esco...",
+      "...tary commands should be escorted, and to it victors on their return should bear the tokens of their triumphs. 3 He reared the temple of Apollo in that part of his house on the Palatine for which the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 176,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the senate should consider wars and claims for triumphs, from it those who were on their way to the provinces with military commands should be escorted, and to it victors on their return should bear t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
     "chapter": "Chapter 29",
     "caesar": "Augustus",
     "entity": "Marcellus",
@@ -930,7 +2341,7 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 178,
     "chapter": "Chapter 29",
     "caesar": "Augustus",
     "entity": "Asinius",
@@ -943,7 +2354,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 179,
     "chapter": "Chapter 29",
     "caesar": "Augustus",
     "entity": "Pollio",
@@ -956,7 +2367,33 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 180,
+    "chapter": "Chapter 29",
+    "caesar": "Augustus",
+    "entity": "Saturn",
+    "slug": "Saturn_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...us, the temple of Diana by Lucius Cornificius, the Hall of Liberty by Asinius Pollio, the temple of Saturn by Munatius Plancus, a theatre by Cornelius Balbus, an amphitheatre by Statilius Taurus, and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 181,
+    "chapter": "Chapter 30",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he area of the city into regions and wards, arranging that the former should be under the charge of magistrates selected each year by lot, and the latter under \"masters\" elected by the inhabitants of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 182,
     "chapter": "Chapter 30",
     "caesar": "Augustus",
     "entity": "Tiber",
@@ -969,7 +2406,59 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 183,
+    "chapter": "Chapter 30",
+    "caesar": "Augustus",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ll the way to Ariminum, and assigned the rest of the high-ways to others who had been honoured with triumphs, asking them to use their prize-money in paving them. 2 He restored sacred edifices which ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 184,
+    "chapter": "Chapter 30",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e, and adorned both these and the other temples with most lavish gifts, depositing in the shrine of Jupiter Capitolinus as a single offering sixteen thousand pounds of gold, besides pearls and other p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 185,
+    "chapter": "Chapter 30",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...een thousand pounds of gold, besides pearls and other precious stones to the value of fifty million sesterces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 186,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "pontifex",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 After he finally had assumed the office of pontifex maximus on the death of Lepidus (for he could not make up his mind to deprive him of the ho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 187,
     "chapter": "Chapter 31",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -982,7 +2471,72 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 188,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "Sibylline",
+    "slug": "Sibylline_Books",
+    "url": "https://en.wikipedia.org/wiki/Sibylline_Books",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he names of authors of little repute, and burned more than two thousand of them, retaining only the Sibylline books and making a choice even among those; and he deposited them in two gilded cases unde..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 189,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...king a choice even among those; and he deposited them in two gilded cases under the pedestal of the Palatine Apollo. 2 Inasmuch as the calendar, which had been set in order by the Deified Julius, had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 190,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... his own surname, rather than his birth-month September, because in the former he had won his first consul ­ship and his most brilliant victories. 3 He increased the number and importance of the prie..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 191,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "vestal",
+    "slug": "Vestal_Virgins",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ges, in particular those of the Vestal virgins. Moreover, when there was occasion to choose another vestal in place of one who had died, and many used all their influence to avoid submitting their dau..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 192,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "Flamen Dialis",
+    "slug": "Flamen_Dialis",
+    "url": "https://en.wikipedia.org/wiki/Flamen_Dialis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e ancient rites which had gradually fallen into disuse, such as the augury of Safety, the office of Flamen Dialis, the ceremonies of the Lupercalia, the Secular Games, and the festival of the Compital..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 193,
     "chapter": "Chapter 31",
     "caesar": "Augustus",
     "entity": "Lupercalia",
@@ -996,7 +2550,46 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 194,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "Lares",
+    "slug": "Lares",
+    "url": "https://en.wikipedia.org/wiki/Lares",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... attend any entertainment by night except in company with some adult relative. He provided that the Lares of the Crossroads should be crowned twice a year, with spring and summer flowers. 5 Next to t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 195,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "immortal",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es of the Crossroads should be crowned twice a year, with spring and summer flowers. 5 Next to the immortal Gods he honoured the memory of the leaders who had raised the estate of the Roman people fr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 196,
+    "chapter": "Chapter 31",
+    "caesar": "Augustus",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r original inscriptions, and in the two colonnades of his forum dedicated statues of all of them in triumphal garb, declaring besides in a proclamation: \"I have contrived this to lead the citizens to ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
     "chapter": "Chapter 31",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -1010,7 +2603,204 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 198,
+    "chapter": "Chapter 32",
+    "caesar": "Augustus",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... practices militating against public security had survived as a result of the lawless habits of the civil wars, or had even arisen in time of peace. Gangs of footpads openly went about with swords by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 32",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...assuming the title of some new guild. Therefore to put a stop to brigandage, he stationed guards of soldiers wherever it seemed advisable, inspected the workhouses, and disbanded all guilds, except su..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
+    "chapter": "Chapter 32",
+    "caesar": "Augustus",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e of long standing and formed for legitimate purposes. 2 He burned the records of old debts to the treasury, which were by far the most frequent source of blackmail. He made over to their holders pla..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 201,
+    "chapter": "Chapter 33",
+    "caesar": "Augustus",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mself administered justice regularly and sometimes up to nightfall, having a litter placed upon the tribunal, if he was indisposed, or even lying down at home. In his administration of justice he was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 202,
+    "chapter": "Chapter 33",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ation or misunderstanding. 3 Each year he referred appeals of cases involving citizens to the city praetor, but those between foreigners to ex-consuls, of whom he had put one in charge of the busines..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
+    "chapter": "Chapter 33",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eferred appeals of cases involving citizens to the city praetor, but those between foreigners to ex-consuls, of whom he had put one in charge of the business affairs of each province."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 204,
+    "chapter": "Chapter 33",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... between foreigners to ex-consuls, of whom he had put one in charge of the business affairs of each province."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 205,
+    "chapter": "Chapter 35",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...was held; that regular meetings of the senate should be held not oftener than twice a month, on the Kalends and the Ides; and that in the months of September and October only those should be obliged t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 206,
+    "chapter": "Chapter 35",
+    "caesar": "Augustus",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...egular meetings of the senate should be held not oftener than twice a month, on the Kalends and the Ides; and that in the months of September and October only those should be obliged to attend who wer..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 207,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...innovations too, among them these: that the proceedings of the senate should not be published; that magistrates should not be sent to the provinces immediately after laying down their office; that a f..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 208,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t the proceedings of the senate should not be published; that magistrates should not be sent to the provinces immediately after laying down their office; that a fixed sum should be allowed the procons..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 209,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "proconsuls",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to the provinces immediately after laying down their office; that a fixed sum should be allowed the proconsuls for mules and tents, which it was the custom to contract for and charge to the State; tha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 210,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... which it was the custom to contract for and charge to the State; that the management of the public treasury should be transferred from the city quaestors to ex-praetors or praetors; and that the cent..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 211,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...charge to the State; that the management of the public treasury should be transferred from the city quaestors to ex-praetors or praetors; and that the centumviral court, which it was usual for ex-quae...",
+      "...ity quaestors to ex-praetors or praetors; and that the centumviral court, which it was usual for ex-quaestors to convoke, should be summoned by the Board of Ten. 45"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
+    "chapter": "Chapter 36",
+    "caesar": "Augustus",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ate; that the management of the public treasury should be transferred from the city quaestors to ex-praetors or praetors; and that the centumviral court, which it was usual for ex-quaestors to convoke...",
+      "...e management of the public treasury should be transferred from the city quaestors to ex-praetors or praetors; and that the centumviral court, which it was usual for ex-quaestors to convoke, should be ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 213,
     "chapter": "Chapter 37",
     "caesar": "Augustus",
     "entity": "Tiber",
@@ -1023,7 +2813,137 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 214,
+    "chapter": "Chapter 37",
+    "caesar": "Augustus",
+    "entity": "censors",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd another for reviewing the companies of the knights whenever it should be necessary. He appointed censors, an office which had long been discontinued. He increased the number of praetors. He also de..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 215,
+    "chapter": "Chapter 37",
+    "caesar": "Augustus",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ssary. He appointed censors, an office which had long been discontinued. He increased the number of praetors. He also demanded that whenever the consul ­ship was conferred on him, he should have two c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 216,
+    "chapter": "Chapter 37",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...had long been discontinued. He increased the number of praetors. He also demanded that whenever the consul ­ship was conferred on him, he should have two colleagues instead of one; but this was not gr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 217,
+    "chapter": "Chapter 38",
+    "caesar": "Augustus",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He was not less generous in honouring martial prowess, for he had regular triumphs voted to above thirty generals, and the triumphal regalia to somewhat more than that number..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 218,
+    "chapter": "Chapter 38",
+    "caesar": "Augustus",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s in honouring martial prowess, for he had regular triumphs voted to above thirty generals, and the triumphal regalia to somewhat more than that number. 2 To enable senators' sons to gain an earlier ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 219,
+    "chapter": "Chapter 38",
+    "caesar": "Augustus",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of the senate; and when they began their military career, he gave them not merely a tribunate in a legion, but the command of a division of cavalry as well; and to furnish all of them with experience..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 220,
+    "chapter": "Chapter 38",
+    "caesar": "Augustus",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... military career, he gave them not merely a tribunate in a legion, but the command of a division of cavalry as well; and to furnish all of them with experience in camp life, he usually appointed two s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 221,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 At the elections for tribunes if there were not candidates enough of senatorial rank, he made appointments from among the knights, with the understanding that after thei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 222,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "civil wars",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... whichever order they wished. Moreover, since many knights whose property was diminished during the civil wars did not venture to view the games from the fourteen rows through fear of the penalty of t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 223,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rous penalties, and distributing to his fellow members of the Fabian and Scaptian tribes a thousand sesterces a man from his own purse on the day of the elections, to keep them from looking for anythi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 224,
     "chapter": "Chapter 40",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1036,7 +2956,7 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 225,
     "chapter": "Chapter 40",
     "caesar": "Augustus",
     "entity": "Gaul",
@@ -1049,7 +2969,47 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 226,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...that he had reasonable grounds for the request; and when Livia asked it for a Gaul from a tributary province, he refused, offering instead freedom from tribute, and declaring that he would more willin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 227,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...k cloaks, he cried out indignantly, \"Behold them Romans, lords of the world, the nation clad in the toga,\" and he directed the aediles never again to allow anyone to appear in the Forum or its neighbo...",
+      "...d the aediles never again to allow anyone to appear in the Forum or its neighbourhood except in the toga and without a cloak."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 228,
+    "chapter": "Chapter 40",
+    "caesar": "Augustus",
+    "entity": "aediles",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gnantly, \"Behold them Romans, lords of the world, the nation clad in the toga,\" and he directed the aediles never again to allow anyone to appear in the Forum or its neighbourhood except in the toga a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 229,
     "chapter": "Chapter 41",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1062,7 +3022,60 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 230,
+    "chapter": "Chapter 41",
+    "caesar": "Augustus",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sses when occasion offered. For example, by bringing the royal treasures to Rome in his Alexandrian triumph he made ready money so abundant, that the rate of interest fell, and the value of real estat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 231,
+    "chapter": "Chapter 41",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...t. He increased the property qualification for senators, requiring one million two hundred thousand sesterces, instead of eight hundred thousand, and making up the amount for those who did not possess...",
+      "...ople, but usually of different sums: now four hundred, now three hundred, now two hundred and fifty sesterces a man; and he did not even exclude young boys, though it had been usual for them to receiv..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 232,
+    "chapter": "Chapter 42",
+    "caesar": "Augustus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o find a remedy, he expelled from the city the slaves that were for sale, as well as the schools of gladiators, all foreigners with the exception of physicians and teachers, and a part of the househol..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 233,
+    "chapter": "Chapter 43",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ublic shows. He says that he gave games four times in his own name and twenty-three times for other magistrates, who were either away from Rome or lacked means. He gave them sometimes in all the wards..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 234,
     "chapter": "Chapter 43",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1076,7 +3089,33 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 235,
+    "chapter": "Chapter 43",
+    "caesar": "Augustus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ave them sometimes in all the wards and on many stages with actors in all languages, and combats of gladiators not only in the Forum or the amphitheatre, but in the Circus and in • the Saepta; sometim..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 236,
+    "chapter": "Chapter 43",
+    "caesar": "Augustus",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mes, however, he gave nothing except a fight with wild beasts. He gave athletic contests too in the Campus Martius, erecting wooden seats; also a sea-fight, constructing an artificial lake near the Ti..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 237,
     "chapter": "Chapter 43",
     "caesar": "Augustus",
     "entity": "Tiber",
@@ -1089,7 +3128,7 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 238,
     "chapter": "Chapter 43",
     "caesar": "Augustus",
     "entity": "Asinius",
@@ -1102,7 +3141,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 239,
     "chapter": "Chapter 43",
     "caesar": "Augustus",
     "entity": "Pollio",
@@ -1115,7 +3154,20 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 240,
+    "chapter": "Chapter 43",
+    "caesar": "Augustus",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... an accident to his grandson Aeserninus, who also had broken his leg. 3 He sometimes employed even Roman knights in scenic and gladiatorial performances, but only before it was forbidden by decree of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 241,
     "chapter": "Chapter 43",
     "caesar": "Augustus",
     "entity": "Marcellus",
@@ -1128,7 +3180,20 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 242,
+    "chapter": "Chapter 43",
+    "caesar": "Augustus",
+    "entity": "curule chair",
+    "slug": "Curule_chair",
+    "url": "https://en.wikipedia.org/wiki/Curule_chair",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g of the games with which he dedicated the theatre of Marcellus, it happened that the joints of his curule chair gave way and he fell on his back. At the games for his grandsons, when the people were ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 243,
     "chapter": "Chapter 44",
     "caesar": "Augustus",
     "entity": "Puteoli",
@@ -1141,7 +3206,7 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 244,
     "chapter": "Chapter 44",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1154,7 +3219,125 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 245,
+    "chapter": "Chapter 44",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the envoys of the free and allied nations to sit in the orchestra, since he was informed that even freedmen were sometimes appointed. He separated the soldiery from the people. 2 He assigned special..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 246,
+    "chapter": "Chapter 44",
+    "caesar": "Augustus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aring a dark cloak should sit in the middle of the house. He would not allow women to view even the gladiators except from the upper seats, though it had been the custom for men and women to sit toget..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 247,
+    "chapter": "Chapter 44",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ogether at such shows. 3 Only the Vestal virgins were assigned a place to themselves, opposite the praetor's tribunal. As for the contests of the athletes, he excluded women from them so strictly, th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 248,
+    "chapter": "Chapter 44",
+    "caesar": "Augustus",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... such shows. 3 Only the Vestal virgins were assigned a place to themselves, opposite the praetor's tribunal. As for the contests of the athletes, he excluded women from them so strictly, that when a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 249,
+    "chapter": "Chapter 44",
+    "caesar": "Augustus",
+    "entity": "pontifex",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a contest between a pair of boxers had been called for at the games in honour of his appointment as pontifex maximus, he postponed it until early the following day, making proclamation that it was his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 250,
+    "chapter": "Chapter 45",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He himself usually watched the games in the Circus from the upper rooms of his friends and freedmen, but sometimes from the imperial box, and even in company with his wife and children. He wa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 251,
+    "chapter": "Chapter 45",
+    "caesar": "Augustus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...c shows; maintained the privileges of the athletes and even increased them; forbade the matching of gladiators without the right of appeal for quarter; and deprived the magistrates of the power allowe...",
+      "...ss he exacted the severest discipline in the contests in the wrestling halls and the combats of the gladiators. In particular he was so strict in curbing the lawlessness of the actors, that when he le..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 252,
+    "chapter": "Chapter 45",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... them; forbade the matching of gladiators without the right of appeal for quarter; and deprived the magistrates of the power allowed them by an ancient law of punishing actors anywhere and everywhere,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 253,
+    "chapter": "Chapter 45",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Hylas, a pantomimic actor, was publicly scourged in the atrium of his own house, on complaint of a praetor, and Pylades was expelled from the city and from Italy as well, because by pointing at him w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 254,
     "chapter": "Chapter 46",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1168,7 +3351,46 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 255,
+    "chapter": "Chapter 46",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... to legitimate sons or daughters when he made his rounds of the districts he distributed a thousand sesterces for each child."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 256,
+    "chapter": "Chapter 47",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The stronger provinces, which could neither easily nor safely be governed by annual meetings, he took to himself;..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 257,
+    "chapter": "Chapter 47",
+    "caesar": "Augustus",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or safely be governed by annual meetings, he took to himself; the others he assigned to proconsular governors selected by lot. But he changed some of them at times from one class to the other, and oft..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 258,
     "chapter": "Chapter 47",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1181,7 +3403,20 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 259,
+    "chapter": "Chapter 47",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...l citizen ­ship to such as could point to services rendered the Roman people. I believe there is no province, excepting only Africa and Sardinia, which he did not visit; and he was planning to cross t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 260,
     "chapter": "Chapter 47",
     "caesar": "Augustus",
     "entity": "Africa",
@@ -1194,7 +3429,7 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 261,
     "chapter": "Chapter 47",
     "caesar": "Augustus",
     "entity": "Sardinia",
@@ -1207,7 +3442,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 262,
     "chapter": "Chapter 47",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -1220,7 +3455,47 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 263,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Of his military forces he assigned legions and auxiliaries to the various provinces, stationed a fleet at Misenum and another at Ravenn..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 264,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Of his military forces he assigned legions and auxiliaries to the various provinces, stationed a fleet at Misenum and another at Ravenna, to defend..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 265,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Of his military forces he assigned legions and auxiliaries to the various provinces, stationed a fleet at Misenum and another at Ravenna, to defend the Upper and Lower seas, ...",
+      "...ablished a military treasury, supported by new taxes. 3 To enable what was going on in each of the provinces to be reported and known more speedily and promptly, he at first stationed young men at sh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 266,
     "chapter": "Chapter 49",
     "caesar": "Augustus",
     "entity": "Ravenna",
@@ -1233,7 +3508,20 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 267,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Germans, which he had retained until the defeat of Varus. However, he never allowed more than three cohorts to remain in the city and even those were without a permanent camp; the rest he regularly se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 268,
     "chapter": "Chapter 49",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1246,7 +3534,46 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 269,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e either by age or poverty. To have funds ready at all times without difficulty for maintaining the soldiers and paying the rewards due to them, he established a military treasury, supported by new ta..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 270,
+    "chapter": "Chapter 49",
+    "caesar": "Augustus",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fficulty for maintaining the soldiers and paying the rewards due to them, he established a military treasury, supported by new taxes. 3 To enable what was going on in each of the provinces to be repo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 271,
+    "chapter": "Chapter 51",
+    "caesar": "Augustus",
+    "entity": "plebeians",
+    "slug": "Plebeian",
+    "url": "https://en.wikipedia.org/wiki/Plebeian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... but allowed to hold high positions in the state, I may say that he thought it enough to punish two plebeians, Junius Novatus and Cassius Patavinus, with a fine and with a mild form of banishment resp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 272,
     "chapter": "Chapter 51",
     "caesar": "Augustus",
     "entity": "Cassius",
@@ -1259,7 +3586,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 273,
     "chapter": "Chapter 51",
     "caesar": "Augustus",
     "entity": "Corduba",
@@ -1272,7 +3599,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 274,
     "chapter": "Chapter 51",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1285,7 +3612,33 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 275,
+    "chapter": "Chapter 52",
+    "caesar": "Augustus",
+    "entity": "proconsuls",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Although well aware that it was usual to vote temples even to proconsuls, he would not accept one even in a province save jointly in his own name and that of Rome..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 276,
+    "chapter": "Chapter 52",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... well aware that it was usual to vote temples even to proconsuls, he would not accept one even in a province save jointly in his own name and that of Rome. In the city itself he refused this honour mo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 277,
     "chapter": "Chapter 52",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1298,7 +3651,60 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 278,
+    "chapter": "Chapter 52",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nour in former times and with the money coined from them dedicating golden tripods to Apollo of the Palatine. When the people did their best to force the dictator ­ship upon him, he knelt down, threw ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 279,
+    "chapter": "Chapter 52",
+    "caesar": "Augustus",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...em dedicating golden tripods to Apollo of the Palatine. When the people did their best to force the dictator ­ship upon him, he knelt down, threw off his toga from his shoulders and with bare breast b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 280,
+    "chapter": "Chapter 52",
+    "caesar": "Augustus",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      ".... When the people did their best to force the dictator ­ship upon him, he knelt down, threw off his toga from his shoulders and with bare breast begged them not to insist."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 281,
+    "chapter": "Chapter 53",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...xcept in the evening or at night, to avoid disturbing anyone by the obligations of ceremony. In his consul ­ship he commonly went through the streets on foot, and when he was not consul, generally in ...",
+      "... of ceremony. In his consul ­ship he commonly went through the streets on foot, and when he was not consul, generally in a closed litter. His morning receptions were open to all, including even the co..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 282,
     "chapter": "Chapter 53",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1311,7 +3717,7 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 283,
     "chapter": "Chapter 54",
     "caesar": "Augustus",
     "entity": "Lepidus",
@@ -1324,7 +3730,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 284,
     "chapter": "Chapter 54",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1337,7 +3743,20 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 285,
+    "chapter": "Chapter 56",
+    "caesar": "Augustus",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...; yet he vetoed a law to check freedom of speech in wills. Whenever he took part in the election of magistrates, he went the round of the tribes with his candidates and appealed for them in the tradit..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 286,
     "chapter": "Chapter 56",
     "caesar": "Augustus",
     "entity": "Cassius",
@@ -1350,7 +3769,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 287,
     "chapter": "Chapter 56",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1363,7 +3782,59 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 288,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...othing of decrees of the senate, which might seem to have been dictated by necessity or by awe. The Roman knights celebrated his birthday of their own accord by common consent, and always for two succ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 289,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...are, each year threw a small coin into the Lacus Curtius, and also brought a New Year's gift to the Capitol on the Kalends of January, even when he was away from Rome. With this sum he bought and dedi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 290,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...threw a small coin into the Lacus Curtius, and also brought a New Year's gift to the Capitol on the Kalends of January, even when he was away from Rome. With this sum he bought and dedicated in each o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 291,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...threw a small coin into the Lacus Curtius, and also brought a New Year's gift to the Capitol on the Kalends of January, even when he was away from Rome. With this sum he bought and dedicated in each o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 292,
     "chapter": "Chapter 57",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1376,7 +3847,59 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 293,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ght and dedicated in each of the city wards costly statues of the gods, such as Apollo Sandalarius, Jupiter Tragoedus, and others. 2 To rebuild his house on the Palatine, which had been destroyed by ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 294,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the gods, such as Apollo Sandalarius, Jupiter Tragoedus, and others. 2 To rebuild his house on the Palatine, which had been destroyed by fire, the veterans, the guilds, the tribes, and even individua..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 295,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "denarius",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rding to his means; but he merely took a little from each pile as a matter of form, not more than a denarius from any of them. On his return from a province they received him not only with prayers and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 296,
+    "chapter": "Chapter 57",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...from each pile as a matter of form, not more than a denarius from any of them. On his return from a province they received him not only with prayers and good wishes, but with songs. It was the rule, t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 297,
     "chapter": "Chapter 58",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1390,7 +3913,33 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 298,
+    "chapter": "Chapter 58",
+    "caesar": "Augustus",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e declined it, again at Rome as he entered the theatre, which they attended in throngs, all wearing laurel wreaths: the senate afterwards in the House, not by a decree or by acclamation, but through V..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 299,
+    "chapter": "Chapter 58",
+    "caesar": "Augustus",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lamation, but through Valerius Messala. 2 He, speaking for the whole body, said: \"Good fortune and divine favour attend thee and thy house, Caesar Augustus; for thus we feel that we are praying for l..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 300,
     "chapter": "Chapter 58",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1404,7 +3953,33 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 301,
+    "chapter": "Chapter 58",
+    "caesar": "Augustus",
+    "entity": "immortal",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Messala): \"Having attained my highest hopes, Fathers of the Senate, what more have I to ask of the immortal gods than that I may retain this same unanimous approval of yours to the very end of my lif..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 302,
+    "chapter": "Chapter 59",
+    "caesar": "Augustus",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Aesculapius. Some householders provided in their wills that their heirs should drive victims to the Capitol and pay a thank-offering in their behalf, because Augustus had survived them, and that a pla..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 303,
     "chapter": "Chapter 59",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1417,7 +3992,46 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 304,
+    "chapter": "Chapter 59",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Italian cities made the day on which he first visited them the beginning of their year. Many of the provinces, in addition to temples and altars, established quinquennial games⁠ f in his honour in alm..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 305,
+    "chapter": "Chapter 60",
+    "caesar": "Augustus",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... founded a city called Caesarea, and all joined in a plan to contribute the funds for finishing the temple of Jupiter Olympius, which was begun at Athens in ancient days, and to dedicate it to his Gen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 306,
+    "chapter": "Chapter 60",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... city called Caesarea, and all joined in a plan to contribute the funds for finishing the temple of Jupiter Olympius, which was begun at Athens in ancient days, and to dedicate it to his Genius; and t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 307,
     "chapter": "Chapter 60",
     "caesar": "Augustus",
     "entity": "Athens",
@@ -1430,7 +4044,33 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 308,
+    "chapter": "Chapter 60",
+    "caesar": "Augustus",
+    "entity": "Genius",
+    "slug": "Genius_(Roman_religion)",
+    "url": "https://en.wikipedia.org/wiki/Genius_(Roman_religion)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he temple of Jupiter Olympius, which was begun at Athens in ancient days, and to dedicate it to his Genius; and they would often leave their kingdoms and show him the attentions usual in dependents, c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 309,
+    "chapter": "Chapter 60",
+    "caesar": "Augustus",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... they would often leave their kingdoms and show him the attentions usual in dependents, clad in the toga and without the emblems of royalty, not only at Rome, but even when he was travelling through t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 310,
     "chapter": "Chapter 60",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1443,7 +4083,33 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 311,
+    "chapter": "Chapter 60",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a and without the emblems of royalty, not only at Rome, but even when he was travelling through the provinces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 312,
+    "chapter": "Chapter 61",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...his household from his youth until the last day of his life. 2 He lost his mother during his first consul ­ship and his sister Octavia in his fifty-fourth year. To both he showed marked devotion duri..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 313,
     "chapter": "Chapter 62",
     "caesar": "Augustus",
     "entity": "Publius Clodius",
@@ -1456,7 +4122,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 314,
     "chapter": "Chapter 62",
     "caesar": "Augustus",
     "entity": "Clodius",
@@ -1469,7 +4135,20 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 315,
+    "chapter": "Chapter 62",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... live together.⁠ g 2 Shortly after that he married Scribonia, who had been wedded before to two ex-consuls, and was a mother by one of them. He divorced her also, \"unable to put up with her shrewish ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 316,
     "chapter": "Chapter 62",
     "caesar": "Augustus",
     "entity": "Nero",
@@ -1482,7 +4161,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 317,
     "chapter": "Chapter 63",
     "caesar": "Augustus",
     "entity": "Marcellus",
@@ -1495,7 +4174,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 318,
     "chapter": "Chapter 63",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1509,7 +4188,59 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 319,
+    "chapter": "Chapter 63",
+    "caesar": "Augustus",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... When Agrippa also died, Augustus, after considering various alliances for a long time, even in the equestrian order, finally chose his stepson Tiberius, obliging him to divorce his wife, who was with..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 320,
+    "chapter": "Chapter 64",
+    "caesar": "Augustus",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s, and Agrippa, and two granddaughters, Julia and Agrippina. He married Julia to Lucius Paulus, the censor's son, and Agrippina to Germanicus his sister's grandson. Gaius and Lucius he adopted at home..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 321,
+    "chapter": "Chapter 64",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...c sale, and initiated them into administrative life when they were still young, sending them to the provinces and the armies as consuls elect. 2 In bringing up his daughter and his granddaughters he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 322,
+    "chapter": "Chapter 64",
+    "caesar": "Augustus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nto administrative life when they were still young, sending them to the provinces and the armies as consuls elect. 2 In bringing up his daughter and his granddaughters he even had them taught spinnin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 323,
     "chapter": "Chapter 64",
     "caesar": "Augustus",
     "entity": "Baiae",
@@ -1522,7 +4253,46 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 324,
+    "chapter": "Chapter 65",
+    "caesar": "Augustus",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Lucius, but he informed the senate of his daughter's fall through a letter read in his absence by a quaestor, and for very shame would meet no one for a long time, and even thought of putting her to d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 325,
+    "chapter": "Chapter 65",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t on the contrary became madder from day to day, he transferred him to an island and set a guard of soldiers over him besides. He also provided by a decree of the senate that he should be confined the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 326,
+    "chapter": "Chapter 66",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of his numerous friends who fell into disgrace, except Salvidienus Rufus, whom he had advanced to a consul's rank, and Cornelius Gallus, whom he had raised to the prefecture of Egypt, both from the lo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 327,
     "chapter": "Chapter 66",
     "caesar": "Augustus",
     "entity": "Egypt",
@@ -1535,7 +4305,20 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 328,
+    "chapter": "Chapter 66",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...plotting revolution; the latter he forbade his house and the privilege of residence in the imperial provinces, because of his ungrateful and envious spirit. But when Gallus too was forced to undergo d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 329,
     "chapter": "Chapter 66",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1548,7 +4331,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 330,
     "chapter": "Chapter 66",
     "caesar": "Augustus",
     "entity": "Marcellus",
@@ -1561,7 +4344,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 331,
     "chapter": "Chapter 66",
     "caesar": "Augustus",
     "entity": "Mytilene",
@@ -1574,7 +4357,59 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 332,
+    "chapter": "Chapter 67",
+    "caesar": "Augustus",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 As patron and master he was no less strict than gracious and merci ­ful, while he held many of his free..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 333,
+    "chapter": "Chapter 67",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... As patron and master he was no less strict than gracious and merci ­ful, while he held many of his freedmen in high honour and close intimacy, such as Licinus, Celadus, and others. His slave Cosmus, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 334,
+    "chapter": "Chapter 67",
+    "caesar": "Augustus",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of adultery with Roman matrons, and broke the legs of his secretary Thallus for taking five hundred denarii to betray the contents of a letter. Because the tutor and attendants of his son Gaius took a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 335,
+    "chapter": "Chapter 67",
+    "caesar": "Augustus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ius took advantage of their master's illness and death to commit acts of arrogance and greed in his province, he had them thrown into a river with heavy weights about their necks."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 336,
     "chapter": "Chapter 68",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -1587,7 +4422,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 337,
     "chapter": "Chapter 68",
     "caesar": "Augustus",
     "entity": "Spain",
@@ -1600,7 +4435,33 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 338,
+    "chapter": "Chapter 68",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...cing his honour to Caesar he had given himself to Aulus Hirtius in Spain for three hundred thousand sesterces, and that he used to singe his legs with red-hot nutshells, to make the hair grow softer. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 339,
+    "chapter": "Chapter 69",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...olds. Mark Antony charged him, besides his hasty marriage with Livia, with taking the wife of an ex-consul from her husband's dining-room before his very eyes into a bed-chamber, and bringing her back..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 340,
     "chapter": "Chapter 69",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1613,7 +4474,20 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 341,
+    "chapter": "Chapter 70",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sts amid novel debaucheries of the gods; then all the deities turned their faces from the earth and Jupiter himself fled from his golden throne.\" 2 The scandal of this banquet was the greater because..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 342,
     "chapter": "Chapter 71",
     "caesar": "Augustus",
     "entity": "Alexandria",
@@ -1626,7 +4500,85 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 343,
+    "chapter": "Chapter 71",
+    "caesar": "Augustus",
+    "entity": "denarius",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... yesterday and to‑day; for when the dice were thrown, whoever turned up the 'dog' or the six, put a denarius in the pool for each one of the dice, and the whole was taken by anyone who threw the 'Venu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 344,
+    "chapter": "Chapter 71",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ily, he unexpectedly and little by little got back a good deal. For my part, I lost twenty thousand sesterces, but because I was extravagantly generous in my play, as usual. If I had demanded of every..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 345,
+    "chapter": "Chapter 71",
+    "caesar": "Augustus",
+    "entity": "immortal",
+    "slug": "Apotheosis",
+    "url": "https://en.wikipedia.org/wiki/Apotheosis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... I should have won fully fifty thousand. But I like that better, for my generosity will exalt me to immortal glory.\" 4 To his daughter he writes: \"I send you two hundred and fifty denarii, the sum wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 346,
+    "chapter": "Chapter 71",
+    "caesar": "Augustus",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y will exalt me to immortal glory.\" 4 To his daughter he writes: \"I send you two hundred and fifty denarii, the sum which I gave each of my guests, in case they wished to play at dice or at odd and e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 347,
+    "chapter": "Chapter 72",
+    "caesar": "Augustus",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he Stairs of the Ringmakers, in a house which had belonged to the orator Calvus; afterwards, on the Palatine, but in the no less modest dwelling of Hortensius, which was remarkable neither for size no..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 348,
+    "chapter": "Chapter 72",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed \"Syracuse\" and \"technyphion.\" In this he used to take refuge, or else in the villa of one of his freedmen in the suburbs; but whenever he was not well, he slept at Maecenas's house. For retirement ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 349,
     "chapter": "Chapter 72",
     "caesar": "Augustus",
     "entity": "Campania",
@@ -1639,7 +4591,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 350,
     "chapter": "Chapter 72",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1652,7 +4604,20 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 351,
+    "chapter": "Chapter 73",
+    "caesar": "Augustus",
+    "entity": "togas",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ons he wore common clothes for the house, made by his sister, wife, daughter or granddaughters; his togas were neither close nor full, his purple stripe neither narrow nor broad, and his shoes somewha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 352,
     "chapter": "Chapter 74",
     "caesar": "Augustus",
     "entity": "Pompey",
@@ -1665,7 +4630,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 353,
     "chapter": "Chapter 74",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1678,7 +4643,33 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 354,
+    "chapter": "Chapter 75",
+    "caesar": "Augustus",
+    "entity": "Saturnalia",
+    "slug": "Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tivals and holidays he celebrated lavishly as a rule, but sometimes only in a spirit of fun. On the Saturnalia, and at any other time when he took it into his head, he would now give gifts of clothing..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 355,
+    "chapter": "Chapter 79",
+    "caesar": "Augustus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...conversation or when he was silent, was so calm and mild, that one of the leading men of the Gallic provinces admitted to his countrymen that it had softened his heart, and kept him from carrying out ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 356,
     "chapter": "Chapter 79",
     "caesar": "Augustus",
     "entity": "Alps",
@@ -1691,7 +4682,20 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 357,
+    "chapter": "Chapter 79",
+    "caesar": "Augustus",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e Alps. 2 He had clear, bright eyes, in which he liked to have it thought that there was a kind of divine power, and it greatly pleased him, whenever he looked keenly at anyone, if he let his face fa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 358,
     "chapter": "Chapter 79",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1704,7 +4708,59 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 359,
+    "chapter": "Chapter 82",
+    "caesar": "Augustus",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 In winter he protected himself with four tunics and a heavy toga, besides an undershirt, a woollen chest-protector and wraps for his thighs and shins, while in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 360,
+    "chapter": "Chapter 83",
+    "caesar": "Augustus",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Immediately after the civil war he gave up exercise with horses and arms in the Campus Martius, at first turning to pass-b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 361,
+    "chapter": "Chapter 83",
+    "caesar": "Augustus",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Immediately after the civil war he gave up exercise with horses and arms in the Campus Martius, at first turning to pass-ball and balloon-ball, but soon confining himself to riding..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 362,
+    "chapter": "Chapter 84",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n and declaimed every day. In fact he never afterwards spoke in the senate, or to the people or the soldiers, except in a studied and written address, although he did not lack the gift of speaking off..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 363,
     "chapter": "Chapter 85",
     "caesar": "Augustus",
     "entity": "Brutus",
@@ -1717,7 +4773,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 364,
     "chapter": "Chapter 85",
     "caesar": "Augustus",
     "entity": "Cato",
@@ -1730,7 +4786,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 365,
     "chapter": "Chapter 85",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -1743,7 +4799,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 366,
     "chapter": "Chapter 86",
     "caesar": "Augustus",
     "entity": "Cato",
@@ -1756,7 +4812,33 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 367,
+    "chapter": "Chapter 86",
+    "caesar": "Augustus",
+    "entity": "talent",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... our tongue the verbose and unmeaning fluency of the Asiatic orators?\" And in a letter praising the talent of his granddaughter Agrippina he writes: \"But you must take great care not to write and talk..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 368,
+    "chapter": "Chapter 87",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... then, when he wished to indicate that certain men will never pay, that \"they will pay on the Greek Kalends.\" Urging his correspondent to put up with present circumstances, such as they were, he says:..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 369,
     "chapter": "Chapter 87",
     "caesar": "Augustus",
     "entity": "Cato",
@@ -1769,7 +4851,20 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 370,
+    "chapter": "Chapter 88",
+    "caesar": "Augustus",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ve noted this, did it not seem to me surprising that some have written that he cashiered a consular governor, as an uncultivated and ignorant fellow, because he observed that he had written ixi for ip..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 371,
     "chapter": "Chapter 89",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1782,7 +4877,20 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 372,
+    "chapter": "Chapter 89",
+    "caesar": "Augustus",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ten copy word for word, and send to the members of his household, or to his generals and provincial governors, whenever any of them required admonition. He even read entire volumes to the senate and c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 373,
     "chapter": "Chapter 89",
     "caesar": "Augustus",
     "entity": "Metellus",
@@ -1795,7 +4903,33 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 374,
+    "chapter": "Chapter 89",
+    "caesar": "Augustus",
+    "entity": "talent",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ey had aroused the interest even of their forefathers. 3 He gave every encouragement to the men of talent of his own age, listening with courtesy and patience to their readings, not only of poetry an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 375,
+    "chapter": "Chapter 89",
+    "caesar": "Augustus",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ct of any composition except in serious earnest and by the most eminent writers, often charging the praetors not to let his name be cheapened in prize declamations."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 376,
     "chapter": "Chapter 91",
     "caesar": "Augustus",
     "entity": "battle of Philippi",
@@ -1808,7 +4942,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 377,
     "chapter": "Chapter 91",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -1821,7 +4955,60 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 378,
+    "chapter": "Chapter 91",
+    "caesar": "Augustus",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r they were less frequent and more reliable. 2 Being in the habit of making constant visits to the temple of Jupiter the Thunderer, which he had founded on the Capitol, he dreamed that Jupiter Capito..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 379,
+    "chapter": "Chapter 91",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e less frequent and more reliable. 2 Being in the habit of making constant visits to the temple of Jupiter the Thunderer, which he had founded on the Capitol, he dreamed that Jupiter Capitolinus comp...",
+      "...visits to the temple of Jupiter the Thunderer, which he had founded on the Capitol, he dreamed that Jupiter Capitolinus complained that his worshippers were being taken from him, and that he answered ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 380,
+    "chapter": "Chapter 91",
+    "caesar": "Augustus",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...habit of making constant visits to the temple of Jupiter the Thunderer, which he had founded on the Capitol, he dreamed that Jupiter Capitolinus complained that his worshippers were being taken from h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 381,
+    "chapter": "Chapter 92",
+    "caesar": "Augustus",
+    "entity": "Nones",
+    "slug": "Nones",
+    "url": "https://en.wikipedia.org/wiki/Nones",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ever to begin a journey on the day after a market day, or to take up any important business on the Nones; though in the latter case, as he writes Tiberius, he merely dreaded the unlucky sound of the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 382,
     "chapter": "Chapter 93",
     "caesar": "Augustus",
     "entity": "Athens",
@@ -1834,7 +5021,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 383,
     "chapter": "Chapter 93",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1847,7 +5034,20 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 384,
+    "chapter": "Chapter 93",
+    "caesar": "Augustus",
+    "entity": "Ceres",
+    "slug": "Ceres_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d afterwards sitting in judgment of a case at Rome involving the privileges of the priests of Attic Ceres, in which certain matters of secrecy were brought up, he dismissed his counsellors and the thr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 385,
     "chapter": "Chapter 93",
     "caesar": "Augustus",
     "entity": "Egypt",
@@ -1860,7 +5060,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 386,
     "chapter": "Chapter 93",
     "caesar": "Augustus",
     "entity": "Jerusalem",
@@ -1873,7 +5073,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 387,
     "chapter": "Chapter 94",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1888,7 +5088,7 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 388,
     "chapter": "Chapter 94",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1901,7 +5101,74 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 389,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uld be reared; but those whose wives were with child saw to it that the decree was not filed in the treasury, since each one appropriated the prediction to his own family. 4 I have read the following..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 390,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the birth, declared that the ruler of the world had been born. Later, when Octavius was leading an army through remote parts of Thrace, and in the grove of Father Liber consulted the priests about hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 391,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "Liber",
+    "slug": "Liber_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Liber_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Later, when Octavius was leading an army through remote parts of Thrace, and in the grove of Father Liber consulted the priests about his son with barbarian rites, they made the same prediction; since..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 392,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 5,
+    "contexts": [
+      "...im in a guise more majestic than that of mortal man, with the thunderbolt, sceptre, and insignia of Jupiter Optimus Maximus, wearing a crown begirt with rays and mounted upon a laurel-wreathed chariot...",
+      "...r Quintus Catulus had dedicated the Capitol, he had dreams on two nights in succession: first, that Jupiter Optimus Maximus called aside a number of boys of good family, who were playing around his al...",
+      "...which he was carrying in his hand; the next night he dreamt that he saw this same boy in the lap of Jupiter of the Capitol, and that when he had ordered that he be removed, the god warned him to desis..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 393,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eptre, and insignia of Jupiter Optimus Maximus, wearing a crown begirt with rays and mounted upon a laurel-wreathed chariot drawn by twelve horses of surpassing whiteness. When Augustus was still an i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 394,
     "chapter": "Chapter 94",
     "caesar": "Augustus",
     "entity": "Catulus",
@@ -1916,7 +5183,61 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 395,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...prise dropped gently down again and gave it back to him. 8 After Quintus Catulus had dedicated the Capitol, he had dreams on two nights in succession: first, that Jupiter Optimus Maximus called aside...",
+      "...rrying in his hand; the next night he dreamt that he saw this same boy in the lap of Jupiter of the Capitol, and that when he had ordered that he be removed, the god warned him to desist, declaring th...",
+      "...h his fingers, laid them on his own lips. 143 9 As Marcus Cicero was attending Gaius Caesar to the Capitol, he happened to tell his friends a dream of the night before; that a boy of noble countenanc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 396,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...de a number of boys of good family, who were playing around his altar, º and put in the fold of his toga an image of Roma, which he was carrying in his hand; the next night he dreamt that he saw this ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 397,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fter lightly touching the boy's mouth with his fingers, laid them on his own lips. 143 9 As Marcus Cicero was attending Gaius Caesar to the Capitol, he happened to tell his friends a dream of the nig..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 398,
+    "chapter": "Chapter 94",
+    "caesar": "Augustus",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hose form had appeared to him in his dream. 10 When Augustus was assuming the gown of manhood, his senatorial tunic was ripped apart on both sides and fell at his feet, which some interpreted as a su..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 399,
     "chapter": "Chapter 94",
     "caesar": "Augustus",
     "entity": "Munda",
@@ -1929,7 +5250,46 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 400,
+    "chapter": "Chapter 95",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Caesar's daughter Julia was struck by lightning. Again, as he was taking the auspices in his first consul ­ship, twelve vultures appeared to him, as to Romulus, and when he slew the victims, the live..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 401,
+    "chapter": "Chapter 96",
+    "caesar": "Augustus",
+    "entity": "triumvirs",
+    "slug": "Triumvirate",
+    "url": "https://en.wikipedia.org/wiki/Triumvirate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He even divined beforehand the outcome of all his wars. When the forces of the triumvirs were assembled at • Bononia, an eagle that had perched upon his tent made a dash at two ra..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 402,
+    "chapter": "Chapter 96",
+    "caesar": "Augustus",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...at two ravens, which attacked it on either side, and struck them to the ground. From this the whole army inferred that there would one day be discord among the colleagues, as actually came to pass, an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 403,
     "chapter": "Chapter 96",
     "caesar": "Augustus",
     "entity": "Philippi",
@@ -1942,7 +5302,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 404,
     "chapter": "Chapter 96",
     "caesar": "Augustus",
     "entity": "Sicily",
@@ -1955,7 +5315,46 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 405,
+    "chapter": "Chapter 96",
+    "caesar": "Augustus",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...iver, the man having the name Eutychus and the beast that of Nicon; and after the victory he set up bronze images of the two in the sacred enclosure into which he converted the site of his camp."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 406,
+    "chapter": "Chapter 97",
+    "caesar": "Augustus",
+    "entity": "lustrum",
+    "slug": "Lustrum",
+    "url": "https://en.wikipedia.org/wiki/Lustrum",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd his deification after death, were known in advance by unmistakable signs. As he was bringing the lustrum to an end in the Campus Martius before a great throng of people, an eagle flew several times..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 407,
+    "chapter": "Chapter 97",
+    "caesar": "Augustus",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...death, were known in advance by unmistakable signs. As he was bringing the lustrum to an end in the Campus Martius before a great throng of people, an eagle flew several times about him and then going..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 408,
     "chapter": "Chapter 97",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -1968,7 +5367,7 @@
     "status": "approved"
   },
   {
-    "id": 150,
+    "id": 409,
     "chapter": "Chapter 97",
     "caesar": "Augustus",
     "entity": "Illyricum",
@@ -1981,7 +5380,7 @@
     "status": "approved"
   },
   {
-    "id": 151,
+    "id": 410,
     "chapter": "Chapter 97",
     "caesar": "Augustus",
     "entity": "Rome",
@@ -1994,7 +5393,7 @@
     "status": "approved"
   },
   {
-    "id": 152,
+    "id": 411,
     "chapter": "Chapter 98",
     "caesar": "Augustus",
     "entity": "Campania",
@@ -2007,7 +5406,7 @@
     "status": "approved"
   },
   {
-    "id": 153,
+    "id": 412,
     "chapter": "Chapter 98",
     "caesar": "Augustus",
     "entity": "Puteoli",
@@ -2020,7 +5419,7 @@
     "status": "approved"
   },
   {
-    "id": 154,
+    "id": 413,
     "chapter": "Chapter 98",
     "caesar": "Augustus",
     "entity": "Alexandria",
@@ -2033,7 +5432,20 @@
     "status": "approved"
   },
   {
-    "id": 155,
+    "id": 414,
+    "chapter": "Chapter 98",
+    "caesar": "Augustus",
+    "entity": "togas",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... for the several remaining days of his stay, among little presents of various kinds, he distributed togas and cloaks as well, stipulating that Romans should use the Greek dress and language and the Gr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 415,
     "chapter": "Chapter 98",
     "caesar": "Augustus",
     "entity": "Illyricum",
@@ -2046,7 +5458,87 @@
     "status": "approved"
   },
   {
-    "id": 156,
+    "id": 416,
+    "chapter": "Chapter 99",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g him off. And even this was rather a premonition than a delusion, since it was that very number of soldiers of the pretorian guard that carried him forth to lie in state."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 417,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 1 He died in the same room as his father Octavius, in the consul ­ship of two Sextuses, Pompeius and Appuleius, on the fourteenth day before the Kalends of Se...",
+      "...-footed and in ungirt tunics, and placed in the Mausoleum. This structure he had built in his sixth consul ­ship between the Via Flaminia and the bank of the Tiber, and at the same time opened to the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 418,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...vius, in the consul ­ship of two Sextuses, Pompeius and Appuleius, on the fourteenth day before the Kalends of September at the ninth hour, just thirty-five days before his seventy-sixth birthday. 2 ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 419,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...silica of the town at which they arrived or in its principal temple. At Bovillae the members of the equestrian order met it and bore it to the city, where they placed it in the vestibule of his house....",
+      "...been reduced to ashes, on its way to heaven. His remains were gathered up by the leading men of the equestrian order, bare-footed and in ungirt tunics, and placed in the Mausoleum. This structure he h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 420,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he city, where they placed it in the vestibule of his house. In their desire to give him a splendid funeral and honour his memory the senators so vied with one another that among many other suggestion..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 421,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... with one another that among many other suggestions some proposed that his cortege pass through the triumphal gate, preceded by a statue of Victory which stands in the House, while a dirge was sung by..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 422,
     "chapter": "Chapter 100",
     "caesar": "Augustus",
     "entity": "Augustus",
@@ -2059,7 +5551,46 @@
     "status": "approved"
   },
   {
-    "id": 157,
+    "id": 423,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s eulogy was twice delivered: before the temple of the Deified Julius by Tiberius, and from the old rostra by Drusus, son of Tiberius; and he was carried on the shoulders of senators to the Campus Mar..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 424,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m the old rostra by Drusus, son of Tiberius; and he was carried on the shoulders of senators to the Campus Martius and there cremated. 4 There was even an ex-praetor who took oath that he had seen th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 425,
+    "chapter": "Chapter 100",
+    "caesar": "Augustus",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ried on the shoulders of senators to the Campus Martius and there cremated. 4 There was even an ex-praetor who took oath that he had seen the form of the Emperor, after he had been reduced to ashes, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 426,
     "chapter": "Chapter 100",
     "caesar": "Augustus",
     "entity": "Tiber",
@@ -2068,6 +5599,139 @@
     "occurrenceCount": 1,
     "contexts": [
       "... This structure he had built in his sixth consul ­ship between the Via Flaminia and the bank of the Tiber, and at the same time opened to the public the groves and walks by which it was surrounded."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 427,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 1 He had made a will in the consul ­ship of Lucius Plancus and Gaius Silius on the third day before the Nones of April, a year a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 428,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "Nones",
+    "slug": "Nones",
+    "url": "https://en.wikipedia.org/wiki/Nones",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... had made a will in the consul ­ship of Lucius Plancus and Gaius Silius on the third day before the Nones of April, a year and four months before he died, in two note-books, written in part in his own..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 429,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...onths before he died, in two note-books, written in part in his own hand and in part in that of his freedmen Polybius and Hilarion. These the Vestal virgins, with whom they had been deposited, now pro...",
+      "...sury and in the privy-purse, and what revenues were in arrears. He added, besides, the names of the freedmen and slaves from whom the details could be demanded."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 430,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ird grade he mentioned many of his relatives and friends. He left to the Roman people forty million sesterces; to the tribes three million five hundred thousand; to the soldiers of the pretorian guard...",
+      "...ose. 3 He gave other legacies to various individuals, some amounting to as much as twenty thousand sesterces, and provided for the payment of these a year later, giving as his excuse for the delay th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 431,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...the Roman people forty million sesterces; to the tribes three million five hundred thousand; to the soldiers of the pretorian guard a thousand each; to the city cohorts five hundred; and to the legion...",
+      "...e entrance to the Mausoleum; in the third, a summary of the condition of the whole empire; how many soldiers there were in active service in all parts of it, how much money there was in the public tre..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 432,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... million five hundred thousand; to the soldiers of the pretorian guard a thousand each; to the city cohorts five hundred; and to the legionaries three hundred. This sum he ordered to be paid at once, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 433,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "legionaries",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o the soldiers of the pretorian guard a thousand each; to the city cohorts five hundred; and to the legionaries three hundred. This sum he ordered to be paid at once, for he had always kept the amount..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 434,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...his Mausoleum, if anything befell them. 4 In one of the three rolls he included directions for his funeral; in the second, an account of what he had accomplished, which he desired to have cut upon br..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 435,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "bronze",
+    "slug": "Roman_copper_alloy",
+    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s funeral; in the second, an account of what he had accomplished, which he desired to have cut upon bronze tablets and set up at the entrance to the Mausoleum; in the third, a summary of the condition..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 436,
+    "chapter": "Chapter 101",
+    "caesar": "Augustus",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ny soldiers there were in active service in all parts of it, how much money there was in the public treasury and in the privy-purse, and what revenues were in arrears. He added, besides, the names of ..."
     ],
     "status": "approved"
   }

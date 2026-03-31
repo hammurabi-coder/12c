@@ -9,9 +9,12 @@
       "en": "1 The race of the Caesars ended with Nero. That this would be so was shown by many portents and especially by two very significant ones. Years before, as Livia was returning to her estate near Veii, immediately after her marriage with Augustus, an eagle which flew by dropped into her lap a white hen, holding in its beak a sprig of laurel, just as the eagle had carried it off. Livia resolved to rear the fowl and plant the sprig, whereupon such a great brood of chickens was hatched that to this day the villa is called Ad Gallinas, and such a grove of laurel sprang up, that the Caesars gathered their laurels from it when they were going to celebrate triumphs. Moreover it was the habit of those who triumphed to plant other branches at once in that same place, and it was observed that just before the death of each of them the tree which he had planted withered. Now in Nero's last year the whole grove died from the root up, as well as all the hens. Furthermore, when shortly afterwards the temple of the Caesars was struck by lightning, the heads fell from all the statues at the same time, and his sceptre, too, was dashed from the hand of Augustus.",
       "la": "1 Progenies Caesarum in Nerone defecit; quod futurum compluribus quidem signis, sed vel evidentissimis duobus apparuit. Liviae olim post Augusti statim nuptias Veientanum suum revisenti praetervolans aquila gallinam albam ramulum lauri rostro tenentem, ita ut rapuerat, demisit in gremium; cumque nutriri alitem, pangi ramulum placuisset, tanta pullorum suboles provenit, ut hodieque ea villa \"ad Gallinas\" vocetur, tale vero lauretum, ut triumphaturi Caesares inde laureas decerperent; fuitque mos triumphantibus, alias confestim eodem loco pangere; et observatum est sub cuiusque obitum arborem ab ipso institutam elanguisse. Ergo novissimo Neronis anno et silva omnis exaruit radicitus, et quidquid ibi gallinarum erat interiit. Ac subinde tacta de caelo Caesarum aede capita omnibus simul statuis deciderunt, Augusti etiam sceptrum e manibus excussum est.",
       "wikiLinks": {
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Ad Gallinas": "https://en.wikipedia.org/wiki/Villa_of_Livia"
+        "Ad Gallinas": "https://en.wikipedia.org/wiki/Villa_of_Livia",
+        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "laurels": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph"
       }
     },
     {
@@ -20,8 +23,9 @@
       "la": "1 Neroni Galba successit nullo gradu contingens Caesarum domum, sed haud dubie nobilissimus magnaque et vetere prosapia, ut qui statuarum titulis pronepotem se Quinti Catuli Capitolini semper ascripserit, imperator vero etiam stemma in atrio proposuerit, quo paternam originem ad Iovem, maternam ad Pasiphaam Minonis uxorem referret.",
       "wikiLinks": {
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
-        "Catulus": "https://en.wikipedia.org/wiki/Catulus"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Catulus": "https://en.wikipedia.org/wiki/Catulus",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
       }
     },
     {
@@ -39,7 +43,10 @@
         "Lusitanians": "https://en.wikipedia.org/wiki/Lusitanian",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Catulus": "https://en.wikipedia.org/wiki/Catulus",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -53,7 +60,13 @@
         "Marcus Valerius Messala": "https://en.wikipedia.org/wiki/Marcus_Valerius_Messalla_Corvinus",
         "Gnaeus Lentulus": "https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Lentulus",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
+        "bronze": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
       }
     },
     {
@@ -64,7 +77,8 @@
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
         "Livia Augusta": "https://en.wikipedia.org/wiki/Livia",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
       }
     },
     {
@@ -79,9 +93,17 @@
         "Lucius Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Upper Germany": "https://en.wikipedia.org/wiki/Germania_Superior",
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Gaul": "https://en.wikipedia.org/wiki/Gaul"
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -92,7 +114,11 @@
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "proconsul": "https://en.wikipedia.org/wiki/Proconsul",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army",
+        "denarii": "https://en.wikipedia.org/wiki/Denarius"
       }
     },
     {
@@ -104,8 +130,11 @@
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "province": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -116,7 +145,11 @@
         "Carthage": "https://en.wikipedia.org/wiki/Carthage",
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
       }
     },
     {
@@ -126,10 +159,20 @@
       "wikiLinks": {
         "Dertosa": "https://en.wikipedia.org/wiki/Tortosa",
         "Balearic Isles": "https://en.wikipedia.org/wiki/Balearic_Islands",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
       }
     },
     {
@@ -139,11 +182,14 @@
       "wikiLinks": {
         "Nymphidius Sabinus": "https://en.wikipedia.org/wiki/Gaius_Nymphidius_Sabinus",
         "Clodius Macer": "https://en.wikipedia.org/wiki/Lucius_Clodius_Macer",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
-        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher"
+        "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "governors": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -153,7 +199,15 @@
       "wikiLinks": {
         "Germans": "https://en.wikipedia.org/wiki/Germanic_peoples",
         "Temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_(Capitoline_Hill)",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "governors": "https://en.wikipedia.org/wiki/Roman_province",
+        "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
+        "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "denarii": "https://en.wikipedia.org/wiki/Denarius"
       }
     },
     {
@@ -174,7 +228,8 @@
         "Titus Vinius": "https://en.wikipedia.org/wiki/Titus_Vinius",
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
-        "Claudius": "https://en.wikipedia.org/wiki/Claudius"
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },
     {
@@ -183,7 +238,9 @@
       "la": "1 Existimabatur etiam senatoria et equestria officia biennii spatio determinaturus nec daturus nisi invitis ac recusantibus. Liberalitates Neronis non plus decimis concessis per quinquaginta equites R. ea condicione revocandas curavit exigendasque, ut et si quid scaenici aut xystici donatum olim vendidissent, auferretur emptoribus, quando illi pretio absumpto solvere nequirent.\n\n2 At contra nihil non per comites atque libertos pretio addici aut donari gratia passus est, vectigalia immunitates, poenas innocentium impunitates noxiorum. Quin etiam, populo R. deposcente supplicium Haloti et Tigillini º solos ex omnibus Neronis emissariis vel maleficentissimos incolumes praestitit atque insuper Halotum procuratione amplissima ornavit, pro Tigellino etiam saevitiae populum edicto increpuit.",
       "wikiLinks": {
         "Tigellinus": "https://en.wikipedia.org/wiki/Ofonius_Tigellinus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
       }
     },
     {
@@ -195,7 +252,11 @@
         "Upper Germany": "https://en.wikipedia.org/wiki/Germania_Superior",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "Spain": "https://en.wikipedia.org/wiki/Hispania"
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends"
       }
     },
     {
@@ -206,7 +267,8 @@
         "Piso Frugi Licinianus": "https://en.wikipedia.org/wiki/Lucius_Calpurnius_Piso_Frugi_Licinianus",
         "Marcus Salvius Otho": "https://en.wikipedia.org/wiki/Otho",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Otho": "https://en.wikipedia.org/wiki/Otho"
+        "Otho": "https://en.wikipedia.org/wiki/Otho",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -215,7 +277,13 @@
       "la": "1 Magna et assidua monstra iam inde a principio exitum ei, qualis evenit, portenderant. Cum per omne iter dextra sinistraque oppidatim victimae caederentur, taurus securis ictu consternatus rupto vinculo essedum eius invasit elatisque pedibus totum cruore perfudit; ac descendentem speculator impulsu turbae lancea prope vulneravit. Urbem quoque et deinde Palatium ingressum excepit terrae tremor et assimilis quidam mugitui sonus.\n\n2 Secuta sunt aliquando manifestiora. Monile margaritis gemmisque consertum ad ornandam Fortunam suam Tusculanam ex omni gaza secreverat; id repente quasi augustiore dignius loco Capitolinae Veneri dedicavit, ac proxima nocte somniavit speciem Fortunae querentis fraudatam se dono destinato, minantisque erepturam et ipsam quae dedisset. Cumque exterritus luce prima ad expiandum somnium, praemissis qui rem divinam appararent, Tusculum excucurrisset, nihil invenit praeter tepidam in ara favillam atratumque iuxta senem in catino vitreo tus⁠ 16 tenentem et in calice fictili merum.\n\n3 Observatum etiam est Kal. Ian. sacrificanti coronam de capite excidisse, auspicanti pullos avolasse; adoptionis die neque milites adlocuturo castrensem sellam de more positam pro tribunali oblitis ministris et in senatu curulem perverse collocatam.",
       "wikiLinks": {
         "Capitoline Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "curule chair": "https://en.wikipedia.org/wiki/Curule_chair"
       }
     },
     {
@@ -224,7 +292,9 @@
       "la": "1 Prius vero quam occideretur sacrificantem mane haruspex identidem monuit, caveret periculum, non longe percussores abesse. Haud multo post cognoscit teneri castra ab Othone, ac plerisque ut eodem quam primum pergeret suadentibus — posse enim auctoritate et praesentia praevalere — nihil amplius quam continere se statuit et legionariorum firmare praesidiis, qui multifariam diverseque tendebant. Loricam tamen induit linteam, quanquam haud dissimulans parum adversum tot mucrones profuturam.\n\n2 Sed extractus rumoribus falsis, quos conspirati, ut eum in publicum elicerent, de industria dissiparant, paucis temere affirmantibus transactum negotium, oppressos, qui tumultuarentur, advenire frequentis ceteros gratulabundos et in omne obsequium paratos, iis ut occurreret prodiit tanta fiducia, ut militi cuidam occisum a se Othonem glorianti: \"Quo auctore?\" responderit; atque in forum usque processit. Ibi equites, quibus mandata caedes erat, cum per publicum dimota paganorum turba equos adegissent, viso procul eo parumper restiterunt; dein rursum incitati desertum a suis contrucidarunt.",
       "wikiLinks": {
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Otho": "https://en.wikipedia.org/wiki/Otho"
+        "Otho": "https://en.wikipedia.org/wiki/Otho",
+        "legionaries": "https://en.wikipedia.org/wiki/Roman_legion",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -235,7 +305,10 @@
         "Lake of Curtius": "https://en.wikipedia.org/wiki/Lacus_Curtius",
         "German troops": "https://en.wikipedia.org/wiki/Germanic_peoples",
         "Otho": "https://en.wikipedia.org/wiki/Otho",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army",
+        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome"
       }
     },
     {
@@ -252,7 +325,7 @@
       "la": "1 Cibi plurimi traditur, quem tempore hiberno etiam ante lucem capere consuerat, inter cenam vero usque eo abundantis,⁠ 22 ut congestas super manus reliquias circumferri iuberet spargique ad pedes stantibus. Libidinis in mares pronior⁠ 23 et eos non nisi praeduros exoletosque: ferebant in Hispania Icelum e veteribus concubinis de Neronis exitu nuntiantem non modo artissimis osculis palam exceptum ab eo, sed ut sine mora velleretur oratum atque seductum.",
       "wikiLinks": {
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)"
       }
     },
     {

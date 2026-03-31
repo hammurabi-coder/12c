@@ -15,7 +15,12 @@
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio"
+        "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+        "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+        "centurion": "https://en.wikipedia.org/wiki/Centurion",
+        "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor"
       }
     },
     {
@@ -29,7 +34,13 @@
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Sabine country": "https://en.wikipedia.org/wiki/Sabines",
         "Cosa": "https://en.wikipedia.org/wiki/Cosa",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "aedile": "https://en.wikipedia.org/wiki/Aedile",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor"
       }
     },
     {
@@ -40,7 +51,9 @@
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Domitian": "https://en.wikipedia.org/wiki/Domitian",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)"
+        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor"
       }
     },
     {
@@ -50,14 +63,25 @@
       "wikiLinks": {
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
-        "Greece": "https://en.wikipedia.org/wiki/Greece",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Aulus Plautius": "https://en.wikipedia.org/wiki/Aulus_Plautius",
         "Vectis": "https://en.wikipedia.org/wiki/Isle_of_Wight",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -67,13 +91,19 @@
       "wikiLinks": {
         "Otho": "https://en.wikipedia.org/wiki/Otho",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
         "Jupiter Optimus Maximus": "https://en.wikipedia.org/wiki/Jupiter_(god)",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "Greece": "https://en.wikipedia.org/wiki/Greece",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+        "aedile": "https://en.wikipedia.org/wiki/Aedile",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -87,9 +117,17 @@
         "Otho": "https://en.wikipedia.org/wiki/Otho",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "governors": "https://en.wikipedia.org/wiki/Roman_province",
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Ides": "https://en.wikipedia.org/wiki/Ides",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -102,7 +140,11 @@
         "Egypt": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+        "Serapis": "https://en.wikipedia.org/wiki/Serapis",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
       }
     },
     {
@@ -116,7 +158,18 @@
         "Cappadocia": "https://en.wikipedia.org/wiki/Cappadocia",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Jews": "https://en.wikipedia.org/wiki/Jews",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "censor": "https://en.wikipedia.org/wiki/Censor",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "bronze": "https://en.wikipedia.org/wiki/Roman_copper_alloy"
       }
     },
     {
@@ -130,7 +183,9 @@
         "Deified Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Caelian mount": "https://en.wikipedia.org/wiki/Caelian_Hill",
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Caelian": "https://en.wikipedia.org/wiki/Caelian_Hill",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },
     {
@@ -156,7 +211,10 @@
       "la": "1 Ceteris in rebus statim ab initio principatus usque ad exitum civilis et clemens, mediocritatem pristinam neque dissimulavit umquam ac frequenter etiam prae se tulit. Quin et conantis quosdam originem Flavii generis ad conditores Reatinos comitemque Herculis, cuius monimentum exstat Salaria via, referre irrisit ultro. Adeoque nihil ornamentorum extrinsecus cupide appetivit, ut triumphi die fatigatus tarditate et taedio pompae non reticuerit, merito se plecti, qui triumphum, quasi aut debitum maioribus suis aut speratum umquam sibi, tam inepte senex concupisset. Ac ne tribuniciam quidem potestatem statim nec⁠ 10 patris patriae appellationem nisi sero recepit. Nam consuetudinem scrutandi salutantes manente adhuc bello civili omiserat.",
       "wikiLinks": {
         "Hercules": "https://en.wikipedia.org/wiki/Hercules",
-        "Via Salaria": "https://en.wikipedia.org/wiki/Salaria"
+        "Via Salaria": "https://en.wikipedia.org/wiki/Salaria",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "tribunician": "https://en.wikipedia.org/wiki/Tribunician_power",
+        "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars"
       }
     },
     {
@@ -165,7 +223,8 @@
       "la": "1 Amicorum libertatem, causidicorum figuras ac philosophorum contumaciam lenissime tulit. Licinium Mucianum notae impudicitiae, sed meritorum fiducia minus sui reverentem, numquam nisi clam et hactenus retaxare sustinuit, ut apud communem aliquem amicum querens adderet clausulam: 11 \"Ego tamen vir sum.\" Salvium Liberalem in defensione divitis rei ausum dicere: \"Quid ad Caesarem, si Hipparchus sestertium milies habet?\" et ipse laudavit. Demetrium Cynicum in itinere obvium sibi post damnationem ac neque assurgere neque salutare se dignantem, oblatrantem etiam nescio quid, satis habuit canem appellare.",
       "wikiLinks": {
         "Licinius Mucianus": "https://en.wikipedia.org/wiki/Licinius_Mucianus",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "client": "https://en.wikipedia.org/wiki/Client_(ancient_Rome)"
       }
     },
     {
@@ -174,9 +233,10 @@
       "la": "1 Offensarum inimicitiarumque minime memor exsecutorve Vitelli hostis sui filiam splendidissime maritavit, dotavit etiam et instruxit. Trepidum eum interdicta aula sub Nerone quaerentemque, quidnam ageret aut quo abiret, quidam ex officio admissionis simul expellens abire Morboviam iusserat. In hunc postea deprecantem non ultra verba excanduit, et quidem totidem fere atque eadem. Nam ut suspicione aliqua vel metu ad perniciem cuiusquam compelleretur tantum afuit, ut monentibus amicis cavendum esse Mettium Pompusianum, quod volgo crederetur genesim habere imperatoriam, insuper consulem fecerit, spondens quandoque beneficii memorem futurum.",
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
+        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -186,7 +246,8 @@
       "wikiLinks": {
         "Helvidius Priscus": "https://en.wikipedia.org/wiki/Helvidius_Priscus",
         "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor"
       }
     },
     {
@@ -195,7 +256,9 @@
       "la": "1 Sola est, in qua merito culpetur, pecuniae cupiditas. Non enim contentus omissa sub Galba vectigalia revocasse, novas et gravia addidisse, auxisse tributa provinciis, nonnullis et duplicasse, negotiationes quoque vel privato pudendas propalam exercuit, coemendo quaedam tantum ut pluris postea distraheret.\n\n2 Ne candidatis quidem honores reisve tam innoxiis quam nocentibus absolutiones venditare cunctatus est. Creditur etiam procuratorum rapacissimum quemque ad ampliora officia ex industria solitus promovere, quo locupletiores mox condemnaret; quibus quidem volgo pro spongiis dicebatur uti, quod quasi et siccos madefaceret et exprimeret umentis.\n\n3 Quidam natura cupidissimum tradunt, idque exprobratum ei a sene bubulco, qui negata sibi gratuita libertate,⁠ 14 quam imperium adeptum⁠ 15 suppliciter orabat, proclamaverit, vulpem pilum mutare, non mores. Sunt contra qui opinentur ad manubias et rapinas necessitate compulsum summa aerarii fiscique inopia, de qua testificatus sit initio statim principatus, professus quadringenties milies opus esse, ut res p. stare posset. Quod et veri similius videtur, quando et male partis optime usus est.",
       "wikiLinks": {
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "treasury": "https://en.wikipedia.org/wiki/Aerarium"
       }
     },
     {
@@ -205,7 +268,9 @@
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "talent": "https://en.wikipedia.org/wiki/Talent_(measurement)"
       }
     },
     {
@@ -214,7 +279,9 @@
       "la": "1 Primus e fisco Latinis Graecisque rhetoribus annua centena constituit; praestantis poetas, nec non et artifices, Coae Veneris,⁠ 16 item Colossi refectorem insigni congiario magnaque mercede donavit; mechanico quoque grandis columnas exigua impensa perducturum in Capitolium pollicenti praemium pro commento non mediocre optulit, operam remisit praefatus sineret se plebiculam pascere.",
       "wikiLinks": {
         "Cos": "https://en.wikipedia.org/wiki/Cos",
-        "Colossus": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes"
+        "Colossus": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
       }
     },
     {
@@ -222,9 +289,13 @@
       "en": "1 At the plays with which he dedicated the new stage of the theatre of Marcellus he revived the old musical entertainments. To Apelles, the tragic actor, he gave four hundred thousand sesterces; to Terpnus and Diodorus, the lyre-players, two hundred thousand each; of several a hundred thousand; while those who received least were paid forty thousand, and numerous golden crowns were awarded besides. He gave constant dinner-parties, too, usually formally and sumptuously, to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia.\n\n2 Yet even so he could not be rid of his former ill-repute for covetousness. The Alexandrians persisted in calling him Cybiosactes, the surname of one of their kings who was scandalously stingy. Even at his funeral, Favor, a leading actor of mimes, who wore his mask and, according to the usual custom, imitated the actions and words of the deceased during his lifetime, having asked procurators in a loud voice how much his funeral procession would cost, and hearing the reply \"Ten million sesterces,\" cried out: \"Give me a hundred thousand and fling me even into the Tiber.\"",
       "la": "1 Ludis, per quos scaena Marcelliani theatri restituta dedicabatur, vetera quoque acroamata revocaverat. Apellae⁠ 17 tragoedo quadringenta, Terpno Diodoroque citharoedis ducena, nonnullis centena, quibus minimum, quadragena sestertia insuper plurimas coronas aureas dedit. Sed et convivabatur assidue ac saepius recta et dapsile, ut macellarios adiuvaret. Dabat sicut Saturnalibus viris apophoreta, ita per Kal. Mart. feminis. Et tamen ne sic quidem pristina cupiditatis infamia caruit.\n\n2 Alexandrini Cybiosacten⁠ 18 eum vocare perseveraverunt, cognomine unius e regibus suis turpissimarum sordium. Sed et in funere Favor archimimus personam eius ferens imitansque, ut est mos, facta ac dicta vivi, interrogatis palam procuratoribus, quanti funus et pompa constaret, ut audit sestertium centiens, exclamavit, centum sibi sestertia darent, ac se vel in Tiberim proicerent.",
       "wikiLinks": {
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
-        "Saturnalia": "https://en.wikipedia.org/wiki/Saturnalia"
+        "Saturnalia": "https://en.wikipedia.org/wiki/Saturnalia",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Kalends of March": "https://en.wikipedia.org/wiki/Kalends",
+        "funeral": "https://en.wikipedia.org/wiki/Funus"
       }
     },
     {
@@ -252,7 +323,8 @@
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -269,7 +341,9 @@
       "en": "1 In his ninth consul ­ship he had a slight illness in Campania, and returning at once to the city, he left for Cutiliae º and the country about Reate, where he spent the summer every year. There, in addition to an increase in his illness, having contracted a bowel complaint by too free use of the cold waters, he nevertheless continued to perform his duties as emperor, even receiving embassies as he lay in bed. Taken on a sudden with such an attack of diarrhoea that he all but swooned, he said: \"An emperor ought to die standing,\" and while he was struggling to get on his feet, he died in the arms of those who tried to help him, on the ninth day before the Kalends of July, at the age of sixty-nine years, seven months and seven days.⁠ e",
       "la": "1 Consulatu suo nono temptatus in Campania motiunculis levibus protinusque urbe repetita, Cutilias⁠ 28 ac Reatina rura, ubi aestivare quotannis solebat, petit. Hic cum super urgentem valitudinem creberrimo frigidae aquae usu etiam intestina vitiasset nec eo minus muneribus imperatoriis ex consuetudine fungeretur, ut etiam legationes audiret cubans, alvo repente usque ad defectionem soluta, imperatorem ait stantem mori oportere; dumque consurgit ac nititur, inter manus sublevantium extinctus est VIIII. Kal. Iul. annum agens aetatis sexagensimum ac nonum superque mensem ac diem septimum.",
       "wikiLinks": {
-        "Campania": "https://en.wikipedia.org/wiki/Campania"
+        "Campania": "https://en.wikipedia.org/wiki/Campania",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
       }
     },
     {
@@ -278,7 +352,7 @@
       "la": "1 Convenit inter omnis, tam certum eum de sua suorumque genitura semper fuisse, ut post assiduas in se coniurationes ausus sit adfirmare senatui aut filios sibi successuros aut neminem. Dicitur etiam vidisse quondam per quietem stateram media parte vestibuli Palatinae domus positam examine aequo, cum in altera lance Claudius et Nero starent, in altera ipse ac filii. Nec res fefellit, quando totidem annis parique temporis spatio utrique imperaverunt.",
       "wikiLinks": {
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)"
       }
     }
   ],

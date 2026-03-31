@@ -12,9 +12,15 @@
         "Claudian": "https://en.wikipedia.org/wiki/Gens_Claudia",
         "Sabines": "https://en.wikipedia.org/wiki/Sabines",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Titus": "https://en.wikipedia.org/wiki/Titus_Tatius",
-        "Claudius": "https://en.wikipedia.org/wiki/Atta_Claudius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "patrician": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+        "plebeian": "https://en.wikipedia.org/wiki/Plebeian",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "censor": "https://en.wikipedia.org/wiki/Censor",
+        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph"
       }
     },
     {
@@ -30,11 +36,19 @@
         "Pyrrhus": "https://en.wikipedia.org/wiki/Pyrrhus",
         "Claudius Caudex": "https://en.wikipedia.org/wiki/Claudius_Caudex",
         "Tiberius Nero": "https://en.wikipedia.org/wiki/Tiberius_Nero",
-        "Claudius": "https://en.wikipedia.org/wiki/Claudius_Caudex",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Claudius": "https://en.wikipedia.org/wiki/Claudius",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
-        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins"
+        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "plebeians": "https://en.wikipedia.org/wiki/Plebeian",
+        "patricians": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+        "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "Cicero": "https://en.wikipedia.org/wiki/Cicero",
+        "plebeian": "https://en.wikipedia.org/wiki/Plebeian",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
       }
     },
     {
@@ -44,7 +58,14 @@
       "wikiLinks": {
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "Tiberius Nero": "https://en.wikipedia.org/wiki/Tiberius_Nero",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "plebeian": "https://en.wikipedia.org/wiki/Plebeian",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "censor": "https://en.wikipedia.org/wiki/Censor",
+        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
       }
     },
     {
@@ -60,10 +81,16 @@
         "Lucius Antonius": "https://en.wikipedia.org/wiki/Lucius_Antonius_(brother_of_Mark_Antony)",
         "Sextus Pompeius": "https://en.wikipedia.org/wiki/Sextus_Pompeius",
         "Tiberius Nero": "https://en.wikipedia.org/wiki/Tiberius_Nero",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "Sicily": "https://en.wikipedia.org/wiki/Sicily",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "triumvirs": "https://en.wikipedia.org/wiki/Triumvirate",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "triumvir": "https://en.wikipedia.org/wiki/Triumvirate",
+        "fasces": "https://en.wikipedia.org/wiki/Fasces"
       }
     },
     {
@@ -74,7 +101,10 @@
         "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
         "Lucius Antonius": "https://en.wikipedia.org/wiki/Lucius_Antonius_(brother_of_Mark_Antony)",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Palatine": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -84,9 +114,11 @@
       "wikiLinks": {
         "Baiae": "https://en.wikipedia.org/wiki/Baiae",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
         "Sextus Pompeius": "https://en.wikipedia.org/wiki/Sextus_Pompeius",
-        "Sicily": "https://en.wikipedia.org/wiki/Sicily"
+        "Sicily": "https://en.wikipedia.org/wiki/Sicily",
+        "rostra": "https://en.wikipedia.org/wiki/Rostra",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph"
       }
     },
     {
@@ -99,7 +131,11 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Drusus": "https://en.wikipedia.org/wiki/Nero_Claudius_Drusus",
-        "Agrippina": "https://en.wikipedia.org/wiki/Vipsania_Agrippina"
+        "Agrippina": "https://en.wikipedia.org/wiki/Vipsania_Agrippina",
+        "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "Cicero": "https://en.wikipedia.org/wiki/Cicero"
       }
     },
     {
@@ -122,7 +158,16 @@
         "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
         "Marcus Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "Gaul": "https://en.wikipedia.org/wiki/Gaul"
+        "Gaul": "https://en.wikipedia.org/wiki/Gaul",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "ovation": "https://en.wikipedia.org/wiki/Ovatio",
+        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -133,7 +178,7 @@
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Mytilene": "https://en.wikipedia.org/wiki/Mytilene",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
         "Rome": "https://en.wikipedia.org/wiki/Rome"
       }
     },
@@ -147,7 +192,9 @@
         "Campania": "https://en.wikipedia.org/wiki/Campania",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
-        "Greece": "https://en.wikipedia.org/wiki/Greece"
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+        "lictors": "https://en.wikipedia.org/wiki/Lictor",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
       }
     },
     {
@@ -160,7 +207,10 @@
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
         "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "magistrate": "https://en.wikipedia.org/wiki/Roman_magistrate",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "centurions": "https://en.wikipedia.org/wiki/Centurion"
       }
     },
     {
@@ -184,7 +234,11 @@
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Macedonia": "https://en.wikipedia.org/wiki/Macedonia_(region)",
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
-        "Rhodes": "https://en.wikipedia.org/wiki/Rhodes"
+        "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
       }
     },
     {
@@ -212,7 +266,11 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "Macedonia": "https://en.wikipedia.org/wiki/Macedonia_(region)"
+        "Macedonia": "https://en.wikipedia.org/wiki/Macedonia_(region)",
+        "tribunician": "https://en.wikipedia.org/wiki/Tribunician_power",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)"
       }
     },
     {
@@ -224,7 +282,12 @@
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "consuls": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -243,7 +306,10 @@
       "la": "1 Disciplinam acerrime exegit animadversionum et ignominiarum generibus ex antiquitate repetitis atque etiam legato legionis, quod paucos milites cum liberto suo trans ripam venatum misisset, ignominia notato. Proelia, quamvis minimum fortunae casibusque permitteret, aliquanto constantius inibat, quotiens lucubrante se subito ac nullo propellente decideret lumen et exstingueretur, confidens, ut aiebat, ostento sibi a maioribus suis in omni ducatu expertissimo. Sed re prospere gesta non multum afuit quin a Bructero quodam occideretur, cui inter proximos versanti et trepidatione detecto tormentis expressa confessio est cogitati facinoris.",
       "wikiLinks": {
         "River": "https://en.wikipedia.org/wiki/River",
-        "Legion": "https://en.wikipedia.org/wiki/Roman_legion"
+        "Legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
       }
     },
     {
@@ -251,9 +317,13 @@
       "en": "1 After two years he returned to the city from Germany and celebrated the triumph which he had postponed, accompanied also by his generals, for whom he had obtained the triumphal regalia. And before turning to enter the Capitol, he dismounted from his chariot and fell at the knees of his father, who was presiding over the ceremonies. He sent Bato, the leader of the Pannonians, to Ravenna, after presenting him with rich gifts; thus showing his gratitude to him for allowing him to escape when he was trapped with his army in a dangerous place. Then he gave a banquet to the people at a thousand tables, and a largess of three hundred sesterces to every man. With the proceeds of his spoils he restored and dedicated the temple of Concord, as well as that of Pollux and Castor, in his own name and that of his brother.",
       "la": "1 A Germania in urbem post biennium regressus triumphum, quem distulerat, egit prosequentibus etiam legatis, quibus triumphalia ornamenta impetrarat. Ac prius quam in Capitolium flecteret, descendit e curru seque praesidenti patri ad genua summisit. Batonem Pannonium ducem ingentibus donatum praemiis Ravennam transtulit, gratiam referens, quod se quondam cum exercitu iniquitate loci circumclusum passus esset⁠ 19 evadere. Prandium dehinc populo mille mensis et congiarium trecenos nummos viritim dedit. Dedicavit et Concordiae aedem, item Pollucis et Castoris suo fratrisque nomine de manubiis.",
       "wikiLinks": {
-        "Capitol": "https://en.wikipedia.org/wiki/Capitolium",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Ravenna": "https://en.wikipedia.org/wiki/Ravenna",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
       }
     },
     {
@@ -265,7 +335,10 @@
         "Homer": "https://en.wikipedia.org/wiki/Homer",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "army": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -274,7 +347,8 @@
       "la": "1 Excessum Augusti non prius palam fecit, quam Agrippa iuvene interempto. Hunc tribunus militum custos appositus occidit lectis codicillis, quibus ut id faceret iubebatur; quos codicillos dubium fuit, Augustusne moriens reliquisset, quo materiam tumultus post se subduceret; an nomine Augusti Livia et ea conscio Tiberio an ignaro, dictasset. Tiberius enuntianti tribuno, factum esse quod imperasset, neque imperasse se et redditurum eum senatui rationem respondit, invidiam scilicet in praesentia vitans. Nam mox silentio rem obliteravit.",
       "wikiLinks": {
         "Agrippa": "https://en.wikipedia.org/wiki/Agrippa_Postumus",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -283,7 +357,8 @@
       "la": "1 Iure autem tribuniciae potestatis coacto senatu incohataque adlocutione derepente velut impar dolori congemuit, utque non solum vox sed et spiritus deficeret optavit ac perlegendum Druso filio tradidit. Inlatum deinde Augusti testamentum, non admissis signatoribus nisi senatorii ordinis, ceteris extra curiam signa agnoscentibus, recitavit per libertum. Testamenti initium fuit: \"Quoniam atrox fortuna Gaium et Lucium filios mihi eripuit, Tiberius Caesar mihi ex parte dimidia et sextante heres esto.\" Quo et ipso aucta suspicio est opinantium successorem ascitum eum necessitate magis quam iudicio, quando ita praefari non abstinuerit.",
       "wikiLinks": {
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "senatorial order": "https://en.wikipedia.org/wiki/Roman_Senate"
       }
     },
     {
@@ -291,7 +366,8 @@
       "en": "1 Though Tiberius did not hesitate at once to assume and to exercise the imperial authority, surrounding himself with a guard of soldiers, that is, with the actual power and the outward sign of sovereignty, yet he refused the title for a long time, with barefaced hypocrisy now upbraiding his friends who urged him to accept it, saying that they did not realise what a monster the empire was, and now by evasive answers and calculating hesitancy keeping the senators in suspense when they implored him to yield, and fell at his feet. Finally, some lost patience, and one man cried out in the confusion: \"Let him take it or leave it.\" Another openly voiced the taunt that others were slow in doing what they promised, but that he was slow to promise what he was already doing.\n\n2 At last, as though on compulsion, and complaining that a wretched and burdensome slavery was being forced upon him, he accepted the empire, but in such fashion as to suggest the hope that he would one day lay it down. His own words are: \"Until I come to the time when it may seem right to you to grant an old man some repose.\"",
       "la": "1 Principatum, quamvis neque occupare confestim neque agere dubitasset, et statione militum, hoc est vi et specie dominationis assumpta, diu tamen recusavit, impudentissimo mimo⁠ 23 nunc adhortantis amicos increpans ut ignaros, quanta belva esset imperium, nunc precantem senatum et procumbentem sibi ad genua ambiguis responsis et callida cunctatione suspendens, ut quidam patientiam rumperent atque unus in tumultu proclamaret: \"Aut agat aut desistat!\" Alter coram exprobraret ceteros, quod polliciti sint tarde praestare, sed⁠ 24 ipsum, quod praestet tarde polliceri.\n\n2 Tandem quasi coactus et querens miseram et onerosam iniungi sibi servitutem, recepit imperium; nec tamen aliter, quam ut depositurum se quandoque spem faceret. Ipsius verba sunt: \"Dum veniam ad id tempus, quo vobis aequum possit videri dare vos aliquam senectuti meae requiem.\"",
       "wikiLinks": {
-        "Tiberius": "https://en.wikipedia.org/wiki/Tiberius"
+        "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -302,7 +378,10 @@
         "Libo": "https://en.wikipedia.org/wiki/Lucius_Scribonius_Libo",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Illyricum": "https://en.wikipedia.org/wiki/Illyricum_(Roman_province)",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "pontiffs": "https://en.wikipedia.org/wiki/Pontifex"
       }
     },
     {
@@ -311,7 +390,10 @@
       "la": "1 Verum liberatus metu civilem admodum inter initia ac paulo minus quam privatum egit. Ex plurimis maximisque honoribus praeter paucos et modicos non recepit. Natalem suum plebeis incurrentem circensibus vix unius bigae adiectione honorari passus est. Templa, flamines, sacerdotes decerni sibi prohibuit, etiam statuas atque imagines nisi permittente se poni; permisitque ea sola condicione, ne inter simulacra deorum sed inter ornamenta aedium ponerentur.\n\n2 Intercessit et quo minus in acta sua iuraretur, et ne mensis September Tiberius, October Livius vocarentur. Praenomen quoque imperatoris cognomenque patris patriae et civicam in vestibulo coronam recusavit; ac ne Augusti quidem nomen, quanquam hereditarium, ullis⁠ 26 nisi ad reges ac dynastas epistulis addidit. Nec amplius quam mox tres consulatus, unum paucis diebus, alterum tribus mensibus, tertium absens usque in Idus Maias gessit.",
       "wikiLinks": {
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "flamens": "https://en.wikipedia.org/wiki/Flamen",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Ides": "https://en.wikipedia.org/wiki/Ides"
       }
     },
     {
@@ -320,7 +402,8 @@
       "la": "1 Adulationes adeo aversatus est, ut neminem senatorem aut officii aut negotii causa ad lecticam suam admiserit, consularem vero satisfacientem sibi ac per genua orare conantem ita suffugerit, ut caderet supinus; atque etiam, si quid in sermone vel in continua oratione blandius de se diceretur, non dubitaret interpellare ac reprehendere et commutare continuo. Dominus appellatus a quodam denuntiavit, ne se amplius contumeliae causa nominaret. Alium dicentem sacras eius occupationes et rursus alium, auctore eo senatum se adisse,⁠ 27 verba mutare et pro auctore suasorem, pro sacris laboriosas dicere coegit.",
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
-        "Race": "https://en.wikipedia.org/wiki/Race_(sport)"
+        "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -347,7 +430,11 @@
       "la": "1 Quin etiam speciem libertatis quandam induxit conservatis senatui ac magistratibus et maiestate pristina et potestate. Neque tam parvum quicquam neque tam magnum publici privatique negotii fuit, de quo non ad patres conscriptos referretur: de vectigalibus ac monopoliis, de exstruendis reficiendisve operibus, etiam de legendo vel exauctorando milite ac legionum et auxiliorum discriptione, denique quibus imperium prorogari aut extraordinaria bella mandari, quid et qua forma⁠ 28 regum⁠ 29 litteris rescribi placeret. Praefectum alae de vi et rapinis reum causam in senatu dicere coegit. Numquam curiam nisi solus intravit; lectica quondam intro latus aeger comites a se removit.",
       "wikiLinks": {
         "monopolies": "https://en.wikipedia.org/wiki/Monopoly",
-        "revenues": "https://en.wikipedia.org/wiki/Taxation_in_ancient_Rome"
+        "revenues": "https://en.wikipedia.org/wiki/Taxation_in_ancient_Rome",
+        "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "legionaries": "https://en.wikipedia.org/wiki/Roman_legion",
+        "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)"
       }
     },
     {
@@ -356,7 +443,8 @@
       "la": "1 Quaedam adversus sententiam suam decerni ne questus quidem est. Negante eo destinatos magistratus abesse⁠ 30 oportere, ut praesentes honori adquiescerent, praetor designatus liberam legationem impetravit. Iterum censente, ut Trebianis legatam in opus novi theatri pecuniam ad munitionem viae transferre concederetur, optinere non potuit quin rata voluntas legatoris esset. Cum senatus consultum per discessionem forte fieret, transeuntem eum in alteram partem, in qua pauciores erant, secutus est nemo.\n\n2 Cetera quoque non nisi per magistratus et iure ordinario agebantur, tanta consulum auctoritate, ut legati ex Africa adierint eos querentes, trahi se a Caesare ad quem missi forent. Nec mirum, cum palam esset, ipsum quoque eisdem et assurgere et decedere via.",
       "wikiLinks": {
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "Africa": "https://en.wikipedia.org/wiki/Africa_Province"
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
+        "consuls": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -366,7 +454,13 @@
       "wikiLinks": {
         "ex-consuls": "https://en.wikipedia.org/wiki/Roman_consul",
         "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
+        "governors": "https://en.wikipedia.org/wiki/Roman_province",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -375,7 +469,8 @@
       "la": "1 Paulatim principem exseruit praestititque etsi varium diu, commodiorem tamen saepius et ad utilitates publicas proniorem. Ac primo eatenus interveniebat, ne quid perperam fieret. Itaque et constitutiones senatus quasdam rescidit et magistratibus pro tribunali cognoscentibus plerumque se offerebat consiliarium assidebatque iuxtim vel exadversum in parte primori; et si quem reorum elabi gratia rumor esset, subitus aderat iudicesque aut e plano aut e quaesitoris tribunali legum et religionis et noxae, de qua cognoscerent, admonebat; atque etiam, si qua in publicis moribus desidia aut mala consuetudine labarent, corrigenda suscepit.",
       "wikiLinks": {
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate"
+        "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
       }
     },
     {
@@ -385,7 +480,11 @@
       "wikiLinks": {
         "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
         "Gladiators": "https://en.wikipedia.org/wiki/Gladiator",
-        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
+        "aediles": "https://en.wikipedia.org/wiki/Aedile",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends"
       }
     },
     {
@@ -394,7 +493,10 @@
       "la": "1 Matronas prostratae pudicitiae, quibus accusator publicus deesset, ut propinqui more maiorum de communi sententia coercerent auctor fuit. Equiti Romano iuris iurandi gratiam fecit, uxorem in stupro generi compertam dimitteret, quam se numquam repudiaturum ante iuraverat.\n\n2 Feminae famosae, ut ad evitandas legum poenas iure ac dignitate matronali exsolverentur, lenocinium profiteri coeperant, et ex iuventute utriusque ordinis profligatissimus quisque, quominus in opera scaenae harenaeque edenda senatus consulto teneretur, famosi iudicii notam sponte subibant; eos easque omnes, ne quod refugium in tali fraude cuiquam esset, exsilio adfecit. Senatori latum clavum ademit, cum cognosset sub Kal. Iul. demigrasse in hortos, quo vilius post diem aedes in urbe conduceret. Alium e quaestura removit, quod uxorem pridie sortitionem ductam postridie repudiasset.",
       "wikiLinks": {
         "matrons": "https://en.wikipedia.org/wiki/Matron",
-        "adultery": "https://en.wikipedia.org/wiki/Infamia"
+        "adultery": "https://en.wikipedia.org/wiki/Infamia",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor"
       }
     },
     {
@@ -403,7 +505,10 @@
       "la": "1 Externas caerimonias, Aegyptios Iudaicosque ritus compescuit, coactis qui superstitione ea tenebantur religiosas vestes cum instrumento omni comburere. Iudaeorum iuventutem per speciem sacramenti in provincias gravioris caeli distribuit, reliquos gentis eiusdem vel similia sectantes urbe summovit, sub poena perpetuae servitutis nisi obtemperassent. Expulit et mathematicos, sed deprecantibus ac se artem desituros promittentibus veniam dedit.",
       "wikiLinks": {
         "Egyptian": "https://en.wikipedia.org/wiki/Ancient_Egyptian_religion",
-        "Jewish": "https://en.wikipedia.org/wiki/Judaism"
+        "Jewish": "https://en.wikipedia.org/wiki/Judaism",
+        "Jews": "https://en.wikipedia.org/wiki/Jews",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "army": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -414,7 +519,12 @@
         "brigands": "https://en.wikipedia.org/wiki/Brigand",
         "Cappadocia": "https://en.wikipedia.org/wiki/Cappadocia",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator"
+        "Mithridates": "https://en.wikipedia.org/wiki/Mithridates_VI_Eupator",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "centurion": "https://en.wikipedia.org/wiki/Centurion",
+        "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "province": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -422,7 +532,8 @@
       "en": "1 For two whole years after becoming emperor he did not set foot outside the gates; after that he went nowhere except to the neighbouring towns, at farthest to Antium, and even that very seldom and for a few days at a time. Yet he often gave out that he would revisit the provinces too and the armies, and nearly every year he made preparations for a journey by chartering carriages and arranging for supplies in the free towns and colonies. Finally he allowed vows to be put up for his voyage and return, so that at last everybody jokingly gave him the name of Callippides, who was proverbial among the Greeks for running without getting ahead a cubit's length. 62",
       "la": "1 Biennio continuo post adeptum imperium pedem porta non extulit; sequenti tempore praeterquam in propinqua oppida et, cum longissime, Antio tenus nusquam afuit, idque perraro et paucos dies; quamvis provincias quoque et exercitus revisurum se saepe pronuntiasset et prope quotannis profectionem praepararet, vehiculis comprehensis, commeatibus per municipia et colonias dispositis, ad extremum vota pro itu et reditu suo suscipi passus, ut vulgo iam per iocum \"Callippides\"⁠ 34 vocaretur, quem cursitare ac ne cubiti quidem mensuram progredi proverbio Graeco notatum est.",
       "wikiLinks": {
-        "Antium": "https://en.wikipedia.org/wiki/Antium"
+        "Antium": "https://en.wikipedia.org/wiki/Antium",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -443,7 +554,8 @@
       "wikiLinks": {
         "Capua": "https://en.wikipedia.org/wiki/Capua",
         "Campania": "https://en.wikipedia.org/wiki/Campania",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "Capitolium": "https://en.wikipedia.org/wiki/Capitoline_Hill"
       }
     },
     {
@@ -456,7 +568,10 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
         "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
-        "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)"
+        "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "governors": "https://en.wikipedia.org/wiki/Roman_province",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -468,10 +583,14 @@
         "Roman": "https://en.wikipedia.org/wiki/Roman_Republic",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "wine": "https://en.wikipedia.org/wiki/Wine",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },
     {
@@ -524,7 +643,13 @@
       "wikiLinks": {
         "Caelian": "https://en.wikipedia.org/wiki/Caelian_Hill",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus"
+        "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "denarii": "https://en.wikipedia.org/wiki/Denarius",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -535,7 +660,9 @@
         "Gnaeus Lentulus": "https://en.wikipedia.org/wiki/Gnaeus_Cornelius_Lentulus_Augur",
         "Antioch": "https://en.wikipedia.org/wiki/Antioch",
         "Augur": "https://en.wikipedia.org/wiki/Augur",
-        "Greece": "https://en.wikipedia.org/wiki/Greece"
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -548,7 +675,10 @@
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Drusus": "https://en.wikipedia.org/wiki/Nero_Claudius_Drusus"
+        "Drusus": "https://en.wikipedia.org/wiki/Nero_Claudius_Drusus",
+        "temple of Vesta": "https://en.wikipedia.org/wiki/Temple_of_Vesta",
+        "Vesta": "https://en.wikipedia.org/wiki/Vesta_(mythology)",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -567,7 +697,9 @@
       "la": "1 Filiorum neque naturalem Drusum neque adoptivum Germanicum patria caritate dilexit, alterius vitiis infensus. Nam Drusus fluxioris remissiorisque vitae erat. Itaque ne mortuo quidem perinde adfectus est, sed tantum non statim a funere ad negotiorum consuetudinem rediit iustitio longiore inhibito.\n\n2 Quin et Iliensium legatis paulo serius consolantibus, quasi obliterata iam doloris memoria, irridens se quoque respondit vicem eorum dolere, quod egregium civem Hectorem amisissent. Germanico usque adeo obtrectavit, ut et praeclara facta eius pro supervacuis elevarit et gloriosissimas victorias ceu damnosas rei p. increparet. Quod vero Alexandream propter immensam et repentinam famem inconsulto se adisset, questus est in senatu.\n\n3 Etiam causa mortis fuisse ei per Cn. Pisonem legatum Syriae creditur, quem mox huius criminis reum putant quidam mandata prolaturum, nisi ea secreto ostentanti auferenda ipsumque iugulandum curasset.⁠ 43 Propter quae multifariam inscriptum et per noctes celeberrime adclamatum est: \"Redde Germanicum!\" Quam suspicionem confirmavit ipse postea coniuge etiam ac liberis Germanici crudelem in modum afflictis.",
       "wikiLinks": {
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt"
+        "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -576,7 +708,11 @@
       "la": "1 Nurum Agrippinam post mariti mortem liberius quiddam questam manu apprehendit Graecoque versu: \"Si non dominaris,\" inquit, \"filiola, iniuriam te accipere existimas?\" Nec ullo mox sermone dignatus est. Quondam vero inter cenam porrecta a se poma gustare non ausam etiam vocare desiit, simulans veneni se crimine accersi; cum praestructum utrumque consulto esset, ut et ipse temptandi gratia offerret et illa quasi certissimum exitium⁠ 44 caveret.\n\n2 Novissime calumniatus modo ad statuam Augusti modo ad exercitus confugere velle, Pandatariam relegavit conviciantique oculum per centurionem verberibus excussit. Rursus mori inedia destinanti per vim ore diducto infulciri cibum iussit. Sed et perseverantem atque ita absumptam criminosissime insectatus, cum diem quoque natalem eius inter nefastos referendum suasisset, imputavit etiam, quod non laqueo strangulatam in Gemonias abiecerit; proque tali clementia interponi decretum passus est, quo sibi gratiae agerentur et Capitolino Iovi donum ex auro sacraretur.",
       "wikiLinks": {
         "Troy": "https://en.wikipedia.org/wiki/Troy",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "centurion": "https://en.wikipedia.org/wiki/Centurion",
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
       }
     },
     {
@@ -585,7 +721,7 @@
       "la": "1 Cum ex Germanico tres nepotes, Neronem et Drusum et Gaium, ex Druso unum Tiberium haberet, destitutus morte liberorum maximos natu de Germanici filiis, Neronem et Drusum, patribus conscriptis commendavit diemque utriusque tirocinii congiario plebei dato celebravit. Sed ut comperit ineunte anno pro eorum quoque salute publice vota suscepta, egit cum senatu, non debere talia praemia tribui nisi expertis et aetate provectis.\n\n2 Atque ex eo patefacta interiore animi sui nota omnium criminationibus obnoxios reddidit variaque fraude inductos, ut et concitarentur ad convicia et concitati proderentur, accusavit per litteras amarissime congestis etiam probris et iudicatos hostis fame necavit, Neronem in insula Pontia, Drusum in ima parte Palatii. Putant Neronem ad voluntariam mortem coactum, cum ei carnifex quasi ex senatus auctoritate missus laqueos et uncos ostentaret, Druso autem adeo alimenta subducta, ut tomentum e culcita temptaverit mandere; amborum sic reliquias dispersas, ut vix quandoque colligi possent.",
       "wikiLinks": {
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Drusus": "https://en.wikipedia.org/wiki/Drusus_Julius_Caesar"
       }
     },
@@ -612,7 +748,9 @@
       "wikiLinks": {
         "Roman": "https://en.wikipedia.org/wiki/Roman_Republic",
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },
     {
@@ -621,7 +759,8 @@
       "la": "1 Sub idem tempus consulente praetore an iudicia maiestatis cogi iuberet, exercendas esse leges respondit et atrocissime exercuit. Statuae quidam Augusti caput dempserat, ut alterius imponeret; acta res in senatu et, quia ambigebatur, per tormenta quaesita est. Damnato reo paulatim genus calumniae eo processit, ut haec quoque capitalia essent: circa Augusti simulacrum servum cecidisse, vestimenta mutasse, nummo vel anulo effigiem impressam latrinae aut lupanari intulisse, dictum ullum factumve eius existimatione aliqua laesisse. Perit⁠ 47 denique et is, qui honorem in colonia sua eodem die decerni sibi passus est, quo decreti et Augusto olim erant.",
       "wikiLinks": {
         "Praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor"
       }
     },
     {
@@ -633,7 +772,8 @@
         "Marius": "https://en.wikipedia.org/wiki/Marius_(general)",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
         "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Saturn": "https://en.wikipedia.org/wiki/Saturn_(mythology)"
       }
     },
     {
@@ -645,7 +785,10 @@
         " Praetorian": "https://en.wikipedia.org/wiki/Praetorian_Guard",
         "Praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Praetorian": "https://en.wikipedia.org/wiki/Praetorian_Guard",
-        "Tiberius": "https://en.wikipedia.org/wiki/Tiberius"
+        "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army",
+        "centurion": "https://en.wikipedia.org/wiki/Centurion",
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort"
       }
     },
     {
@@ -658,7 +801,8 @@
         "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
-        "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus"
+        "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -684,7 +828,10 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "Temple": "https://en.wikipedia.org/wiki/Temple",
         "temple": "https://en.wikipedia.org/wiki/Temple",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "consuls": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -702,7 +849,10 @@
       "la": "1 Seianum res novas molientem, quamvis iam et natalem eius publice celebrari et imagines aureas coli passim videret, vix tandem et astu magis ac dolo quam principali auctoritate subvertit. Nam primo, ut a se per speciem honoris dimitteret, collegam sibi assumpsit in quinto consulatu, quem longo intervallo absens ob id ipsum susceperat. Deinde spe affinitatis ac tribuniciae potestatis deceptum inopinantem criminatus est pudenda miserandaque oratione, cum inter alia patres conscriptos precaretur, mitterent alterum e consulibus, qui se senem et solum in conspectum eorum cum aliquo militari praesidio perduceret.\n\n2 Sic quoque diffidens tumultumque metuens Drusum nepotem, quem vinculis adhuc Romae continebat, solvi, si res posceret, ducemque⁠ 52 constitui praeceperat. Aptatis etiam navibus ad quascumque legiones meditabatur fugam, speculabundus ex altissima rupe identidem signa, quae, ne nuntii morarentur, tolli procul, ut quidque factum foret, mandaverat. Verum et oppressa coniuratione Seiani nihilo securior aut constantior per novem proximos menses non egressus est villa, quae vocatur Ionis.⁠ 53",
       "wikiLinks": {
         "Sejanus": "https://en.wikipedia.org/wiki/Sejanus",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
       }
     },
     {
@@ -759,7 +909,8 @@
       "wikiLinks": {
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
         "Greek": "https://en.wikipedia.org/wiki/Ancient_Greek",
-        "monopolium": "https://en.wikipedia.org/wiki/Monopoly"
+        "monopolium": "https://en.wikipedia.org/wiki/Monopoly",
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -770,7 +921,8 @@
         "Appian Way": "https://en.wikipedia.org/wiki/Appian_Way",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
-        "Campania": "https://en.wikipedia.org/wiki/Campania"
+        "Campania": "https://en.wikipedia.org/wiki/Campania",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -780,7 +932,9 @@
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
-        "Seneca": "https://en.wikipedia.org/wiki/Seneca_the_Younger"
+        "Seneca": "https://en.wikipedia.org/wiki/Seneca_the_Younger",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -801,7 +955,10 @@
       "wikiLinks": {
         "Gaius": "https://en.wikipedia.org/wiki/Caligula",
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Manes": "https://en.wikipedia.org/wiki/Manes",
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -811,7 +968,8 @@
       "wikiLinks": {
         "freedman": "https://en.wikipedia.org/wiki/Freedman",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     }
   ],

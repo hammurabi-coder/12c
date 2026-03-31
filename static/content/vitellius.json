@@ -12,7 +12,12 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Latium": "https://en.wikipedia.org/wiki/Latium",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "Faunus": "https://en.wikipedia.org/wiki/Faunus",
+        "patricians": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+        "Janiculum": "https://en.wikipedia.org/wiki/Janiculum",
+        "senatorial order": "https://en.wikipedia.org/wiki/Roman_Senate"
       }
     },
     {
@@ -22,13 +27,21 @@
       "wikiLinks": {
         "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "censor": "https://en.wikipedia.org/wiki/Censor",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "toga": "https://en.wikipedia.org/wiki/Toga"
       }
     },
     {
@@ -38,7 +51,15 @@
       "wikiLinks": {
         "Capreae": "https://en.wikipedia.org/wiki/Capri",
         "Spintria": "https://en.wikipedia.org/wiki/Spintria",
-        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
+        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "rostra": "https://en.wikipedia.org/wiki/Rostra",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Ides": "https://en.wikipedia.org/wiki/Ides",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
       }
     },
     {
@@ -46,7 +67,7 @@
       "en": "1 Stained by every sort of baseness as he advanced in years, he held a prominent place at court, winning the intimacy of Gaius by his devotion to driving and of Claudius by his passion for dice. But he was still dearer to Nero, not only because of these same qualities, but because of a special service besides; for when he was presiding at the contests of the Neronia and Nero wished to compete among the lyre-players, but did not venture to do so although there was a general demand for him and accordingly left the theatre, Vitellius called him back, alleging that he came as an envoy from the insistent people, and thus gave Nero a chance to yield to their entreaties.",
       "la": "1 Sequenti quoque aetate omnibus probris contaminatus, praecipuum in aula locum tenuit, Gaio per aurigandi, Claudio per aleae studium familiaris, sed aliquanto Neroni acceptior, cum propter eadem haec, tum peculiari merito, quod praesidens certamini Neroneo cupientem inter citharoedos contendere nec quamvis flagitantibus cunctis promittere audentem ideoque egressum theatro revocaverat, quasi perseverantis populi legatione suscepta, exorandumque praebuerat.",
       "wikiLinks": {
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
       }
@@ -56,7 +77,9 @@
       "en": "1 Having in this way through the favour of three emperors been honoured not only with political positions but with distinguished priesthoods as well, he afterwards governed Africa as proconsul and served as curator of public works, but with varying purpose and reputation. In his province he showed exceptional integrity for two successive years, for he served as deputy to his brother, who succeeded him; but in his city offices he was said to have stolen some of the offerings and ornaments from the temples and changed others, substituting tin and brass for gold and silver.",
       "la": "1 Trium itaque principium indulgentia non solum honoribus verum et sacerdotiis amplissimis auctus, proconsulatum Africae post haec curamque operum publicorum administravit et voluntate dispari et existimatione. In provincia singularem innocentiam praestitit biennio continuato, cum succedenti fratri legatus substitisset; at in urbano officio dona atque ornamenta templorum subripuisse et commutasse quaedam ferebatur, proque auro et argento stagnum⁠ 6 et aurichalcum supposuisse.",
       "wikiLinks": {
-        "Africa": "https://en.wikipedia.org/wiki/Africa_Province"
+        "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
+        "proconsul": "https://en.wikipedia.org/wiki/Proconsul",
+        "province": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -65,7 +88,9 @@
       "la": "1 Uxorem habuit Petroniam consularis viri filiam et ex ea filium Petronianum captum altero oculo. Hunc heredem a matre sub condicione institutum, si de potestate patris exiisset, manu emisit brevique, ut creditum est, interemit, insimulatum insuper parricidii et quasi paratum ad scelus venenum ex conscientia hausisset. Duxit mox Galeriam Fundanam praetorio patre ac de hac quoque liberos utriusque sexus tulit, sed marem titubantia oris prope mutum et elinguem.",
       "wikiLinks": {
         "Petronia": "https://en.wikipedia.org/wiki/Petronia",
-        "Galeria Fundana": "https://en.wikipedia.org/wiki/Galeria_Fundana"
+        "Galeria Fundana": "https://en.wikipedia.org/wiki/Galeria_Fundana",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "praetor": "https://en.wikipedia.org/wiki/Praetor"
       }
     },
     {
@@ -78,7 +103,12 @@
         "Titus Vinius": "https://en.wikipedia.org/wiki/Titus_Vinius",
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -88,7 +118,11 @@
       "wikiLinks": {
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "province": "https://en.wikipedia.org/wiki/Roman_province"
       }
     },
     {
@@ -98,8 +132,10 @@
       "wikiLinks": {
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Otho": "https://en.wikipedia.org/wiki/Otho",
-        "Vienna": "https://en.wikipedia.org/wiki/Vindobona",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Vienna": "https://en.wikipedia.org/wiki/Vienna_(Roman_province)",
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
       }
     },
     {
@@ -109,7 +145,10 @@
       "wikiLinks": {
         "Otho": "https://en.wikipedia.org/wiki/Otho",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
-        "Galba": "https://en.wikipedia.org/wiki/Galba"
+        "Galba": "https://en.wikipedia.org/wiki/Galba",
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)"
       }
     },
     {
@@ -117,9 +156,10 @@
       "en": "1 Finally he entered the city to the sound of the trumpet, wearing a general's mantle and a sword at his side, amid standards and banners, with his staff in military cloaks and his troops with drawn swords.\n\n2 Then showing greater and greater disregard for the laws of gods and men, he assumed the office of high priest on the day of Allia, held elections for ten years to come, and made himself consul for life. And to leave no doubt in anyone's mind what model he chose for the government of the State, he made funerary offerings to Nero in the middle of the Campus Martius, attended by a great throng of the official priests; and when at the accompanying banquet a flute-player was received with applause, he openly urged him \"to render something from the Master's Book as well\"; and when he began the songs of Nero, Vitellius was the first to applaud him and even jumped for joy.",
       "la": "2 Magis deinde ac magis omni divino humanoque iure neglecto Alliensi die pontificatum maximum cepit, comitia in decem annos ordinavit seque perpetuum consulem. Et ne cui dubium foret, quod exemplar regendae rei p. eligeret, medio Martio campo adhibita publicorum sacerdotum frequentia inferias Neroni dedit ac sollemni convivio citharoedum placentem palam admonuit, ut aliquid et de dominico diceret, incohantique Neroniana cantica primus exsultans etiam plausit.",
       "wikiLinks": {
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Campus Martius": "https://en.wikipedia.org/wiki/Campus_Martius",
-        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
+        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
+        "consul": "https://en.wikipedia.org/wiki/Consul"
       }
     },
     {
@@ -128,7 +168,10 @@
       "la": "1 Talibus principiis magnam imperii partem non nisi consilio et arbitrio vilissimi cuiusque histrionum et aurigarum administravit et maxime Asiatici liberti. Hunc adulescentulum mutua libidine constupratum, mox taedio profugum cum Puteolis poscam vendentem reprehendisset, coniecit in compedes statimque solvit⁠ 9 et rursus in deliciis habuit; iterum deinde ob nimiam contumaciam et furacitatem gravatus circumforano⁠ 10 lanistae vendidit dilatumque ad finem muneris repente subripuit et provincia demum accepta manumisit ac primo imperii die aureis donavit anulis super cenam, cum mane rogantibus pro eo cunctis detestatus esset severissime talem equestris ordinis maculam.",
       "wikiLinks": {
         "Puteoli": "https://en.wikipedia.org/wiki/Puteoli",
-        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
+        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
+        "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },
     {
@@ -139,7 +182,8 @@
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
         "Parthia": "https://en.wikipedia.org/wiki/Parthia",
         "Spanish strait": "https://en.wikipedia.org/wiki/Strait_of_Gibraltar",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
       }
     },
     {
@@ -150,7 +194,10 @@
         "Chaldeans": "https://en.wikipedia.org/wiki/Chaldeans",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius"
+        "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
       }
     },
     {
@@ -160,7 +207,17 @@
       "wikiLinks": {
         "Pannonia": "https://en.wikipedia.org/wiki/Pannonia",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "Jupiter Optimus Maximus": "https://en.wikipedia.org/wiki/Jupiter_(god)"
+        "Jupiter Optimus Maximus": "https://en.wikipedia.org/wiki/Jupiter_(god)",
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "rostra": "https://en.wikipedia.org/wiki/Rostra",
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate"
       }
     },
     {
@@ -168,7 +225,8 @@
       "en": "1 He also persuaded the senate to send envoys with the Vestal virgins, to sue for peace or at least to gain time for conference. The following day, as he was waiting for a reply, word was brought by a scout that the enemy were drawing near. Then he was at once hurried into a sedan with only two companions, a baker and a cook, and secretly went to his father's house on the Aventine, intending to flee from there to Campania. Presently, on a slight and dubious rumour that peace had been granted, he allowed himself to be taken back to the Palace. Finding everything abandoned there, and that even those who were with him were making off, he put on a girdle filled with gold pieces and took refuge in the lodge of the door-keeper, tying a dog before the door and putting a couch and a mattress against it.",
       "la": "1 Suasitque senatui, ut legatos cum virginibus Vestalibus mitterent pacem aut certe tempus ad consultandum petituros. Postridie responsa opperienti nuntiatum est per exploratorem hostes appropinquare. Continuo igitur abstrusus gestatoria sella duobus solis comitibus, pistore et coco, Aventinum et paternam domum clam petit, ut inde in Campaniam fugeret; mox levi rumore et incerto, tamquam pax impetrata esset, referri se in Palatium passus est. Ubi cum deserta omnia repperisset, dilabentibus et qui simul erant, zona se aureorum plena circumdedit confugitque in cellulam ianitoris, religato pro foribus cane lectoque et culcita obiectis.",
       "wikiLinks": {
-        "Campania": "https://en.wikipedia.org/wiki/Campania"
+        "Campania": "https://en.wikipedia.org/wiki/Campania",
+        "Aventine": "https://en.wikipedia.org/wiki/Aventine_Hill"
       }
     },
     {
@@ -179,7 +237,8 @@
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Sacred Way": "https://en.wikipedia.org/wiki/Via_Sacra",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
-        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian"
+        "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
+        "army": "https://en.wikipedia.org/wiki/Roman_army"
       }
     },
     {
@@ -189,7 +248,7 @@
       "wikiLinks": {
         "Antonius Primus": "https://en.wikipedia.org/wiki/Antonius_Primus",
         "Tolosa": "https://en.wikipedia.org/wiki/Toulouse",
-        "Vienna": "https://en.wikipedia.org/wiki/Vindobona",
+        "Vienna": "https://en.wikipedia.org/wiki/Vienna_(Roman_province)",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul"
       }
     }

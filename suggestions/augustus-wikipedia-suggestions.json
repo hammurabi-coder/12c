@@ -5734,5 +5734,35 @@
       "...ny soldiers there were in active service in all parts of it, how much money there was in the public treasury and in the privy-purse, and what revenues were in arrears. He added, besides, the names of ..."
     ],
     "status": "approved"
+  },
+  {
+    "id": 437,
+    "chapter": "Chapter 4",
+    "caesar": "Augustus Caesar",
+    "entity": "Octavius",
+    "slug": "Octavius",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Octavius_(proconsul)",
+    "occurrenceCount": 1,
+    "status": "edited"
+  },
+  {
+    "id": 438,
+    "chapter": "Chapter 8",
+    "caesar": "Augustus Caesar",
+    "entity": "Apollonia",
+    "slug": "Apollonia",
+    "url": "https://en.wikipedia.org/wiki/Apollonia_(Illyria)",
+    "occurrenceCount": 1,
+    "status": "edited"
+  },
+  {
+    "id": 439,
+    "chapter": "Chapter 20",
+    "caesar": "Augustus Caesar",
+    "entity": "Cantabria",
+    "slug": "Cantabria",
+    "url": "https://en.wikipedia.org/wiki/Cantabrian_Wars",
+    "occurrenceCount": 1,
+    "status": "edited"
   }
 ]

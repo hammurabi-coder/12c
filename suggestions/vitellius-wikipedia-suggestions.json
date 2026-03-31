@@ -1396,5 +1396,15 @@
       "...befell him at Vienna, as we have stated, that he was destined to fall into the power of some man of Gaul. For he was slain by Antonius Primus, a leader of the opposing faction, who was born at Tolosa ..."
     ],
     "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 2",
+    "caesar": "Vitellius",
+    "entity": "Lucius Vitellius",
+    "slug": "Lucius_Vitellius",
+    "url": "https://en.wikipedia.org/wiki/Lucius_Vitellius_the_Elder",
+    "occurrenceCount": 1,
+    "status": "edited"
   }
 ]

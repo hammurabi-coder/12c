@@ -1973,5 +1973,15 @@
       "...a level placed in the middle of the vestibule of the Palace, in one pan of which stood Claudius and Nero and in the other himself and his sons. And the dream came true, since both houses reigned for t..."
     ],
     "status": "approved"
+  },
+  {
+    "id": 150,
+    "chapter": "Chapter 4",
+    "caesar": "Vespasian",
+    "entity": "Judaea",
+    "slug": "Judaea",
+    "url": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)",
+    "occurrenceCount": 1,
+    "status": "edited"
   }
 ]

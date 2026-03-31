@@ -97,7 +97,7 @@
         "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "bronze": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+        "bronze": "https://en.wikipedia.org/wiki/Aes",
         "Lares": "https://en.wikipedia.org/wiki/Lares",
         "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
         "Ennius": "https://en.wikipedia.org/wiki/Ennius"
@@ -404,7 +404,7 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "aedile": "https://en.wikipedia.org/wiki/Aedile",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage",
         "triumvir": "https://en.wikipedia.org/wiki/Triumvirate",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
@@ -437,7 +437,7 @@
         "Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
         "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
         "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
@@ -634,7 +634,7 @@
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
         "Pollio": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
         "Campus": "https://en.wikipedia.org/wiki/Campus_Martius",
         "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
@@ -861,7 +861,7 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "Genius": "https://en.wikipedia.org/wiki/Genius_(Roman_religion)",
+        "Genius": "https://en.wikipedia.org/wiki/Genius",
         "toga": "https://en.wikipedia.org/wiki/Toga",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province"
       }
@@ -884,7 +884,7 @@
         "Tiberius Nero": "https://en.wikipedia.org/wiki/Tiberius_Nero",
         "Publius Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
-        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Nero": "https://en.wikipedia.org/wiki/Nero",
         "consuls": "https://en.wikipedia.org/wiki/Consul"
       }
     },
@@ -897,7 +897,7 @@
         "Marcus Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
         "Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
         "Julia": "https://en.wikipedia.org/wiki/Julia_the_Elder",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
@@ -939,7 +939,7 @@
         "Maecenas": "https://en.wikipedia.org/wiki/Maecenas",
         "Rufus": "https://en.wikipedia.org/wiki/Rufus",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus",
         "Mytilene": "https://en.wikipedia.org/wiki/Mytilene",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province"
@@ -951,7 +951,7 @@
       "la": "1 Patronus dominusque non minus severus quam facilis et clemens multos libertorum in honore et usu maximo habuit, ut Licinum⁠ 65 et Celadum aliosque. Cosmum servum gravissime de se opinantem non ultra quam compedibus coercuit. Diomeden dispensatorem, a quo simul ambulante incurrenti repente fero apro per metum obiectus est, maluit timiditatis arguere quam noxae, remque non minimi periculi, quia tamen fraus aberat, in iocum vertit.\n\n2 Idem Polum ex acceptissimis libertis mori coegit compertum adulterare matronas; Thallo a manu, quod pro epistula prodita denarios quingentos accepisset, crura ei fregit; paedagogum ministrosque C. fili, per occasionem valitudinis mortisque eius superbe avareque in provincia grassatos, oneratis⁠ 66 gravi pondere cervicibus praecipitavit in flumen.",
       "wikiLinks": {
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage",
         "denarii": "https://en.wikipedia.org/wiki/Denarius",
         "province": "https://en.wikipedia.org/wiki/Roman_province"
       }
@@ -1074,7 +1074,6 @@
       "wikiLinks": {
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
-        "Julius": "https://en.wikipedia.org/wiki/Julius_Marathus",
         "Alps": "https://en.wikipedia.org/wiki/Alps",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
@@ -1247,7 +1246,7 @@
         "Deified Julius": "https://en.wikipedia.org/wiki/Julius_Caesar",
         "treasury": "https://en.wikipedia.org/wiki/Aerarium",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "Liber": "https://en.wikipedia.org/wiki/Liber_(mythology)",
+        "Liber": "https://en.wikipedia.org/wiki/Liber",
         "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
         "toga": "https://en.wikipedia.org/wiki/Toga",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
@@ -1278,7 +1277,7 @@
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
         "triumvirs": "https://en.wikipedia.org/wiki/Triumvirate",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "bronze": "https://en.wikipedia.org/wiki/Roman_copper_alloy"
+        "bronze": "https://en.wikipedia.org/wiki/Aes"
       }
     },
     {
@@ -1354,7 +1353,7 @@
         "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
         "legionaries": "https://en.wikipedia.org/wiki/Roman_legion",
         "funeral": "https://en.wikipedia.org/wiki/Funus",
-        "bronze": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
+        "bronze": "https://en.wikipedia.org/wiki/Aes",
         "treasury": "https://en.wikipedia.org/wiki/Aerarium"
       }
     }

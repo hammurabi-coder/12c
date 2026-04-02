@@ -20,7 +20,9 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Isis": "https://en.wikipedia.org/wiki/Isis",
-        "praetor": "https://en.wikipedia.org/wiki/Praetor"
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Nerva": "https://en.wikipedia.org/wiki/Nerva",
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
       }
     },
     {
@@ -84,7 +86,9 @@
         "Forum": "https://en.wikipedia.org/wiki/Forum_of_Nerva",
         "Circus Maximus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Capitolium": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "Nerva": "https://en.wikipedia.org/wiki/Nerva",
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
       }
     },
     {
@@ -246,7 +250,8 @@
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
-        "funeral": "https://en.wikipedia.org/wiki/Funus"
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
       }
     },
     {
@@ -268,7 +273,8 @@
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
         "Lares": "https://en.wikipedia.org/wiki/Lares",
-        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
       }
     },
     {

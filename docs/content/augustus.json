@@ -11,7 +11,9 @@
       "wikiLinks": {
         "Velitrae": "https://en.wikipedia.org/wiki/Velitrae",
         "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
-        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Octavian": "https://en.wikipedia.org/wiki/Octavian",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {
@@ -28,7 +30,10 @@
         "patrician": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Octavian": "https://en.wikipedia.org/wiki/Octavian",
+        "Tarquinius Priscus": "https://en.wikipedia.org/wiki/Tarquinius_Priscus",
+        "Servius Tullius": "https://en.wikipedia.org/wiki/Servius_Tullius"
       }
     },
     {
@@ -100,7 +105,8 @@
         "bronze": "https://en.wikipedia.org/wiki/Bronze",
         "Lares": "https://en.wikipedia.org/wiki/Lares",
         "Ennius": "https://en.wikipedia.org/wiki/Ennius",
-        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {
@@ -413,7 +419,8 @@
         "centurions": "https://en.wikipedia.org/wiki/Centurion",
         "tribunician": "https://en.wikipedia.org/wiki/Tribunician_power",
         "censor": "https://en.wikipedia.org/wiki/Censor",
-        "census": "https://en.wikipedia.org/wiki/Census"
+        "census": "https://en.wikipedia.org/wiki/Census",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {
@@ -1305,7 +1312,8 @@
         "funeral": "https://en.wikipedia.org/wiki/Funus",
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
-        "praetor": "https://en.wikipedia.org/wiki/Praetor"
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {

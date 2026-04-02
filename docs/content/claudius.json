@@ -18,7 +18,7 @@
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Ocean": "https://en.wikipedia.org/wiki/Oceanus",
         "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "ovation": "https://en.wikipedia.org/wiki/Ovatio",
@@ -88,7 +88,7 @@
         "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus",
         "Equestrian": "https://en.wikipedia.org/wiki/Equestrian_(Roman)",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_ancient_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
@@ -123,7 +123,7 @@
         "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "Drusus": "https://en.wikipedia.org/wiki/Nero_Claudius_Drusus",
         "consul": "https://en.wikipedia.org/wiki/Consul",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
@@ -218,7 +218,7 @@
       "en": "1 He also assumed the censor ­ship, which had long been discontinued, ever since the term of Plancus and Paulus, but in this office too he was variable, and both his theory and his practice were inconsistent. In his review of the knights he left off a young man of evil character, whose father said that he was perfectly satisfied with him, without any public censure, saying \"He has a censor of his own.\" Another who was notorious for corruption and adultery he merely admonished to be more restrained in his indulgence, or at any rate more circumspect, adding, \"For why should I know what mistress you keep?\" When he had removed the mark of censure affixed to one man's name, yielding to the entreaties of the latter's friends, he said: \"But let the erasure be seen.\"\n\n2 He not only struck from the list of jurors a man of high birth, a leading citizen of the province of Greece, because he did not know Latin, but even deprived him of the rights of citizen ­ship; and he would not allow anyone to render an account of his life save in his own words, as well as he could, without the help of an advocate. And he degraded many, some contrary to their expectation and on the novel charge that they had left Italy without consulting him and obtaining leave of absence; one man merely because he had been companion to a king in his province, citing the case of Rabirius Postumus, who in bygone days had been tried for treason because he had followed Ptolemy to Alexandria, to recover a loan.\n\n3 When he attempted to degrade still more, he found them in most cases blameless; for owing to the great carelessness of his agents, but to his own greater shame, those whom he accused of celibacy, childlessness, or lack of means proved that they were married, or fathers, or well-to‑do. In fact, one man, who was charged with having stabbed himself, stripped off his clothing and showed a body without a scar.\n\n4 Other noteworthy acts of his censor ­ship were the following: he had a silver chariot of costly workman ­ship, which was offered in the Sigillaria, bought and cut to pieces in his presence; in one single day he made twenty proclamations, including these two: \"As the yield of the vineyards is bounti ­ful, the wine jars should be well pitched\"; and \"Nothing is so effective a cure for snake-bite as the juice of the yew tree.\"",
       "la": "1 Gessit et censuram intermissam diu post Plancum Paulumque censores, sed hanc quoque inaequabiliter varioque et animo et eventu. Recognitione equitum iuvenem probri plenum, sed quem pater probatissimum sibi affirmabat, sine ignominia dimisit, habere dicens censorem suum; alium corruptelis adulteriisque famosum nihil amplius quam monuit, ut aut parcius aetatulae indulgeret aut certe cautius; addiditque: \"Quare enim ego scio, quam amicam habeas?\" Et cum orantibus familiaribus dempsisset cuidam appositam notam: \"Litura tamen,\" inquit, \"exstet.\"\n\n2 Splendidum virum Graeciaeque provinciae principem, verum Latini sermonis ignarum, non modo albo iudicum erasit, sed in peregrinitatem redegit. Nec quemquam nisi sua voce, utcumque quis posset, ac sine patrono rationem vitae passus est reddere. Notavitque multos, et quosdam inopinantis et ex causa novi generis, quod se inscio ac sine commeatu Italia excessissent; quendam vero et quod comes regis in provincia fuisset, referens maiorum temporibus Rabirio Postumo Ptolemaeum Alexandriam crediti servandi causa secuto crimen maiestatis apud iudices motum.\n\n3 Plures notare conatus, magna inquisitorum neglegentia sed suo maiore dedecore, innoxios fere repperit, quibuscumque caelibatum aut orbitatem aut egestatem obiceret, maritos, patres, opulentos se probantibus; eo quidem, qui sibimet vim ferro intulisse arguebatur, inlaesum corpus veste deposita ostentante.\n\n4 Fuerunt et illa in censura eius notabilia, quod essedum argenteum sumptuose fabricatum ac venale ad Sigillaria redimi concidique coram imperavit; quodque uno die XX edicta proposuit, inter quae duo, quorum altero admonebat, ut uberi vinearum proventu bene dolia picarentur; altero, nihil aeque facere ad viperae morsum quam taxi arboris sucum.",
       "wikiLinks": {
-        "Greece": "https://en.wikipedia.org/wiki/Achaea_(Roman_province)",
+        "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "Ptolemy": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Plancus": "https://en.wikipedia.org/wiki/Lucius_Munatius_Plancus",
@@ -399,7 +399,7 @@
         "Pompeius": "https://en.wikipedia.org/wiki/Gnaeus_Pompeius_Magnus",
         "Silanus": "https://en.wikipedia.org/wiki/Lucius_Junius_Silanus",
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
@@ -514,7 +514,7 @@
         "Messalina": "https://en.wikipedia.org/wiki/Messalina",
         "Narcissus": "https://en.wikipedia.org/wiki/Tiberius_Claudius_Narcissus",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_ancient_Rome"
+        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome"
       }
     },
     {
@@ -537,7 +537,7 @@
       "wikiLinks": {
         "Messalina": "https://en.wikipedia.org/wiki/Messalina",
         "empress": "https://en.wikipedia.org/wiki/Roman_empress",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)"
       }
     },
     {
@@ -547,7 +547,7 @@
       "wikiLinks": {
         "butchers": "https://en.wikipedia.org/wiki/Roman_economy",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_ancient_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
         "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
       }
     },
@@ -585,7 +585,7 @@
       "la": "1 Sub exitu vitae signa quaedam nec obscura paenitentis de matrimonio Agrippinae deque Neronis adoptione dederat, siquidem commemorantibus libertis ac laudantibus cognitionem, qua pridie quandam adulterii ream condemnarat, sibi quoque in fatis esse iactavit omnia impudica, sed non impunita matrimonia; et subinde obvium sibi Britannicum artius complexus hortatus est, ut cresceret rationemque a se omnium factorum acciperet; Graeca insuper voce prosecutus: ὁ τρώσας ἰάσεται. Cumque impubi teneroque adhuc, quando statura permitteret, togam dare destinasset, adiecit: \"Ut tandem populus R. verum Caesarem habeat.\"",
       "wikiLinks": {
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman"
       }
     },
@@ -609,8 +609,8 @@
         "Ides": "https://en.wikipedia.org/wiki/Ides",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Asinius": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
-        "Marcellus": "https://en.wikipedia.org/wiki/Marcus_Claudius_Marcellus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero"
+        "Marcellus": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)"
       }
     },
     {

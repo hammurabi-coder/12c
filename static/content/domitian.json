@@ -38,7 +38,9 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
       }
     },
     {

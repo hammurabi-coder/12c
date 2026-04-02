@@ -133,7 +133,9 @@
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire"
       }
     },
     {
@@ -170,7 +172,8 @@
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
         "legion": "https://en.wikipedia.org/wiki/Roman_legion",
-        "Hirtius": "https://en.wikipedia.org/wiki/Aulus_Hirtius"
+        "Hirtius": "https://en.wikipedia.org/wiki/Aulus_Hirtius",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -254,7 +257,8 @@
         "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -292,7 +296,8 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
-        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -339,7 +344,9 @@
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
         "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
-        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)"
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Germans": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -476,7 +483,9 @@
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "Saturn": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -512,7 +521,8 @@
         "Lares": "https://en.wikipedia.org/wiki/Lares",
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "immortal": "https://en.wikipedia.org/wiki/Apotheosis",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -621,7 +631,8 @@
         "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
         "civil wars": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "toga": "https://en.wikipedia.org/wiki/Toga",
-        "aediles": "https://en.wikipedia.org/wiki/Aedile"
+        "aediles": "https://en.wikipedia.org/wiki/Aedile",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -664,7 +675,8 @@
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
         "curule chair": "https://en.wikipedia.org/wiki/Curule_chair",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -748,7 +760,8 @@
         "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "treasury": "https://en.wikipedia.org/wiki/Aerarium",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Germans": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -785,7 +798,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "proconsuls": "https://en.wikipedia.org/wiki/Proconsul",
         "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
-        "toga": "https://en.wikipedia.org/wiki/Toga"
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -841,7 +855,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Palatine": "https://en.wikipedia.org/wiki/Palatine_Hill",
         "denarius": "https://en.wikipedia.org/wiki/Denarius",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -906,7 +921,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "Livia Drusilla": "https://en.wikipedia.org/wiki/Livia",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -922,7 +938,8 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -1000,7 +1017,8 @@
         "Mark Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "consul": "https://en.wikipedia.org/wiki/Consul"
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -1039,7 +1057,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Capreae": "https://en.wikipedia.org/wiki/Capri"
       }
     },
     {
@@ -1207,7 +1226,8 @@
         "governors": "https://en.wikipedia.org/wiki/Roman_province",
         "talent": "https://en.wikipedia.org/wiki/Talent_(measurement)",
         "praetors": "https://en.wikipedia.org/wiki/Praetor",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -1238,7 +1258,8 @@
       "wikiLinks": {
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Naples": "https://en.wikipedia.org/wiki/Naples",
-        "Nones": "https://en.wikipedia.org/wiki/Nones"
+        "Nones": "https://en.wikipedia.org/wiki/Nones",
+        "Capreae": "https://en.wikipedia.org/wiki/Capri"
       }
     },
     {
@@ -1251,7 +1272,8 @@
         "Athens": "https://en.wikipedia.org/wiki/Athens",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Jerusalem": "https://en.wikipedia.org/wiki/Jerusalem",
-        "Ceres": "https://en.wikipedia.org/wiki/Ceres_(mythology)"
+        "Ceres": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
       }
     },
     {
@@ -1279,7 +1301,8 @@
         "toga": "https://en.wikipedia.org/wiki/Toga",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -1291,7 +1314,8 @@
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Apollonia": "https://en.wikipedia.org/wiki/Apollonia",
         "consul": "https://en.wikipedia.org/wiki/Consul",
-        "Romulus": "https://en.wikipedia.org/wiki/Romulus"
+        "Romulus": "https://en.wikipedia.org/wiki/Romulus",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -1385,7 +1409,8 @@
         "bronze": "https://en.wikipedia.org/wiki/Bronze",
         "treasury": "https://en.wikipedia.org/wiki/Aerarium",
         "Drusus": "https://en.wikipedia.org/wiki/Drusus",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     }
   ],

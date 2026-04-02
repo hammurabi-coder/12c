@@ -15,7 +15,9 @@
         "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
         "laurels": "https://en.wikipedia.org/wiki/Laurel_wreath",
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Veii": "https://en.wikipedia.org/wiki/Veii"
+        "Veii": "https://en.wikipedia.org/wiki/Veii",
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -27,7 +29,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero",
         "Catulus": "https://en.wikipedia.org/wiki/Catulus",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "Pasiphae": "https://en.wikipedia.org/wiki/Pasipha%C3%AB"
+        "Pasiphae": "https://en.wikipedia.org/wiki/Pasipha%C3%AB",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -48,7 +51,9 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -80,7 +85,8 @@
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
         "Livia Augusta": "https://en.wikipedia.org/wiki/Livia",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -211,7 +217,8 @@
         "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
         "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
         "denarii": "https://en.wikipedia.org/wiki/Denarius",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -260,7 +267,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
-        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -272,7 +280,8 @@
         "Marcus Salvius Otho": "https://en.wikipedia.org/wiki/Otho",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "Otho": "https://en.wikipedia.org/wiki/Otho",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Piso": "https://en.wikipedia.org/wiki/Piso"
       }
     },
     {

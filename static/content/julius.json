@@ -69,7 +69,8 @@
         "talents": "https://en.wikipedia.org/wiki/Talent_(measurement)",
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -162,7 +163,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "toga": "https://en.wikipedia.org/wiki/Toga",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Piso": "https://en.wikipedia.org/wiki/Piso"
       }
     },
     {
@@ -343,7 +345,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Piso": "https://en.wikipedia.org/wiki/Piso"
       }
     },
     {
@@ -417,7 +420,8 @@
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Germans": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -827,7 +831,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Octavius": "https://en.wikipedia.org/wiki/Octavius",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -1190,7 +1195,8 @@
         "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
         "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -1234,7 +1240,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Italy": "https://en.wikipedia.org/wiki/Italy",
         "Latin": "https://en.wikipedia.org/wiki/Latin_language",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire"
       }
     },
     {
@@ -1255,7 +1262,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "Ides": "https://en.wikipedia.org/wiki/Ides"
+        "Ides": "https://en.wikipedia.org/wiki/Ides",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -1317,7 +1325,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "Octavius": "https://en.wikipedia.org/wiki/Octavius",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Piso": "https://en.wikipedia.org/wiki/Piso"
       }
     },
     {

@@ -75,7 +75,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "Italy": "https://en.wikipedia.org/wiki/Italy"
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
       }
     },
     {
@@ -121,7 +122,8 @@
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {

@@ -137,7 +137,9 @@
       "la": "1 Comitatus est patrem et Syriaca expeditione. Unde reversus primum in matris, deinde ea relegata in Liviae Augustae proaviae suae contubernio mansit; quam defunctam praetextatus etiam tunc pro rostris laudavit. Transitque ad Antoniam aviam et undevicensimo aetatis anno accitus Capreas a Tiberio uno atque eodem die togam sumpsit barbamque posuit, sine ullo honore qualis contigerat tirocinio fratrum eius.\n\n2 Haec omnibus insidiis temptatus elicientium⁠ 7 cogentiumque se ad querelas nullam umquam occasionem dedit, perinde obliterato suorum casu ac si nihil cuiquam accidisset, quae vero ipse pateretur incredibili dissimulatione transmittens tantique in avum et qui iuxta erant obsequii, ut non immerito sit dictum nec servum meliorem ullum nec deteriorem dominum fuisse.",
       "wikiLinks": {
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Capreae": "https://en.wikipedia.org/wiki/Capri"
       }
     },
     {
@@ -183,7 +185,9 @@
         "Caligula": "https://en.wikipedia.org/wiki/Caligula",
         "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
-        "governor": "https://en.wikipedia.org/wiki/Roman_province"
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -204,7 +208,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -300,7 +305,8 @@
         "Ephesus": "https://en.wikipedia.org/wiki/Ephesus",
         "Alps": "https://en.wikipedia.org/wiki/Alps",
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
-        "centurion": "https://en.wikipedia.org/wiki/Centurion"
+        "centurion": "https://en.wikipedia.org/wiki/Centurion",
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
       }
     },
     {
@@ -317,7 +323,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -334,7 +341,9 @@
         "Silanus": "https://en.wikipedia.org/wiki/Marcus_Junius_Silanus",
         "praefect": "https://en.wikipedia.org/wiki/Praefectus",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     },
     {
@@ -369,7 +378,8 @@
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
         "Piso": "https://en.wikipedia.org/wiki/Piso",
         "Romulus": "https://en.wikipedia.org/wiki/Romulus",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Livia": "https://en.wikipedia.org/wiki/Livia"
       }
     },
     {
@@ -420,7 +430,8 @@
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "Praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Caligula": "https://en.wikipedia.org/wiki/Caligula",
-        "praetor": "https://en.wikipedia.org/wiki/Praetor"
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -613,7 +624,8 @@
       "wikiLinks": {
         "Vergil": "https://en.wikipedia.org/wiki/Virgil",
         "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
-        "army": "https://en.wikipedia.org/wiki/Roman_army"
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "Germans": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -634,7 +646,9 @@
       "la": "1 Conversus hinc ad curam triumphi praeter captivos ac transfugas barbaros Galliarum quoque procerissimum quemque et, ut ipse dicebat, ἀξιοθριάμβευτον, ac nonnullos ex principibus legit ac seposuit ad pompam coegitque non tantum rutilare et summittere comam, sed et sermonem Germanicum addiscere et nomina barbarica ferre. Praecepit etiam triremis, quibus introierat Oceanum, magna ex parte itinere terrestri Romam devehi. Scripsit et procuratoribus, triumphum appararent quam minima summa, sed quantus numquam alius fuisset, quando in omnium hominum bona ius haberent.",
       "wikiLinks": {
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Germans": "https://en.wikipedia.org/wiki/Germans",
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
       }
     },
     {
@@ -775,7 +789,8 @@
         "centurions": "https://en.wikipedia.org/wiki/Centurion",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Germans": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -799,7 +814,8 @@
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
       }
     }
   ],

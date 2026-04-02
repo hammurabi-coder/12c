@@ -42,7 +42,9 @@
         "censor": "https://en.wikipedia.org/wiki/Censor",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
         "toga": "https://en.wikipedia.org/wiki/Toga",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Piso": "https://en.wikipedia.org/wiki/Piso"
       }
     },
     {
@@ -224,7 +226,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
-        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
       }
     },
     {

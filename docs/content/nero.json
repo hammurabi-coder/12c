@@ -37,7 +37,8 @@
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
-        "Allobroges": "https://en.wikipedia.org/wiki/Allobroges"
+        "Allobroges": "https://en.wikipedia.org/wiki/Allobroges",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -99,7 +100,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Elder",
-        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Antium": "https://en.wikipedia.org/wiki/Antium"
       }
     },
     {
@@ -118,7 +120,9 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Troy": "https://en.wikipedia.org/wiki/Troy",
+        "Ilium": "https://en.wikipedia.org/wiki/Ilium"
       }
     },
     {
@@ -142,7 +146,8 @@
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "funeral": "https://en.wikipedia.org/wiki/Funus",
-        "centurions": "https://en.wikipedia.org/wiki/Centurion"
+        "centurions": "https://en.wikipedia.org/wiki/Centurion",
+        "Antium": "https://en.wikipedia.org/wiki/Antium"
       }
     },
     {
@@ -186,7 +191,8 @@
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Ceres": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
         "Pasiphae": "https://en.wikipedia.org/wiki/Pasipha%C3%AB",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins"
       }
     },
     {
@@ -298,7 +304,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "praetors": "https://en.wikipedia.org/wiki/Praetor",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)"
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
       }
     },
     {
@@ -352,7 +359,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Antium": "https://en.wikipedia.org/wiki/Antium"
       }
     },
     {
@@ -376,7 +384,8 @@
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Baiae": "https://en.wikipedia.org/wiki/Baiae",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
       }
     },
     {
@@ -427,7 +436,8 @@
         "Baiae": "https://en.wikipedia.org/wiki/Baiae",
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "Italy": "https://en.wikipedia.org/wiki/Italy"
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
       }
     },
     {
@@ -522,7 +532,8 @@
         "Maecenas": "https://en.wikipedia.org/wiki/Maecenas",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Ilium": "https://en.wikipedia.org/wiki/Ilium"
       }
     },
     {
@@ -647,7 +658,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire"
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
       }
     },
     {
@@ -716,7 +728,8 @@
         "athletes": "https://en.wikipedia.org/wiki/Athletics",
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "lustrum": "https://en.wikipedia.org/wiki/Lustrum",
-        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
       }
     },
     {

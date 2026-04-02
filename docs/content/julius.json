@@ -23,7 +23,8 @@
         "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
         "Cossutia": "https://en.wikipedia.org/wiki/Cossutia",
-        "Aurelius Cotta": "https://en.wikipedia.org/wiki/Aurelius_Cotta"
+        "Aurelius Cotta": "https://en.wikipedia.org/wiki/Aurelius_Cotta",
+        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins"
       }
     },
     {
@@ -303,7 +304,8 @@
         "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "consuls": "https://en.wikipedia.org/wiki/Consul"
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -346,7 +348,8 @@
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
-        "Piso": "https://en.wikipedia.org/wiki/Piso"
+        "Piso": "https://en.wikipedia.org/wiki/Piso",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -399,7 +402,8 @@
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -440,7 +444,8 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -524,7 +529,8 @@
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "Cicero": "https://en.wikipedia.org/wiki/Cicero"
+        "Cicero": "https://en.wikipedia.org/wiki/Cicero",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -652,7 +658,8 @@
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "African": "https://en.wikipedia.org/wiki/Africa_(Roman province)"
       }
     },
     {
@@ -686,7 +693,8 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Troy": "https://en.wikipedia.org/wiki/Troy"
       }
     },
     {
@@ -764,7 +772,8 @@
         "Pontus": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
         "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Dacia": "https://en.wikipedia.org/wiki/Dacia"
       }
     },
     {
@@ -832,7 +841,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Octavius": "https://en.wikipedia.org/wiki/Octavius",
         "Gallic": "https://en.wikipedia.org/wiki/Gallic",
-        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -964,7 +974,10 @@
         "Hirtius": "https://en.wikipedia.org/wiki/Aulus_Hirtius",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius",
+        "African": "https://en.wikipedia.org/wiki/Africa_(Roman province)"
       }
     },
     {
@@ -1012,7 +1025,8 @@
       "la": "1 Utebatur autem equo insigni, pedibus prope humanis et in modum digitorum ungulis fissis, quem natum apud se, cum haruspices imperium orbis terrae significare domino pronuntiassent, magna cura aluit nec patientem sessoris alterius primus ascendit; cuius etiam instar pro aede Veneris Genetricis postea dedicavit.",
       "wikiLinks": {
         "Venus Genetrix": "https://en.wikipedia.org/wiki/Venus_Genetrix",
-        "temple of Venus": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix"
+        "temple of Venus": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -1221,7 +1235,8 @@
         "Gaius": "https://en.wikipedia.org/wiki/Gaius",
         "temple of Venus": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
         "Venus Genetrix": "https://en.wikipedia.org/wiki/Venus_Genetrix",
-        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -1241,7 +1256,8 @@
         "Italy": "https://en.wikipedia.org/wiki/Italy",
         "Latin": "https://en.wikipedia.org/wiki/Latin_language",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire"
+        "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
+        "Ilium": "https://en.wikipedia.org/wiki/Ilium"
       }
     },
     {
@@ -1286,7 +1302,8 @@
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
         "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
         "Italy": "https://en.wikipedia.org/wiki/Italy",
-        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
+        "Ilium": "https://en.wikipedia.org/wiki/Ilium"
       }
     },
     {
@@ -1326,7 +1343,9 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "Octavius": "https://en.wikipedia.org/wiki/Octavius",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Piso": "https://en.wikipedia.org/wiki/Piso"
+        "Piso": "https://en.wikipedia.org/wiki/Piso",
+        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
       }
     },
     {
@@ -1352,7 +1371,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "Jews": "https://en.wikipedia.org/wiki/Jews"
+        "Jews": "https://en.wikipedia.org/wiki/Jews",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {

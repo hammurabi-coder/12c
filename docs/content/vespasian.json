@@ -24,7 +24,8 @@
         "Titus Flavius Petro": "https://en.wikipedia.org/wiki/Titus_Flavius_Petro",
         "Reate": "https://en.wikipedia.org/wiki/Reate",
         "Vespasia Polla": "https://en.wikipedia.org/wiki/Vespasia_Polla",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
       }
     },
     {
@@ -45,7 +46,8 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "aedile": "https://en.wikipedia.org/wiki/Aedile",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "Reate": "https://en.wikipedia.org/wiki/Reate"
+        "Reate": "https://en.wikipedia.org/wiki/Reate",
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
       }
     },
     {
@@ -114,7 +116,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
-        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)",
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
       }
     },
     {
@@ -183,7 +186,9 @@
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "bronze": "https://en.wikipedia.org/wiki/Bronze"
+        "bronze": "https://en.wikipedia.org/wiki/Bronze",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia",
+        "Samos": "https://en.wikipedia.org/wiki/Samos"
       }
     },
     {
@@ -298,7 +303,8 @@
         "Colossus": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {

@@ -97,7 +97,8 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
-        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -118,7 +119,8 @@
         "Antium": "https://en.wikipedia.org/wiki/Antium",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "consul": "https://en.wikipedia.org/wiki/Consul",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
       }
     },
     {
@@ -209,7 +211,8 @@
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Livia": "https://en.wikipedia.org/wiki/Livia"
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
       }
     },
     {
@@ -263,7 +266,9 @@
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
-        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "African": "https://en.wikipedia.org/wiki/Africa_(Roman province)",
+        "Troy": "https://en.wikipedia.org/wiki/Troy"
       }
     },
     {
@@ -306,7 +311,8 @@
         "Alps": "https://en.wikipedia.org/wiki/Alps",
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "centurion": "https://en.wikipedia.org/wiki/Centurion",
-        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Samos": "https://en.wikipedia.org/wiki/Samos"
       }
     },
     {
@@ -674,7 +680,8 @@
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "ovation": "https://en.wikipedia.org/wiki/Ovatio"
+        "ovation": "https://en.wikipedia.org/wiki/Ovatio",
+        "Antium": "https://en.wikipedia.org/wiki/Antium"
       }
     },
     {
@@ -707,7 +714,8 @@
       "wikiLinks": {
         "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
         "silk": "https://en.wikipedia.org/wiki/Silk",
-        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -743,7 +751,8 @@
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "consul": "https://en.wikipedia.org/wiki/Consul"
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
       }
     },
     {
@@ -755,7 +764,8 @@
         "Caligula": "https://en.wikipedia.org/wiki/Caligula",
         "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
         "Palatine": "https://en.wikipedia.org/wiki/Palatine_Hill",
-        "cohort": "https://en.wikipedia.org/wiki/Roman_cohort"
+        "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {
@@ -775,7 +785,8 @@
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
         "proconsul": "https://en.wikipedia.org/wiki/Proconsul",
         "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Antium": "https://en.wikipedia.org/wiki/Antium"
       }
     },
     {
@@ -790,7 +801,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Asia": "https://en.wikipedia.org/wiki/Asia",
-        "Germans": "https://en.wikipedia.org/wiki/Germans"
+        "Germans": "https://en.wikipedia.org/wiki/Germans",
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
       }
     },
     {

@@ -198,7 +198,8 @@
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "toga": "https://en.wikipedia.org/wiki/Toga",
-        "governors": "https://en.wikipedia.org/wiki/Roman_province"
+        "governors": "https://en.wikipedia.org/wiki/Roman_province",
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
       }
     },
     {
@@ -297,7 +298,8 @@
         "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
         "curule chair": "https://en.wikipedia.org/wiki/Curule_chair",
         "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
-        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
       }
     },
     {

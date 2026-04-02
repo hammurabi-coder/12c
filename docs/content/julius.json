@@ -353,7 +353,8 @@
         "the bill of Vatinius": "https://en.wikipedia.org/wiki/Publius_Vatinius",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
       }
     },
     {
@@ -594,7 +595,8 @@
         "Africa": "https://en.wikipedia.org/wiki/Africa_Province",
         "Spain": "https://en.wikipedia.org/wiki/Hispania",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "governor": "https://en.wikipedia.org/wiki/Roman_province"
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
       }
     },
     {
@@ -807,7 +809,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {
@@ -1284,7 +1287,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "sesterces": "https://en.wikipedia.org/wiki/Sestertius"
+        "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
       }
     },
     {

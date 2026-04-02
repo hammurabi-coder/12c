@@ -80,7 +80,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "praetor": "https://en.wikipedia.org/wiki/Praetor"
+        "praetor": "https://en.wikipedia.org/wiki/Praetor",
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
       }
     },
     {
@@ -111,7 +112,8 @@
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "consul": "https://en.wikipedia.org/wiki/Consul"
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Octavia": "https://en.wikipedia.org/wiki/Octavia"
       }
     },
     {
@@ -176,7 +178,8 @@
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "praetors": "https://en.wikipedia.org/wiki/Praetor",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Ceres": "https://en.wikipedia.org/wiki/Ceres_(mythology)"
+        "Ceres": "https://en.wikipedia.org/wiki/Ceres_(mythology)",
+        "Pasiphae": "https://en.wikipedia.org/wiki/Pasipha%C3%AB"
       }
     },
     {
@@ -374,7 +377,8 @@
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins",
-        "consuls": "https://en.wikipedia.org/wiki/Consul"
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
       }
     },
     {
@@ -457,7 +461,9 @@
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "Octavia": "https://en.wikipedia.org/wiki/Octavia",
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
       }
     },
     {
@@ -510,7 +516,10 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "Orcus": "https://en.wikipedia.org/wiki/Orcus"
+        "Orcus": "https://en.wikipedia.org/wiki/Orcus",
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Veii": "https://en.wikipedia.org/wiki/Veii",
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
       }
     },
     {
@@ -590,7 +599,8 @@
         "Lares": "https://en.wikipedia.org/wiki/Lares",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "Proserpina": "https://en.wikipedia.org/wiki/Proserpina",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Octavia": "https://en.wikipedia.org/wiki/Octavia"
       }
     },
     {
@@ -704,7 +714,8 @@
       "en": "1 He utterly despised all cults, with the sole exception of that of the Syrian God, and even acquired such a contempt for her that he made water on her image, after he was enamoured of another superstition, which was the only one to which he constantly clung. For he had received as a gift from some unknown man of the commons, as a protection against plots, a little image of a girl; and since a conspiracy at once came to light, he continued to venerate it as a power ­ful divinity and to offer three sacrifices to it every day, encouraging the belief that through its communication he had knowledge of the future. A few months before his death he did attend an inspection of victims, but could not get a favourable omen.",
       "la": "1 Religionum usque quaque contemptor, praeter unius Deae Syriae, hanc mox ita sprevit ut urina contaminaret, alia superstitione captus, in qua sola pertinacissime haesit, siquidem imagunculam puellarem, cum quasi remedium insidiarum a plebeio quodam et ignoto muneri accepisset, detecta confestim coniuratione pro summo numine trinisque in die sacrificiis colere perseveravit volebatque credi monitione eius futura praenoscere. Ante paucos quam periret menses attendit et extispicio nec umquam litavit.",
       "wikiLinks": {
-        "Syrian God": "https://en.wikipedia.org/wiki/Atargatis"
+        "Syrian God": "https://en.wikipedia.org/wiki/Atargatis",
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
       }
     },
     {
@@ -715,7 +726,8 @@
         "liberty-caps": "https://en.wikipedia.org/wiki/Phrygian_cap",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
-        "toga": "https://en.wikipedia.org/wiki/Toga"
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "Octavia": "https://en.wikipedia.org/wiki/Octavia"
       }
     }
   ],

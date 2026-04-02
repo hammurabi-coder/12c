@@ -151,7 +151,8 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
-        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -209,7 +210,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
         "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
-        "denarii": "https://en.wikipedia.org/wiki/Denarius"
+        "denarii": "https://en.wikipedia.org/wiki/Denarius",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -285,7 +287,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
         "curule chair": "https://en.wikipedia.org/wiki/Curule_chair",
-        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -338,7 +341,8 @@
         "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
-        "Spain": "https://en.wikipedia.org/wiki/Hispania"
+        "Spain": "https://en.wikipedia.org/wiki/Hispania",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     }
   ],

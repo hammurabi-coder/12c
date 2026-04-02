@@ -26,7 +26,9 @@
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "patricians": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
-        "Ferentium": "https://en.wikipedia.org/wiki/Ferentium"
+        "Ferentium": "https://en.wikipedia.org/wiki/Ferentium",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -86,7 +88,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero",
         "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
         "Saturn": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -101,7 +104,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero",
         "governors": "https://en.wikipedia.org/wiki/Roman_province",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -115,7 +119,8 @@
         "Mother of the Gods": "https://en.wikipedia.org/wiki/Cybele",
         "Dis": "https://en.wikipedia.org/wiki/Dis_Pater",
         "Otho": "https://en.wikipedia.org/wiki/Otho",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {

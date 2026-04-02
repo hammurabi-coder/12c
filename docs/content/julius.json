@@ -37,7 +37,8 @@
         "Nicomedes": "https://en.wikipedia.org/wiki/Nicomedes_IV_of_Bithynia",
         "freedman": "https://en.wikipedia.org/wiki/Freedman",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -67,7 +68,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "talents": "https://en.wikipedia.org/wiki/Talent_(measurement)",
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -106,7 +108,8 @@
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
         "Clodius": "https://en.wikipedia.org/wiki/Publius_Clodius_Pulcher",
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
-        "immortal": "https://en.wikipedia.org/wiki/Apotheosis"
+        "immortal": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -130,7 +133,8 @@
       "wikiLinks": {
         "Cilicia": "https://en.wikipedia.org/wiki/Cilicia_(Roman_province)",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -320,7 +324,8 @@
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "patricians": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
         "plebeians": "https://en.wikipedia.org/wiki/Plebeian",
-        "rostra": "https://en.wikipedia.org/wiki/Rostra"
+        "rostra": "https://en.wikipedia.org/wiki/Rostra",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {
@@ -337,7 +342,8 @@
         "Crassus": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
-        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -354,7 +360,8 @@
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -388,7 +395,8 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -464,7 +472,9 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "bronze": "https://en.wikipedia.org/wiki/Bronze",
-        "treasury": "https://en.wikipedia.org/wiki/Aerarium"
+        "treasury": "https://en.wikipedia.org/wiki/Aerarium",
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -637,7 +647,8 @@
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -648,7 +659,8 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -668,7 +680,9 @@
         "Decimus": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -713,7 +727,8 @@
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "magistrate": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
-        "Cicero": "https://en.wikipedia.org/wiki/Cicero"
+        "Cicero": "https://en.wikipedia.org/wiki/Cicero",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -744,7 +759,8 @@
         "Tiber": "https://en.wikipedia.org/wiki/Tiber",
         "Pontus": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
-        "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor"
+        "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -810,7 +826,8 @@
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -849,7 +866,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -866,7 +884,8 @@
         "Oppius": "https://en.wikipedia.org/wiki/Oppius",
         "Curio": "https://en.wikipedia.org/wiki/Gaius_Scribonius_Curio",
         "Naso": "https://en.wikipedia.org/wiki/Marcus_Actorius_Naso",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -900,7 +919,8 @@
         "bronze": "https://en.wikipedia.org/wiki/Bronze",
         "talents": "https://en.wikipedia.org/wiki/Talent_(measurement)",
         "civil wars": "https://en.wikipedia.org/wiki/Roman_civil_wars",
-        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -938,7 +958,8 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Hirtius": "https://en.wikipedia.org/wiki/Aulus_Hirtius",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "consuls": "https://en.wikipedia.org/wiki/Consul"
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -1074,7 +1095,8 @@
       "wikiLinks": {
         "Pompey": "https://en.wikipedia.org/wiki/Pompey",
         "civil wars": "https://en.wikipedia.org/wiki/Roman_civil_wars",
-        "legion": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -1144,7 +1166,8 @@
         "Afranius": "https://en.wikipedia.org/wiki/Afranius_(playwright)",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
-        "freedmen": "https://en.wikipedia.org/wiki/Freedman"
+        "freedmen": "https://en.wikipedia.org/wiki/Freedman",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -1208,7 +1231,10 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -1250,7 +1276,9 @@
         "bronze": "https://en.wikipedia.org/wiki/Bronze",
         "Ides": "https://en.wikipedia.org/wiki/Ides",
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
-        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath"
+        "laurel": "https://en.wikipedia.org/wiki/Laurel_wreath",
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -1288,7 +1316,8 @@
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Octavius": "https://en.wikipedia.org/wiki/Octavius"
+        "Octavius": "https://en.wikipedia.org/wiki/Octavius",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -1325,7 +1354,8 @@
         "Helvius Cinna": "https://en.wikipedia.org/wiki/Helvius_Cinna",
         "Brutus": "https://en.wikipedia.org/wiki/Marcus_Junius_Brutus",
         "Cassius": "https://en.wikipedia.org/wiki/Gaius_Cassius_Longinus",
-        "funeral": "https://en.wikipedia.org/wiki/Funus"
+        "funeral": "https://en.wikipedia.org/wiki/Funus",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {

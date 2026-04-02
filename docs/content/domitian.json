@@ -75,7 +75,9 @@
         "Juno": "https://en.wikipedia.org/wiki/Juno_(mythology)",
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate"
+        "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -88,7 +90,8 @@
         "Capitolium": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Nerva": "https://en.wikipedia.org/wiki/Nerva",
-        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
       }
     },
     {
@@ -113,7 +116,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
-        "governor": "https://en.wikipedia.org/wiki/Roman_province"
+        "governor": "https://en.wikipedia.org/wiki/Roman_province",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -128,7 +132,9 @@
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -150,7 +156,8 @@
         "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {
@@ -183,7 +190,9 @@
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
         "centurion": "https://en.wikipedia.org/wiki/Centurion",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -251,7 +260,9 @@
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
         "funeral": "https://en.wikipedia.org/wiki/Funus",
-        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -274,7 +285,9 @@
         "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
         "Lares": "https://en.wikipedia.org/wiki/Lares",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
-        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty"
+        "Flavian": "https://en.wikipedia.org/wiki/Flavian dynasty",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {

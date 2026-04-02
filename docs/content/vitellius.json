@@ -60,7 +60,8 @@
         "Ides": "https://en.wikipedia.org/wiki/Ides",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -173,7 +174,8 @@
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order"
+        "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -199,7 +201,8 @@
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
-        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -220,7 +223,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -229,7 +233,8 @@
       "la": "1 Suasitque senatui, ut legatos cum virginibus Vestalibus mitterent pacem aut certe tempus ad consultandum petituros. Postridie responsa opperienti nuntiatum est per exploratorem hostes appropinquare. Continuo igitur abstrusus gestatoria sella duobus solis comitibus, pistore et coco, Aventinum et paternam domum clam petit, ut inde in Campaniam fugeret; mox levi rumore et incerto, tamquam pax impetrata esset, referri se in Palatium passus est. Ubi cum deserta omnia repperisset, dilabentibus et qui simul erant, zona se aureorum plena circumdedit confugitque in cellulam ianitoris, religato pro foribus cane lectoque et culcita obiectis.",
       "wikiLinks": {
         "Campania": "https://en.wikipedia.org/wiki/Campania",
-        "Aventine": "https://en.wikipedia.org/wiki/Aventine_Hill"
+        "Aventine": "https://en.wikipedia.org/wiki/Aventine_Hill",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -241,7 +246,8 @@
         "Sacred Way": "https://en.wikipedia.org/wiki/Via_Sacra",
         "Vitellius": "https://en.wikipedia.org/wiki/Vitellius",
         "Vespasian": "https://en.wikipedia.org/wiki/Vespasian",
-        "army": "https://en.wikipedia.org/wiki/Roman_army"
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {

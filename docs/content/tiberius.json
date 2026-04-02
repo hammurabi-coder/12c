@@ -51,7 +51,9 @@
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "plebeian": "https://en.wikipedia.org/wiki/Plebeian",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -68,7 +70,8 @@
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
         "dictator": "https://en.wikipedia.org/wiki/Roman_dictator",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -94,7 +97,9 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "triumvir": "https://en.wikipedia.org/wiki/Triumvirate",
         "fasces": "https://en.wikipedia.org/wiki/Fasces",
-        "Livia Drusilla": "https://en.wikipedia.org/wiki/Livia"
+        "Livia Drusilla": "https://en.wikipedia.org/wiki/Livia",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -141,7 +146,9 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
-        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -150,7 +157,8 @@
       "la": "1 Civilium officiorum rudimentis regem Archelaum Trallianos et Thessalos, varia quosque de causa, Augusto cognoscente defendit; pro Laodicenis Thyatyrenis Chiis terrae motu afflictis opemque implorantibus senatum deprecatus est; Fannium Caepionem, qui cum Varrone Murena in Augustum conspiraverat, reum maiestatis apud iudices fecit et condemnavit. Interque haec duplicem curam administravit, annonae quae artior inciderat, et repurgandorum tota Italia ergastulorum, quorum domini in invidiam venerant quasi exceptos supprimerent non solum viatores sed et quos sacramenti metus ad eius modi latebras compulisset.",
       "wikiLinks": {
         "Archelaus": "https://en.wikipedia.org/wiki/Archelaus_of_Cappadocia",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -201,7 +209,8 @@
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "lictors": "https://en.wikipedia.org/wiki/Lictor",
-        "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
+        "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -260,7 +269,8 @@
         "Marcus Agrippa": "https://en.wikipedia.org/wiki/Marcus_Vipsanius_Agrippa",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -279,7 +289,8 @@
         "tribunician": "https://en.wikipedia.org/wiki/Tribunician_power",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)"
+        "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -367,7 +378,8 @@
       "wikiLinks": {
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "senatorial order": "https://en.wikipedia.org/wiki/Roman_Senate"
+        "senatorial order": "https://en.wikipedia.org/wiki/Roman_Senate",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -391,7 +403,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "pontiffs": "https://en.wikipedia.org/wiki/Pontifex",
-        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -534,7 +547,8 @@
         "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
         "centurion": "https://en.wikipedia.org/wiki/Centurion",
         "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -583,7 +597,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "governors": "https://en.wikipedia.org/wiki/Roman_province",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -663,7 +678,8 @@
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -677,7 +693,8 @@
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -715,7 +732,8 @@
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "funeral": "https://en.wikipedia.org/wiki/Funus",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
-        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)"
+        "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -739,7 +757,8 @@
       "wikiLinks": {
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
-        "Drusus": "https://en.wikipedia.org/wiki/Drusus_Julius_Caesar"
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus_Julius_Caesar",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -747,7 +766,8 @@
       "en": "1 In addition to his old friends and intimates, he had asked for twenty of the leading men of the State as advisers on public affairs. Of all these he spared hardly two or three; the others he destroyed on one pretext or another, including Ælius Sejanus, whose downfall involved the death of many others. This man he had advanced to the highest power, not so much from regard for him, as that he might through his services and wiles destroy the children of Germanicus and secure the succession for his own grandson, the child of his son Drusus.",
       "la": "1 Super veteres amicos ac familiares viginti sibi e numero principum civitatis depoposcerat velut consiliarios in negotiis publicis. Horum omnium vix duos anne tres incolumis praestitit, ceteros alium alia de causa perculit, inter quos cum plurimorum clade Aelium Seianum; quem ad summam potentiam non tam benivolentia provexerat, quam ut esset cuius ministerio ac fraudibus liberos Germanici circumveniret, nepotemque suum ex Druso filio naturalem ad successionem imperii confirmaret.",
       "wikiLinks": {
-        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus"
+        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -790,7 +810,8 @@
         "Sulla": "https://en.wikipedia.org/wiki/Sulla",
         "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "Saturn": "https://en.wikipedia.org/wiki/Saturn_(mythology)"
+        "Saturn": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -832,7 +853,8 @@
         "Sejanus": "https://en.wikipedia.org/wiki/Sejanus",
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Rhodes": "https://en.wikipedia.org/wiki/Rhodes",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -869,7 +891,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "legions": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legions": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -916,7 +939,8 @@
       "la": "1 Artes liberales utriusque generis studiosissime coluit. In oratione Latina secutus est Corvinum Messalam, quem senem adulescens observarat. Sed adfectatione et morositate nimia obscurabat stilum, ut aliquanto ex tempore quam a cura praestantior haberetur.\n\n2 Composuit et carmen lyricum, cuius est titulus \"Conquestio de morte L. Caesaris.\" Fecit et Graeca poemata imitatus Euphorionem et Rhianum et Parthenium, quibus poetis admodum delectatus scripta omnium et imagines publicis bibliothecis inter veteres et praecipuos auctores dedicavit; et ob hoc plerique eruditorum certatim ad eum multa de his ediderunt.\n\n3 Maxime tamen curavit notitiam historiae fabularis usque ad ineptias atque derisum; nam et grammaticos, quod genus hominum praecipue, ut diximus, appetebat, eius modi fere quaestionibus experiebatur: \"Quae mater Hecubae, quod Achilli nomen inter virgines fuisset, quid Sirenes cantare sint solitae.\" Et quo primum die post excessum Augusti curiam intravit, quasi pietati simul ac religioni satis facturus Minonis exemplo ture quidem ac vino verum sine tibicine supplicavit, ut ille olim in morte filii.",
       "wikiLinks": {
         "Greek": "https://en.wikipedia.org/wiki/Greek_language",
-        "Augustus": "https://en.wikipedia.org/wiki/Augustus"
+        "Augustus": "https://en.wikipedia.org/wiki/Augustus",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -927,7 +951,8 @@
         "senate": "https://en.wikipedia.org/wiki/Roman_Senate",
         "Greek": "https://en.wikipedia.org/wiki/Ancient_Greek",
         "monopolium": "https://en.wikipedia.org/wiki/Monopoly",
-        "soldier": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldier": "https://en.wikipedia.org/wiki/Roman_army",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -986,7 +1011,8 @@
         "freedman": "https://en.wikipedia.org/wiki/Freedman",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     }
   ],

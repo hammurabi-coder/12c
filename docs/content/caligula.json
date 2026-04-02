@@ -96,7 +96,8 @@
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
-        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -158,7 +159,8 @@
         "Marcus Silanus": "https://en.wikipedia.org/wiki/Marcus_Junius_Silanus",
         "augur": "https://en.wikipedia.org/wiki/Augur",
         "pontiff": "https://en.wikipedia.org/wiki/Pontifex",
-        "Caligula": "https://en.wikipedia.org/wiki/Caligula"
+        "Caligula": "https://en.wikipedia.org/wiki/Caligula",
+        "Drusus": "https://en.wikipedia.org/wiki/Drusus"
       }
     },
     {
@@ -200,7 +202,9 @@
         "funeral": "https://en.wikipedia.org/wiki/Funus",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "consul": "https://en.wikipedia.org/wiki/Consul",
-        "consuls": "https://en.wikipedia.org/wiki/Consul"
+        "consuls": "https://en.wikipedia.org/wiki/Consul",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {
@@ -219,7 +223,9 @@
         "suffrage": "https://en.wikipedia.org/wiki/Suffrage",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Italy": "https://en.wikipedia.org/wiki/Italy",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -251,7 +257,8 @@
         "magistrates": "https://en.wikipedia.org/wiki/Roman_magistrate",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate"
+        "senatorial": "https://en.wikipedia.org/wiki/Roman_Senate",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
       }
     },
     {
@@ -263,7 +270,8 @@
         "Puteoli": "https://en.wikipedia.org/wiki/Puteoli",
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Appian Way": "https://en.wikipedia.org/wiki/Appian_Way",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
       }
     },
     {
@@ -274,7 +282,8 @@
         "Sicily": "https://en.wikipedia.org/wiki/Sicily",
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "Syracuse": "https://en.wikipedia.org/wiki/Syracuse,_Sicily",
-        "Lugdunum": "https://en.wikipedia.org/wiki/Lugdunum"
+        "Lugdunum": "https://en.wikipedia.org/wiki/Lugdunum",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -306,7 +315,9 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -322,7 +333,8 @@
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Silanus": "https://en.wikipedia.org/wiki/Marcus_Junius_Silanus",
         "praefect": "https://en.wikipedia.org/wiki/Praefectus",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -356,7 +368,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
         "Piso": "https://en.wikipedia.org/wiki/Piso",
-        "Romulus": "https://en.wikipedia.org/wiki/Romulus"
+        "Romulus": "https://en.wikipedia.org/wiki/Romulus",
+        "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
       }
     },
     {
@@ -375,7 +388,9 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "gladiators": "https://en.wikipedia.org/wiki/Gladiator"
+        "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
       }
     },
     {
@@ -558,7 +573,8 @@
       "la": "1 Filia vero nata paupertatem nec iam imperatoria modo sed et patria conquerens onera conlationes in alimonium ac dotem puellae recepit. Edixit et strenas ineunte anno se recepturum stetitque in vestibulo aedium Kal. Ian. ad captandas stipes, quas plenis ante eum manibus ac sinu omnis generis turba fundebat. Novissime contrectandae pecuniae cupidine incensus, saepe super immensos aureorum acervos patentissimo diffusos loco et nudis pedibus spatiatus et toto corpore aliquamdiu volutatus est.",
       "wikiLinks": {
         "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
-        "Kalends": "https://en.wikipedia.org/wiki/Kalends"
+        "Kalends": "https://en.wikipedia.org/wiki/Kalends",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -586,7 +602,8 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
-        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)"
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {
@@ -696,7 +713,8 @@
       "wikiLinks": {
         "Thracian": "https://en.wikipedia.org/wiki/Thrace",
         "charioteer": "https://en.wikipedia.org/wiki/Charioteer",
-        "gladiator": "https://en.wikipedia.org/wiki/Gladiator"
+        "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -741,7 +759,9 @@
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Ides": "https://en.wikipedia.org/wiki/Ides",
         "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
-        "proconsul": "https://en.wikipedia.org/wiki/Proconsul"
+        "proconsul": "https://en.wikipedia.org/wiki/Proconsul",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -754,7 +774,8 @@
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "centurions": "https://en.wikipedia.org/wiki/Centurion",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {

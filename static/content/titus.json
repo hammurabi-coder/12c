@@ -25,7 +25,9 @@
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
         "Britannicus": "https://en.wikipedia.org/wiki/Britannicus",
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
-        "Narcissus": "https://en.wikipedia.org/wiki/Narcissus_(freedman)"
+        "Narcissus": "https://en.wikipedia.org/wiki/Narcissus_(freedman)",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     },
     {
@@ -33,7 +35,8 @@
       "en": "1 Even in boyhood his bodily and mental gifts were conspicuous and they became more and more so as he advanced in years. He had a handsome person, in which there was no less dignity than grace, and was uncommonly strong, although he was not tall of stature and had a rather protruding belly. His memory was extraordinary and he had an aptitude for almost all the arts, both of war and of peace.\n\n2 Skilful in arms and horseman ­ship, he made speeches and wrote verses in Latin and Greek with ease and readiness, and even off-hand. He was besides not unacquainted with music, but sang and played the harp agreeably and skilfully. I have heard from many sources that he used also to write shorthand with great speed and would amuse himself by playful contests with his secretaries; also that he could imitate any handwriting that he had ever seen and often declared that he might have been the prince of forgers.",
       "la": "1 In puero statim corporis animique dotes exsplenduerunt, magisque ac magis deinceps per aetatis gradus: forma egregia et cui non minus auctoritatis inesset quam gratiae, praecipuum robur, quanquam neque procera statura et ventre paulo proiectiore; memoria⁠ 1 singularis, docilitas ad omnis fere tum belli tum pacis artes.\n\n2 Armorum et equitandi peritissimus, Latine Graeceque vel in orando vel in fingendis poematibus promptus et facilis ad extemporalitatem usque; sed ne musicae quidem rudis, ut qui cantaret et psalleret iucunde scienterque. E pluribus comperi, notis quoque excipere velocissime solitum, cum amanuensibus suis per ludum iocumque certantem, imitarique chirographa quaecumque vidisset, ac saepe profiteri maximum falsarium esse potuisse.",
       "wikiLinks": {
-        "Race": "https://en.wikipedia.org/wiki/Race_(sport)"
+        "Race": "https://en.wikipedia.org/wiki/Race_(sport)",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -71,7 +74,8 @@
         "Imperator": "https://en.wikipedia.org/wiki/Imperator",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -116,7 +120,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "gladiators": "https://en.wikipedia.org/wiki/Gladiator",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)"
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {

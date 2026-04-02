@@ -23,7 +23,8 @@
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Titus Flavius Petro": "https://en.wikipedia.org/wiki/Titus_Flavius_Petro",
         "Reate": "https://en.wikipedia.org/wiki/Reate",
-        "Vespasia Polla": "https://en.wikipedia.org/wiki/Vespasia_Polla"
+        "Vespasia Polla": "https://en.wikipedia.org/wiki/Vespasia_Polla",
+        "Asia": "https://en.wikipedia.org/wiki/Asia"
       }
     },
     {
@@ -57,7 +58,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Titus": "https://en.wikipedia.org/wiki/Titus_(emperor)",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "quaestor": "https://en.wikipedia.org/wiki/Quaestor"
+        "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -109,7 +111,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "toga": "https://en.wikipedia.org/wiki/Toga",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "consul": "https://en.wikipedia.org/wiki/Consul"
+        "consul": "https://en.wikipedia.org/wiki/Consul",
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
       }
     },
     {
@@ -151,7 +154,8 @@
         "civil war": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "Serapis": "https://en.wikipedia.org/wiki/Serapis",
         "tribunal": "https://en.wikipedia.org/wiki/Tribunal",
-        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis"
+        "consecrated": "https://en.wikipedia.org/wiki/Apotheosis",
+        "Italy": "https://en.wikipedia.org/wiki/Italy"
       }
     },
     {
@@ -192,7 +196,8 @@
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Caelian": "https://en.wikipedia.org/wiki/Caelian_Hill",
-        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order"
+        "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
       }
     },
     {
@@ -289,7 +294,8 @@
         "Cos": "https://en.wikipedia.org/wiki/Cos",
         "Colossus": "https://en.wikipedia.org/wiki/Colossus_of_Rhodes",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill"
+        "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+        "Latin": "https://en.wikipedia.org/wiki/Latin_language"
       }
     },
     {
@@ -361,7 +367,8 @@
       "la": "1 Convenit inter omnis, tam certum eum de sua suorumque genitura semper fuisse, ut post assiduas in se coniurationes ausus sit adfirmare senatui aut filios sibi successuros aut neminem. Dicitur etiam vidisse quondam per quietem stateram media parte vestibuli Palatinae domus positam examine aequo, cum in altera lance Claudius et Nero starent, in altera ipse ac filii. Nec res fefellit, quando totidem annis parique temporis spatio utrique imperaverunt.",
       "wikiLinks": {
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
-        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)"
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
       }
     }
   ],

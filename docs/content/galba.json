@@ -86,7 +86,8 @@
         "Livia Augusta": "https://en.wikipedia.org/wiki/Livia",
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "Livia": "https://en.wikipedia.org/wiki/Livia"
+        "Livia": "https://en.wikipedia.org/wiki/Livia",
+        "Lepida": "https://en.wikipedia.org/wiki/Aemilia_Lepida"
       }
     },
     {
@@ -111,7 +112,8 @@
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "provinces": "https://en.wikipedia.org/wiki/Roman_province"
+        "provinces": "https://en.wikipedia.org/wiki/Roman_province",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -142,7 +144,8 @@
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -158,7 +161,8 @@
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Vindex": "https://en.wikipedia.org/wiki/Gaius_Julius_Vindex"
       }
     },
     {
@@ -199,7 +203,9 @@
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "toga": "https://en.wikipedia.org/wiki/Toga",
         "governors": "https://en.wikipedia.org/wiki/Roman_province",
-        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus",
+        "Vindex": "https://en.wikipedia.org/wiki/Gaius_Julius_Vindex",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -219,7 +225,8 @@
         "cohort": "https://en.wikipedia.org/wiki/Roman_cohort",
         "denarii": "https://en.wikipedia.org/wiki/Denarius",
         "Gallic": "https://en.wikipedia.org/wiki/Gallic",
-        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -269,7 +276,8 @@
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "Kalends of January": "https://en.wikipedia.org/wiki/Kalends",
-        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -324,7 +332,8 @@
         "Galba": "https://en.wikipedia.org/wiki/Galba",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_ancient_Rome"
+        "patron": "https://en.wikipedia.org/wiki/Patronage_in_ancient_Rome",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {

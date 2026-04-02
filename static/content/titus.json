@@ -56,7 +56,8 @@
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
-        "legion": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -124,7 +125,8 @@
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
-        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)",
+        "Thracian": "https://en.wikipedia.org/wiki/Thrace"
       }
     },
     {
@@ -143,7 +145,8 @@
       "la": "1 Inter haec morte praeventus est maiore hominum damno quam suo. Spectaculis absolutis, in quorum fine populo coram ubertim fleverat, Sabinos petit aliquanto tristior, quod sacrificanti hostia aufugerat quodque tempestate serena tonuerat. Deinde ad primam statim mansionem febrim nanctus, cum inde lectica transferretur, suspexisse dicitur dimotis pallulis caelum, multumque conquestus eripi sibi vitam immerenti; neque enim exstare ullum suum factum paenitendum, excepto dum taxat uno.\n\n2 Id quale fuerit, neque ipse tunc prodidit neque cuiquam facile succurrat. Quidam opinantur consuetudinem recordatum, quam cum fratris uxore habuerit; sed nullam habuisse persancte Domitia iurabat, haud negatura, si qua omnino fuisset, immo etiam gloriatura, quod illi promptissimum erat in omnibus probris.",
       "wikiLinks": {
         "Sabine territory": "https://en.wikipedia.org/wiki/Sabines",
-        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)"
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "Sabine": "https://en.wikipedia.org/wiki/Sabines"
       }
     },
     {

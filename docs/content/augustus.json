@@ -51,7 +51,8 @@
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "Cicero": "https://en.wikipedia.org/wiki/Cicero",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
-        "Asia": "https://en.wikipedia.org/wiki/Asia"
+        "Asia": "https://en.wikipedia.org/wiki/Asia",
+        "Thracian": "https://en.wikipedia.org/wiki/Thrace"
       }
     },
     {
@@ -155,7 +156,9 @@
         "Sicily": "https://en.wikipedia.org/wiki/Sicily",
         "civil wars": "https://en.wikipedia.org/wiki/Roman_civil_wars",
         "triumvir": "https://en.wikipedia.org/wiki/Triumvirate",
-        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius",
+        "Perusia": "https://en.wikipedia.org/wiki/Perugia",
+        "Mutina": "https://en.wikipedia.org/wiki/Modena"
       }
     },
     {
@@ -177,7 +180,8 @@
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
         "legion": "https://en.wikipedia.org/wiki/Roman_legion",
         "Hirtius": "https://en.wikipedia.org/wiki/Aulus_Hirtius",
-        "Apollo": "https://en.wikipedia.org/wiki/Apollo"
+        "Apollo": "https://en.wikipedia.org/wiki/Apollo",
+        "Mutina": "https://en.wikipedia.org/wiki/Modena"
       }
     },
     {
@@ -200,7 +204,8 @@
       "wikiLinks": {
         "Marcus Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "Mutina": "https://en.wikipedia.org/wiki/Modena"
       }
     },
     {
@@ -239,7 +244,8 @@
         "Lucius Antonius": "https://en.wikipedia.org/wiki/Lucius_Antonius_(brother_of_Mark_Antony)",
         "Deified Julius": "https://en.wikipedia.org/wiki/Julius_Caesar",
         "Ides": "https://en.wikipedia.org/wiki/Ides",
-        "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March"
+        "Ides of March": "https://en.wikipedia.org/wiki/Ides_of_March",
+        "Perusia": "https://en.wikipedia.org/wiki/Perugia"
       }
     },
     {
@@ -333,7 +339,8 @@
         "Aquileia": "https://en.wikipedia.org/wiki/Aquileia",
         "Pannonia": "https://en.wikipedia.org/wiki/Pannonia",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony"
+        "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -352,7 +359,9 @@
         "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
         "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
         "Germans": "https://en.wikipedia.org/wiki/Germans",
-        "Dacia": "https://en.wikipedia.org/wiki/Dacia"
+        "Dacia": "https://en.wikipedia.org/wiki/Dacia",
+        "German": "https://en.wikipedia.org/wiki/Germans",
+        "Avenger": "https://en.wikipedia.org/wiki/Avenger"
       }
     },
     {
@@ -381,7 +390,8 @@
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
         "governors": "https://en.wikipedia.org/wiki/Roman_province",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
+        "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -493,7 +503,9 @@
         "Latin": "https://en.wikipedia.org/wiki/Latin_language",
         "Apollo": "https://en.wikipedia.org/wiki/Apollo",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules",
+        "Avenger": "https://en.wikipedia.org/wiki/Avenger",
+        "Thunderer": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
       }
     },
     {
@@ -562,7 +574,8 @@
       "en": "1 He revised existing laws and enacted some new ones, for example, on extravagance, on adultery and chastity, on bribery, and on the encouragement of marriage among the various classes of citizens. Having made somewhat more stringent changes in the last of these than in the others, he was unable to carry it out because of an open revolt against its provisions, until he had abolished or mitigated a part of the penalties, besides increasing the rewards and allowing a three years' exemption from the obligation to marry after the death of a husband or wife.\n\n2 When the knights even then persistently called for its repeal at a public show, he sent for the children of Germanicus and exhibited them, some in his own lap and some in their father's, intimating by his gestures and expression that they should not refuse to follow that young man's example. And on finding that the spirit of the law was being evaded by betrothal with immature girls and by frequent changes of wives, he shortened the duration of betrothals and set a limit on divorce.",
       "la": "1 Leges retractavit et quasdam ex integro sanxit, ut sumptuariam et de adulteriis et de pudicitia, de ambitu, de maritandis ordinibus. Hanc cum aliquanto severius quam ceteras emendasset, prae tumultu recusantium perferre non potuit nisi adempta demum lenitave parte poenarum et vacatione trienni data auctisque praemiis.\n\n2 Sic quoque abolitionem eius publico spectaculo pertinaciter postulante equite, accitos Germanici liberos receptosque partim ad se partim in patris gremium ostentavit, manu vultuque significans ne gravarentur imitari iuvenis exemplum. Cumque etiam inmaturitate sponsarum et matrimoniorum crebra mutatione vim legis eludi sentiret, tempus sponsas habendi coartavit, divortiis modum imposuit.",
       "wikiLinks": {
-        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus"
+        "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -772,7 +785,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "treasury": "https://en.wikipedia.org/wiki/Aerarium",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
-        "Germans": "https://en.wikipedia.org/wiki/Germans"
+        "Germans": "https://en.wikipedia.org/wiki/Germans",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -965,7 +979,8 @@
         "censor": "https://en.wikipedia.org/wiki/Censor",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
-        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa"
+        "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -1115,7 +1130,8 @@
       "en": "1 He was by nature most sparing also in his use of wine. Cornelius Nepos writes that in camp before Mutina it was his habit to drink not more than three times at dinner. Afterwards, when he indulged most freely he never exceeded a pint; or if he did, he used to throw it up. He liked Raetian wine best, but rarely drank before dinner. Instead he would take a bit of bread soaked in cold water, a slice of cucumber, a sprig of young lettuce, or an apple with a tart flavour, either fresh or dried.",
       "la": "1 Vini quoque natura parcissimus erat. Non amplius ter bibere eum solitum super cenam in castris apud Mutinam, Cornelius Nepos tradit. Postea quotiens largissime se invitaret, senos sextantes non excessit, aut si excessisset, reiciebat. Et maxime delectatus est Raetico neque temere interdiu bibit. Pro potione sumebat perfusum aqua frigida panem aut cucumeris frustum vel lactuculae thyrsum aut recens aridumve pomum suci vinosioris.",
       "wikiLinks": {
-        "Cornelius Nepos": "https://en.wikipedia.org/wiki/Cornelius_Nepos"
+        "Cornelius Nepos": "https://en.wikipedia.org/wiki/Cornelius_Nepos",
+        "Mutina": "https://en.wikipedia.org/wiki/Modena"
       }
     },
     {
@@ -1262,7 +1278,8 @@
         "battle of Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus"
+        "temple of Jupiter": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+        "Thunderer": "https://en.wikipedia.org/wiki/Jupiter_(mythology)"
       }
     },
     {
@@ -1342,7 +1359,8 @@
         "Philippi": "https://en.wikipedia.org/wiki/Battle_of_Philippi",
         "triumvirs": "https://en.wikipedia.org/wiki/Triumvirate",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "bronze": "https://en.wikipedia.org/wiki/Bronze"
+        "bronze": "https://en.wikipedia.org/wiki/Bronze",
+        "Perusia": "https://en.wikipedia.org/wiki/Perugia"
       }
     },
     {
@@ -1404,7 +1422,8 @@
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Octavius": "https://en.wikipedia.org/wiki/Octavius",
         "Drusus": "https://en.wikipedia.org/wiki/Drusus",
-        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius"
+        "Pompeius": "https://en.wikipedia.org/wiki/Pompeius",
+        "Mausoleum": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
       }
     },
     {
@@ -1426,7 +1445,8 @@
         "Drusus": "https://en.wikipedia.org/wiki/Drusus",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins"
+        "Vestal": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     }
   ],

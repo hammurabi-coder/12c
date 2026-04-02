@@ -68,7 +68,8 @@
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus"
+        "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -85,7 +86,10 @@
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "German": "https://en.wikipedia.org/wiki/Germans",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor",
+        "Lepida": "https://en.wikipedia.org/wiki/Aemilia_Lepida"
       }
     },
     {
@@ -101,7 +105,8 @@
         "Domitius": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
         "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Elder",
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
-        "Antium": "https://en.wikipedia.org/wiki/Antium"
+        "Antium": "https://en.wikipedia.org/wiki/Antium",
+        "Lepida": "https://en.wikipedia.org/wiki/Aemilia_Lepida"
       }
     },
     {
@@ -122,7 +127,8 @@
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Latin": "https://en.wikipedia.org/wiki/Latin_language",
         "Troy": "https://en.wikipedia.org/wiki/Troy",
-        "Ilium": "https://en.wikipedia.org/wiki/Ilium"
+        "Ilium": "https://en.wikipedia.org/wiki/Ilium",
+        "Lepida": "https://en.wikipedia.org/wiki/Aemilia_Lepida"
       }
     },
     {
@@ -279,7 +285,8 @@
         "Alexandria": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
         "Vesta": "https://en.wikipedia.org/wiki/Vesta_(mythology)",
         "Achaia": "https://en.wikipedia.org/wiki/Achaea_(Roman_province)",
-        "legion": "https://en.wikipedia.org/wiki/Roman_legion"
+        "legion": "https://en.wikipedia.org/wiki/Roman_legion",
+        "Isthmus": "https://en.wikipedia.org/wiki/Isthmus_of_Corinth"
       }
     },
     {
@@ -472,7 +479,8 @@
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Minerva": "https://en.wikipedia.org/wiki/Minerva",
-        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill"
+        "Palace": "https://en.wikipedia.org/wiki/Palatine_Hill",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -491,7 +499,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
         "Octavia": "https://en.wikipedia.org/wiki/Octavia",
-        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger"
+        "Agrippina": "https://en.wikipedia.org/wiki/Agrippina_the_Younger",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor"
       }
     },
     {
@@ -518,7 +527,8 @@
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
         "freedmen": "https://en.wikipedia.org/wiki/Freedman",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Isthmus": "https://en.wikipedia.org/wiki/Isthmus_of_Corinth"
       }
     },
     {
@@ -581,7 +591,8 @@
         "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "soldier": "https://en.wikipedia.org/wiki/Roman_army",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "Vindex": "https://en.wikipedia.org/wiki/Gaius_Julius_Vindex"
       }
     },
     {
@@ -638,7 +649,9 @@
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "Proserpina": "https://en.wikipedia.org/wiki/Proserpina",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
-        "Octavia": "https://en.wikipedia.org/wiki/Octavia"
+        "Octavia": "https://en.wikipedia.org/wiki/Octavia",
+        "Vindex": "https://en.wikipedia.org/wiki/Gaius_Julius_Vindex",
+        "Mausoleum": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus"
       }
     },
     {

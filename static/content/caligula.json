@@ -23,7 +23,8 @@
         "army": "https://en.wikipedia.org/wiki/Roman_army",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "province": "https://en.wikipedia.org/wiki/Roman_province"
+        "province": "https://en.wikipedia.org/wiki/Roman_province",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -36,7 +37,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
-        "Piso": "https://en.wikipedia.org/wiki/Piso"
+        "Piso": "https://en.wikipedia.org/wiki/Piso",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -49,7 +51,8 @@
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "triumphal": "https://en.wikipedia.org/wiki/Roman_triumph",
         "lictors": "https://en.wikipedia.org/wiki/Lictor",
-        "Piso": "https://en.wikipedia.org/wiki/Piso"
+        "Piso": "https://en.wikipedia.org/wiki/Piso",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -61,7 +64,8 @@
         "Tiberius": "https://en.wikipedia.org/wiki/Tiberius",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
-        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort"
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -81,7 +85,8 @@
       "wikiLinks": {
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "Rome": "https://en.wikipedia.org/wiki/Rome"
+        "Rome": "https://en.wikipedia.org/wiki/Rome",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -120,7 +125,8 @@
         "Kalends": "https://en.wikipedia.org/wiki/Kalends",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "Hercules": "https://en.wikipedia.org/wiki/Hercules"
+        "Hercules": "https://en.wikipedia.org/wiki/Hercules",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -141,7 +147,8 @@
         "rostra": "https://en.wikipedia.org/wiki/Rostra",
         "Syria": "https://en.wikipedia.org/wiki/Syria_(Roman_province)",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Capreae": "https://en.wikipedia.org/wiki/Capri"
+        "Capreae": "https://en.wikipedia.org/wiki/Capri",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor"
       }
     },
     {
@@ -173,7 +180,8 @@
       "la": "1 Sic imperium adeptus, populum Romanum, vel dicam hominum genus, voti compotem fecit, exoptatissimus princeps maximae parti provincialium ac militum, quod infantem plerique cognoverant, sed et universae plebi urbanae ob memoriam Germanici patris miserationemque prope afflictae domus. Itaque ut a Miseno movit quamvis lugentis habitu et funus Tiberi prosequens, tamen inter altaria et victimas ardentisque taedas densissimo et laetissimo obviorum agmine incessit, super fausta nomina \"sidus\" et \"pullum\" et \"pupum\" et \"alumnum\" appellantium.",
       "wikiLinks": {
         "Germanicus": "https://en.wikipedia.org/wiki/Germanicus",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -212,7 +220,10 @@
         "Circus": "https://en.wikipedia.org/wiki/Circus_Maximus",
         "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia",
+        "Mausoleum": "https://en.wikipedia.org/wiki/Mausoleum_of_Augustus",
+        "German": "https://en.wikipedia.org/wiki/Germans",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor"
       }
     },
     {
@@ -281,7 +292,8 @@
         "Britain": "https://en.wikipedia.org/wiki/Britannia",
         "Appian Way": "https://en.wikipedia.org/wiki/Appian_Way",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "Gallic": "https://en.wikipedia.org/wiki/Gallic"
+        "Gallic": "https://en.wikipedia.org/wiki/Gallic",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -312,7 +324,8 @@
         "Greece": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
         "centurion": "https://en.wikipedia.org/wiki/Centurion",
         "Apollo": "https://en.wikipedia.org/wiki/Apollo",
-        "Samos": "https://en.wikipedia.org/wiki/Samos"
+        "Samos": "https://en.wikipedia.org/wiki/Samos",
+        "Isthmus": "https://en.wikipedia.org/wiki/Isthmus_of_Corinth"
       }
     },
     {
@@ -349,7 +362,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)",
         "Livia": "https://en.wikipedia.org/wiki/Livia",
-        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)"
+        "Caesars": "https://en.wikipedia.org/wiki/Caesar_(title)",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor"
       }
     },
     {
@@ -365,7 +379,8 @@
         "Lepidus": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
-        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)"
+        "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+        "Avenger": "https://en.wikipedia.org/wiki/Avenger"
       }
     },
     {
@@ -437,7 +452,8 @@
         "Praetor": "https://en.wikipedia.org/wiki/Praetor",
         "Caligula": "https://en.wikipedia.org/wiki/Caligula",
         "praetor": "https://en.wikipedia.org/wiki/Praetor",
-        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls",
+        "Antonia": "https://en.wikipedia.org/wiki/Antonia_Minor"
       }
     },
     {
@@ -513,7 +529,8 @@
         "Caligula": "https://en.wikipedia.org/wiki/Caligula",
         "centurion": "https://en.wikipedia.org/wiki/Centurion",
         "gladiator": "https://en.wikipedia.org/wiki/Gladiator",
-        "toga": "https://en.wikipedia.org/wiki/Toga"
+        "toga": "https://en.wikipedia.org/wiki/Toga",
+        "Thracian": "https://en.wikipedia.org/wiki/Thrace"
       }
     },
     {
@@ -604,7 +621,8 @@
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
-        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort"
+        "cohorts": "https://en.wikipedia.org/wiki/Roman_cohort",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -620,7 +638,8 @@
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
         "Mars": "https://en.wikipedia.org/wiki/Mars_(mythology)",
-        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum"
+        "Forum": "https://en.wikipedia.org/wiki/Roman_Forum",
+        "Avenger": "https://en.wikipedia.org/wiki/Avenger"
       }
     },
     {
@@ -631,7 +650,8 @@
         "Vergil": "https://en.wikipedia.org/wiki/Virgil",
         "cavalry": "https://en.wikipedia.org/wiki/Roman_cavalry",
         "army": "https://en.wikipedia.org/wiki/Roman_army",
-        "Germans": "https://en.wikipedia.org/wiki/Germans"
+        "Germans": "https://en.wikipedia.org/wiki/Germans",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -654,7 +674,8 @@
         "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
         "Germans": "https://en.wikipedia.org/wiki/Germans",
-        "Gauls": "https://en.wikipedia.org/wiki/Gauls"
+        "Gauls": "https://en.wikipedia.org/wiki/Gauls",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -668,7 +689,8 @@
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "legionaries": "https://en.wikipedia.org/wiki/Roman_legion",
-        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph"
+        "triumph": "https://en.wikipedia.org/wiki/Roman_triumph",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -704,7 +726,8 @@
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "Alps": "https://en.wikipedia.org/wiki/Alps",
         "provinces": "https://en.wikipedia.org/wiki/Roman_province",
-        "soldiers": "https://en.wikipedia.org/wiki/Roman_army"
+        "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -752,7 +775,9 @@
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "consul": "https://en.wikipedia.org/wiki/Consul",
-        "Ostia": "https://en.wikipedia.org/wiki/Ostia"
+        "Ostia": "https://en.wikipedia.org/wiki/Ostia",
+        "German": "https://en.wikipedia.org/wiki/Germans",
+        "Thracian": "https://en.wikipedia.org/wiki/Thrace"
       }
     },
     {
@@ -802,7 +827,8 @@
         "Jupiter": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
         "Asia": "https://en.wikipedia.org/wiki/Asia",
         "Germans": "https://en.wikipedia.org/wiki/Germans",
-        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {

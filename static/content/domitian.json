@@ -41,7 +41,8 @@
         "auxiliaries": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Parthians": "https://en.wikipedia.org/wiki/Parthian_Empire",
-        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)"
+        "Judaea": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -122,7 +123,8 @@
         "governor": "https://en.wikipedia.org/wiki/Roman_province",
         "Antony": "https://en.wikipedia.org/wiki/Mark_Antony",
         "Sabinus": "https://en.wikipedia.org/wiki/Sabinus",
-        "Dacia": "https://en.wikipedia.org/wiki/Dacia"
+        "Dacia": "https://en.wikipedia.org/wiki/Dacia",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -199,7 +201,8 @@
         "soldiers": "https://en.wikipedia.org/wiki/Roman_army",
         "Italy": "https://en.wikipedia.org/wiki/Italy",
         "Asia": "https://en.wikipedia.org/wiki/Asia",
-        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus"
+        "Sabinus": "https://en.wikipedia.org/wiki/Sabinus",
+        "Thracian": "https://en.wikipedia.org/wiki/Thrace"
       }
     },
     {
@@ -233,7 +236,8 @@
         "consul": "https://en.wikipedia.org/wiki/Consul",
         "Ides": "https://en.wikipedia.org/wiki/Ides",
         "triumphs": "https://en.wikipedia.org/wiki/Roman_triumph",
-        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)"
+        "divine": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -278,7 +282,8 @@
       "la": "1 Pridie quam periret, cum oblatos tubures servari iussisset in crastinum, adiecit: \"Si modo uti licuerit,\" et conversus ad proximos affirmavit fore ut sequenti die luna se in aquario cruentaret factumque aliquod exsisteret, de quo loquerentur homines per terrarum orbem. At circa mediam noctem ita est exterritus, ut e strato prosiliret. Dehinc mane haruspicem ex Germania missum, qui consultus de fulgure mutationem rerum praedixerat, audiit condemnavitque.\n\n2 Ac dum exulceratam in fronte verrucam vehementius scalpit, profluente sanguine, \"Utinam,\" inquit, \"hactenus.\" Tunc horas requirenti pro quinta, quam metuebat, sexta ex industria nuntiata est. His velut transacto iam periculo laetum festinantemque ad corporis curam Parthenius cubiculo praepositus convertit, nuntians esse qui magnum nescio quid afferret, nec differendum. Itaque summotis omnibus, in cubiculum se recepit atque ibi occisus est.",
       "wikiLinks": {
         "Consul": "https://en.wikipedia.org/wiki/Roman_consul",
-        "Germany": "https://en.wikipedia.org/wiki/Germania"
+        "Germany": "https://en.wikipedia.org/wiki/Germania",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {

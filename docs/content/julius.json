@@ -425,7 +425,8 @@
         "Germany": "https://en.wikipedia.org/wiki/Germania",
         "province": "https://en.wikipedia.org/wiki/Roman_province",
         "legions": "https://en.wikipedia.org/wiki/Roman_legion",
-        "Germans": "https://en.wikipedia.org/wiki/Germans"
+        "Germans": "https://en.wikipedia.org/wiki/Germans",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {
@@ -773,7 +774,8 @@
         "Armenia": "https://en.wikipedia.org/wiki/Armenia_(Roman_province)",
         "temple of Mars": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
         "Latin": "https://en.wikipedia.org/wiki/Latin_language",
-        "Dacia": "https://en.wikipedia.org/wiki/Dacia"
+        "Dacia": "https://en.wikipedia.org/wiki/Dacia",
+        "Isthmus": "https://en.wikipedia.org/wiki/Isthmus_of_Corinth"
       }
     },
     {
@@ -998,7 +1000,8 @@
         "Gaul": "https://en.wikipedia.org/wiki/Gaul",
         "harbour": "https://en.wikipedia.org/wiki/Port",
         "Germany": "https://en.wikipedia.org/wiki/Germania",
-        "army": "https://en.wikipedia.org/wiki/Roman_army"
+        "army": "https://en.wikipedia.org/wiki/Roman_army",
+        "German": "https://en.wikipedia.org/wiki/Germans"
       }
     },
     {

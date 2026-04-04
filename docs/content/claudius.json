@@ -87,7 +87,7 @@
         "Sejanus": "https://en.wikipedia.org/wiki/Lucius_Aelius_Sejanus",
         "Equestrian": "https://en.wikipedia.org/wiki/Equestrian_(Roman)",
         "equestrian order": "https://en.wikipedia.org/wiki/Equestrian_order",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage",
         "consuls": "https://en.wikipedia.org/wiki/Consul",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
         "Rome": "https://en.wikipedia.org/wiki/Rome",
@@ -513,7 +513,7 @@
         "Messalina": "https://en.wikipedia.org/wiki/Messalina",
         "Narcissus": "https://en.wikipedia.org/wiki/Tiberius_Claudius_Narcissus",
         "Claudius": "https://en.wikipedia.org/wiki/Claudius",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome"
+        "patron": "https://en.wikipedia.org/wiki/Patronage"
       }
     },
     {
@@ -546,7 +546,7 @@
       "wikiLinks": {
         "butchers": "https://en.wikipedia.org/wiki/Roman_economy",
         "quaestor": "https://en.wikipedia.org/wiki/Quaestor",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage",
         "tribunal": "https://en.wikipedia.org/wiki/Tribunal"
       }
     },

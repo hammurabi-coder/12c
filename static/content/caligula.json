@@ -100,7 +100,7 @@
         "Livia": "https://en.wikipedia.org/wiki/Livia",
         "Gaius Caesar": "https://en.wikipedia.org/wiki/Gaius_Caesar",
         "Augustus": "https://en.wikipedia.org/wiki/Augustus",
-        "Nero": "https://en.wikipedia.org/wiki/Nero",
+        "Nero": "https://en.wikipedia.org/wiki/Nero_(emperor)",
         "Agrippa": "https://en.wikipedia.org/wiki/Agrippa",
         "Drusus": "https://en.wikipedia.org/wiki/Drusus",
         "Venus": "https://en.wikipedia.org/wiki/Venus_(mythology)"
@@ -241,7 +241,7 @@
         "Roman knights": "https://en.wikipedia.org/wiki/Equestrian_order",
         "suffrage": "https://en.wikipedia.org/wiki/Suffrage",
         "sesterces": "https://en.wikipedia.org/wiki/Sestertius",
-        "patron": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+        "patron": "https://en.wikipedia.org/wiki/Patronage",
         "Capitol": "https://en.wikipedia.org/wiki/Capitoline_Hill",
         "Italy": "https://en.wikipedia.org/wiki/Italy",
         "Julia": "https://en.wikipedia.org/wiki/Julia_(daughter_of_Caesar)"
@@ -430,7 +430,7 @@
       "la": "1 Saevitiam ingenii per haec maxime ostendit. Cum ad saginam ferarum muneri praeparatarum carius pecudes compararentur, ex noxiis laniandos adnotavit, et custodiarum seriem recognoscens, nullius inspecto elogio, stans tantum modo intra porticum mediam, \"a calvo ad calvum\" duci imperavit.\n\n2 Votum exegit ab eo, qui pro salute sua gladiatoriam operam promiserat, spectavitque ferro dimicantem nec dimisit nisi victorem et post multas preces. Alterum, qui se periturum ea de causa voverat, cunctantem pueris tradidit, verbenatum infulatumque votum reposcentes per vicos agerent, quoad praecipitaretur ex aggere.\n\n3 Multos honesti ordinis deformatos prius stigmatum notis ad metalla et munitiones viarum aut ad bestias condemnavit aut bestiarum more quadripedes cavea coercuit aut medios serra dissecuit, nec omnes gravibus ex causis, verum male de munere suo opinatos, vel quod numquam per genium suum deierassent.\n\n4 Parentes supplicio filiorum interesse cogebat: quorum uni valitudinem excusanti lecticam misit, alium a spectaculo poenae epulis statim adhibuit atque omni comitate ad hilaritatem et iocos provocavit. Curatorem munerum ac venationum per continuos dies in conspectu suo catenis verberatum non prius occidit quam offensus putrefacti cerebri odore. Atellanae poetam ob ambigui ioci versiculum media amphitheatri harena igni cremavit. Equitem R. obiectum feris, cum se innocentem proclamasset, reduxit abscisaque lingua rursus induxit.",
       "wikiLinks": {
         "gladiatorial": "https://en.wikipedia.org/wiki/Gladiator",
-        "Genius": "https://en.wikipedia.org/wiki/Genius_(Roman_religion)",
+        "Genius": "https://en.wikipedia.org/wiki/Genius_(mythology)",
         "Roman knight": "https://en.wikipedia.org/wiki/Equestrian_order"
       }
     },

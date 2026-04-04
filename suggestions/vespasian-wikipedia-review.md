@@ -1,7 +1,7 @@
 # Wikipedia Link Suggestions: Vespasian
 
 **Source:** LacusCurtius / Loeb Classical Library (1914)
-**Suggestions:** 149 entities across 22 chapters
+**Suggestions:** 147 entities across 22 chapters
 **Review file:** suggestions/vespasian-wikipedia-suggestions.json
 
 ---
@@ -689,18 +689,9 @@
 
 > ... A man of the people who was blind, and another who was lame, came to him together as he sat on the tribunal, begging for the help for their disorders which Serapis had promised in a dream; for the go...
 
-### 87. [consecrated](https://en.wikipedia.org/wiki/Apotheosis)
-**Occurrences:** 2
-**Slug:** `Apotheosis`
-**Status:** `pending`
-
-> ...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian.
-
-> ...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian.
-
 ## Chapter 8
 
-### 88. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 87. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 2
 **Slug:** `Rome`
 **Status:** `pending`
@@ -709,35 +700,35 @@
 
 > ...d he revoked the appointment. When the marines who march on foot by turns from Ostia and Puteoli to Rome, asked that an alliance be made them under the head of shoe money, not content with sending the...
 
-### 89. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+### 88. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
 **Occurrences:** 1
 **Slug:** `Roman_triumph`
 **Status:** `pending`
 
 > 1 Returning to Rome under such auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­s...
 
-### 90. [Jews](https://en.wikipedia.org/wiki/Jews)
+### 89. [Jews](https://en.wikipedia.org/wiki/Jews)
 **Occurrences:** 1
 **Slug:** `Jews`
 **Status:** `pending`
 
 > ...g to Rome under such auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during th...
 
-### 91. [consul](https://en.wikipedia.org/wiki/Consul)
+### 90. [consul](https://en.wikipedia.org/wiki/Consul)
 **Occurrences:** 1
 **Slug:** `Consul`
 **Status:** `pending`
 
 > ...auspices and attended by so great renown, after celebrating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during the whole period of his...
 
-### 92. [censor](https://en.wikipedia.org/wiki/Censor)
+### 91. [censor](https://en.wikipedia.org/wiki/Censor)
 **Occurrences:** 1
 **Slug:** `Censor`
 **Status:** `pending`
 
 > ...rating a triumph over the Jews, he added eight consul ­ships to his former one; he also assumed the censor ­ship and during the whole period of his rule he considered nothing more essential than first...
 
-### 93. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+### 92. [provinces](https://en.wikipedia.org/wiki/Roman_province)
 **Occurrences:** 2
 **Slug:** `Roman_province`
 **Status:** `pending`
@@ -746,121 +737,114 @@
 
 > ...ed that in future they should make the run barefooted; and they have done so ever since. 4 He made provinces of Achaia, Lycia, Rhodes, Byzantium and Samos, taking away their freedom, and likewise of ...
 
-### 94. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
+### 93. [soldiers](https://en.wikipedia.org/wiki/Roman_army)
 **Occurrences:** 1
 **Slug:** `Roman_army`
 **Status:** `pending`
 
 > ...s some of the kingdoms, were in a state of internal dissension. Therefore he discharged many of the soldiers of Vitellius and punished many; but so far from showing any special indulgence to those who...
 
-### 95. [Vitellius](https://en.wikipedia.org/wiki/Vitellius)
+### 94. [Vitellius](https://en.wikipedia.org/wiki/Vitellius)
 **Occurrences:** 1
 **Slug:** `Vitellius`
 **Status:** `pending`
 
 > ...e kingdoms, were in a state of internal dissension. Therefore he discharged many of the soldiers of Vitellius and punished many; but so far from showing any special indulgence to those who had shared ...
 
-### 96. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 95. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 1
 **Slug:** `Vespasian`
 **Status:** `pending`
 
 > ...when a young man reeking with perfumes came to thank him for a commission which had been given him, Vespasian drew back his head in disgust, adding the stern reprimand: "I would rather you had smelt o...
 
-### 97. [Puteoli](https://en.wikipedia.org/wiki/Puteoli)
+### 96. [Puteoli](https://en.wikipedia.org/wiki/Puteoli)
 **Occurrences:** 1
 **Slug:** `Puteoli`
 **Status:** `pending`
 
 > ...garlic"; and he revoked the appointment. When the marines who march on foot by turns from Ostia and Puteoli to Rome, asked that an alliance be made them under the head of shoe money, not content with ...
 
-### 98. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
+### 97. [Rhodes](https://en.wikipedia.org/wiki/Rhodes)
 **Occurrences:** 1
 **Slug:** `Rhodes`
 **Status:** `pending`
 
 > ...d make the run barefooted; and they have done so ever since. 4 He made provinces of Achaia, Lycia, Rhodes, Byzantium and Samos, taking away their freedom, and likewise of Trachian Cilicia and Commage...
 
-### 99. [Cilicia](https://en.wikipedia.org/wiki/Cilicia_(Roman_province))
+### 98. [Cilicia](https://en.wikipedia.org/wiki/Cilicia_(Roman_province))
 **Occurrences:** 1
 **Slug:** `Cilicia_(Roman_province)`
 **Status:** `pending`
 
 > ... of Achaia, Lycia, Rhodes, Byzantium and Samos, taking away their freedom, and likewise of Trachian Cilicia and Commagene, which up to that time had been ruled by kings. He sent additional legions to ...
 
-### 100. [legions](https://en.wikipedia.org/wiki/Roman_legion)
+### 99. [legions](https://en.wikipedia.org/wiki/Roman_legion)
 **Occurrences:** 1
 **Slug:** `Roman_legion`
 **Status:** `pending`
 
 > ...f Trachian Cilicia and Commagene, which up to that time had been ruled by kings. He sent additional legions to Cappadocia because of the constant inroads of the barbarians, and gave it a consular gove...
 
-### 101. [Cappadocia](https://en.wikipedia.org/wiki/Cappadocia)
+### 100. [Cappadocia](https://en.wikipedia.org/wiki/Cappadocia)
 **Occurrences:** 1
 **Slug:** `Cappadocia`
 **Status:** `pending`
 
 > ...Cilicia and Commagene, which up to that time had been ruled by kings. He sent additional legions to Cappadocia because of the constant inroads of the barbarians, and gave it a consular governor in pla...
 
-### 102. [governor](https://en.wikipedia.org/wiki/Roman_province)
+### 101. [governor](https://en.wikipedia.org/wiki/Roman_province)
 **Occurrences:** 1
 **Slug:** `Roman_province`
 **Status:** `pending`
 
 > ...nal legions to Cappadocia because of the constant inroads of the barbarians, and gave it a consular governor in place of a Roman knight. 5 As the city was unsightly from former fires and fallen build...
 
-### 103. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+### 102. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
 **Occurrences:** 1
 **Slug:** `Equestrian_order`
 **Status:** `pending`
 
 > ...ia because of the constant inroads of the barbarians, and gave it a consular governor in place of a Roman knight. 5 As the city was unsightly from former fires and fallen buildings, he allowed anyone...
 
-### 104. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+### 103. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
 **Occurrences:** 1
 **Slug:** `Capitoline_Hill`
 **Status:** `pending`
 
 > ...cant sites and build upon them, in case the owners failed to do so. He began the restoration of the Capitol in person, was the first to lend a hand in clearing away the debris, and carried some of it ...
 
-### 105. [bronze](https://en.wikipedia.org/wiki/Roman_copper_alloy)
-**Occurrences:** 1
-**Slug:** `Roman_copper_alloy`
-**Status:** `pending`
-
-> ... the debris, and carried some of it off on his own head. He undertook to restore the three thousand bronze tablets which were destroyed with the temple, making a thorough search for copies: priceless ...
-
 ## Chapter 9
 
-### 106. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 104. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > 1 He also undertook new works, the temple of Peace hard by the Forum and one to the Deified Claudius on the Caelian mount, which was begun by Agrippina, but almost utterly destroyed by Nero; a...
 
-### 107. [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill)
+### 105. [Caelian](https://en.wikipedia.org/wiki/Caelian_Hill)
 **Occurrences:** 1
 **Slug:** `Caelian_Hill`
 **Status:** `pending`
 
 > ...o undertook new works, the temple of Peace hard by the Forum and one to the Deified Claudius on the Caelian mount, which was begun by Agrippina, but almost utterly destroyed by Nero; also an amphithea...
 
-### 108. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 106. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...eified Claudius on the Caelian mount, which was begun by Agrippina, but almost utterly destroyed by Nero; also an amphitheatre in the heart of the city, a plan which he learned that Augustus had cheri...
 
-### 109. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 107. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
 
 > ...erly destroyed by Nero; also an amphitheatre in the heart of the city, a plan which he learned that Augustus had cherished. 2 He reformed the two great orders, reduced by a series of murders and sull...
 
-### 110. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
+### 108. [Roman knight](https://en.wikipedia.org/wiki/Equestrian_order)
 **Occurrences:** 1
 **Slug:** `Equestrian_order`
 **Status:** `pending`
@@ -869,7 +853,7 @@
 
 ## Chapter 12
 
-### 111. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
+### 109. [triumph](https://en.wikipedia.org/wiki/Roman_triumph)
 **Occurrences:** 2
 **Slug:** `Roman_triumph`
 **Status:** `pending`
@@ -878,14 +862,14 @@
 
 > ... of his triumph, he did not hesitate to say: "It serves me right for being such a fool as to want a triumph in my old age, as if it were due to my ancestors or had ever been among my own ambitions." H...
 
-### 112. [tribunician](https://en.wikipedia.org/wiki/Tribunician_power)
+### 110. [tribunician](https://en.wikipedia.org/wiki/Tribunician_power)
 **Occurrences:** 1
 **Slug:** `Tribunician_power`
 **Status:** `pending`
 
 > ...if it were due to my ancestors or had ever been among my own ambitions." He did not even assume the tribunician power at once nor the title of Father of his Country until late. As for the custom of se...
 
-### 113. [civil war](https://en.wikipedia.org/wiki/Roman_civil_wars)
+### 111. [civil war](https://en.wikipedia.org/wiki/Roman_civil_wars)
 **Occurrences:** 1
 **Slug:** `Roman_civil_wars`
 **Status:** `pending`
@@ -894,14 +878,14 @@
 
 ## Chapter 13
 
-### 114. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 112. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 1
 **Slug:** `Vespasian`
 **Status:** `pending`
 
 > ...ience. Though Licinius Mucianus, a man of notorious unchastity, presumed upon his services to treat Vespasian with scant respect, he never had the heart to criticize him except privately and then only...
 
-### 115. [client](https://en.wikipedia.org/wiki/Client_(ancient_Rome))
+### 113. [client](https://en.wikipedia.org/wiki/Client_(ancient_Rome))
 **Occurrences:** 1
 **Slug:** `Client_(ancient_Rome)`
 **Status:** `pending`
@@ -910,28 +894,28 @@
 
 ## Chapter 14
 
-### 116. [Vitellius](https://en.wikipedia.org/wiki/Vitellius)
+### 114. [Vitellius](https://en.wikipedia.org/wiki/Vitellius)
 **Occurrences:** 1
 **Slug:** `Vitellius`
 **Status:** `pending`
 
 > ...emember or to avenge affronts or enmities, but made a brilliant match for the daughter of his enemy Vitellius, and even provided her with a dowry and a house-keeping outfit. When he was in terror at b...
 
-### 117. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 115. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`
 
 > ...even provided her with a dowry and a house-keeping outfit. When he was in terror at being forbidden Nero's court, and asked what on earth he was to do or where he was to go, one of the ushers put him ...
 
-### 118. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 116. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 1
 **Slug:** `Vespasian`
 **Status:** `pending`
 
 > ...ushers put him out and told him to "go to Morbovia"; but when the man later begged for forgiveness, Vespasian confined his resentment to words, and those of about the same number and purport. Indeed, ...
 
-### 119. [consul](https://en.wikipedia.org/wiki/Consul)
+### 117. [consul](https://en.wikipedia.org/wiki/Consul)
 **Occurrences:** 1
 **Slug:** `Consul`
 **Status:** `pending`
@@ -940,7 +924,7 @@
 
 ## Chapter 15
 
-### 120. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 118. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 2
 **Slug:** `Vespasian`
 **Status:** `pending`
@@ -949,7 +933,7 @@
 
 > ...Helvidius Priscus was the only one who greeted him on his return from Syria by his private name of "Vespasian," and moreover in his praetor ­ship left the emperor unhonoured and unmentioned in all his...
 
-### 121. [praetor](https://en.wikipedia.org/wiki/Praetor)
+### 119. [praetor](https://en.wikipedia.org/wiki/Praetor)
 **Occurrences:** 1
 **Slug:** `Praetor`
 **Status:** `pending`
@@ -958,28 +942,28 @@
 
 ## Chapter 16
 
-### 122. [Galba](https://en.wikipedia.org/wiki/Galba)
+### 120. [Galba](https://en.wikipedia.org/wiki/Galba)
 **Occurrences:** 1
 **Slug:** `Galba`
 **Status:** `pending`
 
 > ...ured was his love of money. For not content with reviving the imposts which had been repealed under Galba, he added new and heavy burdens, increasing the amount of tribute paid by the provinces, in so...
 
-### 123. [provinces](https://en.wikipedia.org/wiki/Roman_province)
+### 121. [provinces](https://en.wikipedia.org/wiki/Roman_province)
 **Occurrences:** 1
 **Slug:** `Roman_province`
 **Status:** `pending`
 
 > ... repealed under Galba, he added new and heavy burdens, increasing the amount of tribute paid by the provinces, in some cases actually doubling it, and quite openly carrying on traffic which would be s...
 
-### 124. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 122. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 1
 **Slug:** `Vespasian`
 **Status:** `pending`
 
 > ...by an old herdsman of his, who on being forced to pay for the freedom for which he earnestly begged Vespasian when he became emperor, cried: "The fox changes his fur, but not his nature." Others on th...
 
-### 125. [treasury](https://en.wikipedia.org/wiki/Aerarium)
+### 123. [treasury](https://en.wikipedia.org/wiki/Aerarium)
 **Occurrences:** 1
 **Slug:** `Aerarium`
 **Status:** `pending`
@@ -988,21 +972,21 @@
 
 ## Chapter 17
 
-### 126. [consuls](https://en.wikipedia.org/wiki/Consul)
+### 124. [consuls](https://en.wikipedia.org/wiki/Consul)
 **Occurrences:** 1
 **Slug:** `Consul`
 **Status:** `pending`
 
 > 1 He was most generous to all classes, making up the requisite estate for senators, giving needy ex-consuls an annual stipend of five hundred thousand sesterces, restoring to a better condition many c...
 
-### 127. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+### 125. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
 **Occurrences:** 1
 **Slug:** `Sestertius`
 **Status:** `pending`
 
 > ...e requisite estate for senators, giving needy ex-consuls an annual stipend of five hundred thousand sesterces, restoring to a better condition many cities throughout the empire which had suffered from...
 
-### 128. [talent](https://en.wikipedia.org/wiki/Talent_(measurement))
+### 126. [talent](https://en.wikipedia.org/wiki/Talent_(measurement))
 **Occurrences:** 1
 **Slug:** `Talent_(measurement)`
 **Status:** `pending`
@@ -1011,14 +995,14 @@
 
 ## Chapter 18
 
-### 129. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+### 127. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
 **Occurrences:** 1
 **Slug:** `Sestertius`
 **Status:** `pending`
 
 > 1 He was the first to establish a regular salary of a hundred thousand sesterces for Latin and Greek teachers of rhetoric, paid from the privy purse. He also presented emi...
 
-### 130. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
+### 128. [Capitol](https://en.wikipedia.org/wiki/Capitoline_Hill)
 **Occurrences:** 1
 **Slug:** `Capitoline_Hill`
 **Status:** `pending`
@@ -1027,14 +1011,14 @@
 
 ## Chapter 19
 
-### 131. [Marcellus](https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC))
+### 129. [Marcellus](https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC))
 **Occurrences:** 1
 **Slug:** `Marcellus_(consul_49_BC)`
 **Status:** `pending`
 
 > 1 At the plays with which he dedicated the new stage of the theatre of Marcellus he revived the old musical entertainments. To Apelles, the tragic actor, he gave four hund...
 
-### 132. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+### 130. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
 **Occurrences:** 2
 **Slug:** `Sestertius`
 **Status:** `pending`
@@ -1043,28 +1027,28 @@
 
 > ...tors in a loud voice how much his funeral procession would cost, and hearing the reply "Ten million sesterces," cried out: "Give me a hundred thousand and fling me even into the Tiber."
 
-### 133. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+### 131. [Kalends](https://en.wikipedia.org/wiki/Kalends)
 **Occurrences:** 1
 **Slug:** `Kalends`
 **Status:** `pending`
 
 > ...arties, too, usually formally and sumptuously, to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his ...
 
-### 134. [Kalends of March](https://en.wikipedia.org/wiki/Kalends)
+### 132. [Kalends of March](https://en.wikipedia.org/wiki/Kalends)
 **Occurrences:** 1
 **Slug:** `Kalends`
 **Status:** `pending`
 
 > ...arties, too, usually formally and sumptuously, to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his ...
 
-### 135. [Saturnalia](https://en.wikipedia.org/wiki/Saturnalia)
+### 133. [Saturnalia](https://en.wikipedia.org/wiki/Saturnalia)
 **Occurrences:** 1
 **Slug:** `Saturnalia`
 **Status:** `pending`
 
 > ... to help the marketmen. He gave gifts to women on the Kalends of March, as he did to the men on the Saturnalia. 2 Yet even so he could not be rid of his former ill-repute for covetousness. The Alexan...
 
-### 136. [funeral](https://en.wikipedia.org/wiki/Funus)
+### 134. [funeral](https://en.wikipedia.org/wiki/Funus)
 **Occurrences:** 2
 **Slug:** `Funus`
 **Status:** `pending`
@@ -1073,7 +1057,7 @@
 
 > ...nd words of the deceased during his lifetime, having asked procurators in a loud voice how much his funeral procession would cost, and hearing the reply "Ten million sesterces," cried out: "Give me a ...
 
-### 137. [Tiber](https://en.wikipedia.org/wiki/Tiber)
+### 135. [Tiber](https://en.wikipedia.org/wiki/Tiber)
 **Occurrences:** 1
 **Slug:** `Tiber`
 **Status:** `pending`
@@ -1082,7 +1066,7 @@
 
 ## Chapter 20
 
-### 138. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 136. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 2
 **Slug:** `Vespasian`
 **Status:** `pending`
@@ -1091,7 +1075,7 @@
 
 > ... rather cleverly: "I will, when you have finished relieving yourself." Portrait-bust of the emperor Vespasian, in the Sala degli Imperatori of the Musei Capitolini, Rome. photograph © William P. Thaye...
 
-### 139. [Rome](https://en.wikipedia.org/wiki/Rome)
+### 137. [Rome](https://en.wikipedia.org/wiki/Rome)
 **Occurrences:** 1
 **Slug:** `Rome`
 **Status:** `pending`
@@ -1100,21 +1084,21 @@
 
 ## Chapter 22
 
-### 140. [consul](https://en.wikipedia.org/wiki/Consul)
+### 138. [consul](https://en.wikipedia.org/wiki/Consul)
 **Occurrences:** 1
 **Slug:** `Consul`
 **Status:** `pending`
 
 > ...s remarks are still remembered which are full of fine wit, and among them the following. When an ex-consul called Mestrius Florus called his attention to the fact that the proper pronunciation was pla...
 
-### 141. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
+### 139. [sesterces](https://en.wikipedia.org/wiki/Sestertius)
 **Occurrences:** 1
 **Slug:** `Sestertius`
 **Status:** `pending`
 
 > ...said that she was dying for love for him, he took her to his bed and gave her four hundred thousand sesterces for her favours. Being asked by his steward how he would have the sum entered in his accou...
 
-### 142. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
+### 140. [Vespasian](https://en.wikipedia.org/wiki/Vespasian)
 **Occurrences:** 1
 **Slug:** `Vespasian`
 **Status:** `pending`
@@ -1123,7 +1107,7 @@
 
 ## Chapter 23
 
-### 143. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
+### 141. [Titus](https://en.wikipedia.org/wiki/Titus_(emperor))
 **Occurrences:** 2
 **Slug:** `Titus_(emperor)`
 **Status:** `pending`
@@ -1132,7 +1116,7 @@
 
 > ...money from the first payment to his son's nose, asking whether its odour was offensive to him. When Titus said "No," he replied, "Yet it comes from urine." On the report of a deputation that a colossa...
 
-### 144. [Augustus](https://en.wikipedia.org/wiki/Augustus)
+### 142. [Augustus](https://en.wikipedia.org/wiki/Augustus)
 **Occurrences:** 1
 **Slug:** `Augustus`
 **Status:** `pending`
@@ -1141,21 +1125,21 @@
 
 ## Chapter 24
 
-### 145. [consul](https://en.wikipedia.org/wiki/Consul)
+### 143. [consul](https://en.wikipedia.org/wiki/Consul)
 **Occurrences:** 1
 **Slug:** `Consul`
 **Status:** `pending`
 
 > 1 In his ninth consul ­ship he had a slight illness in Campania, and returning at once to the city, he left for Cut...
 
-### 146. [Campania](https://en.wikipedia.org/wiki/Campania)
+### 144. [Campania](https://en.wikipedia.org/wiki/Campania)
 **Occurrences:** 1
 **Slug:** `Campania`
 **Status:** `pending`
 
 > 1 In his ninth consul ­ship he had a slight illness in Campania, and returning at once to the city, he left for Cutiliae º and the country about Reate, whe...
 
-### 147. [Kalends](https://en.wikipedia.org/wiki/Kalends)
+### 145. [Kalends](https://en.wikipedia.org/wiki/Kalends)
 **Occurrences:** 1
 **Slug:** `Kalends`
 **Status:** `pending`
@@ -1164,14 +1148,14 @@
 
 ## Chapter 25
 
-### 148. [Claudius](https://en.wikipedia.org/wiki/Claudius)
+### 146. [Claudius](https://en.wikipedia.org/wiki/Claudius)
 **Occurrences:** 1
 **Slug:** `Claudius`
 **Status:** `pending`
 
 > ... its beam on a level placed in the middle of the vestibule of the Palace, in one pan of which stood Claudius and Nero and in the other himself and his sons. And the dream came true, since both houses ...
 
-### 149. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
+### 147. [Nero](https://en.wikipedia.org/wiki/Nero_(emperor))
 **Occurrences:** 1
 **Slug:** `Nero_(emperor)`
 **Status:** `pending`

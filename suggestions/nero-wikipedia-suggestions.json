@@ -18,7 +18,7 @@
     "caesar": "Nero",
     "entity": "Domitius",
     "slug": "Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
-    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_AD)",
+    "url": "https://en.wikipedia.org/wiki/Gnaeus_Domitius_Ahenobarbus_(consul_32_BC)",
     "occurrenceCount": 1,
     "contexts": [
       "...the Ahenobarbi. The latter have as the founder of their race and the origin of their surname Lucius Domitius, to whom, as he was returning from the country, there once appeared twin youths of more tha..."
@@ -27,19 +27,6 @@
   },
   {
     "id": 3,
-    "chapter": "Chapter 1",
-    "caesar": "Nero",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "...ity it is said that they stroked his cheeks and turned his black beard to a ruddy hue, like that of bronze. This sign was perpetuated in his descendants, a great part of whom had red beards. 2 After ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 4,
     "chapter": "Chapter 1",
     "caesar": "Nero",
     "entity": "consul",
@@ -52,7 +39,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 4,
     "chapter": "Chapter 1",
     "caesar": "Nero",
     "entity": "triumph",
@@ -65,7 +52,7 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 5,
     "chapter": "Chapter 1",
     "caesar": "Nero",
     "entity": "censor",
@@ -78,7 +65,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 6,
     "chapter": "Chapter 1",
     "caesar": "Nero",
     "entity": "patricians",
@@ -91,7 +78,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 7,
     "chapter": "Chapter 1",
     "caesar": "Nero",
     "entity": "Nero",
@@ -104,7 +91,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 8,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -117,7 +104,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 9,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "pontiffs",
@@ -130,7 +117,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 10,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "consul",
@@ -145,7 +132,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 11,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "province",
@@ -158,7 +145,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 12,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -171,7 +158,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "triumphal",
@@ -184,7 +171,7 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 14,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Crassus",
@@ -197,7 +184,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 15,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "praetor",
@@ -210,7 +197,7 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 16,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Gaul",
@@ -223,7 +210,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 17,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "civil war",
@@ -236,7 +223,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 18,
     "chapter": "Chapter 2",
     "caesar": "Nero",
     "entity": "Pharsalus",
@@ -249,7 +236,7 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 19,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Brutus",
@@ -262,7 +249,7 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 20,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -275,7 +262,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 21,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Cleopatra",
@@ -288,7 +275,7 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 22,
     "chapter": "Chapter 3",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -301,7 +288,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 23,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -314,7 +301,7 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 24,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -328,7 +315,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 25,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "triumph",
@@ -341,7 +328,7 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 26,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Germany",
@@ -354,7 +341,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 27,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "aedile",
@@ -367,7 +354,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 28,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "censor",
@@ -380,7 +367,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 29,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "praetor",
@@ -393,7 +380,7 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 30,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "consul",
@@ -406,7 +393,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 31,
     "chapter": "Chapter 4",
     "caesar": "Nero",
     "entity": "Roman knights",
@@ -419,7 +406,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 32,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -432,7 +419,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 33,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "Nero",
@@ -446,7 +433,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 34,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -459,7 +446,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 35,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "Roman knight",
@@ -472,7 +459,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 36,
     "chapter": "Chapter 5",
     "caesar": "Nero",
     "entity": "praetor",
@@ -485,7 +472,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 37,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Nero",
@@ -500,7 +487,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 38,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Kalends",
@@ -513,7 +500,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 39,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Kalends of January",
@@ -526,7 +513,7 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 40,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -539,7 +526,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 41,
     "chapter": "Chapter 6",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -554,7 +541,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 42,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -569,7 +556,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 43,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Nero",
@@ -582,7 +569,7 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 44,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -595,7 +582,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 45,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "consul",
@@ -608,7 +595,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 46,
     "chapter": "Chapter 7",
     "caesar": "Nero",
     "entity": "Rhodes",
@@ -621,7 +608,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 47,
     "chapter": "Chapter 8",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -634,7 +621,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 48,
     "chapter": "Chapter 8",
     "caesar": "Nero",
     "entity": "Nero",
@@ -647,7 +634,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 49,
     "chapter": "Chapter 8",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -660,7 +647,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 50,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -673,7 +660,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 51,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "funeral",
@@ -686,7 +673,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 52,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -699,7 +686,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 53,
     "chapter": "Chapter 9",
     "caesar": "Nero",
     "entity": "centurions",
@@ -712,7 +699,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 54,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -725,7 +712,7 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 55,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -739,7 +726,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 56,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "cohorts",
@@ -752,7 +739,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 57,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "Jupiter",
@@ -765,7 +752,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 58,
     "chapter": "Chapter 10",
     "caesar": "Nero",
     "entity": "Capitol",
@@ -778,7 +765,7 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 59,
     "chapter": "Chapter 11",
     "caesar": "Nero",
     "entity": "Roman knight",
@@ -791,7 +778,7 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 60,
     "chapter": "Chapter 11",
     "caesar": "Nero",
     "entity": "Afranius",
@@ -804,7 +791,7 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 61,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Campus Martius",
@@ -817,7 +804,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 62,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Roman knights",
@@ -830,7 +817,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 63,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Nero",
@@ -843,7 +830,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 64,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Rome",
@@ -856,7 +843,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 65,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "senatorial",
@@ -869,7 +856,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 66,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "consuls",
@@ -882,7 +869,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 67,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "praetors",
@@ -895,7 +882,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 68,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -908,7 +895,7 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 69,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Capitol",
@@ -921,7 +908,7 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 70,
     "chapter": "Chapter 12",
     "caesar": "Nero",
     "entity": "Ceres",
@@ -934,7 +921,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 71,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -947,7 +934,7 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 72,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Nero",
@@ -962,7 +949,7 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 73,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Rome",
@@ -975,7 +962,7 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 74,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "cohorts",
@@ -988,7 +975,7 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 75,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "curule chair",
@@ -1001,7 +988,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 76,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "rostra",
@@ -1014,7 +1001,7 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 77,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "laurel",
@@ -1027,7 +1014,7 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 78,
     "chapter": "Chapter 13",
     "caesar": "Nero",
     "entity": "Capitol",
@@ -1040,7 +1027,7 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 79,
     "chapter": "Chapter 14",
     "caesar": "Nero",
     "entity": "consul",
@@ -1053,7 +1040,7 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 80,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -1066,7 +1053,7 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 81,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "legion",
@@ -1079,7 +1066,7 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 82,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "consuls",
@@ -1093,7 +1080,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 83,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "Kalends",
@@ -1106,7 +1093,7 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 84,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "Kalends of January",
@@ -1119,7 +1106,7 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 85,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "consul",
@@ -1132,7 +1119,7 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 86,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "triumphal",
@@ -1145,7 +1132,7 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 87,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "quaestor",
@@ -1158,7 +1145,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 88,
     "chapter": "Chapter 15",
     "caesar": "Nero",
     "entity": "quaestors",
@@ -1171,7 +1158,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 89,
     "chapter": "Chapter 16",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1184,7 +1171,7 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 90,
     "chapter": "Chapter 16",
     "caesar": "Nero",
     "entity": "Christians",
@@ -1197,7 +1184,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 91,
     "chapter": "Chapter 17",
     "caesar": "Nero",
     "entity": "treasury",
@@ -1211,7 +1198,7 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 92,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "army",
@@ -1224,12 +1211,12 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 93,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Britain",
     "slug": "Britannia",
-    "url": "https://en.wikipedia.org/wiki/Roman_Britain",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
     "occurrenceCount": 1,
     "contexts": [
       "...ny wish or hope of increasing or extending the empire, he even thought of withdrawing the army from Britain and changed his purpose only because he was ashamed to seem to belittle the glory of his fat..."
@@ -1237,7 +1224,7 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 94,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "provinces",
@@ -1250,7 +1237,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 95,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Pontus",
@@ -1263,7 +1250,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 96,
     "chapter": "Chapter 18",
     "caesar": "Nero",
     "entity": "Alps",
@@ -1276,7 +1263,7 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 97,
     "chapter": "Chapter 19",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -1289,7 +1276,7 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 98,
     "chapter": "Chapter 19",
     "caesar": "Nero",
     "entity": "Vesta",
@@ -1302,7 +1289,7 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 99,
     "chapter": "Chapter 19",
     "caesar": "Nero",
     "entity": "legion",
@@ -1315,7 +1302,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 100,
     "chapter": "Chapter 20",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -1328,7 +1315,7 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 101,
     "chapter": "Chapter 20",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -1341,7 +1328,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 102,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1354,7 +1341,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 103,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "divine",
@@ -1367,7 +1354,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 104,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -1381,7 +1368,7 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 105,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "consul",
@@ -1394,7 +1381,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 106,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "praetors",
@@ -1407,7 +1394,7 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 107,
     "chapter": "Chapter 21",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -1420,7 +1407,7 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 108,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1434,7 +1421,7 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 109,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Circus Maximus",
@@ -1447,7 +1434,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 110,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -1460,7 +1447,7 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 111,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "magistrates",
@@ -1473,7 +1460,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 112,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Jupiter",
@@ -1486,7 +1473,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 113,
     "chapter": "Chapter 22",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -1499,7 +1486,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 114,
     "chapter": "Chapter 23",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1512,7 +1499,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 115,
     "chapter": "Chapter 24",
     "caesar": "Nero",
     "entity": "Mithridates",
@@ -1525,7 +1512,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 116,
     "chapter": "Chapter 24",
     "caesar": "Nero",
     "entity": "province",
@@ -1538,7 +1525,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 117,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Greece",
@@ -1551,7 +1538,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 118,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1565,7 +1552,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 119,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -1579,7 +1566,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 120,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "triumphs",
@@ -1592,7 +1579,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 121,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "triumphal",
@@ -1605,7 +1592,7 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 122,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -1619,7 +1606,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 123,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "triumph",
@@ -1632,7 +1619,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 124,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Circus Maximus",
@@ -1645,7 +1632,7 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 125,
     "chapter": "Chapter 25",
     "caesar": "Nero",
     "entity": "Palatine",
@@ -1658,7 +1645,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 126,
     "chapter": "Chapter 26",
     "caesar": "Nero",
     "entity": "senatorial order",
@@ -1671,7 +1658,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 127,
     "chapter": "Chapter 26",
     "caesar": "Nero",
     "entity": "praetor",
@@ -1684,7 +1671,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 128,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Campus Martius",
@@ -1697,7 +1684,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 129,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Circus Maximus",
@@ -1710,7 +1697,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 130,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Tiber",
@@ -1723,7 +1710,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 131,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -1736,7 +1723,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 132,
     "chapter": "Chapter 27",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -1749,7 +1736,7 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 133,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "vestal",
@@ -1762,7 +1749,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 134,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "consuls",
@@ -1775,7 +1762,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 135,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1788,7 +1775,7 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 136,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Domitius",
@@ -1801,7 +1788,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 137,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Greece",
@@ -1814,7 +1801,7 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 138,
     "chapter": "Chapter 28",
     "caesar": "Nero",
     "entity": "Rome",
@@ -1827,7 +1814,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 139,
     "chapter": "Chapter 30",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -1841,7 +1828,7 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 140,
     "chapter": "Chapter 30",
     "caesar": "Nero",
     "entity": "gladiator",
@@ -1854,7 +1841,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 141,
     "chapter": "Chapter 30",
     "caesar": "Nero",
     "entity": "triumphs",
@@ -1867,7 +1854,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 142,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Palatine",
@@ -1880,7 +1867,7 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 143,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Esquiline",
@@ -1893,7 +1880,7 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 144,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -1906,7 +1893,7 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 145,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Roman knight",
@@ -1919,7 +1906,7 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 146,
     "chapter": "Chapter 31",
     "caesar": "Nero",
     "entity": "Africa",
@@ -1932,7 +1919,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 147,
     "chapter": "Chapter 32",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -1945,7 +1932,7 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 148,
     "chapter": "Chapter 32",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -1958,7 +1945,7 @@
     "status": "approved"
   },
   {
-    "id": 150,
+    "id": 149,
     "chapter": "Chapter 32",
     "caesar": "Nero",
     "entity": "Galba",
@@ -1971,7 +1958,7 @@
     "status": "approved"
   },
   {
-    "id": 151,
+    "id": 150,
     "chapter": "Chapter 33",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -1986,7 +1973,7 @@
     "status": "approved"
   },
   {
-    "id": 152,
+    "id": 151,
     "chapter": "Chapter 33",
     "caesar": "Nero",
     "entity": "Nero",
@@ -1999,7 +1986,7 @@
     "status": "approved"
   },
   {
-    "id": 153,
+    "id": 152,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Rhodes",
@@ -2012,7 +1999,7 @@
     "status": "approved"
   },
   {
-    "id": 154,
+    "id": 153,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -2026,7 +2013,7 @@
     "status": "approved"
   },
   {
-    "id": 155,
+    "id": 154,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Baiae",
@@ -2039,7 +2026,7 @@
     "status": "approved"
   },
   {
-    "id": 156,
+    "id": 155,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Minerva",
@@ -2052,7 +2039,7 @@
     "status": "approved"
   },
   {
-    "id": 157,
+    "id": 156,
     "chapter": "Chapter 34",
     "caesar": "Nero",
     "entity": "Greece",
@@ -2065,7 +2052,7 @@
     "status": "approved"
   },
   {
-    "id": 158,
+    "id": 157,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "quaestor",
@@ -2078,7 +2065,7 @@
     "status": "approved"
   },
   {
-    "id": 159,
+    "id": 158,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Roman knight",
@@ -2091,7 +2078,7 @@
     "status": "approved"
   },
   {
-    "id": 160,
+    "id": 159,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "consul",
@@ -2105,7 +2092,7 @@
     "status": "approved"
   },
   {
-    "id": 161,
+    "id": 160,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "triumph",
@@ -2118,7 +2105,7 @@
     "status": "approved"
   },
   {
-    "id": 162,
+    "id": 161,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -2131,7 +2118,7 @@
     "status": "approved"
   },
   {
-    "id": 163,
+    "id": 162,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Egypt",
@@ -2144,7 +2131,7 @@
     "status": "approved"
   },
   {
-    "id": 164,
+    "id": 163,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2157,7 +2144,7 @@
     "status": "approved"
   },
   {
-    "id": 165,
+    "id": 164,
     "chapter": "Chapter 35",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -2170,7 +2157,7 @@
     "status": "approved"
   },
   {
-    "id": 166,
+    "id": 165,
     "chapter": "Chapter 36",
     "caesar": "Nero",
     "entity": "Rome",
@@ -2183,7 +2170,7 @@
     "status": "approved"
   },
   {
-    "id": 167,
+    "id": 166,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Cassius",
@@ -2197,7 +2184,7 @@
     "status": "approved"
   },
   {
-    "id": 168,
+    "id": 167,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Longinus",
@@ -2210,7 +2197,7 @@
     "status": "approved"
   },
   {
-    "id": 169,
+    "id": 168,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Julius Caesar",
@@ -2223,7 +2210,7 @@
     "status": "approved"
   },
   {
-    "id": 170,
+    "id": 169,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "provinces",
@@ -2236,7 +2223,7 @@
     "status": "approved"
   },
   {
-    "id": 171,
+    "id": 170,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Roman knights",
@@ -2249,7 +2236,7 @@
     "status": "approved"
   },
   {
-    "id": 172,
+    "id": 171,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -2262,7 +2249,7 @@
     "status": "approved"
   },
   {
-    "id": 173,
+    "id": 172,
     "chapter": "Chapter 37",
     "caesar": "Nero",
     "entity": "Rome",
@@ -2275,7 +2262,7 @@
     "status": "approved"
   },
   {
-    "id": 174,
+    "id": 173,
     "chapter": "Chapter 38",
     "caesar": "Nero",
     "entity": "consuls",
@@ -2288,7 +2275,7 @@
     "status": "approved"
   },
   {
-    "id": 175,
+    "id": 174,
     "chapter": "Chapter 38",
     "caesar": "Nero",
     "entity": "provinces",
@@ -2301,7 +2288,7 @@
     "status": "approved"
   },
   {
-    "id": 176,
+    "id": 175,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Libitina",
@@ -2314,7 +2301,7 @@
     "status": "approved"
   },
   {
-    "id": 177,
+    "id": 176,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Britain",
@@ -2327,7 +2314,7 @@
     "status": "approved"
   },
   {
-    "id": 178,
+    "id": 177,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "legions",
@@ -2340,7 +2327,7 @@
     "status": "approved"
   },
   {
-    "id": 179,
+    "id": 178,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -2353,7 +2340,7 @@
     "status": "approved"
   },
   {
-    "id": 180,
+    "id": 179,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2368,7 +2355,7 @@
     "status": "approved"
   },
   {
-    "id": 181,
+    "id": 180,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Rome",
@@ -2381,7 +2368,7 @@
     "status": "approved"
   },
   {
-    "id": 182,
+    "id": 181,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Claudius",
@@ -2394,7 +2381,7 @@
     "status": "approved"
   },
   {
-    "id": 183,
+    "id": 182,
     "chapter": "Chapter 39",
     "caesar": "Nero",
     "entity": "Orcus",
@@ -2407,7 +2394,7 @@
     "status": "approved"
   },
   {
-    "id": 184,
+    "id": 183,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "province",
@@ -2420,7 +2407,7 @@
     "status": "approved"
   },
   {
-    "id": 185,
+    "id": 184,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2433,7 +2420,7 @@
     "status": "approved"
   },
   {
-    "id": 186,
+    "id": 185,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Jerusalem",
@@ -2446,7 +2433,7 @@
     "status": "approved"
   },
   {
-    "id": 187,
+    "id": 186,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Armenia",
@@ -2459,7 +2446,7 @@
     "status": "approved"
   },
   {
-    "id": 188,
+    "id": 187,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Britain",
@@ -2472,7 +2459,7 @@
     "status": "approved"
   },
   {
-    "id": 189,
+    "id": 188,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "Galba",
@@ -2485,7 +2472,7 @@
     "status": "approved"
   },
   {
-    "id": 190,
+    "id": 189,
     "chapter": "Chapter 40",
     "caesar": "Nero",
     "entity": "provinces",
@@ -2499,7 +2486,7 @@
     "status": "approved"
   },
   {
-    "id": 191,
+    "id": 190,
     "chapter": "Chapter 41",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2512,7 +2499,7 @@
     "status": "approved"
   },
   {
-    "id": 192,
+    "id": 191,
     "chapter": "Chapter 41",
     "caesar": "Nero",
     "entity": "Rome",
@@ -2525,7 +2512,7 @@
     "status": "approved"
   },
   {
-    "id": 193,
+    "id": 192,
     "chapter": "Chapter 41",
     "caesar": "Nero",
     "entity": "soldier",
@@ -2538,7 +2525,7 @@
     "status": "approved"
   },
   {
-    "id": 194,
+    "id": 193,
     "chapter": "Chapter 42",
     "caesar": "Nero",
     "entity": "Galba",
@@ -2551,7 +2538,7 @@
     "status": "approved"
   },
   {
-    "id": 195,
+    "id": 194,
     "chapter": "Chapter 42",
     "caesar": "Nero",
     "entity": "provinces",
@@ -2565,7 +2552,7 @@
     "status": "approved"
   },
   {
-    "id": 196,
+    "id": 195,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "governors",
@@ -2578,7 +2565,7 @@
     "status": "approved"
   },
   {
-    "id": 197,
+    "id": 196,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "provinces",
@@ -2593,7 +2580,7 @@
     "status": "approved"
   },
   {
-    "id": 198,
+    "id": 197,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "consuls",
@@ -2606,7 +2593,7 @@
     "status": "approved"
   },
   {
-    "id": 199,
+    "id": 198,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "consul",
@@ -2619,7 +2606,7 @@
     "status": "approved"
   },
   {
-    "id": 200,
+    "id": 199,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "fasces",
@@ -2632,7 +2619,7 @@
     "status": "approved"
   },
   {
-    "id": 201,
+    "id": 200,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "province",
@@ -2645,7 +2632,7 @@
     "status": "approved"
   },
   {
-    "id": 202,
+    "id": 201,
     "chapter": "Chapter 43",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -2658,7 +2645,7 @@
     "status": "approved"
   },
   {
-    "id": 203,
+    "id": 202,
     "chapter": "Chapter 45",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -2671,7 +2658,7 @@
     "status": "approved"
   },
   {
-    "id": 204,
+    "id": 203,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Pompey",
@@ -2684,7 +2671,7 @@
     "status": "approved"
   },
   {
-    "id": 205,
+    "id": 204,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Lares",
@@ -2697,7 +2684,7 @@
     "status": "approved"
   },
   {
-    "id": 206,
+    "id": 205,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Kalends",
@@ -2710,7 +2697,7 @@
     "status": "approved"
   },
   {
-    "id": 207,
+    "id": 206,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Kalends of January",
@@ -2723,7 +2710,7 @@
     "status": "approved"
   },
   {
-    "id": 208,
+    "id": 207,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Proserpina",
@@ -2736,7 +2723,7 @@
     "status": "approved"
   },
   {
-    "id": 209,
+    "id": 208,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Capitol",
@@ -2749,7 +2736,7 @@
     "status": "approved"
   },
   {
-    "id": 210,
+    "id": 209,
     "chapter": "Chapter 46",
     "caesar": "Nero",
     "entity": "Augustus",
@@ -2762,7 +2749,7 @@
     "status": "approved"
   },
   {
-    "id": 211,
+    "id": 210,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Homeric",
@@ -2775,7 +2762,7 @@
     "status": "approved"
   },
   {
-    "id": 212,
+    "id": 211,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Homer",
@@ -2788,7 +2775,7 @@
     "status": "approved"
   },
   {
-    "id": 213,
+    "id": 212,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "centurions",
@@ -2801,7 +2788,7 @@
     "status": "approved"
   },
   {
-    "id": 214,
+    "id": 213,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "freedmen",
@@ -2814,7 +2801,7 @@
     "status": "approved"
   },
   {
-    "id": 215,
+    "id": 214,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Galba",
@@ -2827,7 +2814,7 @@
     "status": "approved"
   },
   {
-    "id": 216,
+    "id": 215,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "rostra",
@@ -2840,7 +2827,7 @@
     "status": "approved"
   },
   {
-    "id": 217,
+    "id": 216,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Egypt",
@@ -2853,7 +2840,7 @@
     "status": "approved"
   },
   {
-    "id": 218,
+    "id": 217,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -2866,7 +2853,7 @@
     "status": "approved"
   },
   {
-    "id": 219,
+    "id": 218,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "gladiator",
@@ -2879,7 +2866,7 @@
     "status": "approved"
   },
   {
-    "id": 220,
+    "id": 219,
     "chapter": "Chapter 47",
     "caesar": "Nero",
     "entity": "Tiber",
@@ -2892,7 +2879,7 @@
     "status": "approved"
   },
   {
-    "id": 221,
+    "id": 220,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "soldiers",
@@ -2905,7 +2892,7 @@
     "status": "approved"
   },
   {
-    "id": 222,
+    "id": 221,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "Galba",
@@ -2918,7 +2905,7 @@
     "status": "approved"
   },
   {
-    "id": 223,
+    "id": 222,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2933,7 +2920,7 @@
     "status": "approved"
   },
   {
-    "id": 224,
+    "id": 223,
     "chapter": "Chapter 48",
     "caesar": "Nero",
     "entity": "soldier",
@@ -2946,7 +2933,7 @@
     "status": "approved"
   },
   {
-    "id": 225,
+    "id": 224,
     "chapter": "Chapter 49",
     "caesar": "Nero",
     "entity": "Nero",
@@ -2961,7 +2948,7 @@
     "status": "approved"
   },
   {
-    "id": 226,
+    "id": 225,
     "chapter": "Chapter 49",
     "caesar": "Nero",
     "entity": "centurion",
@@ -2974,7 +2961,7 @@
     "status": "approved"
   },
   {
-    "id": 227,
+    "id": 226,
     "chapter": "Chapter 49",
     "caesar": "Nero",
     "entity": "Galba",
@@ -2987,7 +2974,7 @@
     "status": "approved"
   },
   {
-    "id": 228,
+    "id": 227,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "sesterces",
@@ -3000,7 +2987,7 @@
     "status": "approved"
   },
   {
-    "id": 229,
+    "id": 228,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "Kalends",
@@ -3013,7 +3000,7 @@
     "status": "approved"
   },
   {
-    "id": 230,
+    "id": 229,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "Kalends of January",
@@ -3026,7 +3013,7 @@
     "status": "approved"
   },
   {
-    "id": 231,
+    "id": 230,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "Alexandria",
@@ -3039,7 +3026,7 @@
     "status": "approved"
   },
   {
-    "id": 232,
+    "id": 231,
     "chapter": "Chapter 50",
     "caesar": "Nero",
     "entity": "Campus Martius",
@@ -3052,7 +3039,7 @@
     "status": "approved"
   },
   {
-    "id": 233,
+    "id": 232,
     "chapter": "Chapter 51",
     "caesar": "Nero",
     "entity": "Greece",
@@ -3065,7 +3052,7 @@
     "status": "approved"
   },
   {
-    "id": 234,
+    "id": 233,
     "chapter": "Chapter 53",
     "caesar": "Nero",
     "entity": "lustrum",
@@ -3078,7 +3065,7 @@
     "status": "approved"
   },
   {
-    "id": 235,
+    "id": 234,
     "chapter": "Chapter 53",
     "caesar": "Nero",
     "entity": "Greece",
@@ -3091,7 +3078,7 @@
     "status": "approved"
   },
   {
-    "id": 236,
+    "id": 235,
     "chapter": "Chapter 55",
     "caesar": "Nero",
     "entity": "Rome",
@@ -3104,7 +3091,7 @@
     "status": "approved"
   },
   {
-    "id": 237,
+    "id": 236,
     "chapter": "Chapter 57",
     "caesar": "Nero",
     "entity": "rostra",
@@ -3117,7 +3104,7 @@
     "status": "approved"
   },
   {
-    "id": 238,
+    "id": 237,
     "chapter": "Chapter 57",
     "caesar": "Nero",
     "entity": "toga",
@@ -3130,7 +3117,7 @@
     "status": "approved"
   },
   {
-    "id": 239,
+    "id": 238,
     "chapter": "Chapter 57",
     "caesar": "Nero",
     "entity": "Nero",

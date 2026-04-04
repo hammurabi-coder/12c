@@ -1148,20 +1148,6 @@
   },
   {
     "id": 87,
-    "chapter": "Chapter 7",
-    "caesar": "Vespasian",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian.",
-      "...time, by the direction of certain soothsayers, some vases of antique workman ­ship were dug up in a consecrated spot at Tegea in Arcadia and on them was an image very like Vespasian."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 88,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -1175,7 +1161,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 88,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "triumph",
@@ -1188,7 +1174,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 89,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Jews",
@@ -1201,7 +1187,7 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 90,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "consul",
@@ -1214,7 +1200,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 91,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "censor",
@@ -1227,7 +1213,7 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 92,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "provinces",
@@ -1241,7 +1227,7 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 93,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "soldiers",
@@ -1254,7 +1240,7 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 94,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -1267,7 +1253,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 95,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1280,7 +1266,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 96,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Puteoli",
@@ -1293,7 +1279,7 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 97,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Rhodes",
@@ -1306,7 +1292,7 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 98,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Cilicia",
@@ -1319,7 +1305,7 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 99,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "legions",
@@ -1332,7 +1318,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 100,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Cappadocia",
@@ -1345,7 +1331,7 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 101,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "governor",
@@ -1358,7 +1344,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 102,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Roman knight",
@@ -1371,7 +1357,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 103,
     "chapter": "Chapter 8",
     "caesar": "Vespasian",
     "entity": "Capitol",
@@ -1384,20 +1370,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
-    "chapter": "Chapter 8",
-    "caesar": "Vespasian",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "... the debris, and carried some of it off on his own head. He undertook to restore the three thousand bronze tablets which were destroyed with the temple, making a thorough search for copies: priceless ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 106,
+    "id": 104,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Claudius",
@@ -1410,7 +1383,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 105,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Caelian",
@@ -1423,7 +1396,7 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 106,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -1436,7 +1409,7 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 107,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Augustus",
@@ -1449,7 +1422,7 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 108,
     "chapter": "Chapter 9",
     "caesar": "Vespasian",
     "entity": "Roman knight",
@@ -1462,7 +1435,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 109,
     "chapter": "Chapter 12",
     "caesar": "Vespasian",
     "entity": "triumph",
@@ -1476,7 +1449,7 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 110,
     "chapter": "Chapter 12",
     "caesar": "Vespasian",
     "entity": "tribunician",
@@ -1489,7 +1462,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 111,
     "chapter": "Chapter 12",
     "caesar": "Vespasian",
     "entity": "civil war",
@@ -1502,7 +1475,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 112,
     "chapter": "Chapter 13",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1515,7 +1488,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 113,
     "chapter": "Chapter 13",
     "caesar": "Vespasian",
     "entity": "client",
@@ -1528,7 +1501,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 114,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Vitellius",
@@ -1541,7 +1514,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 115,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -1554,7 +1527,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 116,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1567,7 +1540,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 117,
     "chapter": "Chapter 14",
     "caesar": "Vespasian",
     "entity": "consul",
@@ -1580,7 +1553,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 118,
     "chapter": "Chapter 15",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1594,7 +1567,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 119,
     "chapter": "Chapter 15",
     "caesar": "Vespasian",
     "entity": "praetor",
@@ -1607,7 +1580,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 120,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "Galba",
@@ -1620,7 +1593,7 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 121,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "provinces",
@@ -1633,7 +1606,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 122,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1646,7 +1619,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 123,
     "chapter": "Chapter 16",
     "caesar": "Vespasian",
     "entity": "treasury",
@@ -1659,7 +1632,7 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 124,
     "chapter": "Chapter 17",
     "caesar": "Vespasian",
     "entity": "consuls",
@@ -1672,7 +1645,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 125,
     "chapter": "Chapter 17",
     "caesar": "Vespasian",
     "entity": "sesterces",
@@ -1685,7 +1658,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 126,
     "chapter": "Chapter 17",
     "caesar": "Vespasian",
     "entity": "talent",
@@ -1698,7 +1671,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 127,
     "chapter": "Chapter 18",
     "caesar": "Vespasian",
     "entity": "sesterces",
@@ -1711,7 +1684,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 128,
     "chapter": "Chapter 18",
     "caesar": "Vespasian",
     "entity": "Capitol",
@@ -1724,7 +1697,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 129,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Marcellus",
@@ -1737,7 +1710,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 130,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "sesterces",
@@ -1751,7 +1724,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 131,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Kalends",
@@ -1764,7 +1737,7 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 132,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Kalends of March",
@@ -1777,7 +1750,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 133,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Saturnalia",
@@ -1790,7 +1763,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 134,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "funeral",
@@ -1804,7 +1777,7 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 135,
     "chapter": "Chapter 19",
     "caesar": "Vespasian",
     "entity": "Tiber",
@@ -1817,7 +1790,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 136,
     "chapter": "Chapter 20",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1831,7 +1804,7 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 137,
     "chapter": "Chapter 20",
     "caesar": "Vespasian",
     "entity": "Rome",
@@ -1844,7 +1817,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 138,
     "chapter": "Chapter 22",
     "caesar": "Vespasian",
     "entity": "consul",
@@ -1857,7 +1830,7 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 139,
     "chapter": "Chapter 22",
     "caesar": "Vespasian",
     "entity": "sesterces",
@@ -1870,7 +1843,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 140,
     "chapter": "Chapter 22",
     "caesar": "Vespasian",
     "entity": "Vespasian",
@@ -1883,7 +1856,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 141,
     "chapter": "Chapter 23",
     "caesar": "Vespasian",
     "entity": "Titus",
@@ -1897,7 +1870,7 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 142,
     "chapter": "Chapter 23",
     "caesar": "Vespasian",
     "entity": "Augustus",
@@ -1910,7 +1883,7 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 143,
     "chapter": "Chapter 24",
     "caesar": "Vespasian",
     "entity": "consul",
@@ -1923,7 +1896,7 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 144,
     "chapter": "Chapter 24",
     "caesar": "Vespasian",
     "entity": "Campania",
@@ -1936,7 +1909,7 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 145,
     "chapter": "Chapter 24",
     "caesar": "Vespasian",
     "entity": "Kalends",
@@ -1949,7 +1922,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 146,
     "chapter": "Chapter 25",
     "caesar": "Vespasian",
     "entity": "Claudius",
@@ -1962,7 +1935,7 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 147,
     "chapter": "Chapter 25",
     "caesar": "Vespasian",
     "entity": "Nero",
@@ -1973,15 +1946,5 @@
       "...a level placed in the middle of the vestibule of the Palace, in one pan of which stood Claudius and Nero and in the other himself and his sons. And the dream came true, since both houses reigned for t..."
     ],
     "status": "approved"
-  },
-  {
-    "id": 150,
-    "chapter": "Chapter 4",
-    "caesar": "Vespasian",
-    "entity": "Judaea",
-    "slug": "Judaea",
-    "url": "https://en.wikipedia.org/wiki/Judaea_(Roman_province)",
-    "occurrenceCount": 1,
-    "status": "edited"
   }
 ]

@@ -412,19 +412,6 @@
     "id": 32,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
-    "entity": "immortal",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 1,
-    "contexts": [
-      "...of my aunt Julia is descended by her mother from the kings, and on her father's side is akin to the immortal Gods; for the Marcii Reges (her mother's family name) go back to Ancus Marcius, and the Jul..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 33,
-    "chapter": "Chapter 6",
-    "caesar": "Julius Caesar",
     "entity": "Sulla",
     "slug": "Sulla",
     "url": "https://en.wikipedia.org/wiki/Sulla",
@@ -435,7 +422,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 33,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -448,7 +435,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 34,
     "chapter": "Chapter 6",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -462,7 +449,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 35,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "quaestor",
@@ -475,7 +462,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 36,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -488,7 +475,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 37,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -501,7 +488,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 38,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Gades",
@@ -514,7 +501,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 39,
     "chapter": "Chapter 7",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -527,7 +514,7 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 40,
     "chapter": "Chapter 8",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -540,7 +527,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 41,
     "chapter": "Chapter 8",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -553,7 +540,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 42,
     "chapter": "Chapter 8",
     "caesar": "Julius Caesar",
     "entity": "Cilicia",
@@ -566,7 +553,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 43,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -581,7 +568,7 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 44,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "aedile",
@@ -595,7 +582,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 45,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -610,7 +597,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 46,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -625,7 +612,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 47,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -639,7 +626,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 48,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "dictator",
@@ -652,7 +639,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 49,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -665,7 +652,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 50,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -678,7 +665,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 51,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -691,7 +678,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 52,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -706,7 +693,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 53,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -719,7 +706,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 54,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "toga",
@@ -732,7 +719,7 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 55,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -745,7 +732,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 56,
     "chapter": "Chapter 9",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -758,7 +745,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 57,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "aedile",
@@ -771,7 +758,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 58,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -784,7 +771,7 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 59,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -797,7 +784,7 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 60,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -810,7 +797,7 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 61,
     "chapter": "Chapter 10",
     "caesar": "Julius Caesar",
     "entity": "gladiators",
@@ -823,7 +810,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 62,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -836,7 +823,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 63,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -849,7 +836,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 64,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Marius",
@@ -862,7 +849,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 65,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -875,7 +862,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 66,
     "chapter": "Chapter 11",
     "caesar": "Julius Caesar",
     "entity": "treasury",
@@ -888,7 +875,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 67,
     "chapter": "Chapter 13",
     "caesar": "Julius Caesar",
     "entity": "pontifex",
@@ -902,7 +889,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 68,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -915,7 +902,7 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 69,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -928,7 +915,7 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 70,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -942,7 +929,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 71,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -955,7 +942,7 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 72,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -968,7 +955,7 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 73,
     "chapter": "Chapter 14",
     "caesar": "Julius Caesar",
     "entity": "Roman knights",
@@ -981,7 +968,7 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 74,
     "chapter": "Chapter 15",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -994,7 +981,7 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 75,
     "chapter": "Chapter 15",
     "caesar": "Julius Caesar",
     "entity": "Catulus",
@@ -1007,7 +994,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 76,
     "chapter": "Chapter 15",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -1020,7 +1007,7 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 77,
     "chapter": "Chapter 15",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -1033,7 +1020,7 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 78,
     "chapter": "Chapter 16",
     "caesar": "Julius Caesar",
     "entity": "Metellus",
@@ -1046,7 +1033,7 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 79,
     "chapter": "Chapter 16",
     "caesar": "Julius Caesar",
     "entity": "lictors",
@@ -1059,7 +1046,7 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 80,
     "chapter": "Chapter 17",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -1072,7 +1059,7 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 81,
     "chapter": "Chapter 17",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1085,7 +1072,7 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 82,
     "chapter": "Chapter 17",
     "caesar": "Julius Caesar",
     "entity": "rostra",
@@ -1098,7 +1085,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 83,
     "chapter": "Chapter 17",
     "caesar": "Julius Caesar",
     "entity": "tribunal",
@@ -1111,7 +1098,7 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 84,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -1125,7 +1112,7 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 85,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -1138,7 +1125,7 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 86,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -1151,7 +1138,7 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 87,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -1164,7 +1151,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 88,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "triumph",
@@ -1178,7 +1165,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 89,
     "chapter": "Chapter 18",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1192,7 +1179,7 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 90,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Marcus Bibulus",
@@ -1205,7 +1192,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 91,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -1220,7 +1207,7 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 92,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "magistrate",
@@ -1233,7 +1220,7 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 93,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -1246,7 +1233,7 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 94,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1260,7 +1247,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 95,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -1273,7 +1260,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 96,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -1286,7 +1273,7 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 97,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Mithridates",
@@ -1299,7 +1286,7 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 98,
     "chapter": "Chapter 19",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -1312,7 +1299,7 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 99,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1326,7 +1313,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 100,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "fasces",
@@ -1339,7 +1326,7 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 101,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "lictors",
@@ -1352,7 +1339,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 102,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -1367,7 +1354,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 103,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -1380,7 +1367,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 104,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -1393,7 +1380,7 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 105,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -1406,7 +1393,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 106,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -1420,7 +1407,7 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 107,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "patricians",
@@ -1433,7 +1420,7 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 108,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "plebeians",
@@ -1446,7 +1433,7 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 109,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1459,7 +1446,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 110,
     "chapter": "Chapter 20",
     "caesar": "Julius Caesar",
     "entity": "rostra",
@@ -1472,7 +1459,7 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 111,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1486,7 +1473,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 112,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -1499,7 +1486,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 113,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1512,7 +1499,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 114,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -1525,7 +1512,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 115,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Kalends",
@@ -1538,7 +1525,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 116,
     "chapter": "Chapter 21",
     "caesar": "Julius Caesar",
     "entity": "Kalends of January",
@@ -1551,7 +1538,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 117,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -1564,7 +1551,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 118,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "triumphs",
@@ -1577,7 +1564,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 119,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1590,7 +1577,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 120,
     "chapter": "Chapter 22",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -1603,7 +1590,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 121,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1616,7 +1603,7 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 122,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "praetors",
@@ -1629,7 +1616,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 123,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -1642,7 +1629,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 124,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -1655,7 +1642,7 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 125,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -1668,7 +1655,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 126,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "quaestor",
@@ -1681,7 +1668,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 127,
     "chapter": "Chapter 23",
     "caesar": "Julius Caesar",
     "entity": "magistrates",
@@ -1694,7 +1681,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 128,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -1708,7 +1695,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 129,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1723,7 +1710,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 130,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -1736,7 +1723,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 131,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -1749,7 +1736,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 132,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -1762,7 +1749,7 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 133,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "governor",
@@ -1775,7 +1762,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 134,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1789,7 +1776,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 135,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -1802,7 +1789,7 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 136,
     "chapter": "Chapter 24",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -1815,7 +1802,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 137,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -1829,7 +1816,7 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 138,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Alps",
@@ -1842,7 +1829,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 139,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Rhone",
@@ -1855,7 +1842,7 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 140,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -1868,7 +1855,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 141,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -1881,7 +1868,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 142,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -1894,7 +1881,7 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 143,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -1907,7 +1894,7 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 144,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Gergovia",
@@ -1920,7 +1907,7 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 145,
     "chapter": "Chapter 25",
     "caesar": "Julius Caesar",
     "entity": "Germany",
@@ -1933,7 +1920,7 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 146,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -1946,7 +1933,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 147,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -1959,7 +1946,7 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 148,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -1973,7 +1960,7 @@
     "status": "approved"
   },
   {
-    "id": 150,
+    "id": 149,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -1986,7 +1973,7 @@
     "status": "approved"
   },
   {
-    "id": 151,
+    "id": 150,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -1999,7 +1986,7 @@
     "status": "approved"
   },
   {
-    "id": 152,
+    "id": 151,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "governor",
@@ -2012,7 +1999,7 @@
     "status": "approved"
   },
   {
-    "id": 153,
+    "id": 152,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -2025,7 +2012,7 @@
     "status": "approved"
   },
   {
-    "id": 154,
+    "id": 153,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -2038,7 +2025,7 @@
     "status": "approved"
   },
   {
-    "id": 155,
+    "id": 154,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "gladiators",
@@ -2052,7 +2039,7 @@
     "status": "approved"
   },
   {
-    "id": 156,
+    "id": 155,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "Roman knights",
@@ -2065,7 +2052,7 @@
     "status": "approved"
   },
   {
-    "id": 157,
+    "id": 156,
     "chapter": "Chapter 26",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -2078,7 +2065,7 @@
     "status": "approved"
   },
   {
-    "id": 158,
+    "id": 157,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2093,7 +2080,7 @@
     "status": "approved"
   },
   {
-    "id": 159,
+    "id": 158,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -2106,7 +2093,7 @@
     "status": "approved"
   },
   {
-    "id": 160,
+    "id": 159,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -2119,7 +2106,7 @@
     "status": "approved"
   },
   {
-    "id": 161,
+    "id": 160,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "freedmen",
@@ -2132,7 +2119,7 @@
     "status": "approved"
   },
   {
-    "id": 162,
+    "id": 161,
     "chapter": "Chapter 27",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -2145,7 +2132,7 @@
     "status": "approved"
   },
   {
-    "id": 163,
+    "id": 162,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -2160,7 +2147,7 @@
     "status": "approved"
   },
   {
-    "id": 164,
+    "id": 163,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "auxiliary",
@@ -2173,7 +2160,7 @@
     "status": "approved"
   },
   {
-    "id": 165,
+    "id": 164,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Greece",
@@ -2186,7 +2173,7 @@
     "status": "approved"
   },
   {
-    "id": 166,
+    "id": 165,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2199,7 +2186,7 @@
     "status": "approved"
   },
   {
-    "id": 167,
+    "id": 166,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2212,7 +2199,7 @@
     "status": "approved"
   },
   {
-    "id": 168,
+    "id": 167,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -2225,7 +2212,7 @@
     "status": "approved"
   },
   {
-    "id": 169,
+    "id": 168,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Claudius",
@@ -2238,7 +2225,7 @@
     "status": "approved"
   },
   {
-    "id": 170,
+    "id": 169,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -2252,7 +2239,7 @@
     "status": "approved"
   },
   {
-    "id": 171,
+    "id": 170,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -2265,7 +2252,7 @@
     "status": "approved"
   },
   {
-    "id": 172,
+    "id": 171,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2279,20 +2266,7 @@
     "status": "approved"
   },
   {
-    "id": 173,
-    "chapter": "Chapter 28",
-    "caesar": "Julius Caesar",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "...in Caesar's case, and did not correct the oversight until the law had been inscribed on a tablet of bronze and deposited in the treasury. Not content with depriving Caesar of his provinces and his pri..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 174,
+    "id": 172,
     "chapter": "Chapter 28",
     "caesar": "Julius Caesar",
     "entity": "treasury",
@@ -2305,7 +2279,7 @@
     "status": "approved"
   },
   {
-    "id": 175,
+    "id": 173,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Marcellus",
@@ -2319,7 +2293,7 @@
     "status": "approved"
   },
   {
-    "id": 176,
+    "id": 174,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -2334,7 +2308,7 @@
     "status": "approved"
   },
   {
-    "id": 177,
+    "id": 175,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -2347,7 +2321,7 @@
     "status": "approved"
   },
   {
-    "id": 178,
+    "id": 176,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -2360,7 +2334,7 @@
     "status": "approved"
   },
   {
-    "id": 179,
+    "id": 177,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -2373,7 +2347,7 @@
     "status": "approved"
   },
   {
-    "id": 180,
+    "id": 178,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2386,7 +2360,7 @@
     "status": "approved"
   },
   {
-    "id": 181,
+    "id": 179,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -2400,7 +2374,7 @@
     "status": "approved"
   },
   {
-    "id": 182,
+    "id": 180,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2414,7 +2388,7 @@
     "status": "approved"
   },
   {
-    "id": 183,
+    "id": 181,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "legion",
@@ -2427,7 +2401,7 @@
     "status": "approved"
   },
   {
-    "id": 184,
+    "id": 182,
     "chapter": "Chapter 29",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -2440,7 +2414,7 @@
     "status": "approved"
   },
   {
-    "id": 185,
+    "id": 183,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -2453,7 +2427,7 @@
     "status": "approved"
   },
   {
-    "id": 186,
+    "id": 184,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Ravenna",
@@ -2466,7 +2440,7 @@
     "status": "approved"
   },
   {
-    "id": 187,
+    "id": 185,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -2479,7 +2453,7 @@
     "status": "approved"
   },
   {
-    "id": 188,
+    "id": 186,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -2492,7 +2466,7 @@
     "status": "approved"
   },
   {
-    "id": 189,
+    "id": 187,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -2505,7 +2479,7 @@
     "status": "approved"
   },
   {
-    "id": 190,
+    "id": 188,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -2519,7 +2493,7 @@
     "status": "approved"
   },
   {
-    "id": 191,
+    "id": 189,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -2532,7 +2506,7 @@
     "status": "approved"
   },
   {
-    "id": 192,
+    "id": 190,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -2545,7 +2519,7 @@
     "status": "approved"
   },
   {
-    "id": 193,
+    "id": 191,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -2558,7 +2532,7 @@
     "status": "approved"
   },
   {
-    "id": 194,
+    "id": 192,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -2571,7 +2545,7 @@
     "status": "approved"
   },
   {
-    "id": 195,
+    "id": 193,
     "chapter": "Chapter 30",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -2585,7 +2559,7 @@
     "status": "approved"
   },
   {
-    "id": 196,
+    "id": 194,
     "chapter": "Chapter 31",
     "caesar": "Julius Caesar",
     "entity": "cohorts",
@@ -2599,7 +2573,7 @@
     "status": "approved"
   },
   {
-    "id": 197,
+    "id": 195,
     "chapter": "Chapter 31",
     "caesar": "Julius Caesar",
     "entity": "Rubicon",
@@ -2612,7 +2586,7 @@
     "status": "approved"
   },
   {
-    "id": 198,
+    "id": 196,
     "chapter": "Chapter 31",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -2625,7 +2599,7 @@
     "status": "approved"
   },
   {
-    "id": 199,
+    "id": 197,
     "chapter": "Chapter 32",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -2638,7 +2612,7 @@
     "status": "approved"
   },
   {
-    "id": 200,
+    "id": 198,
     "chapter": "Chapter 33",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -2651,7 +2625,7 @@
     "status": "approved"
   },
   {
-    "id": 201,
+    "id": 199,
     "chapter": "Chapter 33",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2664,7 +2638,7 @@
     "status": "approved"
   },
   {
-    "id": 202,
+    "id": 200,
     "chapter": "Chapter 33",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -2677,7 +2651,7 @@
     "status": "approved"
   },
   {
-    "id": 203,
+    "id": 201,
     "chapter": "Chapter 33",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -2690,7 +2664,7 @@
     "status": "approved"
   },
   {
-    "id": 204,
+    "id": 202,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Etruria",
@@ -2703,7 +2677,7 @@
     "status": "approved"
   },
   {
-    "id": 205,
+    "id": 203,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -2716,7 +2690,7 @@
     "status": "approved"
   },
   {
-    "id": 206,
+    "id": 204,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2730,7 +2704,7 @@
     "status": "approved"
   },
   {
-    "id": 207,
+    "id": 205,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -2743,7 +2717,7 @@
     "status": "approved"
   },
   {
-    "id": 208,
+    "id": 206,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2756,7 +2730,7 @@
     "status": "approved"
   },
   {
-    "id": 209,
+    "id": 207,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2769,7 +2743,7 @@
     "status": "approved"
   },
   {
-    "id": 210,
+    "id": 208,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "Afranius",
@@ -2782,7 +2756,7 @@
     "status": "approved"
   },
   {
-    "id": 211,
+    "id": 209,
     "chapter": "Chapter 34",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -2796,7 +2770,7 @@
     "status": "approved"
   },
   {
-    "id": 212,
+    "id": 210,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -2809,7 +2783,7 @@
     "status": "approved"
   },
   {
-    "id": 213,
+    "id": 211,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Macedonia",
@@ -2822,7 +2796,7 @@
     "status": "approved"
   },
   {
-    "id": 214,
+    "id": 212,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -2837,7 +2811,7 @@
     "status": "approved"
   },
   {
-    "id": 215,
+    "id": 213,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -2850,7 +2824,7 @@
     "status": "approved"
   },
   {
-    "id": 216,
+    "id": 214,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -2864,7 +2838,7 @@
     "status": "approved"
   },
   {
-    "id": 217,
+    "id": 215,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Ptolemy",
@@ -2877,7 +2851,7 @@
     "status": "approved"
   },
   {
-    "id": 218,
+    "id": 216,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -2890,7 +2864,7 @@
     "status": "approved"
   },
   {
-    "id": 219,
+    "id": 217,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Cleopatra",
@@ -2903,7 +2877,7 @@
     "status": "approved"
   },
   {
-    "id": 220,
+    "id": 218,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -2916,7 +2890,7 @@
     "status": "approved"
   },
   {
-    "id": 221,
+    "id": 219,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "governor",
@@ -2929,12 +2903,12 @@
     "status": "approved"
   },
   {
-    "id": 222,
+    "id": 220,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
     "slug": "Pontus_(Roman_province)",
-    "url": "https://en.wikipedia.org/wiki/Kingdom_of_Pontus",
+    "url": "https://en.wikipedia.org/wiki/Pontus_(Roman_province)",
     "occurrenceCount": 1,
     "contexts": [
       "... governor be a source of revolution. 2 From Alexandria he crossed to Syria, and from there went to Pontus, spurred on by the news that Pharnaces, son of Mithridates the Great, had taken advantage of ..."
@@ -2942,7 +2916,7 @@
     "status": "approved"
   },
   {
-    "id": 223,
+    "id": 221,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Mithridates",
@@ -2955,7 +2929,7 @@
     "status": "approved"
   },
   {
-    "id": 224,
+    "id": 222,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -2968,7 +2942,7 @@
     "status": "approved"
   },
   {
-    "id": 225,
+    "id": 223,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -2981,7 +2955,7 @@
     "status": "approved"
   },
   {
-    "id": 226,
+    "id": 224,
     "chapter": "Chapter 35",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -2994,7 +2968,7 @@
     "status": "approved"
   },
   {
-    "id": 227,
+    "id": 225,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "civil wars",
@@ -3007,7 +2981,7 @@
     "status": "approved"
   },
   {
-    "id": 228,
+    "id": 226,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Gaius Curio",
@@ -3020,7 +2994,7 @@
     "status": "approved"
   },
   {
-    "id": 229,
+    "id": 227,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -3033,7 +3007,7 @@
     "status": "approved"
   },
   {
-    "id": 230,
+    "id": 228,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -3046,7 +3020,7 @@
     "status": "approved"
   },
   {
-    "id": 231,
+    "id": 229,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Illyricum",
@@ -3060,7 +3034,7 @@
     "status": "approved"
   },
   {
-    "id": 232,
+    "id": 230,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Domitius",
@@ -3073,7 +3047,7 @@
     "status": "approved"
   },
   {
-    "id": 233,
+    "id": 231,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -3086,7 +3060,7 @@
     "status": "approved"
   },
   {
-    "id": 234,
+    "id": 232,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
@@ -3099,7 +3073,7 @@
     "status": "approved"
   },
   {
-    "id": 235,
+    "id": 233,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -3112,7 +3086,7 @@
     "status": "approved"
   },
   {
-    "id": 236,
+    "id": 234,
     "chapter": "Chapter 36",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -3125,7 +3099,7 @@
     "status": "approved"
   },
   {
-    "id": 237,
+    "id": 235,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "triumphs",
@@ -3138,7 +3112,7 @@
     "status": "approved"
   },
   {
-    "id": 238,
+    "id": 236,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -3151,7 +3125,7 @@
     "status": "approved"
   },
   {
-    "id": 239,
+    "id": 237,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -3164,7 +3138,7 @@
     "status": "approved"
   },
   {
-    "id": 240,
+    "id": 238,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "triumph",
@@ -3179,7 +3153,7 @@
     "status": "approved"
   },
   {
-    "id": 241,
+    "id": 239,
     "chapter": "Chapter 37",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -3192,7 +3166,7 @@
     "status": "approved"
   },
   {
-    "id": 242,
+    "id": 240,
     "chapter": "Chapter 38",
     "caesar": "Julius Caesar",
     "entity": "soldier",
@@ -3205,7 +3179,7 @@
     "status": "approved"
   },
   {
-    "id": 243,
+    "id": 241,
     "chapter": "Chapter 38",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -3218,7 +3192,7 @@
     "status": "approved"
   },
   {
-    "id": 244,
+    "id": 242,
     "chapter": "Chapter 38",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -3233,7 +3207,7 @@
     "status": "approved"
   },
   {
-    "id": 245,
+    "id": 243,
     "chapter": "Chapter 38",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -3246,7 +3220,7 @@
     "status": "approved"
   },
   {
-    "id": 246,
+    "id": 244,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "gladiators",
@@ -3259,7 +3233,7 @@
     "status": "approved"
   },
   {
-    "id": 247,
+    "id": 245,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Bithynia",
@@ -3272,7 +3246,7 @@
     "status": "approved"
   },
   {
-    "id": 248,
+    "id": 246,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -3285,7 +3259,7 @@
     "status": "approved"
   },
   {
-    "id": 249,
+    "id": 247,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Roman knight",
@@ -3298,7 +3272,7 @@
     "status": "approved"
   },
   {
-    "id": 250,
+    "id": 248,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -3311,7 +3285,7 @@
     "status": "approved"
   },
   {
-    "id": 251,
+    "id": 249,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -3324,7 +3298,7 @@
     "status": "approved"
   },
   {
-    "id": 252,
+    "id": 250,
     "chapter": "Chapter 39",
     "caesar": "Julius Caesar",
     "entity": "Campus Martius",
@@ -3337,7 +3311,7 @@
     "status": "approved"
   },
   {
-    "id": 253,
+    "id": 251,
     "chapter": "Chapter 40",
     "caesar": "Julius Caesar",
     "entity": "pontiffs",
@@ -3350,7 +3324,7 @@
     "status": "approved"
   },
   {
-    "id": 254,
+    "id": 252,
     "chapter": "Chapter 40",
     "caesar": "Julius Caesar",
     "entity": "intercalary month",
@@ -3364,7 +3338,7 @@
     "status": "approved"
   },
   {
-    "id": 255,
+    "id": 253,
     "chapter": "Chapter 40",
     "caesar": "Julius Caesar",
     "entity": "Kalends",
@@ -3377,7 +3351,7 @@
     "status": "approved"
   },
   {
-    "id": 256,
+    "id": 254,
     "chapter": "Chapter 40",
     "caesar": "Julius Caesar",
     "entity": "Kalends of January",
@@ -3390,7 +3364,7 @@
     "status": "approved"
   },
   {
-    "id": 257,
+    "id": 255,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "patricians",
@@ -3403,7 +3377,7 @@
     "status": "approved"
   },
   {
-    "id": 258,
+    "id": 256,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "praetors",
@@ -3417,7 +3391,7 @@
     "status": "approved"
   },
   {
-    "id": 259,
+    "id": 257,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "aediles",
@@ -3430,7 +3404,7 @@
     "status": "approved"
   },
   {
-    "id": 260,
+    "id": 258,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "quaestors",
@@ -3443,7 +3417,7 @@
     "status": "approved"
   },
   {
-    "id": 261,
+    "id": 259,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "censors",
@@ -3456,7 +3430,7 @@
     "status": "approved"
   },
   {
-    "id": 262,
+    "id": 260,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -3469,7 +3443,7 @@
     "status": "approved"
   },
   {
-    "id": 263,
+    "id": 261,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "magistrates",
@@ -3482,7 +3456,7 @@
     "status": "approved"
   },
   {
-    "id": 264,
+    "id": 262,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "senatorial",
@@ -3495,7 +3469,7 @@
     "status": "approved"
   },
   {
-    "id": 265,
+    "id": 263,
     "chapter": "Chapter 41",
     "caesar": "Julius Caesar",
     "entity": "treasury",
@@ -3508,7 +3482,7 @@
     "status": "approved"
   },
   {
-    "id": 266,
+    "id": 264,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -3521,7 +3495,7 @@
     "status": "approved"
   },
   {
-    "id": 267,
+    "id": 265,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "magistrate",
@@ -3534,7 +3508,7 @@
     "status": "approved"
   },
   {
-    "id": 268,
+    "id": 266,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -3547,7 +3521,7 @@
     "status": "approved"
   },
   {
-    "id": 269,
+    "id": 267,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -3560,7 +3534,7 @@
     "status": "approved"
   },
   {
-    "id": 270,
+    "id": 268,
     "chapter": "Chapter 42",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -3573,7 +3547,7 @@
     "status": "approved"
   },
   {
-    "id": 271,
+    "id": 269,
     "chapter": "Chapter 43",
     "caesar": "Julius Caesar",
     "entity": "senatorial order",
@@ -3586,7 +3560,7 @@
     "status": "approved"
   },
   {
-    "id": 272,
+    "id": 270,
     "chapter": "Chapter 43",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -3599,7 +3573,7 @@
     "status": "approved"
   },
   {
-    "id": 273,
+    "id": 271,
     "chapter": "Chapter 43",
     "caesar": "Julius Caesar",
     "entity": "lictors",
@@ -3612,7 +3586,7 @@
     "status": "approved"
   },
   {
-    "id": 274,
+    "id": 272,
     "chapter": "Chapter 43",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -3625,7 +3599,7 @@
     "status": "approved"
   },
   {
-    "id": 275,
+    "id": 273,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "temple of Mars",
@@ -3638,7 +3612,7 @@
     "status": "approved"
   },
   {
-    "id": 276,
+    "id": 274,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Mars",
@@ -3651,7 +3625,7 @@
     "status": "approved"
   },
   {
-    "id": 277,
+    "id": 275,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -3664,7 +3638,7 @@
     "status": "approved"
   },
   {
-    "id": 278,
+    "id": 276,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Pontus",
@@ -3677,7 +3651,7 @@
     "status": "approved"
   },
   {
-    "id": 279,
+    "id": 277,
     "chapter": "Chapter 44",
     "caesar": "Julius Caesar",
     "entity": "Armenia",
@@ -3690,7 +3664,7 @@
     "status": "approved"
   },
   {
-    "id": 280,
+    "id": 278,
     "chapter": "Chapter 45",
     "caesar": "Julius Caesar",
     "entity": "laurel",
@@ -3703,7 +3677,7 @@
     "status": "approved"
   },
   {
-    "id": 281,
+    "id": 279,
     "chapter": "Chapter 45",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -3716,7 +3690,7 @@
     "status": "approved"
   },
   {
-    "id": 282,
+    "id": 280,
     "chapter": "Chapter 46",
     "caesar": "Julius Caesar",
     "entity": "pontifex",
@@ -3729,7 +3703,7 @@
     "status": "approved"
   },
   {
-    "id": 283,
+    "id": 281,
     "chapter": "Chapter 47",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -3742,7 +3716,7 @@
     "status": "approved"
   },
   {
-    "id": 284,
+    "id": 282,
     "chapter": "Chapter 48",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -3755,7 +3729,7 @@
     "status": "approved"
   },
   {
-    "id": 285,
+    "id": 283,
     "chapter": "Chapter 48",
     "caesar": "Julius Caesar",
     "entity": "Roman knight",
@@ -3768,7 +3742,7 @@
     "status": "approved"
   },
   {
-    "id": 286,
+    "id": 284,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Bithynia",
@@ -3783,7 +3757,7 @@
     "status": "approved"
   },
   {
-    "id": 287,
+    "id": 285,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -3797,7 +3771,7 @@
     "status": "approved"
   },
   {
-    "id": 288,
+    "id": 286,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Bibulus",
@@ -3810,7 +3784,7 @@
     "status": "approved"
   },
   {
-    "id": 289,
+    "id": 287,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -3823,7 +3797,7 @@
     "status": "approved"
   },
   {
-    "id": 290,
+    "id": 288,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -3836,7 +3810,7 @@
     "status": "approved"
   },
   {
-    "id": 291,
+    "id": 289,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -3850,7 +3824,7 @@
     "status": "approved"
   },
   {
-    "id": 292,
+    "id": 290,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -3863,7 +3837,7 @@
     "status": "approved"
   },
   {
-    "id": 293,
+    "id": 291,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -3877,7 +3851,7 @@
     "status": "approved"
   },
   {
-    "id": 294,
+    "id": 292,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "triumph",
@@ -3892,7 +3866,7 @@
     "status": "approved"
   },
   {
-    "id": 295,
+    "id": 293,
     "chapter": "Chapter 49",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -3905,7 +3879,7 @@
     "status": "approved"
   },
   {
-    "id": 296,
+    "id": 294,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Crassus",
@@ -3918,7 +3892,7 @@
     "status": "approved"
   },
   {
-    "id": 297,
+    "id": 295,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -3932,7 +3906,7 @@
     "status": "approved"
   },
   {
-    "id": 298,
+    "id": 296,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -3945,7 +3919,7 @@
     "status": "approved"
   },
   {
-    "id": 299,
+    "id": 297,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Aegisthus",
@@ -3958,7 +3932,7 @@
     "status": "approved"
   },
   {
-    "id": 300,
+    "id": 298,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -3971,7 +3945,7 @@
     "status": "approved"
   },
   {
-    "id": 301,
+    "id": 299,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -3984,7 +3958,7 @@
     "status": "approved"
   },
   {
-    "id": 302,
+    "id": 300,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -3997,7 +3971,7 @@
     "status": "approved"
   },
   {
-    "id": 303,
+    "id": 301,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -4010,7 +3984,7 @@
     "status": "approved"
   },
   {
-    "id": 304,
+    "id": 302,
     "chapter": "Chapter 50",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -4023,7 +3997,7 @@
     "status": "approved"
   },
   {
-    "id": 305,
+    "id": 303,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -4036,7 +4010,7 @@
     "status": "approved"
   },
   {
-    "id": 306,
+    "id": 304,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4049,7 +4023,7 @@
     "status": "approved"
   },
   {
-    "id": 307,
+    "id": 305,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "triumph",
@@ -4062,7 +4036,7 @@
     "status": "approved"
   },
   {
-    "id": 308,
+    "id": 306,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -4076,7 +4050,7 @@
     "status": "approved"
   },
   {
-    "id": 309,
+    "id": 307,
     "chapter": "Chapter 51",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -4089,7 +4063,7 @@
     "status": "approved"
   },
   {
-    "id": 310,
+    "id": 308,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Cleopatra",
@@ -4103,7 +4077,7 @@
     "status": "approved"
   },
   {
-    "id": 311,
+    "id": 309,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Egypt",
@@ -4116,7 +4090,7 @@
     "status": "approved"
   },
   {
-    "id": 312,
+    "id": 310,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4129,7 +4103,7 @@
     "status": "approved"
   },
   {
-    "id": 313,
+    "id": 311,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -4142,7 +4116,7 @@
     "status": "approved"
   },
   {
-    "id": 314,
+    "id": 312,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -4156,7 +4130,7 @@
     "status": "approved"
   },
   {
-    "id": 315,
+    "id": 313,
     "chapter": "Chapter 52",
     "caesar": "Julius Caesar",
     "entity": "Curio",
@@ -4169,7 +4143,7 @@
     "status": "approved"
   },
   {
-    "id": 316,
+    "id": 314,
     "chapter": "Chapter 53",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -4182,7 +4156,7 @@
     "status": "approved"
   },
   {
-    "id": 317,
+    "id": 315,
     "chapter": "Chapter 53",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -4195,7 +4169,7 @@
     "status": "approved"
   },
   {
-    "id": 318,
+    "id": 316,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "magistrate",
@@ -4208,7 +4182,7 @@
     "status": "approved"
   },
   {
-    "id": 319,
+    "id": 317,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -4221,7 +4195,7 @@
     "status": "approved"
   },
   {
-    "id": 320,
+    "id": 318,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "proconsul",
@@ -4234,7 +4208,7 @@
     "status": "approved"
   },
   {
-    "id": 321,
+    "id": 319,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -4247,7 +4221,7 @@
     "status": "approved"
   },
   {
-    "id": 322,
+    "id": 320,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -4260,7 +4234,7 @@
     "status": "approved"
   },
   {
-    "id": 323,
+    "id": 321,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "provinces",
@@ -4273,7 +4247,7 @@
     "status": "approved"
   },
   {
-    "id": 324,
+    "id": 322,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -4286,7 +4260,7 @@
     "status": "approved"
   },
   {
-    "id": 325,
+    "id": 323,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -4299,7 +4273,7 @@
     "status": "approved"
   },
   {
-    "id": 326,
+    "id": 324,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -4312,20 +4286,7 @@
     "status": "approved"
   },
   {
-    "id": 327,
-    "chapter": "Chapter 54",
-    "caesar": "Julius Caesar",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "... stole three thousand pounds of gold from the Capitol, repla­cing it with the same weight of gilded bronze. He made alliances and thrones a matter of barter, for he extorted from Ptolemy alone in his ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 328,
+    "id": 325,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Ptolemy",
@@ -4338,7 +4299,7 @@
     "status": "approved"
   },
   {
-    "id": 329,
+    "id": 326,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -4351,7 +4312,7 @@
     "status": "approved"
   },
   {
-    "id": 330,
+    "id": 327,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "talents",
@@ -4364,7 +4325,7 @@
     "status": "approved"
   },
   {
-    "id": 331,
+    "id": 328,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "civil wars",
@@ -4377,7 +4338,7 @@
     "status": "approved"
   },
   {
-    "id": 332,
+    "id": 329,
     "chapter": "Chapter 54",
     "caesar": "Julius Caesar",
     "entity": "triumphs",
@@ -4390,7 +4351,7 @@
     "status": "approved"
   },
   {
-    "id": 333,
+    "id": 330,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -4403,7 +4364,7 @@
     "status": "approved"
   },
   {
-    "id": 334,
+    "id": 331,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -4416,7 +4377,7 @@
     "status": "approved"
   },
   {
-    "id": 335,
+    "id": 332,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -4430,7 +4391,7 @@
     "status": "approved"
   },
   {
-    "id": 336,
+    "id": 333,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Metellus",
@@ -4445,7 +4406,7 @@
     "status": "approved"
   },
   {
-    "id": 337,
+    "id": 334,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -4458,7 +4419,7 @@
     "status": "approved"
   },
   {
-    "id": 338,
+    "id": 335,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -4471,7 +4432,7 @@
     "status": "approved"
   },
   {
-    "id": 339,
+    "id": 336,
     "chapter": "Chapter 55",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -4484,7 +4445,7 @@
     "status": "approved"
   },
   {
-    "id": 340,
+    "id": 337,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -4497,7 +4458,7 @@
     "status": "approved"
   },
   {
-    "id": 341,
+    "id": 338,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -4510,7 +4471,7 @@
     "status": "approved"
   },
   {
-    "id": 342,
+    "id": 339,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Cicero",
@@ -4524,7 +4485,7 @@
     "status": "approved"
   },
   {
-    "id": 343,
+    "id": 340,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -4537,7 +4498,7 @@
     "status": "approved"
   },
   {
-    "id": 344,
+    "id": 341,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Asinius",
@@ -4550,7 +4511,7 @@
     "status": "approved"
   },
   {
-    "id": 345,
+    "id": 342,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Pollio",
@@ -4563,7 +4524,7 @@
     "status": "approved"
   },
   {
-    "id": 346,
+    "id": 343,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Cato",
@@ -4576,7 +4537,7 @@
     "status": "approved"
   },
   {
-    "id": 347,
+    "id": 344,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Alps",
@@ -4589,7 +4550,7 @@
     "status": "approved"
   },
   {
-    "id": 348,
+    "id": 345,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -4602,7 +4563,7 @@
     "status": "approved"
   },
   {
-    "id": 349,
+    "id": 346,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -4615,7 +4576,7 @@
     "status": "approved"
   },
   {
-    "id": 350,
+    "id": 347,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "battle of Munda",
@@ -4628,7 +4589,7 @@
     "status": "approved"
   },
   {
-    "id": 351,
+    "id": 348,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Munda",
@@ -4641,7 +4602,7 @@
     "status": "approved"
   },
   {
-    "id": 352,
+    "id": 349,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -4654,7 +4615,7 @@
     "status": "approved"
   },
   {
-    "id": 353,
+    "id": 350,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -4667,7 +4628,7 @@
     "status": "approved"
   },
   {
-    "id": 354,
+    "id": 351,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -4680,7 +4641,7 @@
     "status": "approved"
   },
   {
-    "id": 355,
+    "id": 352,
     "chapter": "Chapter 56",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -4693,7 +4654,7 @@
     "status": "approved"
   },
   {
-    "id": 356,
+    "id": 353,
     "chapter": "Chapter 57",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -4706,7 +4667,7 @@
     "status": "approved"
   },
   {
-    "id": 357,
+    "id": 354,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -4719,7 +4680,7 @@
     "status": "approved"
   },
   {
-    "id": 358,
+    "id": 355,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Britain",
@@ -4732,7 +4693,7 @@
     "status": "approved"
   },
   {
-    "id": 359,
+    "id": 356,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Germany",
@@ -4745,7 +4706,7 @@
     "status": "approved"
   },
   {
-    "id": 360,
+    "id": 357,
     "chapter": "Chapter 58",
     "caesar": "Julius Caesar",
     "entity": "Gaul",
@@ -4758,7 +4719,7 @@
     "status": "approved"
   },
   {
-    "id": 361,
+    "id": 358,
     "chapter": "Chapter 59",
     "caesar": "Julius Caesar",
     "entity": "Scipio",
@@ -4771,7 +4732,7 @@
     "status": "approved"
   },
   {
-    "id": 362,
+    "id": 359,
     "chapter": "Chapter 59",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -4784,7 +4745,7 @@
     "status": "approved"
   },
   {
-    "id": 363,
+    "id": 360,
     "chapter": "Chapter 59",
     "caesar": "Julius Caesar",
     "entity": "province",
@@ -4797,7 +4758,7 @@
     "status": "approved"
   },
   {
-    "id": 364,
+    "id": 361,
     "chapter": "Chapter 61",
     "caesar": "Julius Caesar",
     "entity": "temple of Venus",
@@ -4810,7 +4771,7 @@
     "status": "approved"
   },
   {
-    "id": 365,
+    "id": 362,
     "chapter": "Chapter 61",
     "caesar": "Julius Caesar",
     "entity": "Venus Genetrix",
@@ -4823,7 +4784,7 @@
     "status": "approved"
   },
   {
-    "id": 366,
+    "id": 363,
     "chapter": "Chapter 62",
     "caesar": "Julius Caesar",
     "entity": "army",
@@ -4836,7 +4797,7 @@
     "status": "approved"
   },
   {
-    "id": 367,
+    "id": 364,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -4849,7 +4810,7 @@
     "status": "approved"
   },
   {
-    "id": 368,
+    "id": 365,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -4862,7 +4823,7 @@
     "status": "approved"
   },
   {
-    "id": 369,
+    "id": 366,
     "chapter": "Chapter 63",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -4877,7 +4838,7 @@
     "status": "approved"
   },
   {
-    "id": 370,
+    "id": 367,
     "chapter": "Chapter 64",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -4890,7 +4851,7 @@
     "status": "approved"
   },
   {
-    "id": 371,
+    "id": 368,
     "chapter": "Chapter 65",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4903,7 +4864,7 @@
     "status": "approved"
   },
   {
-    "id": 372,
+    "id": 369,
     "chapter": "Chapter 66",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4916,7 +4877,7 @@
     "status": "approved"
   },
   {
-    "id": 373,
+    "id": 370,
     "chapter": "Chapter 66",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -4929,7 +4890,7 @@
     "status": "approved"
   },
   {
-    "id": 374,
+    "id": 371,
     "chapter": "Chapter 67",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4943,7 +4904,7 @@
     "status": "approved"
   },
   {
-    "id": 375,
+    "id": 372,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -4956,7 +4917,7 @@
     "status": "approved"
   },
   {
-    "id": 376,
+    "id": 373,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "centurion",
@@ -4970,7 +4931,7 @@
     "status": "approved"
   },
   {
-    "id": 377,
+    "id": 374,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "legion",
@@ -4984,7 +4945,7 @@
     "status": "approved"
   },
   {
-    "id": 378,
+    "id": 375,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -4998,7 +4959,7 @@
     "status": "approved"
   },
   {
-    "id": 379,
+    "id": 376,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -5012,7 +4973,7 @@
     "status": "approved"
   },
   {
-    "id": 380,
+    "id": 377,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "cohort",
@@ -5025,7 +4986,7 @@
     "status": "approved"
   },
   {
-    "id": 381,
+    "id": 378,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -5038,7 +4999,7 @@
     "status": "approved"
   },
   {
-    "id": 382,
+    "id": 379,
     "chapter": "Chapter 68",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -5051,7 +5012,7 @@
     "status": "approved"
   },
   {
-    "id": 383,
+    "id": 380,
     "chapter": "Chapter 69",
     "caesar": "Julius Caesar",
     "entity": "civil wars",
@@ -5064,7 +5025,7 @@
     "status": "approved"
   },
   {
-    "id": 384,
+    "id": 381,
     "chapter": "Chapter 69",
     "caesar": "Julius Caesar",
     "entity": "legion",
@@ -5077,7 +5038,7 @@
     "status": "approved"
   },
   {
-    "id": 385,
+    "id": 382,
     "chapter": "Chapter 69",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -5090,7 +5051,7 @@
     "status": "approved"
   },
   {
-    "id": 386,
+    "id": 383,
     "chapter": "Chapter 70",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -5103,7 +5064,7 @@
     "status": "approved"
   },
   {
-    "id": 387,
+    "id": 384,
     "chapter": "Chapter 70",
     "caesar": "Julius Caesar",
     "entity": "Africa",
@@ -5117,7 +5078,7 @@
     "status": "approved"
   },
   {
-    "id": 388,
+    "id": 385,
     "chapter": "Chapter 70",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -5131,7 +5092,7 @@
     "status": "approved"
   },
   {
-    "id": 389,
+    "id": 386,
     "chapter": "Chapter 71",
     "caesar": "Julius Caesar",
     "entity": "Spain",
@@ -5144,7 +5105,7 @@
     "status": "approved"
   },
   {
-    "id": 390,
+    "id": 387,
     "chapter": "Chapter 71",
     "caesar": "Julius Caesar",
     "entity": "praetor",
@@ -5157,7 +5118,7 @@
     "status": "approved"
   },
   {
-    "id": 391,
+    "id": 388,
     "chapter": "Chapter 71",
     "caesar": "Julius Caesar",
     "entity": "lictors",
@@ -5170,7 +5131,7 @@
     "status": "approved"
   },
   {
-    "id": 392,
+    "id": 389,
     "chapter": "Chapter 71",
     "caesar": "Julius Caesar",
     "entity": "fasces",
@@ -5183,7 +5144,7 @@
     "status": "approved"
   },
   {
-    "id": 393,
+    "id": 390,
     "chapter": "Chapter 72",
     "caesar": "Julius Caesar",
     "entity": "Oppius",
@@ -5196,7 +5157,7 @@
     "status": "approved"
   },
   {
-    "id": 394,
+    "id": 391,
     "chapter": "Chapter 73",
     "caesar": "Julius Caesar",
     "entity": "Memmius",
@@ -5210,7 +5171,7 @@
     "status": "approved"
   },
   {
-    "id": 395,
+    "id": 392,
     "chapter": "Chapter 73",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -5223,7 +5184,7 @@
     "status": "approved"
   },
   {
-    "id": 396,
+    "id": 393,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -5236,7 +5197,7 @@
     "status": "approved"
   },
   {
-    "id": 397,
+    "id": 394,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Publius Clodius",
@@ -5249,7 +5210,7 @@
     "status": "approved"
   },
   {
-    "id": 398,
+    "id": 395,
     "chapter": "Chapter 74",
     "caesar": "Julius Caesar",
     "entity": "Clodius",
@@ -5262,7 +5223,7 @@
     "status": "approved"
   },
   {
-    "id": 399,
+    "id": 396,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -5275,7 +5236,7 @@
     "status": "approved"
   },
   {
-    "id": 400,
+    "id": 397,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -5290,7 +5251,7 @@
     "status": "approved"
   },
   {
-    "id": 401,
+    "id": 398,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "centurions",
@@ -5303,7 +5264,7 @@
     "status": "approved"
   },
   {
-    "id": 402,
+    "id": 399,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Afranius",
@@ -5317,7 +5278,7 @@
     "status": "approved"
   },
   {
-    "id": 403,
+    "id": 400,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -5330,7 +5291,7 @@
     "status": "approved"
   },
   {
-    "id": 404,
+    "id": 401,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "battle of Pharsalus",
@@ -5343,7 +5304,7 @@
     "status": "approved"
   },
   {
-    "id": 405,
+    "id": 402,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Pharsalus",
@@ -5356,7 +5317,7 @@
     "status": "approved"
   },
   {
-    "id": 406,
+    "id": 403,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "dictator",
@@ -5369,7 +5330,7 @@
     "status": "approved"
   },
   {
-    "id": 407,
+    "id": 404,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "freedmen",
@@ -5382,7 +5343,7 @@
     "status": "approved"
   },
   {
-    "id": 408,
+    "id": 405,
     "chapter": "Chapter 75",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -5395,7 +5356,7 @@
     "status": "approved"
   },
   {
-    "id": 409,
+    "id": 406,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -5410,7 +5371,7 @@
     "status": "approved"
   },
   {
-    "id": 410,
+    "id": 407,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "dictator",
@@ -5424,7 +5385,7 @@
     "status": "approved"
   },
   {
-    "id": 411,
+    "id": 408,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "censor",
@@ -5437,7 +5398,7 @@
     "status": "approved"
   },
   {
-    "id": 412,
+    "id": 409,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -5451,7 +5412,7 @@
     "status": "approved"
   },
   {
-    "id": 413,
+    "id": 410,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "plebeian",
@@ -5464,7 +5425,7 @@
     "status": "approved"
   },
   {
-    "id": 414,
+    "id": 411,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "aediles",
@@ -5477,7 +5438,7 @@
     "status": "approved"
   },
   {
-    "id": 415,
+    "id": 412,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "praefects",
@@ -5490,7 +5451,7 @@
     "status": "approved"
   },
   {
-    "id": 416,
+    "id": 413,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "praetors",
@@ -5504,7 +5465,7 @@
     "status": "approved"
   },
   {
-    "id": 417,
+    "id": 414,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "Kalends",
@@ -5517,7 +5478,7 @@
     "status": "approved"
   },
   {
-    "id": 418,
+    "id": 415,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "Kalends of January",
@@ -5530,7 +5491,7 @@
     "status": "approved"
   },
   {
-    "id": 419,
+    "id": 416,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "magistrates",
@@ -5543,7 +5504,7 @@
     "status": "approved"
   },
   {
-    "id": 420,
+    "id": 417,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -5556,7 +5517,7 @@
     "status": "approved"
   },
   {
-    "id": 421,
+    "id": 418,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -5569,7 +5530,7 @@
     "status": "approved"
   },
   {
-    "id": 422,
+    "id": 419,
     "chapter": "Chapter 76",
     "caesar": "Julius Caesar",
     "entity": "freedmen",
@@ -5582,7 +5543,7 @@
     "status": "approved"
   },
   {
-    "id": 423,
+    "id": 420,
     "chapter": "Chapter 77",
     "caesar": "Julius Caesar",
     "entity": "Titus",
@@ -5595,7 +5556,7 @@
     "status": "approved"
   },
   {
-    "id": 424,
+    "id": 421,
     "chapter": "Chapter 77",
     "caesar": "Julius Caesar",
     "entity": "Sulla",
@@ -5608,7 +5569,7 @@
     "status": "approved"
   },
   {
-    "id": 425,
+    "id": 422,
     "chapter": "Chapter 77",
     "caesar": "Julius Caesar",
     "entity": "dictator",
@@ -5621,7 +5582,7 @@
     "status": "approved"
   },
   {
-    "id": 426,
+    "id": 423,
     "chapter": "Chapter 78",
     "caesar": "Julius Caesar",
     "entity": "temple of Venus",
@@ -5634,7 +5595,7 @@
     "status": "approved"
   },
   {
-    "id": 427,
+    "id": 424,
     "chapter": "Chapter 78",
     "caesar": "Julius Caesar",
     "entity": "Venus Genetrix",
@@ -5647,7 +5608,7 @@
     "status": "approved"
   },
   {
-    "id": 428,
+    "id": 425,
     "chapter": "Chapter 78",
     "caesar": "Julius Caesar",
     "entity": "triumphal",
@@ -5660,7 +5621,7 @@
     "status": "approved"
   },
   {
-    "id": 429,
+    "id": 426,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "laurel",
@@ -5673,7 +5634,7 @@
     "status": "approved"
   },
   {
-    "id": 430,
+    "id": 427,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Lupercalia",
@@ -5686,7 +5647,7 @@
     "status": "approved"
   },
   {
-    "id": 431,
+    "id": 428,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -5699,7 +5660,7 @@
     "status": "approved"
   },
   {
-    "id": 432,
+    "id": 429,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "rostra",
@@ -5712,7 +5673,7 @@
     "status": "approved"
   },
   {
-    "id": 433,
+    "id": 430,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -5725,7 +5686,7 @@
     "status": "approved"
   },
   {
-    "id": 434,
+    "id": 431,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Jupiter",
@@ -5738,7 +5699,7 @@
     "status": "approved"
   },
   {
-    "id": 435,
+    "id": 432,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Alexandria",
@@ -5751,7 +5712,7 @@
     "status": "approved"
   },
   {
-    "id": 436,
+    "id": 433,
     "chapter": "Chapter 79",
     "caesar": "Julius Caesar",
     "entity": "Cotta",
@@ -5764,7 +5725,7 @@
     "status": "approved"
   },
   {
-    "id": 437,
+    "id": 434,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "triumph",
@@ -5777,7 +5738,7 @@
     "status": "approved"
   },
   {
-    "id": 438,
+    "id": 435,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -5792,7 +5753,7 @@
     "status": "approved"
   },
   {
-    "id": 439,
+    "id": 436,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "consuls",
@@ -5806,7 +5767,7 @@
     "status": "approved"
   },
   {
-    "id": 440,
+    "id": 437,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -5821,7 +5782,7 @@
     "status": "approved"
   },
   {
-    "id": 441,
+    "id": 438,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Rome",
@@ -5834,7 +5795,7 @@
     "status": "approved"
   },
   {
-    "id": 442,
+    "id": 439,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -5847,7 +5808,7 @@
     "status": "approved"
   },
   {
-    "id": 443,
+    "id": 440,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -5860,7 +5821,7 @@
     "status": "approved"
   },
   {
-    "id": 444,
+    "id": 441,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Campus Martius",
@@ -5873,7 +5834,7 @@
     "status": "approved"
   },
   {
-    "id": 445,
+    "id": 442,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Ides",
@@ -5886,7 +5847,7 @@
     "status": "approved"
   },
   {
-    "id": 446,
+    "id": 443,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Ides of March",
@@ -5899,7 +5860,7 @@
     "status": "approved"
   },
   {
-    "id": 447,
+    "id": 444,
     "chapter": "Chapter 80",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -5912,7 +5873,7 @@
     "status": "approved"
   },
   {
-    "id": 448,
+    "id": 445,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Capua",
@@ -5926,20 +5887,7 @@
     "status": "approved"
   },
   {
-    "id": 449,
-    "chapter": "Chapter 81",
-    "caesar": "Julius Caesar",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "... ­ship, there was discovered in a tomb, which was said to be that of Capys, the founder of Capua, a bronze tablet, inscribed with Greek words and characters to this purport: \"Whenever the bones of Cap..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 450,
+    "id": 446,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Rubicon",
@@ -5952,7 +5900,7 @@
     "status": "approved"
   },
   {
-    "id": 451,
+    "id": 447,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Ides",
@@ -5967,7 +5915,7 @@
     "status": "approved"
   },
   {
-    "id": 452,
+    "id": 448,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Ides of March",
@@ -5981,7 +5929,7 @@
     "status": "approved"
   },
   {
-    "id": 453,
+    "id": 449,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -5994,7 +5942,7 @@
     "status": "approved"
   },
   {
-    "id": 454,
+    "id": 450,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "laurel",
@@ -6007,7 +5955,7 @@
     "status": "approved"
   },
   {
-    "id": 455,
+    "id": 451,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Jupiter",
@@ -6020,7 +5968,7 @@
     "status": "approved"
   },
   {
-    "id": 456,
+    "id": 452,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -6033,7 +5981,7 @@
     "status": "approved"
   },
   {
-    "id": 457,
+    "id": 453,
     "chapter": "Chapter 81",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -6046,7 +5994,7 @@
     "status": "approved"
   },
   {
-    "id": 458,
+    "id": 454,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "toga",
@@ -6059,7 +6007,7 @@
     "status": "approved"
   },
   {
-    "id": 459,
+    "id": 455,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -6072,7 +6020,7 @@
     "status": "approved"
   },
   {
-    "id": 460,
+    "id": 456,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -6085,7 +6033,7 @@
     "status": "approved"
   },
   {
-    "id": 461,
+    "id": 457,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -6098,7 +6046,7 @@
     "status": "approved"
   },
   {
-    "id": 462,
+    "id": 458,
     "chapter": "Chapter 82",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -6111,7 +6059,7 @@
     "status": "approved"
   },
   {
-    "id": 463,
+    "id": 459,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Ides",
@@ -6124,7 +6072,7 @@
     "status": "approved"
   },
   {
-    "id": 464,
+    "id": 460,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -6137,7 +6085,7 @@
     "status": "approved"
   },
   {
-    "id": 465,
+    "id": 461,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "civil war",
@@ -6150,7 +6098,7 @@
     "status": "approved"
   },
   {
-    "id": 466,
+    "id": 462,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -6163,7 +6111,7 @@
     "status": "approved"
   },
   {
-    "id": 467,
+    "id": 463,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Decimus",
@@ -6176,7 +6124,7 @@
     "status": "approved"
   },
   {
-    "id": 468,
+    "id": 464,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -6189,7 +6137,7 @@
     "status": "approved"
   },
   {
-    "id": 469,
+    "id": 465,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "Tiber",
@@ -6202,7 +6150,7 @@
     "status": "approved"
   },
   {
-    "id": 470,
+    "id": 466,
     "chapter": "Chapter 83",
     "caesar": "Julius Caesar",
     "entity": "sesterces",
@@ -6215,7 +6163,7 @@
     "status": "approved"
   },
   {
-    "id": 471,
+    "id": 467,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "funeral",
@@ -6230,7 +6178,7 @@
     "status": "approved"
   },
   {
-    "id": 472,
+    "id": 468,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Campus Martius",
@@ -6243,7 +6191,7 @@
     "status": "approved"
   },
   {
-    "id": 473,
+    "id": 469,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "rostra",
@@ -6257,7 +6205,7 @@
     "status": "approved"
   },
   {
-    "id": 474,
+    "id": 470,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "temple of Venus",
@@ -6270,7 +6218,7 @@
     "status": "approved"
   },
   {
-    "id": 475,
+    "id": 471,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Venus Genetrix",
@@ -6283,7 +6231,7 @@
     "status": "approved"
   },
   {
-    "id": 476,
+    "id": 472,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Pacuvius",
@@ -6296,7 +6244,7 @@
     "status": "approved"
   },
   {
-    "id": 477,
+    "id": 473,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Atilius",
@@ -6309,7 +6257,7 @@
     "status": "approved"
   },
   {
-    "id": 478,
+    "id": 474,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "consul",
@@ -6322,7 +6270,7 @@
     "status": "approved"
   },
   {
-    "id": 479,
+    "id": 475,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "divine",
@@ -6335,7 +6283,7 @@
     "status": "approved"
   },
   {
-    "id": 480,
+    "id": 476,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "magistrates",
@@ -6349,7 +6297,7 @@
     "status": "approved"
   },
   {
-    "id": 481,
+    "id": 477,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "temple of Jupiter",
@@ -6362,7 +6310,7 @@
     "status": "approved"
   },
   {
-    "id": 482,
+    "id": 478,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Jupiter",
@@ -6375,7 +6323,7 @@
     "status": "approved"
   },
   {
-    "id": 483,
+    "id": 479,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Capitol",
@@ -6388,7 +6336,7 @@
     "status": "approved"
   },
   {
-    "id": 484,
+    "id": 480,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Pompey",
@@ -6401,7 +6349,7 @@
     "status": "approved"
   },
   {
-    "id": 485,
+    "id": 481,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "triumphs",
@@ -6414,7 +6362,7 @@
     "status": "approved"
   },
   {
-    "id": 486,
+    "id": 482,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "legions",
@@ -6427,7 +6375,7 @@
     "status": "approved"
   },
   {
-    "id": 487,
+    "id": 483,
     "chapter": "Chapter 84",
     "caesar": "Julius Caesar",
     "entity": "Jews",
@@ -6440,7 +6388,7 @@
     "status": "approved"
   },
   {
-    "id": 488,
+    "id": 484,
     "chapter": "Chapter 85",
     "caesar": "Julius Caesar",
     "entity": "funeral",
@@ -6453,7 +6401,7 @@
     "status": "approved"
   },
   {
-    "id": 489,
+    "id": 485,
     "chapter": "Chapter 85",
     "caesar": "Julius Caesar",
     "entity": "Brutus",
@@ -6466,7 +6414,7 @@
     "status": "approved"
   },
   {
-    "id": 490,
+    "id": 486,
     "chapter": "Chapter 85",
     "caesar": "Julius Caesar",
     "entity": "Cassius",
@@ -6479,7 +6427,7 @@
     "status": "approved"
   },
   {
-    "id": 491,
+    "id": 487,
     "chapter": "Chapter 86",
     "caesar": "Julius Caesar",
     "entity": "soldiers",
@@ -6492,7 +6440,7 @@
     "status": "approved"
   },
   {
-    "id": 492,
+    "id": 488,
     "chapter": "Chapter 87",
     "caesar": "Julius Caesar",
     "entity": "Xenophon",
@@ -6505,7 +6453,7 @@
     "status": "approved"
   },
   {
-    "id": 493,
+    "id": 489,
     "chapter": "Chapter 87",
     "caesar": "Julius Caesar",
     "entity": "funeral",
@@ -6518,7 +6466,7 @@
     "status": "approved"
   },
   {
-    "id": 494,
+    "id": 490,
     "chapter": "Chapter 87",
     "caesar": "Julius Caesar",
     "entity": "Lepidus",
@@ -6531,7 +6479,7 @@
     "status": "approved"
   },
   {
-    "id": 495,
+    "id": 491,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "Augustus",
@@ -6544,7 +6492,7 @@
     "status": "approved"
   },
   {
-    "id": 496,
+    "id": 492,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "apotheosis",
@@ -6558,7 +6506,7 @@
     "status": "approved"
   },
   {
-    "id": 497,
+    "id": 493,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "Ides",
@@ -6571,7 +6519,7 @@
     "status": "approved"
   },
   {
-    "id": 498,
+    "id": 494,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "Ides of March",
@@ -6584,7 +6532,7 @@
     "status": "approved"
   },
   {
-    "id": 499,
+    "id": 495,
     "chapter": "Chapter 88",
     "caesar": "Julius Caesar",
     "entity": "Parricide",

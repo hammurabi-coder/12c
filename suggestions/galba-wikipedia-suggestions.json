@@ -325,33 +325,6 @@
     "id": 25,
     "chapter": "Chapter 4",
     "caesar": "Galba",
-    "entity": "bronze",
-    "slug": "Roman_copper_alloy",
-    "url": "https://en.wikipedia.org/wiki/Roman_copper_alloy",
-    "occurrenceCount": 1,
-    "contexts": [
-      "... to the first comer. When he awoke, opening the door of the hall, he found close by the threshold a bronze statue of Fortune • more than a cubit high. This he carried in his arms to Tusculum, where he..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 26,
-    "chapter": "Chapter 4",
-    "caesar": "Galba",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "... than a cubit high. This he carried in his arms to Tusculum, where he usually spent the summer, and consecrated it in a room of his house; and from that time on he honoured it with monthly sacrifices ...",
-      "... than a cubit high. This he carried in his arms to Tusculum, where he usually spent the summer, and consecrated it in a room of his house; and from that time on he honoured it with monthly sacrifices ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 27,
-    "chapter": "Chapter 4",
-    "caesar": "Galba",
     "entity": "freedmen",
     "slug": "Freedman",
     "url": "https://en.wikipedia.org/wiki/Freedman",
@@ -362,7 +335,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 26,
     "chapter": "Chapter 5",
     "caesar": "Galba",
     "entity": "Domitius",
@@ -375,7 +348,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 27,
     "chapter": "Chapter 5",
     "caesar": "Galba",
     "entity": "Galba",
@@ -389,7 +362,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 28,
     "chapter": "Chapter 5",
     "caesar": "Galba",
     "entity": "sesterces",
@@ -402,7 +375,7 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 29,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "praetor",
@@ -415,7 +388,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 30,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "province",
@@ -428,7 +401,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 31,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "consul",
@@ -441,7 +414,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 32,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Domitius",
@@ -454,7 +427,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 33,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Nero",
@@ -467,7 +440,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 34,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Otho",
@@ -481,7 +454,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 35,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "governor",
@@ -494,7 +467,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 36,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Germany",
@@ -507,7 +480,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 37,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "legions",
@@ -520,7 +493,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 38,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "soldier",
@@ -533,7 +506,7 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 39,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Galba",
@@ -548,7 +521,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 40,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "Gaul",
@@ -561,7 +534,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 41,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "army",
@@ -574,7 +547,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 42,
     "chapter": "Chapter 6",
     "caesar": "Galba",
     "entity": "provinces",
@@ -587,7 +560,7 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 43,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Galba",
@@ -602,7 +575,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 44,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Claudius",
@@ -615,7 +588,7 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 45,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Britain",
@@ -628,7 +601,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 46,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "Africa",
@@ -641,7 +614,7 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 47,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "proconsul",
@@ -654,7 +627,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 48,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "province",
@@ -667,7 +640,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 49,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "soldier",
@@ -680,7 +653,7 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 50,
     "chapter": "Chapter 7",
     "caesar": "Galba",
     "entity": "denarii",
@@ -693,7 +666,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 51,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Africa",
@@ -706,7 +679,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 52,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Germany",
@@ -719,7 +692,7 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 53,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "triumphal",
@@ -732,7 +705,7 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 54,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Augustus",
@@ -745,7 +718,7 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 55,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Nero",
@@ -759,7 +732,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 56,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "sesterces",
@@ -772,7 +745,7 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 57,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "province",
@@ -785,7 +758,7 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 58,
     "chapter": "Chapter 8",
     "caesar": "Galba",
     "entity": "Galba",
@@ -798,7 +771,7 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 59,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "province",
@@ -811,7 +784,7 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 60,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Galba",
@@ -824,7 +797,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 61,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Nero",
@@ -838,7 +811,7 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 62,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Carthage",
@@ -851,7 +824,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 63,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "provinces",
@@ -864,7 +837,7 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 64,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "governor",
@@ -877,7 +850,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 65,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Jupiter",
@@ -890,7 +863,7 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 66,
     "chapter": "Chapter 9",
     "caesar": "Galba",
     "entity": "Spain",
@@ -903,7 +876,7 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 67,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "tribunal",
@@ -916,7 +889,7 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 68,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Nero",
@@ -930,7 +903,7 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 69,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "governor",
@@ -943,7 +916,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 70,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Rome",
@@ -956,7 +929,7 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 71,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "province",
@@ -970,7 +943,7 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 72,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "legions",
@@ -983,7 +956,7 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 73,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "auxiliaries",
@@ -996,7 +969,7 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 74,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "legion",
@@ -1009,7 +982,7 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 75,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "cavalry",
@@ -1023,7 +996,7 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 76,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "cohorts",
@@ -1036,7 +1009,7 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 77,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1049,7 +1022,7 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 78,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Alexandria",
@@ -1062,7 +1035,7 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 79,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1076,7 +1049,7 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 80,
     "chapter": "Chapter 10",
     "caesar": "Galba",
     "entity": "freedmen",
@@ -1089,7 +1062,7 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 81,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Nero",
@@ -1102,7 +1075,7 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 82,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "governor",
@@ -1115,7 +1088,7 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 83,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Rome",
@@ -1129,7 +1102,7 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 84,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "toga",
@@ -1142,7 +1115,7 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 85,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Germany",
@@ -1155,7 +1128,7 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 86,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Africa",
@@ -1168,7 +1141,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 87,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "governors",
@@ -1181,7 +1154,7 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 88,
     "chapter": "Chapter 11",
     "caesar": "Galba",
     "entity": "Clodius",
@@ -1194,7 +1167,7 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 89,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "provinces",
@@ -1207,7 +1180,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 90,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "governors",
@@ -1220,7 +1193,7 @@
     "status": "approved"
   },
   {
-    "id": 93,
+    "id": 91,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "temple of Jupiter",
@@ -1233,7 +1206,7 @@
     "status": "approved"
   },
   {
-    "id": 94,
+    "id": 92,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "Jupiter",
@@ -1246,7 +1219,7 @@
     "status": "approved"
   },
   {
-    "id": 95,
+    "id": 93,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "Nero",
@@ -1259,7 +1232,7 @@
     "status": "approved"
   },
   {
-    "id": 96,
+    "id": 94,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1272,7 +1245,7 @@
     "status": "approved"
   },
   {
-    "id": 97,
+    "id": 95,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "cavalry",
@@ -1285,7 +1258,7 @@
     "status": "approved"
   },
   {
-    "id": 98,
+    "id": 96,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "cohort",
@@ -1298,7 +1271,7 @@
     "status": "approved"
   },
   {
-    "id": 99,
+    "id": 97,
     "chapter": "Chapter 12",
     "caesar": "Galba",
     "entity": "denarii",
@@ -1311,7 +1284,7 @@
     "status": "approved"
   },
   {
-    "id": 100,
+    "id": 98,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Titus",
@@ -1324,7 +1297,7 @@
     "status": "approved"
   },
   {
-    "id": 101,
+    "id": 99,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Spain",
@@ -1337,7 +1310,7 @@
     "status": "approved"
   },
   {
-    "id": 102,
+    "id": 100,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "equestrian order",
@@ -1350,7 +1323,7 @@
     "status": "approved"
   },
   {
-    "id": 103,
+    "id": 101,
     "chapter": "Chapter 14",
     "caesar": "Galba",
     "entity": "Claudius",
@@ -1363,7 +1336,7 @@
     "status": "approved"
   },
   {
-    "id": 104,
+    "id": 102,
     "chapter": "Chapter 15",
     "caesar": "Galba",
     "entity": "Nero",
@@ -1377,7 +1350,7 @@
     "status": "approved"
   },
   {
-    "id": 105,
+    "id": 103,
     "chapter": "Chapter 15",
     "caesar": "Galba",
     "entity": "Roman knights",
@@ -1390,7 +1363,7 @@
     "status": "approved"
   },
   {
-    "id": 106,
+    "id": 104,
     "chapter": "Chapter 15",
     "caesar": "Galba",
     "entity": "freedmen",
@@ -1403,7 +1376,7 @@
     "status": "approved"
   },
   {
-    "id": 107,
+    "id": 105,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1417,7 +1390,7 @@
     "status": "approved"
   },
   {
-    "id": 108,
+    "id": 106,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1430,7 +1403,7 @@
     "status": "approved"
   },
   {
-    "id": 109,
+    "id": 107,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "army",
@@ -1443,7 +1416,7 @@
     "status": "approved"
   },
   {
-    "id": 110,
+    "id": 108,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Germany",
@@ -1456,7 +1429,7 @@
     "status": "approved"
   },
   {
-    "id": 111,
+    "id": 109,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Kalends",
@@ -1469,7 +1442,7 @@
     "status": "approved"
   },
   {
-    "id": 112,
+    "id": 110,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Kalends of January",
@@ -1482,7 +1455,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 111,
     "chapter": "Chapter 16",
     "caesar": "Galba",
     "entity": "Spain",
@@ -1495,7 +1468,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 112,
     "chapter": "Chapter 17",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1508,7 +1481,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 113,
     "chapter": "Chapter 17",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1521,7 +1494,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 114,
     "chapter": "Chapter 17",
     "caesar": "Galba",
     "entity": "Otho",
@@ -1534,7 +1507,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 115,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1549,21 +1522,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
-    "chapter": "Chapter 18",
-    "caesar": "Galba",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "...precious stones, for the adornment of his image of Fortune at Tusculum. This on a sudden impulse he consecrated to the Capitoline Venus, thinking it worthy of a more august position. The next night Fo...",
-      "...precious stones, for the adornment of his image of Fortune at Tusculum. This on a sudden impulse he consecrated to the Capitoline Venus, thinking it worthy of a more august position. The next night Fo..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 119,
+    "id": 116,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "Kalends",
@@ -1576,7 +1535,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 117,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "Kalends of January",
@@ -1589,7 +1548,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 118,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1602,7 +1561,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 119,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "tribunal",
@@ -1615,7 +1574,7 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 120,
     "chapter": "Chapter 18",
     "caesar": "Galba",
     "entity": "curule chair",
@@ -1628,7 +1587,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 121,
     "chapter": "Chapter 19",
     "caesar": "Galba",
     "entity": "Otho",
@@ -1642,7 +1601,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 122,
     "chapter": "Chapter 19",
     "caesar": "Galba",
     "entity": "legionaries",
@@ -1655,7 +1614,7 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 123,
     "chapter": "Chapter 19",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1668,7 +1627,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 124,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "soldiers",
@@ -1681,7 +1640,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 125,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "soldier",
@@ -1694,7 +1653,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 126,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "Otho",
@@ -1707,7 +1666,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 127,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1722,7 +1681,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 128,
     "chapter": "Chapter 20",
     "caesar": "Galba",
     "entity": "patron",
@@ -1735,7 +1694,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 129,
     "chapter": "Chapter 22",
     "caesar": "Galba",
     "entity": "Spain",
@@ -1748,7 +1707,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 130,
     "chapter": "Chapter 22",
     "caesar": "Galba",
     "entity": "Nero",
@@ -1761,7 +1720,7 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 131,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Vespasian",
@@ -1774,7 +1733,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 132,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Galba",
@@ -1787,7 +1746,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 133,
     "chapter": "Chapter 23",
     "caesar": "Galba",
     "entity": "Spain",

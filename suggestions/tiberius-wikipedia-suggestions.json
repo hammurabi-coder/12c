@@ -1451,20 +1451,6 @@
     "id": 111,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "...n, when he was leading an army through Macedonia into Syria, it chanced that at Philippi the altars consecrated in bygone days by the victorious legions gleamed of their own accord with sudden fires. ...",
-      "...n, when he was leading an army through Macedonia into Syria, it chanced that at Philippi the altars consecrated in bygone days by the victorious legions gleamed of their own accord with sudden fires. ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 112,
-    "chapter": "Chapter 14",
-    "caesar": "Tiberius",
     "entity": "legions",
     "slug": "Roman_legion",
     "url": "https://en.wikipedia.org/wiki/Roman_legion",
@@ -1475,7 +1461,7 @@
     "status": "approved"
   },
   {
-    "id": 113,
+    "id": 112,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -1488,7 +1474,7 @@
     "status": "approved"
   },
   {
-    "id": 114,
+    "id": 113,
     "chapter": "Chapter 14",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -1501,7 +1487,7 @@
     "status": "approved"
   },
   {
-    "id": 115,
+    "id": 114,
     "chapter": "Chapter 15",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1514,7 +1500,7 @@
     "status": "approved"
   },
   {
-    "id": 116,
+    "id": 115,
     "chapter": "Chapter 15",
     "caesar": "Tiberius",
     "entity": "Esquiline",
@@ -1527,7 +1513,7 @@
     "status": "approved"
   },
   {
-    "id": 117,
+    "id": 116,
     "chapter": "Chapter 15",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1540,7 +1526,7 @@
     "status": "approved"
   },
   {
-    "id": 118,
+    "id": 117,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "tribunician",
@@ -1553,7 +1539,7 @@
     "status": "approved"
   },
   {
-    "id": 119,
+    "id": 118,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -1566,7 +1552,7 @@
     "status": "approved"
   },
   {
-    "id": 120,
+    "id": 119,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1579,7 +1565,7 @@
     "status": "approved"
   },
   {
-    "id": 121,
+    "id": 120,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -1592,7 +1578,7 @@
     "status": "approved"
   },
   {
-    "id": 122,
+    "id": 121,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "province",
@@ -1605,7 +1591,7 @@
     "status": "approved"
   },
   {
-    "id": 123,
+    "id": 122,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -1619,7 +1605,7 @@
     "status": "approved"
   },
   {
-    "id": 124,
+    "id": 123,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Carthage",
@@ -1632,7 +1618,7 @@
     "status": "approved"
   },
   {
-    "id": 125,
+    "id": 124,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "legions",
@@ -1645,7 +1631,7 @@
     "status": "approved"
   },
   {
-    "id": 126,
+    "id": 125,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "auxiliaries",
@@ -1658,7 +1644,7 @@
     "status": "approved"
   },
   {
-    "id": 127,
+    "id": 126,
     "chapter": "Chapter 16",
     "caesar": "Tiberius",
     "entity": "Macedonia",
@@ -1671,7 +1657,7 @@
     "status": "approved"
   },
   {
-    "id": 128,
+    "id": 127,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "legions",
@@ -1684,7 +1670,7 @@
     "status": "approved"
   },
   {
-    "id": 129,
+    "id": 128,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -1697,7 +1683,7 @@
     "status": "approved"
   },
   {
-    "id": 130,
+    "id": 129,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -1710,7 +1696,7 @@
     "status": "approved"
   },
   {
-    "id": 131,
+    "id": 130,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "triumph",
@@ -1724,7 +1710,7 @@
     "status": "approved"
   },
   {
-    "id": 132,
+    "id": 131,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1738,7 +1724,7 @@
     "status": "approved"
   },
   {
-    "id": 133,
+    "id": 132,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "toga",
@@ -1751,7 +1737,7 @@
     "status": "approved"
   },
   {
-    "id": 134,
+    "id": 133,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "laurel",
@@ -1764,7 +1750,7 @@
     "status": "approved"
   },
   {
-    "id": 135,
+    "id": 134,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "tribunal",
@@ -1777,7 +1763,7 @@
     "status": "approved"
   },
   {
-    "id": 136,
+    "id": 135,
     "chapter": "Chapter 17",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -1790,7 +1776,7 @@
     "status": "approved"
   },
   {
-    "id": 137,
+    "id": 136,
     "chapter": "Chapter 18",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -1803,7 +1789,7 @@
     "status": "approved"
   },
   {
-    "id": 138,
+    "id": 137,
     "chapter": "Chapter 19",
     "caesar": "Tiberius",
     "entity": "legion",
@@ -1816,7 +1802,7 @@
     "status": "approved"
   },
   {
-    "id": 139,
+    "id": 138,
     "chapter": "Chapter 19",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -1829,7 +1815,7 @@
     "status": "approved"
   },
   {
-    "id": 140,
+    "id": 139,
     "chapter": "Chapter 19",
     "caesar": "Tiberius",
     "entity": "freedmen",
@@ -1842,7 +1828,7 @@
     "status": "approved"
   },
   {
-    "id": 141,
+    "id": 140,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -1855,7 +1841,7 @@
     "status": "approved"
   },
   {
-    "id": 142,
+    "id": 141,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "triumph",
@@ -1868,7 +1854,7 @@
     "status": "approved"
   },
   {
-    "id": 143,
+    "id": 142,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "triumphal",
@@ -1881,7 +1867,7 @@
     "status": "approved"
   },
   {
-    "id": 144,
+    "id": 143,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "Capitol",
@@ -1894,7 +1880,7 @@
     "status": "approved"
   },
   {
-    "id": 145,
+    "id": 144,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "Ravenna",
@@ -1907,7 +1893,7 @@
     "status": "approved"
   },
   {
-    "id": 146,
+    "id": 145,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "army",
@@ -1920,7 +1906,7 @@
     "status": "approved"
   },
   {
-    "id": 147,
+    "id": 146,
     "chapter": "Chapter 20",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -1933,7 +1919,7 @@
     "status": "approved"
   },
   {
-    "id": 148,
+    "id": 147,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -1946,7 +1932,7 @@
     "status": "approved"
   },
   {
-    "id": 149,
+    "id": 148,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -1959,7 +1945,7 @@
     "status": "approved"
   },
   {
-    "id": 150,
+    "id": 149,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -1974,7 +1960,7 @@
     "status": "approved"
   },
   {
-    "id": 151,
+    "id": 150,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "census",
@@ -1987,7 +1973,7 @@
     "status": "approved"
   },
   {
-    "id": 152,
+    "id": 151,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -2000,7 +1986,7 @@
     "status": "approved"
   },
   {
-    "id": 153,
+    "id": 152,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "army",
@@ -2013,7 +1999,7 @@
     "status": "approved"
   },
   {
-    "id": 154,
+    "id": 153,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Homer",
@@ -2026,7 +2012,7 @@
     "status": "approved"
   },
   {
-    "id": 155,
+    "id": 154,
     "chapter": "Chapter 21",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -2039,7 +2025,7 @@
     "status": "approved"
   },
   {
-    "id": 156,
+    "id": 155,
     "chapter": "Chapter 22",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -2053,7 +2039,7 @@
     "status": "approved"
   },
   {
-    "id": 157,
+    "id": 156,
     "chapter": "Chapter 22",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2066,7 +2052,7 @@
     "status": "approved"
   },
   {
-    "id": 158,
+    "id": 157,
     "chapter": "Chapter 23",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -2079,7 +2065,7 @@
     "status": "approved"
   },
   {
-    "id": 159,
+    "id": 158,
     "chapter": "Chapter 23",
     "caesar": "Tiberius",
     "entity": "senatorial order",
@@ -2092,7 +2078,7 @@
     "status": "approved"
   },
   {
-    "id": 160,
+    "id": 159,
     "chapter": "Chapter 24",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2105,7 +2091,7 @@
     "status": "approved"
   },
   {
-    "id": 161,
+    "id": 160,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2118,7 +2104,7 @@
     "status": "approved"
   },
   {
-    "id": 162,
+    "id": 161,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "Illyricum",
@@ -2131,7 +2117,7 @@
     "status": "approved"
   },
   {
-    "id": 163,
+    "id": 162,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "Germany",
@@ -2145,7 +2131,7 @@
     "status": "approved"
   },
   {
-    "id": 164,
+    "id": 163,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "army",
@@ -2158,7 +2144,7 @@
     "status": "approved"
   },
   {
-    "id": 165,
+    "id": 164,
     "chapter": "Chapter 25",
     "caesar": "Tiberius",
     "entity": "pontiffs",
@@ -2171,7 +2157,7 @@
     "status": "approved"
   },
   {
-    "id": 166,
+    "id": 165,
     "chapter": "Chapter 26",
     "caesar": "Tiberius",
     "entity": "flamens",
@@ -2184,7 +2170,7 @@
     "status": "approved"
   },
   {
-    "id": 167,
+    "id": 166,
     "chapter": "Chapter 26",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -2197,7 +2183,7 @@
     "status": "approved"
   },
   {
-    "id": 168,
+    "id": 167,
     "chapter": "Chapter 26",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -2210,7 +2196,7 @@
     "status": "approved"
   },
   {
-    "id": 169,
+    "id": 168,
     "chapter": "Chapter 26",
     "caesar": "Tiberius",
     "entity": "Ides",
@@ -2223,7 +2209,7 @@
     "status": "approved"
   },
   {
-    "id": 170,
+    "id": 169,
     "chapter": "Chapter 27",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -2236,7 +2222,7 @@
     "status": "approved"
   },
   {
-    "id": 171,
+    "id": 170,
     "chapter": "Chapter 30",
     "caesar": "Tiberius",
     "entity": "magistrates",
@@ -2249,7 +2235,7 @@
     "status": "approved"
   },
   {
-    "id": 172,
+    "id": 171,
     "chapter": "Chapter 30",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2262,7 +2248,7 @@
     "status": "approved"
   },
   {
-    "id": 173,
+    "id": 172,
     "chapter": "Chapter 30",
     "caesar": "Tiberius",
     "entity": "legionaries",
@@ -2275,7 +2261,7 @@
     "status": "approved"
   },
   {
-    "id": 174,
+    "id": 173,
     "chapter": "Chapter 30",
     "caesar": "Tiberius",
     "entity": "auxiliaries",
@@ -2288,7 +2274,7 @@
     "status": "approved"
   },
   {
-    "id": 175,
+    "id": 174,
     "chapter": "Chapter 31",
     "caesar": "Tiberius",
     "entity": "praetor",
@@ -2301,7 +2287,7 @@
     "status": "approved"
   },
   {
-    "id": 176,
+    "id": 175,
     "chapter": "Chapter 31",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -2315,7 +2301,7 @@
     "status": "approved"
   },
   {
-    "id": 177,
+    "id": 176,
     "chapter": "Chapter 31",
     "caesar": "Tiberius",
     "entity": "Africa",
@@ -2328,7 +2314,7 @@
     "status": "approved"
   },
   {
-    "id": 178,
+    "id": 177,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -2341,7 +2327,7 @@
     "status": "approved"
   },
   {
-    "id": 179,
+    "id": 178,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "praetor",
@@ -2354,7 +2340,7 @@
     "status": "approved"
   },
   {
-    "id": 180,
+    "id": 179,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "funeral",
@@ -2367,7 +2353,7 @@
     "status": "approved"
   },
   {
-    "id": 181,
+    "id": 180,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "magistrates",
@@ -2380,7 +2366,7 @@
     "status": "approved"
   },
   {
-    "id": 182,
+    "id": 181,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -2394,7 +2380,7 @@
     "status": "approved"
   },
   {
-    "id": 183,
+    "id": 182,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -2407,7 +2393,7 @@
     "status": "approved"
   },
   {
-    "id": 184,
+    "id": 183,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "governors",
@@ -2420,7 +2406,7 @@
     "status": "approved"
   },
   {
-    "id": 185,
+    "id": 184,
     "chapter": "Chapter 32",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -2433,7 +2419,7 @@
     "status": "approved"
   },
   {
-    "id": 186,
+    "id": 185,
     "chapter": "Chapter 33",
     "caesar": "Tiberius",
     "entity": "magistrates",
@@ -2446,7 +2432,7 @@
     "status": "approved"
   },
   {
-    "id": 187,
+    "id": 186,
     "chapter": "Chapter 33",
     "caesar": "Tiberius",
     "entity": "tribunal",
@@ -2460,7 +2446,7 @@
     "status": "approved"
   },
   {
-    "id": 188,
+    "id": 187,
     "chapter": "Chapter 34",
     "caesar": "Tiberius",
     "entity": "gladiators",
@@ -2473,7 +2459,7 @@
     "status": "approved"
   },
   {
-    "id": 189,
+    "id": 188,
     "chapter": "Chapter 34",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -2486,7 +2472,7 @@
     "status": "approved"
   },
   {
-    "id": 190,
+    "id": 189,
     "chapter": "Chapter 34",
     "caesar": "Tiberius",
     "entity": "aediles",
@@ -2499,7 +2485,7 @@
     "status": "approved"
   },
   {
-    "id": 191,
+    "id": 190,
     "chapter": "Chapter 34",
     "caesar": "Tiberius",
     "entity": "Kalends",
@@ -2512,7 +2498,7 @@
     "status": "approved"
   },
   {
-    "id": 192,
+    "id": 191,
     "chapter": "Chapter 34",
     "caesar": "Tiberius",
     "entity": "Kalends of January",
@@ -2525,7 +2511,7 @@
     "status": "approved"
   },
   {
-    "id": 193,
+    "id": 192,
     "chapter": "Chapter 35",
     "caesar": "Tiberius",
     "entity": "Roman knight",
@@ -2538,7 +2524,7 @@
     "status": "approved"
   },
   {
-    "id": 194,
+    "id": 193,
     "chapter": "Chapter 35",
     "caesar": "Tiberius",
     "entity": "Kalends",
@@ -2551,7 +2537,7 @@
     "status": "approved"
   },
   {
-    "id": 195,
+    "id": 194,
     "chapter": "Chapter 35",
     "caesar": "Tiberius",
     "entity": "quaestor",
@@ -2564,7 +2550,7 @@
     "status": "approved"
   },
   {
-    "id": 196,
+    "id": 195,
     "chapter": "Chapter 36",
     "caesar": "Tiberius",
     "entity": "Jews",
@@ -2577,7 +2563,7 @@
     "status": "approved"
   },
   {
-    "id": 197,
+    "id": 196,
     "chapter": "Chapter 36",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -2590,7 +2576,7 @@
     "status": "approved"
   },
   {
-    "id": 198,
+    "id": 197,
     "chapter": "Chapter 36",
     "caesar": "Tiberius",
     "entity": "army",
@@ -2603,7 +2589,7 @@
     "status": "approved"
   },
   {
-    "id": 199,
+    "id": 198,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2616,7 +2602,7 @@
     "status": "approved"
   },
   {
-    "id": 200,
+    "id": 199,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -2630,7 +2616,7 @@
     "status": "approved"
   },
   {
-    "id": 201,
+    "id": 200,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "cohorts",
@@ -2643,7 +2629,7 @@
     "status": "approved"
   },
   {
-    "id": 202,
+    "id": 201,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "centurion",
@@ -2656,7 +2642,7 @@
     "status": "approved"
   },
   {
-    "id": 203,
+    "id": 202,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "cohort",
@@ -2669,7 +2655,7 @@
     "status": "approved"
   },
   {
-    "id": 204,
+    "id": 203,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Mithridates",
@@ -2682,7 +2668,7 @@
     "status": "approved"
   },
   {
-    "id": 205,
+    "id": 204,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "Cappadocia",
@@ -2695,7 +2681,7 @@
     "status": "approved"
   },
   {
-    "id": 206,
+    "id": 205,
     "chapter": "Chapter 37",
     "caesar": "Tiberius",
     "entity": "province",
@@ -2708,7 +2694,7 @@
     "status": "approved"
   },
   {
-    "id": 207,
+    "id": 206,
     "chapter": "Chapter 38",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -2721,7 +2707,7 @@
     "status": "approved"
   },
   {
-    "id": 208,
+    "id": 207,
     "chapter": "Chapter 39",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -2735,7 +2721,7 @@
     "status": "approved"
   },
   {
-    "id": 209,
+    "id": 208,
     "chapter": "Chapter 39",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -2748,7 +2734,7 @@
     "status": "approved"
   },
   {
-    "id": 210,
+    "id": 209,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -2761,7 +2747,7 @@
     "status": "approved"
   },
   {
-    "id": 211,
+    "id": 210,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Capitolium",
@@ -2774,7 +2760,7 @@
     "status": "approved"
   },
   {
-    "id": 212,
+    "id": 211,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Capua",
@@ -2787,7 +2773,7 @@
     "status": "approved"
   },
   {
-    "id": 213,
+    "id": 212,
     "chapter": "Chapter 40",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -2800,7 +2786,7 @@
     "status": "approved"
   },
   {
-    "id": 214,
+    "id": 213,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -2813,7 +2799,7 @@
     "status": "approved"
   },
   {
-    "id": 215,
+    "id": 214,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "governors",
@@ -2827,7 +2813,7 @@
     "status": "approved"
   },
   {
-    "id": 216,
+    "id": 215,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -2841,7 +2827,7 @@
     "status": "approved"
   },
   {
-    "id": 217,
+    "id": 216,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Spain",
@@ -2854,7 +2840,7 @@
     "status": "approved"
   },
   {
-    "id": 218,
+    "id": 217,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Armenia",
@@ -2867,7 +2853,7 @@
     "status": "approved"
   },
   {
-    "id": 219,
+    "id": 218,
     "chapter": "Chapter 41",
     "caesar": "Tiberius",
     "entity": "Moesia",
@@ -2880,7 +2866,7 @@
     "status": "approved"
   },
   {
-    "id": 220,
+    "id": 219,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Claudius",
@@ -2893,7 +2879,7 @@
     "status": "approved"
   },
   {
-    "id": 221,
+    "id": 220,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -2906,7 +2892,7 @@
     "status": "approved"
   },
   {
-    "id": 222,
+    "id": 221,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "governor",
@@ -2919,7 +2905,7 @@
     "status": "approved"
   },
   {
-    "id": 223,
+    "id": 222,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "province",
@@ -2932,7 +2918,7 @@
     "status": "approved"
   },
   {
-    "id": 224,
+    "id": 223,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -2945,7 +2931,7 @@
     "status": "approved"
   },
   {
-    "id": 225,
+    "id": 224,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "quaestor",
@@ -2958,7 +2944,7 @@
     "status": "approved"
   },
   {
-    "id": 226,
+    "id": 225,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -2971,7 +2957,7 @@
     "status": "approved"
   },
   {
-    "id": 227,
+    "id": 226,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Titus",
@@ -2984,7 +2970,7 @@
     "status": "approved"
   },
   {
-    "id": 228,
+    "id": 227,
     "chapter": "Chapter 42",
     "caesar": "Tiberius",
     "entity": "Roman knight",
@@ -2997,7 +2983,7 @@
     "status": "approved"
   },
   {
-    "id": 229,
+    "id": 228,
     "chapter": "Chapter 44",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -3010,7 +2996,7 @@
     "status": "approved"
   },
   {
-    "id": 230,
+    "id": 229,
     "chapter": "Chapter 46",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -3023,7 +3009,7 @@
     "status": "approved"
   },
   {
-    "id": 231,
+    "id": 230,
     "chapter": "Chapter 47",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3037,7 +3023,7 @@
     "status": "approved"
   },
   {
-    "id": 232,
+    "id": 231,
     "chapter": "Chapter 47",
     "caesar": "Tiberius",
     "entity": "Pompey",
@@ -3050,7 +3036,7 @@
     "status": "approved"
   },
   {
-    "id": 233,
+    "id": 232,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "sesterces",
@@ -3063,7 +3049,7 @@
     "status": "approved"
   },
   {
-    "id": 234,
+    "id": 233,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "Caelian",
@@ -3077,7 +3063,7 @@
     "status": "approved"
   },
   {
-    "id": 235,
+    "id": 234,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3090,7 +3076,7 @@
     "status": "approved"
   },
   {
-    "id": 236,
+    "id": 235,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3104,7 +3090,7 @@
     "status": "approved"
   },
   {
-    "id": 237,
+    "id": 236,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "denarii",
@@ -3117,7 +3103,7 @@
     "status": "approved"
   },
   {
-    "id": 238,
+    "id": 237,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "legions",
@@ -3130,21 +3116,7 @@
     "status": "approved"
   },
   {
-    "id": 239,
-    "chapter": "Chapter 48",
-    "caesar": "Tiberius",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "...or not taking sides with Sejanus, and some presents to the legions in Syria, because they alone had consecrated no image of Sejanus among their standards. He also very rarely allowed veteran soldiers ...",
-      "...or not taking sides with Sejanus, and some presents to the legions in Syria, because they alone had consecrated no image of Sejanus among their standards. He also very rarely allowed veteran soldiers ..."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 240,
+    "id": 238,
     "chapter": "Chapter 48",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -3157,7 +3129,7 @@
     "status": "approved"
   },
   {
-    "id": 241,
+    "id": 239,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -3170,7 +3142,7 @@
     "status": "approved"
   },
   {
-    "id": 242,
+    "id": 240,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -3183,7 +3155,7 @@
     "status": "approved"
   },
   {
-    "id": 243,
+    "id": 241,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "Greece",
@@ -3196,7 +3168,7 @@
     "status": "approved"
   },
   {
-    "id": 244,
+    "id": 242,
     "chapter": "Chapter 49",
     "caesar": "Tiberius",
     "entity": "Antioch",
@@ -3209,7 +3181,7 @@
     "status": "approved"
   },
   {
-    "id": 245,
+    "id": 243,
     "chapter": "Chapter 50",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3224,7 +3196,7 @@
     "status": "approved"
   },
   {
-    "id": 246,
+    "id": 244,
     "chapter": "Chapter 50",
     "caesar": "Tiberius",
     "entity": "temple of Vesta",
@@ -3237,7 +3209,7 @@
     "status": "approved"
   },
   {
-    "id": 247,
+    "id": 245,
     "chapter": "Chapter 50",
     "caesar": "Tiberius",
     "entity": "Vesta",
@@ -3250,7 +3222,7 @@
     "status": "approved"
   },
   {
-    "id": 248,
+    "id": 246,
     "chapter": "Chapter 50",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3263,7 +3235,7 @@
     "status": "approved"
   },
   {
-    "id": 249,
+    "id": 247,
     "chapter": "Chapter 51",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3276,7 +3248,7 @@
     "status": "approved"
   },
   {
-    "id": 250,
+    "id": 248,
     "chapter": "Chapter 51",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3289,7 +3261,7 @@
     "status": "approved"
   },
   {
-    "id": 251,
+    "id": 249,
     "chapter": "Chapter 52",
     "caesar": "Tiberius",
     "entity": "funeral",
@@ -3302,7 +3274,7 @@
     "status": "approved"
   },
   {
-    "id": 252,
+    "id": 250,
     "chapter": "Chapter 52",
     "caesar": "Tiberius",
     "entity": "Alexandria",
@@ -3315,7 +3287,7 @@
     "status": "approved"
   },
   {
-    "id": 253,
+    "id": 251,
     "chapter": "Chapter 52",
     "caesar": "Tiberius",
     "entity": "governor",
@@ -3328,7 +3300,7 @@
     "status": "approved"
   },
   {
-    "id": 254,
+    "id": 252,
     "chapter": "Chapter 53",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3341,7 +3313,7 @@
     "status": "approved"
   },
   {
-    "id": 255,
+    "id": 253,
     "chapter": "Chapter 53",
     "caesar": "Tiberius",
     "entity": "centurion",
@@ -3354,21 +3326,7 @@
     "status": "approved"
   },
   {
-    "id": 256,
-    "chapter": "Chapter 53",
-    "caesar": "Tiberius",
-    "entity": "consecrated",
-    "slug": "Apotheosis",
-    "url": "https://en.wikipedia.org/wiki/Apotheosis",
-    "occurrenceCount": 2,
-    "contexts": [
-      "... in recognition of this remarkable clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol.",
-      "... in recognition of this remarkable clemency, in which thanks were offered him and a golden gift was consecrated to Jupiter of the Capitol."
-    ],
-    "status": "approved"
-  },
-  {
-    "id": 257,
+    "id": 254,
     "chapter": "Chapter 53",
     "caesar": "Tiberius",
     "entity": "Jupiter",
@@ -3381,7 +3339,7 @@
     "status": "approved"
   },
   {
-    "id": 258,
+    "id": 255,
     "chapter": "Chapter 53",
     "caesar": "Tiberius",
     "entity": "Capitol",
@@ -3394,7 +3352,7 @@
     "status": "approved"
   },
   {
-    "id": 259,
+    "id": 256,
     "chapter": "Chapter 54",
     "caesar": "Tiberius",
     "entity": "Nero",
@@ -3409,7 +3367,7 @@
     "status": "approved"
   },
   {
-    "id": 260,
+    "id": 257,
     "chapter": "Chapter 57",
     "caesar": "Tiberius",
     "entity": "funeral",
@@ -3422,7 +3380,7 @@
     "status": "approved"
   },
   {
-    "id": 261,
+    "id": 258,
     "chapter": "Chapter 57",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3435,7 +3393,7 @@
     "status": "approved"
   },
   {
-    "id": 262,
+    "id": 259,
     "chapter": "Chapter 57",
     "caesar": "Tiberius",
     "entity": "Roman knight",
@@ -3448,7 +3406,7 @@
     "status": "approved"
   },
   {
-    "id": 263,
+    "id": 260,
     "chapter": "Chapter 58",
     "caesar": "Tiberius",
     "entity": "praetor",
@@ -3461,7 +3419,7 @@
     "status": "approved"
   },
   {
-    "id": 264,
+    "id": 261,
     "chapter": "Chapter 58",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3476,7 +3434,7 @@
     "status": "approved"
   },
   {
-    "id": 265,
+    "id": 262,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -3489,7 +3447,7 @@
     "status": "approved"
   },
   {
-    "id": 266,
+    "id": 263,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Saturn",
@@ -3502,7 +3460,7 @@
     "status": "approved"
   },
   {
-    "id": 267,
+    "id": 264,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3517,7 +3475,7 @@
     "status": "approved"
   },
   {
-    "id": 268,
+    "id": 265,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Sulla",
@@ -3530,7 +3488,7 @@
     "status": "approved"
   },
   {
-    "id": 269,
+    "id": 266,
     "chapter": "Chapter 59",
     "caesar": "Tiberius",
     "entity": "Marius",
@@ -3543,7 +3501,7 @@
     "status": "approved"
   },
   {
-    "id": 270,
+    "id": 267,
     "chapter": "Chapter 60",
     "caesar": "Tiberius",
     "entity": "soldier",
@@ -3556,7 +3514,7 @@
     "status": "approved"
   },
   {
-    "id": 271,
+    "id": 268,
     "chapter": "Chapter 60",
     "caesar": "Tiberius",
     "entity": "centurion",
@@ -3569,7 +3527,7 @@
     "status": "approved"
   },
   {
-    "id": 272,
+    "id": 269,
     "chapter": "Chapter 60",
     "caesar": "Tiberius",
     "entity": "cohorts",
@@ -3582,7 +3540,7 @@
     "status": "approved"
   },
   {
-    "id": 273,
+    "id": 270,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Brutus",
@@ -3595,7 +3553,7 @@
     "status": "approved"
   },
   {
-    "id": 274,
+    "id": 271,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Cassius",
@@ -3608,7 +3566,7 @@
     "status": "approved"
   },
   {
-    "id": 275,
+    "id": 272,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3621,7 +3579,7 @@
     "status": "approved"
   },
   {
-    "id": 276,
+    "id": 273,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -3634,7 +3592,7 @@
     "status": "approved"
   },
   {
-    "id": 277,
+    "id": 274,
     "chapter": "Chapter 61",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -3647,7 +3605,7 @@
     "status": "approved"
   },
   {
-    "id": 278,
+    "id": 275,
     "chapter": "Chapter 62",
     "caesar": "Tiberius",
     "entity": "Rhodes",
@@ -3660,7 +3618,7 @@
     "status": "approved"
   },
   {
-    "id": 279,
+    "id": 276,
     "chapter": "Chapter 62",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3673,7 +3631,7 @@
     "status": "approved"
   },
   {
-    "id": 280,
+    "id": 277,
     "chapter": "Chapter 63",
     "caesar": "Tiberius",
     "entity": "divine",
@@ -3686,7 +3644,7 @@
     "status": "approved"
   },
   {
-    "id": 281,
+    "id": 278,
     "chapter": "Chapter 63",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3700,7 +3658,7 @@
     "status": "approved"
   },
   {
-    "id": 282,
+    "id": 279,
     "chapter": "Chapter 63",
     "caesar": "Tiberius",
     "entity": "provinces",
@@ -3713,7 +3671,7 @@
     "status": "approved"
   },
   {
-    "id": 283,
+    "id": 280,
     "chapter": "Chapter 63",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -3726,7 +3684,7 @@
     "status": "approved"
   },
   {
-    "id": 284,
+    "id": 281,
     "chapter": "Chapter 64",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3739,7 +3697,7 @@
     "status": "approved"
   },
   {
-    "id": 285,
+    "id": 282,
     "chapter": "Chapter 65",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -3752,7 +3710,7 @@
     "status": "approved"
   },
   {
-    "id": 286,
+    "id": 283,
     "chapter": "Chapter 65",
     "caesar": "Tiberius",
     "entity": "consuls",
@@ -3765,7 +3723,7 @@
     "status": "approved"
   },
   {
-    "id": 287,
+    "id": 284,
     "chapter": "Chapter 65",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3778,7 +3736,7 @@
     "status": "approved"
   },
   {
-    "id": 288,
+    "id": 285,
     "chapter": "Chapter 65",
     "caesar": "Tiberius",
     "entity": "legions",
@@ -3791,7 +3749,7 @@
     "status": "approved"
   },
   {
-    "id": 289,
+    "id": 286,
     "chapter": "Chapter 68",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3804,7 +3762,7 @@
     "status": "approved"
   },
   {
-    "id": 290,
+    "id": 287,
     "chapter": "Chapter 69",
     "caesar": "Tiberius",
     "entity": "laurel",
@@ -3817,7 +3775,7 @@
     "status": "approved"
   },
   {
-    "id": 291,
+    "id": 288,
     "chapter": "Chapter 70",
     "caesar": "Tiberius",
     "entity": "Augustus",
@@ -3830,7 +3788,7 @@
     "status": "approved"
   },
   {
-    "id": 292,
+    "id": 289,
     "chapter": "Chapter 71",
     "caesar": "Tiberius",
     "entity": "soldier",
@@ -3843,7 +3801,7 @@
     "status": "approved"
   },
   {
-    "id": 293,
+    "id": 290,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3856,7 +3814,7 @@
     "status": "approved"
   },
   {
-    "id": 294,
+    "id": 291,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -3869,7 +3827,7 @@
     "status": "approved"
   },
   {
-    "id": 295,
+    "id": 292,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "Campania",
@@ -3882,7 +3840,7 @@
     "status": "approved"
   },
   {
-    "id": 296,
+    "id": 293,
     "chapter": "Chapter 72",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3895,7 +3853,7 @@
     "status": "approved"
   },
   {
-    "id": 297,
+    "id": 294,
     "chapter": "Chapter 73",
     "caesar": "Tiberius",
     "entity": "Kalends",
@@ -3908,7 +3866,7 @@
     "status": "approved"
   },
   {
-    "id": 298,
+    "id": 295,
     "chapter": "Chapter 73",
     "caesar": "Tiberius",
     "entity": "consul",
@@ -3921,7 +3879,7 @@
     "status": "approved"
   },
   {
-    "id": 299,
+    "id": 296,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "Tiber",
@@ -3934,7 +3892,7 @@
     "status": "approved"
   },
   {
-    "id": 300,
+    "id": 297,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "Manes",
@@ -3947,7 +3905,7 @@
     "status": "approved"
   },
   {
-    "id": 301,
+    "id": 298,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "funeral",
@@ -3960,7 +3918,7 @@
     "status": "approved"
   },
   {
-    "id": 302,
+    "id": 299,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -3973,7 +3931,7 @@
     "status": "approved"
   },
   {
-    "id": 303,
+    "id": 300,
     "chapter": "Chapter 75",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3986,7 +3944,7 @@
     "status": "approved"
   },
   {
-    "id": 304,
+    "id": 301,
     "chapter": "Chapter 76",
     "caesar": "Tiberius",
     "entity": "soldiers",
@@ -3999,7 +3957,7 @@
     "status": "approved"
   },
   {
-    "id": 305,
+    "id": 302,
     "chapter": "Chapter 76",
     "caesar": "Tiberius",
     "entity": "Rome",
@@ -4010,15 +3968,5 @@
       "..., including the vestal virgins, as well as to each and every man of the soldiers and the commons of Rome, with separate ones to the masters of the city wards."
     ],
     "status": "approved"
-  },
-  {
-    "id": 306,
-    "chapter": "Chapter 4",
-    "caesar": "Tiberius",
-    "entity": "Perusia",
-    "slug": "Perusia",
-    "url": "https://en.wikipedia.org/wiki/Perusine_War",
-    "occurrenceCount": 1,
-    "status": "edited"
   }
 ]

@@ -18,6 +18,32 @@
     "id": 2,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Domitian was born on the ninth day before the Kalends of November of the year when his father was consul elect and was about to enter on the offic..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Domitian was born on the ninth day before the Kalends of November of the year when his father was consul elect and was about to enter on the office in the following month, in a street of the sixth r..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Domitian",
     "entity": "Claudius",
     "slug": "Claudius",
     "url": "https://en.wikipedia.org/wiki/Claudius",
@@ -28,7 +54,7 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 5,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
     "entity": "Pollio",
@@ -41,7 +67,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 6,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
     "entity": "Nero",
@@ -54,7 +80,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 7,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
     "entity": "Vitellius",
@@ -67,7 +93,33 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 8,
+    "chapter": "Chapter 1",
+    "caesar": "Domitian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... was also debauched by Nerva, who succeeded him. 2 In the war with Vitellius he took refuge in the Capitol with his paternal uncle Sabinus and a part of the forces under him. When the enemy forced an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 1",
+    "caesar": "Domitian",
+    "entity": "Isis",
+    "slug": "Isis",
+    "url": "https://en.wikipedia.org/wiki/Isis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e night with the guardian of the shrine, and in the morning, disguised in the garb of a follower of Isis and mingling with the priests of that fickle superstition, he went across the Tiber with a sing..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
     "entity": "Tiber",
@@ -80,7 +132,20 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 11,
+    "chapter": "Chapter 1",
+    "caesar": "Domitian",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the victory that he ventured forth and after being hailed as Caesar, he assumed the office of city praetor with consular powers, but only in name, turning over all the judicial business to his next c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
     "chapter": "Chapter 1",
     "caesar": "Domitian",
     "entity": "Vespasian",
@@ -93,7 +158,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Domitian",
     "entity": "Gaul",
@@ -106,7 +171,46 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 14,
+    "chapter": "Chapter 2",
+    "caesar": "Domitian",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...c he followed the emperor's chair and that of his brother in a litter, while he also attended their triumph over Judaea riding on a white horse. Moreover, of his six consul ­ships only one was a regul..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 2",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ter, while he also attended their triumph over Judaea riding on a white horse. Moreover, of his six consul ­ships only one was a regular one, and he obtained that only because his brother gave place t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 2",
+    "caesar": "Domitian",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...readings in public. Yet in spite of all this, when Vologaesus, king of the Parthians, had asked for auxiliaries against the Alani and for one of Vespasian's sons as their leader, Domitian used every e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
     "chapter": "Chapter 2",
     "caesar": "Domitian",
     "entity": "Vespasian",
@@ -119,7 +223,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 18,
     "chapter": "Chapter 2",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -133,7 +237,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 19,
     "chapter": "Chapter 2",
     "caesar": "Domitian",
     "entity": "Titus",
@@ -147,7 +251,72 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 20,
+    "chapter": "Chapter 2",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      ".... 3 On the death of his father he hesitated for some time whether to offer a double largess to the soldiers, and he never had any compunction about saying that he had been left a partner in the imper..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
+    "chapter": "Chapter 3",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Not even a fly.\" Then he saluted his wife Domitia as Augusta. He had had a son by her in his second consul ­ship, whom he lost the second year after he became emperor; he divorced her because of her l..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... combats between men but between women as well. He was always present too at the games given by the quaestors, which he revived after they had been abandoned for some time, and invariably granted the ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...bandoned for some time, and invariably granted the people the privilege of calling for two pairs of gladiators from his own school, and brought them in last in all the splendour of the court. 2 Durin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "praefect",
+    "slug": "Praefectus",
+    "url": "https://en.wikipedia.org/wiki/Praefectus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...verheard to ask him if he knew why he had decided at the last appointment day to make Mettius Rufus praefect of Egypt. He often gave sea-fights almost with regular fleets, having dug a pool near the T..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
     "chapter": "Chapter 4",
     "caesar": "Domitian",
     "entity": "Egypt",
@@ -160,7 +329,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 26,
     "chapter": "Chapter 4",
     "caesar": "Domitian",
     "entity": "Tiber",
@@ -173,7 +342,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 27,
     "chapter": "Chapter 4",
     "caesar": "Domitian",
     "entity": "Claudius",
@@ -186,7 +355,7 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 28,
     "chapter": "Chapter 4",
     "caesar": "Domitian",
     "entity": "Augustus",
@@ -199,7 +368,140 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 29,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...he number of laps from seven to five. 14 4 He also established a quinquennial contest in honour of Jupiter Capitolinus of a threefold character, comprising music, riding, and gymnastics, and with con...",
+      "...lad in a purple toga in the Greek fashion, and wearing upon his head a golden crown with figures of Jupiter, Juno, and Minerva, while by his side sat the priest of Jupiter and the college of the Flavi...",
+      "...head a golden crown with figures of Jupiter, Juno, and Minerva, while by his side sat the priest of Jupiter and the college of the Flaviales, similarly dressed, except that their crowns bore his image..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...were races even between maidens. He presided at the competitions in half-boots,⁠ b clad in a purple toga in the Greek fashion, and wearing upon his head a golden crown with figures of Jupiter, Juno, a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "Juno",
+    "slug": "Juno_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Juno_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...purple toga in the Greek fashion, and wearing upon his head a golden crown with figures of Jupiter, Juno, and Minerva, while by his side sat the priest of Jupiter and the college of the Flaviales, sim..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "Minerva",
+    "slug": "Minerva",
+    "url": "https://en.wikipedia.org/wiki/Minerva",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...a in the Greek fashion, and wearing upon his head a golden crown with figures of Jupiter, Juno, and Minerva, while by his side sat the priest of Jupiter and the college of the Flaviales, similarly dre...",
+      "...that their crowns bore his image as well. He celebrated the Quinquatria too every year in honour of Minerva at his Alban villa, and established for her a college of priests, from which men were chosen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...besides holding contests in oratory and poetry. 5 He made a present to the people of three hundred sesterces each on three occasions, and in the course of one of his shows in celebration of the feast..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 4",
+    "caesar": "Domitian",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e fell where the people sat, he had five hundred • tickets thrown into each section occupied by the senatorial and equestrian orders."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 5",
+    "caesar": "Domitian",
+    "entity": "Capitolium",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He restored many splendid buildings which had been destroyed by fire, among them the Capitolium, which had again been burned, but in all cases with the inscription of his own name only,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 5",
+    "caesar": "Domitian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ion of the original builder. Furthermore, he built a new temple on the Capitoline hill in honour of Jupiter Custos and the forum which now bears the name of Nerva; likewise a temple to the Flavian fam..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 5",
+    "caesar": "Domitian",
+    "entity": "Circus Maximus",
+    "slug": "Circus_Maximus",
+    "url": "https://en.wikipedia.org/wiki/Circus_Maximus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lavian family, a stadium, an Odeum, and a pool for sea-fights. From the stone used in this last the Circus Maximus was afterwards rebuilt, when both sides of it had been destroyed by fire."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Chatti was uncalled for, while the one against the Sarmatians was justified by the destruction of a legion with its commander. He made two against the Dacians, the first when Oppius Sabinus an ex-cons..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
     "chapter": "Chapter 6",
     "caesar": "Domitian",
     "entity": "Oppius",
@@ -212,7 +514,98 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 40,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f a legion with its commander. He made two against the Dacians, the first when Oppius Sabinus an ex-consul was defeated, and the second on the overthrow of Cornelius Fuscus, prefect of the praetorian ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d entrusted the conduct of the war. After several battles of varying success he celebrated a double triumph over the Chatti and the Dacians. His victories over the Sarmatians he commemorated merely by..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "laurel",
+    "slug": "Laurel_wreath",
+    "url": "https://en.wikipedia.org/wiki/Laurel_wreath",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...atti and the Dacians. His victories over the Sarmatians he commemorated merely by the offering of a laurel crown to Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, gov..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ians. His victories over the Sarmatians he commemorated merely by the offering of a laurel crown to Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, governor of Upper G..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ries over the Sarmatians he commemorated merely by the offering of a laurel crown to Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, governor of Upper Germany, was put..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Sarmatians he commemorated merely by the offering of a laurel crown to Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, governor of Upper Germany, was put down in the e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 6",
+    "caesar": "Domitian",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... a laurel crown to Jupiter of the Capitol. 2 A civil war which was set on foot by Lucius Antonius, governor of Upper Germany, was put down in the emperor's absence by a remarkable stroke of good fort..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
     "chapter": "Chapter 6",
     "caesar": "Domitian",
     "entity": "Germany",
@@ -225,7 +618,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 48,
     "chapter": "Chapter 6",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -238,7 +631,7 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 49,
     "chapter": "Chapter 6",
     "caesar": "Domitian",
     "entity": "Rome",
@@ -252,7 +645,281 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 50,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...made an edict forbidding anyone to plant more vines in Italy and ordering that the vineyards in the provinces be cut down, or but half of them at most be left standing; but he did not persist in carry..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t persist in carrying out the measure. He opened some of the most important offices of the court to freedmen and Roman knights. 3 He prohibited the uniting of two legions in one camp and the deposit ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...carrying out the measure. He opened some of the most important offices of the court to freedmen and Roman knights. 3 He prohibited the uniting of two legions in one camp and the deposit of more than ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...t important offices of the court to freedmen and Roman knights. 3 He prohibited the uniting of two legions in one camp and the deposit of more than a thousand sesterces by any one soldier at headquar...",
+      "...y led to attempt a revolution by the amount of such deposits in the combined winter quarters of two legions. He increased the pay of the soldiers one fourth, by the addition of three gold pieces each ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ts. 3 He prohibited the uniting of two legions in one camp and the deposit of more than a thousand sesterces by any one soldier at headquarters, because it was clear that Lucius Antonius had been esp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the uniting of two legions in one camp and the deposit of more than a thousand sesterces by any one soldier at headquarters, because it was clear that Lucius Antonius had been especially led to attemp..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 7",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...amount of such deposits in the combined winter quarters of two legions. He increased the pay of the soldiers one fourth, by the addition of three gold pieces each year. 31"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er with all their associates. 2 He also induced the tribunes of the commons to prosecute a corrupt aedile for extortion, and to ask the senate to appoint jurors in the case. He took such care to exer..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...appoint jurors in the case. He took such care to exercise restraint over the city officials and the governors of the provinces, that at no time were they more honest or just, whereas after his time we..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the case. He took such care to exercise restraint over the city officials and the governors of the provinces, that at no time were they more honest or just, whereas after his time we have seen many o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hed men and women were attacked, and imposed ignominious penalties on their authors; expelled an ex-quaestor from the senate, because he was given to acting and dancing; deprived notorious women of th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... use of litters, as well as of the right to receive inheritances and legacies; struck the name of a Roman knight from the list of jurors, because he had taken back his wife after divorcing her and cha..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "vestal",
+    "slug": "Vestal_Virgins",
+    "url": "https://en.wikipedia.org/wiki/Vestal_Virgins",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of the manner of their death, and banished their paramours, he later ordered that Cornelia, a chief-vestal who had been acquitted once but after a long interval again arraigned and found guilty, be bu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d alive; and her lovers were beaten to death with rods in the Comitium, with the exception of an ex-praetor, whom he allowed to go into exile, because he admitted his guilt while the case was still un..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t the gods from being dishonoured with impunity by any sacrilege, he caused a tomb which one of his freedmen had built for his son from stones intended for the temple of Jupiter of the Capitol to be d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lege, he caused a tomb which one of his freedmen had built for his son from stones intended for the temple of Jupiter of the Capitol to be destroyed by the soldiers and the bones and ashes contained i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aused a tomb which one of his freedmen had built for his son from stones intended for the temple of Jupiter of the Capitol to be destroyed by the soldiers and the bones and ashes contained in it throw..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ich one of his freedmen had built for his son from stones intended for the temple of Jupiter of the Capitol to be destroyed by the soldiers and the bones and ashes contained in it thrown into the sea."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 8",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lt for his son from stones intended for the temple of Jupiter of the Capitol to be destroyed by the soldiers and the bones and ashes contained in it thrown into the sea."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 9",
+    "caesar": "Domitian",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e into the House. He cancelled the suits against those who had been posted as debtors to the public treasury for more than five years, and would not allow a renewal except within a year and on the con..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 9",
+    "caesar": "Domitian",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...condition that an accuser who did not win his suit should be punished with exile. 3 Scribes of the quaestors who carried on business, which had become usual although contrary to the Clodian law, he p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Tarsus",
@@ -265,7 +932,46 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 72,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., besides crucifying even the slaves who had written it out. A householder who said that a Thracian gladiator was a match for the murmillo, but not for the giver of the games, he caused to be dragged ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r of the Thracians who spoke impiously.\" 43 2 He put to death many senators, among them several ex-consuls, including Civica Cerealis, at the very time when he was proconsul in Asia, Salvidienus Orfi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "proconsul",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ny senators, among them several ex-consuls, including Civica Cerealis, at the very time when he was proconsul in Asia, Salvidienus Orfitus, Acilius Glabrio while he was in exile — these on the ground ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -279,7 +985,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 76,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Titus",
@@ -293,7 +999,7 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 77,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Otho",
@@ -306,7 +1012,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 78,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Hannibal",
@@ -319,7 +1025,20 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 79,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Titus Livius, besides giving two of his slaves the names of Mago and Hannibal; Sallustius Lucullus, governor of Britain, for allowing some lances of a new pattern to be named \"Lucullean,\" after his ow..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
     "chapter": "Chapter 10",
     "caesar": "Domitian",
     "entity": "Britain",
@@ -332,7 +1051,255 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 81,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ular elections the crier had inadvertently announced him to the people as emperor elect, instead of consul. 5 After his victory in the civil war he became even more cruel, and to discover any conspir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tently announced him to the people as emperor elect, instead of consul. 5 After his victory in the civil war he became even more cruel, and to discover any conspirators who were in hiding, tortured m..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ds of some of them. It is certain that of the more conspicuous only two were pardoned, a tribune of senatorial rank and a centurion, who the more clearly to prove their freedom from guilt, showed that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... is certain that of the more conspicuous only two were pardoned, a tribune of senatorial rank and a centurion, who the more clearly to prove their freedom from guilt, showed that they were of shameles..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 10",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...were of shameless unchastity and could therefore have had no influence with the general or with the soldiers."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
+    "chapter": "Chapter 11",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ind, even deigning to send him a share of his dinner. When he was on the point of condemning the ex-consul Arrecinius Clemens, one of his intimates and tools, he treated him with as great favour as be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 12",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he cost of his buildings and shows, as well as by the additions which he had made to the pay of the soldiers, he tried to lighten the military expenses by diminishing the number of his troops; but per..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 12",
+    "caesar": "Domitian",
+    "entity": "Jews",
+    "slug": "Jews",
+    "url": "https://en.wikipedia.org/wiki/Jews",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...rd from the deceased during his lifetime that Caesar was his heir. Besides other taxes, that on the Jews was levied with the utmost rigour, and those were prosecuted who without publicly acknowledging...",
+      "...utmost rigour, and those were prosecuted who without publicly acknowledging that faith yet lived as Jews, as well as those who concealed their origin and did not pay the tribute levied upon their peop..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rned him his own; nor on taking back his wife after their divorce, that he had \"recalled her to his divine couch.\" He delighted to hear the people in the amphitheatre shout on his feast day: \"Good For..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...way even in writing or in conversation.⁠ c He suffered no statues to be set up in his honour in the Capitol, except of gold and silver and of a fixed weight. He erected so many and such huge vaulted p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... huge vaulted passage-ways and arches in the various regions of the city, adorned with chariots and triumphal emblems, that on one of them someone wrote in Greek: \"It is enough.\" 3 He held the consul..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s and triumphal emblems, that on one of them someone wrote in Greek: \"It is enough.\" 3 He held the consul ­ship seventeen times, more often than any of his predecessors. Of these the seven middle one..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., but all of them he filled in name only, continuing none beyond the first of May and few after the Ides of January. Having assumed the surname Germanicus after his two triumphs, he renamed the months..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
+    "chapter": "Chapter 13",
+    "caesar": "Domitian",
+    "entity": "triumphs",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...first of May and few after the Ides of January. Having assumed the surname Germanicus after his two triumphs, he renamed the months of September and October from his own names, calling them \"Germanicu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
+    "chapter": "Chapter 14",
+    "caesar": "Domitian",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...error and hatred to all, but he was overthrown at last by a conspiracy of his friends and favourite freedmen, to which his wife was also privy. He had long since had a premonition of the last year and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
+    "chapter": "Chapter 14",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ew one which the senate had devised and offered to him, a decree, namely, that whenever he held the consul ­ship Roman knights selected by lot should precede him among his lictors and attendants, clad..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
+    "chapter": "Chapter 14",
+    "caesar": "Domitian",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the senate had devised and offered to him, a decree, namely, that whenever he held the consul ­ship Roman knights selected by lot should precede him among his lictors and attendants, clad in the trabe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 98,
+    "chapter": "Chapter 14",
+    "caesar": "Domitian",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "..., that whenever he held the consul ­ship Roman knights selected by lot should precede him among his lictors and attendants, clad in the trabea and bearing lances. 4 As the time when he anticipated d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 99,
+    "chapter": "Chapter 14",
+    "caesar": "Domitian",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g their chains in his hands. Further, to convince his household that one must not venture to kill a patron even on good grounds, he condemned Epaphroditus, his confidential secretary, to death, becaus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
     "chapter": "Chapter 14",
     "caesar": "Domitian",
     "entity": "Nero",
@@ -345,7 +1312,20 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 101,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s own cousin Flavius Clemens, suddenly and on a very slight suspicion, almost before the end of his consul ­ship; and yet Flavius was a man of most contemptible laziness and Domitian had besides openl..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 102,
     "chapter": "Chapter 15",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -360,7 +1340,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 103,
     "chapter": "Chapter 15",
     "caesar": "Domitian",
     "entity": "Vespasian",
@@ -374,7 +1354,86 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 104,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "temple of Jupiter",
+    "slug": "Temple_of_Jupiter_Capitolinus",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Jupiter_Capitolinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing occurred and were reported, that at last he cried: \"Well, let him now strike whom he will.\" The temple of Jupiter of the Capitol was struck and that of the Flavian family, as well as the Palace an..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 105,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ed and were reported, that at last he cried: \"Well, let him now strike whom he will.\" The temple of Jupiter of the Capitol was struck and that of the Flavian family, as well as the Palace and the empe...",
+      "...h from her shrine and declared that she could no longer protect him, since she had been disarmed by Jupiter. Yet there was nothing by which he was so much disturbed as a prediction of the astrologer A..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...orted, that at last he cried: \"Well, let him now strike whom he will.\" The temple of Jupiter of the Capitol was struck and that of the Flavian family, as well as the Palace and the emperor's own bedro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n family, as well as the Palace and the emperor's own bedroom. The inscription too on the base of a triumphal statue of his was torn off in a violent tempest and fell upon a neighbouring tomb. The tre..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "Minerva",
+    "slug": "Minerva",
+    "url": "https://en.wikipedia.org/wiki/Minerva",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...w at last she returned a most direful one, not without the mention of bloodshed. 3 He dreamed that Minerva, whom he worshipped with superstitious veneration, came forth from her shrine and declared t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 109,
+    "chapter": "Chapter 15",
+    "caesar": "Domitian",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...an ordered him killed at once; but to prove the fallibility of his art, he ordered besides that his funeral be attended to with the greatest care. While this was being done, it chanced that the pyre w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 110,
     "chapter": "Chapter 16",
     "caesar": "Domitian",
     "entity": "Germany",
@@ -387,7 +1446,33 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 111,
+    "chapter": "Chapter 17",
+    "caesar": "Domitian",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...odianus, a subaltern, Maximus, a freedman of Parthenius, Satur, decurion of the chamberlains, and a gladiator from the imperial school. A boy who was engaged in his usual duty of attending to the Lare..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 17",
+    "caesar": "Domitian",
+    "entity": "Lares",
+    "slug": "Lares",
+    "url": "https://en.wikipedia.org/wiki/Lares",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d a gladiator from the imperial school. A boy who was engaged in his usual duty of attending to the Lares in the bedroom, and so was a witness of the murder, gave this additional information. He was b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
     "chapter": "Chapter 17",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -401,7 +1486,20 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 114,
+    "chapter": "Chapter 17",
+    "caesar": "Domitian",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... to gouge out his eyes with his lacerated fingers. 3 He was slain on the fourteenth day before the Kalends of October in the forty-fifth year of his age and the fifteenth of his reign. His corpse was..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 115,
     "chapter": "Chapter 17",
     "caesar": "Domitian",
     "entity": "Titus",
@@ -414,7 +1512,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 116,
     "chapter": "Chapter 20",
     "caesar": "Domitian",
     "entity": "Alexandria",
@@ -427,7 +1525,20 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 117,
+    "chapter": "Chapter 20",
+    "caesar": "Domitian",
+    "entity": "talents",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d transactions of Tiberius Caesar; for his letters, speeches and proclamations he relied on others' talents. Yet his conversation was not inelegant, and some of his sayings were even noteworthy. \"How ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
     "chapter": "Chapter 22",
     "caesar": "Domitian",
     "entity": "Titus",
@@ -440,7 +1551,20 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 119,
+    "chapter": "Chapter 23",
+    "caesar": "Domitian",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The people received the news of his death with indifference, but the soldiers were greatly grieved and at once attempted to call him the Deified Domitian; while they wer..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
     "chapter": "Chapter 23",
     "caesar": "Domitian",
     "entity": "Domitian",
@@ -450,6 +1574,19 @@
     "contexts": [
       "...h indifference, but the soldiers were greatly grieved and at once attempted to call him the Deified Domitian; while they were prepared also to avenge him, had they not lacked leaders. This, however, t...",
       "...le Tarpeian a raven but lately alighting, Could not say 'It is well,' only declared 'It will be.' \" Domitian himself, it is said, dreamed that a golden hump grew out on his back, and he regarded this ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 121,
+    "chapter": "Chapter 23",
+    "caesar": "Domitian",
+    "entity": "Capitolium",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d all record of him obliterated. • ⁠ g 2 A few months before he was killed, a raven perched on the Capitolium and cried \"All will be well,\" an omen which some interpreted as follows: \" High on the ga..."
     ],
     "status": "approved"
   }

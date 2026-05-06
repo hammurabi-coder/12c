@@ -31,6 +31,33 @@
     "id": 3,
     "chapter": "Chapter 1",
     "caesar": "Otho",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...were descended from the princes of Etruria. His grandfather Marcus Salvius Otho, whose father was a Roman knight but whose mother was of lowly origin and perhaps not even free-born, became a senator t...",
+      "...is reputation, he lost favour at court; but he speedily regained it by detecting the treachery of a Roman knight, whose slaves betrayed their master's design of killing the emperor. For in consequence..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Otho",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e influence of Livia Augusta, in whose house he was reared; but did not advance beyond the grade of praetor. 2 His father Lucius Otho was of a distinguished family on his mother's side, with many pow..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Otho",
     "entity": "Rome",
     "slug": "Rome",
     "url": "https://en.wikipedia.org/wiki/Rome",
@@ -41,7 +68,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 6,
     "chapter": "Chapter 1",
     "caesar": "Otho",
     "entity": "Africa",
@@ -54,7 +81,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 7,
     "chapter": "Chapter 1",
     "caesar": "Otho",
     "entity": "Illyricum",
@@ -67,7 +94,20 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 8,
+    "chapter": "Chapter 1",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nds he conducted himself with extreme severity. In Illyricum he even had the courage to punish some soldiers with death, because in the rebellion of Camillus, repenting of their defection, they had ki..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
     "chapter": "Chapter 1",
     "caesar": "Otho",
     "entity": "Claudius",
@@ -82,7 +122,20 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 10,
+    "chapter": "Chapter 1",
+    "caesar": "Otho",
+    "entity": "patricians",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sual honour on him by setting up his statue in the Palace; and Claudius also enrolled him among the patricians, and after praising him in the highest terms, added this words: \"a man of greater loyalty..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
     "chapter": "Chapter 2",
     "caesar": "Otho",
     "entity": "Otho",
@@ -95,7 +148,20 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 12,
+    "chapter": "Chapter 2",
+    "caesar": "Otho",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The emperor Otho was born on the fourth day before the Kalends of May in the consulate of Camillus Arruntius and Domitius Ahenobarbus. From earliest youth ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Otho",
     "entity": "Domitius",
@@ -108,7 +174,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 14,
     "chapter": "Chapter 2",
     "caesar": "Otho",
     "entity": "Nero",
@@ -121,7 +187,20 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 15,
+    "chapter": "Chapter 2",
+    "caesar": "Otho",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...fluence was such, that when he had bargained for a huge sum of money to procure the pardon of an ex-consul who had been condemned for extortion, he had no hesitation in bringing him into the senate to..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
     "chapter": "Chapter 3",
     "caesar": "Otho",
     "entity": "Nero",
@@ -136,7 +215,7 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 17,
     "chapter": "Chapter 3",
     "caesar": "Otho",
     "entity": "Otho",
@@ -151,7 +230,46 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 18,
+    "chapter": "Chapter 3",
+    "caesar": "Otho",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the return of his trust. Therefore Nero annulled the marriage and under colour of an appointment as governor banished Otho to Lusitania, contenting himself with this through fear that by inflicting a ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 3",
+    "caesar": "Otho",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s Otho in banishment languish? With his own wedded wife he had begun an intrigue.\" With the rank of quaestor Otho governed the province for ten years with remarkable moderation and integrity."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
+    "chapter": "Chapter 3",
+    "caesar": "Otho",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sh? With his own wedded wife he had begun an intrigue.\" With the rank of quaestor Otho governed the province for ten years with remarkable moderation and integrity."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
     "chapter": "Chapter 4",
     "caesar": "Otho",
     "entity": "Otho",
@@ -166,7 +284,7 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 22,
     "chapter": "Chapter 4",
     "caesar": "Otho",
     "entity": "Galba",
@@ -179,7 +297,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 23,
     "chapter": "Chapter 4",
     "caesar": "Otho",
     "entity": "Nero",
@@ -192,7 +310,33 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 24,
+    "chapter": "Chapter 4",
+    "caesar": "Otho",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...on to anyone. Whenever he entertained the prince at dinner, he gave a gold piece to each man of the cohort on guard, and put all the soldiers under obligation in one form or another. Chosen arbiter by..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 4",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ined the prince at dinner, he gave a gold piece to each man of the cohort on guard, and put all the soldiers under obligation in one form or another. Chosen arbiter by a man who was at law with his ne..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
     "chapter": "Chapter 5",
     "caesar": "Otho",
     "entity": "Galba",
@@ -205,7 +349,21 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 27,
+    "chapter": "Chapter 5",
+    "caesar": "Otho",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ands of the enemy in battle or at those of his creditors in the Forum. 2 He had extorted a million sesterces from one of the emperor's slaves a few days before for getting him a steward ­ship. This w...",
+      "...-guard, then to ten others, two being chosen by each of the first five; to all of them ten thousand sesterces were paid at once and they were promised fifty thousand more. Through these others were wo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
     "chapter": "Chapter 6",
     "caesar": "Otho",
     "entity": "Galba",
@@ -220,7 +378,21 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 29,
+    "chapter": "Chapter 6",
+    "caesar": "Otho",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... and set upon Galba as he was dining in the Palace, but had been prevented by consideration for the cohort which was on guard at the time, and a reluctance to increase its ill repute; for it was while...",
+      "...h was on guard at the time, and a reluctance to increase its ill repute; for it was while that same cohort was at its post that both Galba had been slain and Nero had been forsaken. The intervening ti..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
     "chapter": "Chapter 6",
     "caesar": "Otho",
     "entity": "Nero",
@@ -233,7 +405,33 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 31,
+    "chapter": "Chapter 6",
+    "caesar": "Otho",
+    "entity": "Saturn",
+    "slug": "Saturn_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...dmonishing his confederates to await him in the Forum at the golden mile-post hard by the temple of Saturn, he called upon Galba in the morning and was welcomed as usual with a kiss. He also attended ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 6",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ries to kill Galba and Piso, and made no further promises in the assembly to win the loyalty of the soldiers than to declare that he would have that — and only that — which they should leave to him."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
     "chapter": "Chapter 7",
     "caesar": "Otho",
     "entity": "Nero",
@@ -247,7 +445,59 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 34,
+    "chapter": "Chapter 7",
+    "caesar": "Otho",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e writers, he even made use of that surname in his commissions and his first letters to some of the governors of the provinces. Certain it is that he suffered Nero's busts and statues to be set up aga..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 7",
+    "caesar": "Otho",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n made use of that surname in his commissions and his first letters to some of the governors of the provinces. Certain it is that he suffered Nero's busts and statues to be set up again, and reinstate..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 7",
+    "caesar": "Otho",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...is that he suffered Nero's busts and statues to be set up again, and reinstated his procurators and freedmen in their former posts, while the first grant that he signed as emperor was one of fifty mil..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 7",
+    "caesar": "Otho",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...men in their former posts, while the first grant that he signed as emperor was one of fifty million sesterces for finishing the Golden House. 2 It is said that he had a fearful dream that night, utte..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
     "chapter": "Chapter 7",
     "caesar": "Otho",
     "entity": "Galba",
@@ -260,7 +510,7 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 39,
     "chapter": "Chapter 8",
     "caesar": "Otho",
     "entity": "Germany",
@@ -273,7 +523,7 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 40,
     "chapter": "Chapter 8",
     "caesar": "Otho",
     "entity": "Vitellius",
@@ -288,7 +538,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 41,
     "chapter": "Chapter 8",
     "caesar": "Otho",
     "entity": "Otho",
@@ -301,7 +551,33 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 42,
+    "chapter": "Chapter 8",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n the Camp towards nightfall, some suspected treachery and started a riot; then on a sudden all the soldiers hastened to the Palace without any particular leader, demanding the death of the senators. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 8",
+    "caesar": "Otho",
+    "entity": "Dis",
+    "slug": "Dis_Pater",
+    "url": "https://en.wikipedia.org/wiki/Dis_Pater",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and lamentation, and also with most unfavourable auspices. For having offered up a victim to father Dis, he had good omens, whereas in such a sacrifice adverse indications are more favourable; and whe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
     "chapter": "Chapter 8",
     "caesar": "Otho",
     "entity": "Tiber",
@@ -314,7 +590,7 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 45,
     "chapter": "Chapter 9",
     "caesar": "Otho",
     "entity": "Vitellius",
@@ -327,7 +603,21 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 46,
+    "chapter": "Chapter 9",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... could be ended before the arrival of Vitellius, or from inability to resist the impetuosity of his soldiers, who clamoured for the fight. He himself did not take part in any of the battles, but remai...",
+      "...etriacum he was defeated, but through treachery. For hope of a conference was offered, and when his soldiers were led out in the belief that they were to discuss terms of peace, a battle was forced up..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
     "chapter": "Chapter 9",
     "caesar": "Otho",
     "entity": "Alps",
@@ -340,7 +630,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 48,
     "chapter": "Chapter 9",
     "caesar": "Otho",
     "entity": "Otho",
@@ -353,7 +643,7 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 49,
     "chapter": "Chapter 9",
     "caesar": "Otho",
     "entity": "Pannonia",
@@ -366,7 +656,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 50,
     "chapter": "Chapter 9",
     "caesar": "Otho",
     "entity": "Moesia",
@@ -379,7 +669,46 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 51,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 My father Suetonius Laetus took part in that war, as a tribune of the equestrian order in the Thirteenth legion. He used often to declare afterwards that Otho, even when ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "Thirteenth legion",
+    "slug": "Legio_XIII_Gemina",
+    "url": "https://en.wikipedia.org/wiki/Legio_XIII_Gemina",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 My father Suetonius Laetus took part in that war, as a tribune of the equestrian order in the Thirteenth legion. He used often to declare afterwards that Otho, even when he was a private citizen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ther Suetonius Laetus took part in that war, as a tribune of the equestrian order in the Thirteenth legion. He used often to declare afterwards that Otho, even when he was a private citizen, so loathe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
     "chapter": "Chapter 10",
     "caesar": "Otho",
     "entity": "Otho",
@@ -393,7 +722,7 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 55,
     "chapter": "Chapter 10",
     "caesar": "Otho",
     "entity": "Brutus",
@@ -406,7 +735,7 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 56,
     "chapter": "Chapter 10",
     "caesar": "Otho",
     "entity": "Cassius",
@@ -419,7 +748,7 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 57,
     "chapter": "Chapter 10",
     "caesar": "Otho",
     "entity": "Galba",
@@ -432,7 +761,46 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 58,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...peacefully; further, that he was led to hold his life cheap at that time by the example of a common soldier. This man on bringing news of the defeat of the army was believed by no one, but was charged..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eap at that time by the example of a common soldier. This man on bringing news of the defeat of the army was believed by no one, but was charged by the soldiers now with falsehood and now with cowardi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 10",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... This man on bringing news of the defeat of the army was believed by no one, but was charged by the soldiers now with falsehood and now with cowardice, and accused of running away; whereupon he fell o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
     "chapter": "Chapter 10",
     "caesar": "Otho",
     "entity": "Nero",
@@ -445,7 +813,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 62,
     "chapter": "Chapter 12",
     "caesar": "Otho",
     "entity": "Otho",
@@ -458,7 +826,33 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 63,
+    "chapter": "Chapter 12",
+    "caesar": "Otho",
+    "entity": "Isis",
+    "slug": "Isis",
+    "url": "https://en.wikipedia.org/wiki/Isis",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...earance of the first down, so as never to have a beard; also that he used to celebrate the rites of Isis publicly in the linen garment prescribed by the cult. 2 I am inclined to think that it was bec..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 12",
+    "caesar": "Otho",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hese habits that a death so little in harmony with his life excited the greater marvel. Many of the soldiers who were present kissed his hands and feet as he lay dead, weeping bitterly and calling him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
     "chapter": "Chapter 12",
     "caesar": "Otho",
     "entity": "Galba",

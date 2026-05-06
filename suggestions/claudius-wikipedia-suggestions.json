@@ -1,0 +1,2904 @@
+[
+  {
+    "id": 1,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 The father of Claudius Caesar, Drusus, who at first had the forename Decimus and later that of Nero, was born of L...",
+      "...d several children by the younger Antonia, but was survived by only three, Germanicus, Livilla, and Claudius."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Decimus",
+    "slug": "Decimus_Junius_Brutus_Albinus",
+    "url": "https://en.wikipedia.org/wiki/Decimus_Junius_Brutus_Albinus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The father of Claudius Caesar, Drusus, who at first had the forename Decimus and later that of Nero, was born of Livia within three months after her marriage to Augustus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The father of Claudius Caesar, Drusus, who at first had the forename Decimus and later that of Nero, was born of Livia within three months after her marriage to Augustus (for she was with child a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 4,
+    "contexts": [
+      "...orename Decimus and later that of Nero, was born of Livia within three months after her marriage to Augustus (for she was with child at the time) and there was a suspicion that he was begotten by his ...",
+      "...s because of this, I think, that some have made bold to write that he was an object of suspicion to Augustus; that the emperor recalled him from his province, and when he did not obey at once, took hi...",
+      "...oned, rather not to pass it by, than that I think it true or even probable; for as a matter of fact Augustus loved him so dearly while he lived that he always named him joint-heir along with his sons,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...: \" In three months' time come children to the great.\" 2 This Drusus, while holding the offices of quaestor and praetor, was in charge of the war in Raetia and later of that in Germany. He was the fi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 6,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...months' time come children to the great.\" 2 This Drusus, while holding the offices of quaestor and praetor, was in charge of the war in Raetia and later of that in Germany. He was the first of Roman ...",
+      "...exploits he received the honour of an ovation with the triumphal regalia; and immediately after his praetor ­ship he became consul and resumed his campaign, but died in his summer camp, which for that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...olding the offices of quaestor and praetor, was in charge of the war in Raetia and later of that in Germany. He was the first of Roman generals to sail the northern Ocean, and beyond the Rhine with pr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "ovation",
+    "slug": "Ovatio",
+    "url": "https://en.wikipedia.org/wiki/Ovatio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tongue, forbade him to push his victory further. 3 For these exploits he received the honour of an ovation with the triumphal regalia; and immediately after his praetor ­ship he became consul and res..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 9,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...im to push his victory further. 3 For these exploits he received the honour of an ovation with the triumphal regalia; and immediately after his praetor ­ship he became consul and resumed his campaign..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... honour of an ovation with the triumphal regalia; and immediately after his praetor ­ship he became consul and resumed his campaign, but died in his summer camp, which for that reason was given the na..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n the name of \"Accursed.\" The body was carried by the leading men of the free towns and colonies to Rome, where it was met and received by the decuries of scribes, and buried in the campus Martius. Bu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...where it was met and received by the decuries of scribes, and buried in the campus Martius. But the army reared a monument in his honour, about which the soldiers should make a ceremonial run each yea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es, and buried in the campus Martius. But the army reared a monument in his honour, about which the soldiers should make a ceremonial run each year thereafter on a stated day, which the cities of Gaul..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the soldiers should make a ceremonial run each year thereafter on a stated day, which the cities of Gaul were to observe with prayers and sacrifices. The senate, in addition to many other honours, vot..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 15,
+    "chapter": "Chapter 1",
+    "caesar": "Claudius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...old to write that he was an object of suspicion to Augustus; that the emperor recalled him from his province, and when he did not obey at once, took him off by poison. This I have mentioned, rather no..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 16,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul ­ship of Iullus Antonius and ...",
+      "...ay when an altar was first dedicated to Augustus in that town, and he received the name of Tiberius Claudius Drusus. Later, on the adoption of his elder brother into the Julian family, he took the sur..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "Lugdunum",
+    "slug": "Lugdunum",
+    "url": "https://en.wikipedia.org/wiki/Lugdunum",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul ­ship of Iullus Antonius and Fabius Africanus, the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul ­ship of Iullus Antonius and Fabius Africanus, the very day when a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 19,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul ­ship of Iullus Antonius and Fabius Africanus, the very day when an altar was...",
+      "...ul ­ship of Iullus Antonius and Fabius Africanus, the very day when an altar was first dedicated to Augustus in that town, and he received the name of Tiberius Claudius Drusus. Later, on the adoption ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 20,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Claudius was born at Lugdunum on the Kalends of Augustus in the consul ­ship of Iullus Antonius and Fabius Africanus, the very day when an altar was first dedicated..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
+    "chapter": "Chapter 2",
+    "caesar": "Claudius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of their father; and on the day when he assumed the gown of manhood he was taken in a litter to the Capitol about midnight without the usual escort. 13"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 3",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ure\"; and if she accused anyone of dulness, she used to say that he was \"a bigger fool than her son Claudius.\" His grandmother Augusta always treated him with the utmost contempt, very rarely speaking..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 3",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rved a fortune. Finally to make it clearer what opinions, favourable and otherwise, his great uncle Augustus had of him, I have appended extracts from his own letters:"
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 4",
+    "caesar": "Claudius",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ia, as you requested, with regard to what is to be done with your grandson Tiberius at the games of Mars. Now we are both agreed that we must decide once for all what plan we are to adopt in his case....",
+      "... present advice, I do not object to his having charge of the banquet of the priests at the games of Mars, if he will allow himself to be advised by his kinsman the son of Silvanus, so as not to do any..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 4",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d to full view in front of the auditorium. I am opposed to his going to the Alban Mount or being in Rome on the days of the Latin festival; for why should he not be made prefect of the city, if he is ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 4",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...clearness and propriety when he declaims, is more than I can see.\" 7 There is no doubt at all what Augustus later decided, and that he left him invested with no office other than the augural priestho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 4",
+    "caesar": "Claudius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... were all but strangers; while the legacy that he left him was not more than eight hundred thousand sesterces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 5",
+    "caesar": "Claudius",
+    "entity": "Saturnalia",
+    "slug": "Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ition, Tiberius merely replied by a note in these words: \"I have sent you forty gold-pieces for the Saturnalia and the Sigillaria.\" Then at last Claudius abandoned all hope of advancement and gave him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
+    "chapter": "Chapter 5",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hese words: \"I have sent you forty gold-pieces for the Saturnalia and the Sigillaria.\" Then at last Claudius abandoned all hope of advancement and gave himself up to idleness, living in obscurity now ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 5",
+    "caesar": "Claudius",
+    "entity": "Campania",
+    "slug": "Campania",
+    "url": "https://en.wikipedia.org/wiki/Campania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...eness, living in obscurity now in his house and gardens in the suburbs, and sometimes at a villa in Campania; moreover from his intimacy with the lowest of men he incurred the reproach of drunkenness ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The equestrian order twice chose him as their patron, to head a deputation on their behalf: once when th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 32,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 The equestrian order twice chose him as their patron, to head a deputation on their behalf: once when they asked from the consuls the privilege of..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...wice chose him as their patron, to head a deputation on their behalf: once when they asked from the consuls the privilege of carrying the body of Augustus to Rome on their shoulders, and again when th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...tation on their behalf: once when they asked from the consuls the privilege of carrying the body of Augustus to Rome on their shoulders, and again when they offered them their congratulations on the d...",
+      "...nd put off their cloaks. 2 The senate too voted that he be made a special member of the priests of Augustus, who were usually chosen by lot; when he later lost his house by fire, that it should be re..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 35,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...eir behalf: once when they asked from the consuls the privilege of carrying the body of Augustus to Rome on their shoulders, and again when they offered them their congratulations on the downfall of S...",
+      "...illion sesterces, and expressly commended him besides to the armies and to the senate and people of Rome with the rest of his kinsfolk."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ving his opinion among the consulars. This second decree was however repealed, since Tiberius urged Claudius's infirmity as a reason, and promised that he would make the loss good through his own gene...",
+      "...mised that he would make the loss good through his own generosity. Yet when Tiberius died, he named Claudius only among his heirs in the third degree, to a third part of his estate, although he gave h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 6",
+    "caesar": "Claudius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gree, to a third part of his estate, although he gave him in addition a legacy of about two million sesterces, and expressly commended him besides to the armies and to the senate and people of Rome wi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 7",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...gn tried to gain popularity by every device, that he at last began his official career, holding the consul ­ship as his colleague for two months; and it chanced that as he entered the Forum for the fi...",
+      "...e with the fasces, an eagle that was flying by lit upon his shoulder. He was also allotted a second consul ­ship, to be held four years later, and several times he presided at the shows in place of Ga..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
+    "chapter": "Chapter 7",
+    "caesar": "Claudius",
+    "entity": "fasces",
+    "slug": "Fasces",
+    "url": "https://en.wikipedia.org/wiki/Fasces",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s colleague for two months; and it chanced that as he entered the Forum for the first time with the fasces, an eagle that was flying by lit upon his shoulder. He was also allotted a second consul ­shi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 But he was exposed also to actual dangers. First in his very consul ­ship, when he was all but deposed, because he had been somewhat slow in contracting for and ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...all but deposed, because he had been somewhat slow in contracting for and setting up the statues of Nero and Drusus, the emperor's brothers. Afterwards he was continually harassed by all kinds of accu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "Lepidus",
+    "slug": "Marcus_Aemilius_Lepidus_(triumvir)",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Aemilius_Lepidus_(triumvir)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t against him by strangers or even by the members of his household. Finally, when the conspiracy of Lepidus and Gaetulicus was detected and he was sent to Germany as one of the envoys to congratulate ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "Germany",
+    "slug": "Germania",
+    "url": "https://en.wikipedia.org/wiki/Germania",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s household. Finally, when the conspiracy of Lepidus and Gaetulicus was detected and he was sent to Germany as one of the envoys to congratulate the emperor, he was really in peril of his life, since ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 44,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...as if to a child in need of a guardian. So great, indeed, was his wrath that some have written that Claudius was even thrown into the river clothes and all, just as he had come. 2 Moreover, from that...",
+      "... the rest by way of humiliation. A case involving the forgery of a will was even admitted, in which Claudius himself was one of the signers. At last he was forced to pay eight million sesterces to ent..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...itted, in which Claudius himself was one of the signers. At last he was forced to pay eight million sesterces to enter a new priesthood, which reduced him to such straitened circumstances that he was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 46,
+    "chapter": "Chapter 9",
+    "caesar": "Claudius",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uced him to such straitened circumstances that he was unable to meet the obligation incurred to the treasury; whereupon by edict of the prefects his property was advertised for sale to meet the defici..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 47,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 3,
+    "contexts": [
+      "... When the assassins of Gaius shut out the crowd under pretence that the emperor wished to be alone, Claudius was ousted with the rest and withdrew to an apartment called the Hermaeum; and a little lat...",
+      "...t at random, saw his feet, intending to ask who he was, pulled him out and recognized him; and when Claudius fell at his feet in terror, he hailed him as emperor. Then he took him to the rest of his c...",
+      "...rgent views, while the populace, who stood about the hall, called for one ruler and expressly named Claudius, he allowed the armed assembly of the soldiers to swear allegiance to him, and promised eac..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 48,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ony hard by and hid among the curtains which hung before the door. 2 As he cowered there, a common soldier, who was prowling about at random, saw his feet, intending to ask who he was, pulled him out..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hin the rampart, he spent the night among the sentries with much less hope than confidence; for the consuls with the senate and the city cohorts had taken possession of the Forum and the Capitol, reso..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mong the sentries with much less hope than confidence; for the consuls with the senate and the city cohorts had taken possession of the Forum and the Capitol, resolved on maintaining the public libert..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nce; for the consuls with the senate and the city cohorts had taken possession of the Forum and the Capitol, resolved on maintaining the public liberty. When he too was summoned to the House by the tr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 52,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t the hall, called for one ruler and expressly named Claudius, he allowed the armed assembly of the soldiers to swear allegiance to him, and promised each man fifteen thousand sesterces; being the fir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 53,
+    "chapter": "Chapter 10",
+    "caesar": "Claudius",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e armed assembly of the soldiers to swear allegiance to him, and promised each man fifteen thousand sesterces; being the first of the Caesars who resorted to bribery to secure the fidelity of the troo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 54,
+    "chapter": "Chapter 11",
+    "caesar": "Claudius",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d be pardoned and forever forgotten; he kept his word too, save only that a few of the tribunes and centurions who had conspired against Gaius were put to death, both to make an example of them and be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 11",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...2 Then turning to the duties of family loyalty, he adopted as his most sacred and frequent oath \"By Augustus.\" He had divine honours voted his grandmother Livia and a chariot drawn by elephants in the...",
+      "...is grandmother Livia and a chariot drawn by elephants in the procession at the Circus, like that of Augustus; also public offerings to the shades of his parents and in addition annual games in the Cir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 11",
+    "caesar": "Claudius",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the duties of family loyalty, he adopted as his most sacred and frequent oath \"By Augustus.\" He had divine honours voted his grandmother Livia and a chariot drawn by elephants in the procession at the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 11",
+    "caesar": "Claudius",
+    "entity": "Pompey",
+    "slug": "Pompey",
+    "url": "https://en.wikipedia.org/wiki/Pompey",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...se it was the same as that of his grandfather Antony. He completed the marble arch to Tiberius near Pompey's theatre, which had been voted some time before by the senate, but left unfinished. Even in ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ege of bringing into the House with him the prefect of the praetorian guard and the tribunes of the soldiers, and the ratification of the judicial acts of his agents in the provinces. 2 He asked the ...",
+      "...ney to Ostia, the people were horror stricken and with dreadful execrations continued to assail the soldiers as traitors, and the senate as murderers, until finally one or two men, and later several, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rd and the tribunes of the soldiers, and the ratification of the judicial acts of his agents in the provinces. 2 He asked the consuls for permission to hold fairs on his private estates. He often app..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...soldiers, and the ratification of the judicial acts of his agents in the provinces. 2 He asked the consuls for permission to hold fairs on his private estates. He often appeared as one of the adviser..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ld fairs on his private estates. He often appeared as one of the advisers at cases tried before the magistrates; and when they gave games, he also arose with the rest of the audience and showed his re...",
+      "...erers, until finally one or two men, and later several, were brought forward upon the rostra by the magistrates and assured the people that Claudius was safe and on his way to the city."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... acclamations and applause. When the tribunes of the commons appeared before him as he sat upon the tribunal, he apologised to them because for lack of room he could not hear them unless they stood up..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...senate as murderers, until finally one or two men, and later several, were brought forward upon the rostra by the magistrates and assured the people that Claudius was safe and on his way to the city."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
+    "chapter": "Chapter 12",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... later several, were brought forward upon the rostra by the magistrates and assured the people that Claudius was safe and on his way to the city."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 65,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...hout experience of treachery, but he was attacked by individuals, by a conspiracy, and finally by a civil war. A man of the commons was caught near his bed-chamber in the middle of the night, dagger i...",
+      "...llio and Messala, conspired to overthrow him, aided by a number of his own freedmen and slaves. The civil war was set on foot by Furius Camillus Scribonianus, governor of Dalmatia; but his rebellion w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 66,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... was caught near his bed-chamber in the middle of the night, dagger in hand; and two members of the equestrian order were found lying in wait for him in public places, one ready to attack him with a s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rd-cane as he came out of the theatre, the other with a hunting knife as he was sacrifi­cing in the temple of Mars. 2 Asinius Gallus and Statilius Corvinus, grandsons of the orators Pollio and Messal..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he came out of the theatre, the other with a hunting knife as he was sacrifi­cing in the temple of Mars. 2 Asinius Gallus and Statilius Corvinus, grandsons of the orators Pollio and Messala, conspir..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "Asinius",
+    "slug": "Gaius_Asinius_Pollio",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...out of the theatre, the other with a hunting knife as he was sacrifi­cing in the temple of Mars. 2 Asinius Gallus and Statilius Corvinus, grandsons of the orators Pollio and Messala, conspired to ove..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "Pollio",
+    "slug": "Gaius_Asinius_Pollio",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rifi­cing in the temple of Mars. 2 Asinius Gallus and Statilius Corvinus, grandsons of the orators Pollio and Messala, conspired to overthrow him, aided by a number of his own freedmen and slaves. Th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...andsons of the orators Pollio and Messala, conspired to overthrow him, aided by a number of his own freedmen and slaves. The civil war was set on foot by Furius Camillus Scribonianus, governor of Dalm..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...mber of his own freedmen and slaves. The civil war was set on foot by Furius Camillus Scribonianus, governor of Dalmatia; but his rebellion was put down within five days, since the legions which had c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 13",
+    "caesar": "Claudius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...llus Scribonianus, governor of Dalmatia; but his rebellion was put down within five days, since the legions which had changed their allegiance were turned from their purpose by superstitious fear; for..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
+    "chapter": "Chapter 14",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He held four consul ­ships in addition to his original one. Of these the first two were in successive years, whil...",
+      "...s without precedent in the case of an emperor. He administered justice most conscientiously both as consul and when out of office, even on his own anniversaries and those of his family, and sometimes ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 75,
+    "chapter": "Chapter 14",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ch, the last for six months, the others for two; and in his third he was substituted for one of the consuls who had died, a thing which was without precedent in the case of an emperor. He administered..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 76,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... was challenged by his opponents about a suit of his own, said that it did not come before Caesar's tribunal, but the ordinary courts; whereupon Claudius compelled him at once to bring the case before...",
+      "...ers took such advantage of his good-nature, that they would not only call him back when he left the tribunal, but would catch hold of the fringe of his robe, and sometimes of his foot, and thus detain..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 77,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... of his own, said that it did not come before Caesar's tribunal, but the ordinary courts; whereupon Claudius compelled him at once to bring the case before him, saying that the man would show in a cas...",
+      "... man's being convicted of forgery, some one cried out that his hands ought to be cut off; whereupon Claudius insisted that an executioner be summoned at once with knife and block. In a case involving ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 78,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s dispute arose among the advocates as to whether the defendant ought to make his appearance in the toga or in a Greek mantle, and the emperor, with the idea of showing absolute impartiality, made him..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 79,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pen contempt. One man in making excuses for a witness that the emperor had summoned from one of the provinces, said that he could not appear, but for a long time would give no reason; at last, after a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 80,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "client",
+    "slug": "Client_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Client_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...I think the excuse is a lawful one.\" Another in thanking the emperor for allowing him to defend his client added \"After all, it is usual.\" I myself used to hear older men say that the pleaders took su..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 81,
+    "chapter": "Chapter 15",
+    "caesar": "Claudius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... slip this remark in a hot debate: \"You are both an old man and a fool.\" All the world knows that a Roman knight who was tried for improper conduct towards women, but on a false charge trumped up by u..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 82,
+    "chapter": "Chapter 16",
+    "caesar": "Claudius",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 He also assumed the censor ­ship, which had long been discontinued, ever since the term of Plancus and Paulus, but in th...",
+      "... father said that he was perfectly satisfied with him, without any public censure, saying \"He has a censor of his own.\" Another who was notorious for corruption and adultery he merely admonished to be...",
+      "...imself, stripped off his clothing and showed a body without a scar. 4 Other noteworthy acts of his censor ­ship were the following: he had a silver chariot of costly workman ­ship, which was offered ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 83,
+    "chapter": "Chapter 16",
+    "caesar": "Claudius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... seen.\" 2 He not only struck from the list of jurors a man of high birth, a leading citizen of the province of Greece, because he did not know Latin, but even deprived him of the rights of citizen ­s...",
+      "...g him and obtaining leave of absence; one man merely because he had been companion to a king in his province, citing the case of Rabirius Postumus, who in bygone days had been tried for treason becaus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 84,
+    "chapter": "Chapter 16",
+    "caesar": "Claudius",
+    "entity": "Greece",
+    "slug": "Greece_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Greece_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e not only struck from the list of jurors a man of high birth, a leading citizen of the province of Greece, because he did not know Latin, but even deprived him of the rights of citizen ­ship; and he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 85,
+    "chapter": "Chapter 16",
+    "caesar": "Claudius",
+    "entity": "Ptolemy",
+    "slug": "Ptolemy_XIII",
+    "url": "https://en.wikipedia.org/wiki/Ptolemy_XIII",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he case of Rabirius Postumus, who in bygone days had been tried for treason because he had followed Ptolemy to Alexandria, to recover a loan. 3 When he attempted to degrade still more, he found them ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 86,
+    "chapter": "Chapter 16",
+    "caesar": "Claudius",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Rabirius Postumus, who in bygone days had been tried for treason because he had followed Ptolemy to Alexandria, to recover a loan. 3 When he attempted to degrade still more, he found them in most cas..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 87,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He made but one campaign and that of little importance. When the senate voted him the triumphal regalia, thinking the honour beneath the imperial dignity and desiring the glory of a legi...",
+      "...the Ocean. His wife Messalina followed his chariot in a carriage, as did also those who had won the triumphal regalia in the same war; the rest marched on foot in purple-bordered togas, except Marcus ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...al regalia, thinking the honour beneath the imperial dignity and desiring the glory of a legitimate triumph, he chose Britain as the best place for gaining it, a land that had been attempted by no one...",
+      "...f a part of the island, returned to Rome within six months after leaving the city, and celebrated a triumph of great splendour. 3 To witness the sight he allowed not only the governors of the provinc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 89,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "Britain",
+    "slug": "Britannia",
+    "url": "https://en.wikipedia.org/wiki/Britannia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng the honour beneath the imperial dignity and desiring the glory of a legitimate triumph, he chose Britain as the best place for gaining it, a land that had been attempted by no one since the Deified..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 90,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e, and without any battle or bloodshed received the submission of a part of the island, returned to Rome within six months after leaving the city, and celebrated a triumph of great splendour. 3 To wi...",
+      "...at splendour. 3 To witness the sight he allowed not only the governors of the provinces to come to Rome, but even some of the exiles; and among the tokens of his victory he set a naval crown on the g..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... city, and celebrated a triumph of great splendour. 3 To witness the sight he allowed not only the governors of the provinces to come to Rome, but even some of the exiles; and among the tokens of his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ated a triumph of great splendour. 3 To witness the sight he allowed not only the governors of the provinces to come to Rome, but even some of the exiles; and among the tokens of his victory he set a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 93,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "togas",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hose who had won the triumphal regalia in the same war; the rest marched on foot in purple-bordered togas, except Marcus Crassus Frugi, who rode a caparisoned horse and wore a tunic embroidered with p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 94,
+    "chapter": "Chapter 17",
+    "caesar": "Claudius",
+    "entity": "Crassus",
+    "slug": "Marcus_Licinius_Crassus",
+    "url": "https://en.wikipedia.org/wiki/Marcus_Licinius_Crassus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...triumphal regalia in the same war; the rest marched on foot in purple-bordered togas, except Marcus Crassus Frugi, who rode a caparisoned horse and wore a tunic embroidered with palms, because he was ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
+    "chapter": "Chapter 18",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...a stubborn fire in the Aemiliana he remained in the Diribitorium for two nights, and when a body of soldiers and of his own slaves could not give sufficient help, he summoned the commons from all part..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 96,
+    "chapter": "Chapter 18",
+    "caesar": "Claudius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aves could not give sufficient help, he summoned the commons from all parts of the city through the magistrates, and pla­cing bags full of money before them, urged them to the rescue, paying each man ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 97,
+    "chapter": "Chapter 18",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ace by a back door; and after this experience he resorted to every possible means to bring grain to Rome, even in the winter season. To the merchants he held out the certainty of profit by assuming th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 98,
+    "chapter": "Chapter 19",
+    "caesar": "Claudius",
+    "entity": "lex",
+    "slug": "Roman_law",
+    "url": "https://en.wikipedia.org/wiki/Roman_law",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 to a citizen exemption from the lex Papia Poppaea; to a Latin the rights of Roman citizen ­ship; to women the privileges allowed the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 99,
+    "chapter": "Chapter 20",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... outlet of Lake Fucinus and the harbour at Ostia, although in the case of the last two he knew that Augustus had refused the former to the Marsians in spite of their frequent requests, and that the la..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
+    "chapter": "Chapter 20",
+    "caesar": "Claudius",
+    "entity": "Egypt",
+    "slug": "Egypt_(Roman_province)",
+    "url": "https://en.wikipedia.org/wiki/Egypt_(Roman_province)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s mole a firmer foundation, he first sank the ship in which the great obelisk had been brought from Egypt, and then securing it by piles, built upon it a very lofty tower after the model of the Pharos..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 101,
+    "chapter": "Chapter 20",
+    "caesar": "Claudius",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t, and then securing it by piles, built upon it a very lofty tower after the model of the Pharos at Alexandria, to be lighted at night and guide the course of ships."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 102,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Pompey",
+    "slug": "Pompey",
+    "url": "https://en.wikipedia.org/wiki/Pompey",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...es, and in places where no one had ever given them before. He opened the games at the dedication of Pompey's theatre, which he had restored when it was damaged by a fire, from a raised seat in the orc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 103,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...sat in silence. 2 He also celebrated secular games, alleging that they had been given too early by Augustus and not reserved for the regular time; although he himself writes in his own History that w...",
+      "...although he himself writes in his own History that when they had been discontinued for a long time, Augustus restored them to their proper place after a very careful calculation of the intervals. Ther..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 104,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Vatican",
+    "slug": "Vatican_Hill",
+    "url": "https://en.wikipedia.org/wiki/Vatican_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ho had appeared at the former performance appeared at that time as well. He often gave games in the Vatican Circus also, at times with a beast-baiting between every five races. 3 But the Great Circus..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 105,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ited the game called Troy and also panthers, which were hunted down by a squadron of the praetorian cavalry under the lead of the tribunes and the prefect himself; likewise Thessalian horsemen, º who ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Praetorian",
+    "slug": "Praetorian_Guard",
+    "url": "https://en.wikipedia.org/wiki/Praetorian_Guard",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gave many gladiatorial shows and in many places: one in yearly celebration of his accession, in the Praetorian Camp without wild beasts and fine equipment, and one in the • Saepta of the regular and u..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 107,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Praetorian Camp",
+    "slug": "Praetorian_Guard",
+    "url": "https://en.wikipedia.org/wiki/Praetorian_Guard",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...gave many gladiatorial shows and in many places: one in yearly celebration of his accession, in the Praetorian Camp without wild beasts and fine equipment, and one in the • Saepta of the regular and u..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tly they ought to desire children, since they saw that they brought favour and protection even to a gladiator. 6 He gave representations in the Campus Martius of the storming and sacking of a town in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 109,
+    "chapter": "Chapter 21",
+    "caesar": "Claudius",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... saw that they brought favour and protection even to a gladiator. 6 He gave representations in the Campus Martius of the storming and sacking of a town in the manner of real warfare, as well as of th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 110,
+    "chapter": "Chapter 22",
+    "caesar": "Claudius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r named anyone until he had first taken oath, and he scrupulously observed the custom of having the praetor call an assembly and proclaim a holiday, whenever there was an earthquake within the city; a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 111,
+    "chapter": "Chapter 22",
+    "caesar": "Claudius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the city; as well as that of offering up a supplication whenever a bird of ill-omen was seen on the Capitol. This last he himself conducted in his capacity of chief priest, first reciting the form of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 22",
+    "caesar": "Claudius",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... conducted in his capacity of chief priest, first reciting the form of words to the people from the rostra, after all mechanics and slaves had been ordered to withdraw."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...continuous. Jurisdiction in cases of trust, which it had been usual to assign each year and only to magistrates in the city, he delegated for all time and extended to the governors of the provinces. H...",
+      "...e consuls, contrary to the usual procedure, and that those who were banished from a province by its magistrates should also be debarred from the city and from Italy. He himself imposed upon some a new..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 114,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...assign each year and only to magistrates in the city, he delegated for all time and extended to the governors of the provinces. He annulled a clause added to the lex Papia Poppaea by Tiberius, implyin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 115,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and only to magistrates in the city, he delegated for all time and extended to the governors of the provinces. He annulled a clause added to the lex Papia Poppaea by Tiberius, implying that men of six..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 116,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "lex",
+    "slug": "Roman_law",
+    "url": "https://en.wikipedia.org/wiki/Roman_law",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ated for all time and extended to the governors of the provinces. He annulled a clause added to the lex Papia Poppaea by Tiberius, implying that men of sixty could not beget children. 2 He made a law..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 117,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...xty could not beget children. 2 He made a law that guardians might be appointed for orphans by the consuls, contrary to the usual procedure, and that those who were banished from a province by its ma...",
+      "...When about to conduct business of special importance in the House, he took his seat between the two consuls or on the tribunes' bench. He reserved to himself the granting of permission to travel, whic..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
+    "chapter": "Chapter 23",
+    "caesar": "Claudius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or orphans by the consuls, contrary to the usual procedure, and that those who were banished from a province by its magistrates should also be debarred from the city and from Italy. He himself imposed..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 119,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He gave the consular regalia even to the second grade of stewards. If any refused senatorial rank, he took from them that of knight also. Though he had declared at the beginning of h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e broad stripe even to a freedman's son, but only on condition that he should first be adopted by a Roman knight. Even then, fearful of criticism, he declared that the censor Appius Caecus, the ancien..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 121,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he should first be adopted by a Roman knight. Even then, fearful of criticism, he declared that the censor Appius Caecus, the ancient founder of his family, had chosen the sons of freedmen into the se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 122,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e declared that the censor Appius Caecus, the ancient founder of his family, had chosen the sons of freedmen into the senate; but he did not know that in the days of Appius and for some time afterward..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed, not those who were themselves manumitted, but their freeborn sons. 2 He obliged the college of quaestors to give a gladiatorial show in place of paving the roads; then depriving them of their off..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "Gaul",
+    "slug": "Gaul",
+    "url": "https://en.wikipedia.org/wiki/Gaul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ial show in place of paving the roads; then depriving them of their official duties at Ostia and in Gaul, he restored to them the charge of the treasury of Saturn, which had in the meantime been admin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 125,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...depriving them of their official duties at Ostia and in Gaul, he restored to them the charge of the treasury of Saturn, which had in the meantime been administered by praetors, or by ex-praetors, as i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 126,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "Saturn",
+    "slug": "Saturn_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Saturn_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...em of their official duties at Ostia and in Gaul, he restored to them the charge of the treasury of Saturn, which had in the meantime been administered by praetors, or by ex-praetors, as in our time. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...stored to them the charge of the treasury of Saturn, which had in the meantime been administered by praetors, or by ex-praetors, as in our time. 3 He gave the triumphal regalia to Silanus, his daught...",
+      "...charge of the treasury of Saturn, which had in the meantime been administered by praetors, or by ex-praetors, as in our time. 3 He gave the triumphal regalia to Silanus, his daughter's affianced husb..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 128,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ad in the meantime been administered by praetors, or by ex-praetors, as in our time. 3 He gave the triumphal regalia to Silanus, his daughter's affianced husband, who was still a boy, and conferred t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... them on older men so often and so readily, that a joint petition was circulated in the name of the legions, praying that those emblems be given the consular governors at the same time with their armi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 130,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "governors",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...etition was circulated in the name of the legions, praying that those emblems be given the consular governors at the same time with their armies, to prevent their seeking all sorts of pretexts for war..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 131,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "ovation",
+    "slug": "Ovatio",
+    "url": "https://en.wikipedia.org/wiki/Ovatio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rmies, to prevent their seeking all sorts of pretexts for war. To Aulus Plautius he also granted an ovation, going out to meet him when he entered the city, and walking on his left as he went to the C..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
+    "chapter": "Chapter 24",
+    "caesar": "Claudius",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... ovation, going out to meet him when he entered the city, and walking on his left as he went to the Capitol and returned again. He allowed Gabinius Secundus to assume the surname of Cauchius because o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 133,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He rearranged the military career of the knights, assigning a division of cavalry after a cohort, and next the tribunate of a legion. He also instituted a series of military ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 134,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He rearranged the military career of the knights, assigning a division of cavalry after a cohort, and next the tribunate of a legion. He also instituted a series of military positions and a ...",
+      "... should not pass through the towns of Italy except on foot, or in a chair or litter. He stationed a cohort at Puteoli and one at Ostia, to guard against the danger of fires. 3 He forbade men of forei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... career of the knights, assigning a division of cavalry after a cohort, and next the tribunate of a legion. He also instituted a series of military positions and a kind of fictitious service, which is..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d could be performed in absentia and in name only. He even had the Fathers pass a decree forbidding soldiers to enter the houses of senators to pay their respects. He confiscated the property of those..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 137,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...oldiers to enter the houses of senators to pay their respects. He confiscated the property of those freedmen who passed as Roman knights, and reduced to slavery again such as were ungrateful and a cau...",
+      "...to their patrons, declaring to their advocates that he would not entertain a suit against their own freedmen. 2 When certain men were exposing their sick and worn out slaves on the Island of Aesculap...",
+      "... whole conduct of his reign, were dictated not so much by his own judgment as that of his wives and freedmen, since he nearly always acted in accordance with their interests and desires."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 138,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...uses of senators to pay their respects. He confiscated the property of those freedmen who passed as Roman knights, and reduced to slavery again such as were ungrateful and a cause of complaint to thei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 139,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...heir sick and worn out slaves on the Island of Aesculapius because of the trouble of treating them, Claudius decreed that all such slaves were free, and that if they recovered, they should not return ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 140,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Puteoli",
+    "slug": "Puteoli",
+    "url": "https://en.wikipedia.org/wiki/Puteoli",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t pass through the towns of Italy except on foot, or in a chair or litter. He stationed a cohort at Puteoli and one at Ostia, to guard against the danger of fires. 3 He forbade men of foreign birth t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 141,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Esquiline",
+    "slug": "Esquiline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Esquiline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he clans were concerned. Those who usurped the privileges of Roman citizen ­ship he executed in the Esquiline field. He restored to the senate the provinces of Achaia and Macedonia, which Tiberius had..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 142,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...privileges of Roman citizen ­ship he executed in the Esquiline field. He restored to the senate the provinces of Achaia and Macedonia, which Tiberius had taken into his own charge. He deprived the Lyc..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Macedonia",
+    "slug": "Macedonia_(region)",
+    "url": "https://en.wikipedia.org/wiki/Macedonia_(region)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...zen ­ship he executed in the Esquiline field. He restored to the senate the provinces of Achaia and Macedonia, which Tiberius had taken into his own charge. He deprived the Lycians of their independen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 144,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Rome",
+    "slug": "Rome",
+    "url": "https://en.wikipedia.org/wiki/Rome",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...hat they were the founders of the Roman race, reading an ancient letter of the senate and people of Rome written in Greek to king Seleucus, in which they promised him their friendship and alliance onl...",
+      "...4 Since the Jews constantly made disturbances at the instigation of Chrestus, he expelled them from Rome. He allowed the envoys of the Germans to sit in the orchestra, led by their naïve self-confiden...",
+      "...Roman citizens; on the other hand he even attempted to transfer the Eleusinian rites from Attica to Rome, and had the temple of Venus Erycina in Sicily, which had fallen to ruin through age, restored ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Jews",
+    "slug": "Jews",
+    "url": "https://en.wikipedia.org/wiki/Jews",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... only on condition that he should keep their kinsfolk of Ilium free from every burden. 4 Since the Jews constantly made disturbances at the instigation of Chrestus, he expelled them from Rome. He all..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 146,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      ".... 5 He utterly abolished the cruel and inhuman religion of the Druids among the Gauls, which under Augustus had merely been prohibited to Roman citizens; on the other hand he even attempted to transf..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 147,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "temple of Venus",
+    "slug": "Temple_of_Venus_Genetrix",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Venus_Genetrix",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the other hand he even attempted to transfer the Eleusinian rites from Attica to Rome, and had the temple of Venus Erycina in Sicily, which had fallen to ruin through age, restored at the expense of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 148,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "Sicily",
+    "slug": "Sicily",
+    "url": "https://en.wikipedia.org/wiki/Sicily",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...empted to transfer the Eleusinian rites from Attica to Rome, and had the temple of Venus Erycina in Sicily, which had fallen to ruin through age, restored at the expense of the treasury of the Roman p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 149,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "treasury",
+    "slug": "Aerarium",
+    "url": "https://en.wikipedia.org/wiki/Aerarium",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...le of Venus Erycina in Sicily, which had fallen to ruin through age, restored at the expense of the treasury of the Roman people. He struck his treaties with foreign princes in the Forum, sacrifi­cing..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 150,
+    "chapter": "Chapter 25",
+    "caesar": "Claudius",
+    "entity": "fetial",
+    "slug": "Fetial",
+    "url": "https://en.wikipedia.org/wiki/Fetial",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...aties with foreign princes in the Forum, sacrifi­cing a pig and reciting the ancient formula of the fetial priests. But these and other acts, and in fact almost the whole conduct of his reign, were di..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 151,
+    "chapter": "Chapter 26",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He was betrothed twice at an early age: to Aemilia Lepida, great-granddaughter of Augustus, and to Livia Medullina, who also had the surname of Camilla and was descended from the anc...",
+      "...millus the dictator. He put away the former before their marriage, because her parents had offended Augustus; the latter was taken ill and died on the very day which had been set for the wedding. 2 H..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 152,
+    "chapter": "Chapter 26",
+    "caesar": "Claudius",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lina, who also had the surname of Camilla and was descended from the ancient family of Camillus the dictator. He put away the former before their marriage, because her parents had offended Augustus; t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 153,
+    "chapter": "Chapter 26",
+    "caesar": "Claudius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... set for the wedding. 2 He then married Plautia Urgulanilla, whose father had been honoured with a triumph, and later Aelia Paetina, daughter of an ex-consul. He divorced both these, Paetina for triv..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 154,
+    "chapter": "Chapter 26",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ulanilla, whose father had been honoured with a triumph, and later Aelia Paetina, daughter of an ex-consul. He divorced both these, Paetina for trivial offences, but Urgulanilla because of scandalous ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 155,
+    "chapter": "Chapter 26",
+    "caesar": "Claudius",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... hardly a single day's delay; but none were found to follow his example save a freedman and a chief centurion, whose marriage ceremony he himself attended with Agrippina."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 156,
+    "chapter": "Chapter 27",
+    "caesar": "Claudius",
+    "entity": "Sulla",
+    "slug": "Sulla",
+    "url": "https://en.wikipedia.org/wiki/Sulla",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s door and disowned. 2 He gave Antonia in marriage to Gnaeus Pompeius Magnus, and later to Faustus Sulla, both young men of high birth, and Octavia to his stepson Nero, after she had previously been ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 157,
+    "chapter": "Chapter 27",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...mpeius Magnus, and later to Faustus Sulla, both young men of high birth, and Octavia to his stepson Nero, after she had previously been betrothed to Silanus. Britannicus was born on the twenty-second ...",
+      "...nd he would wish him happy auspices, joined by the applauding throng. Of his sons-in‑law he adopted Nero; Pompeius and Silanus he not only declined to adopt, but even put to death."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 158,
+    "chapter": "Chapter 27",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... betrothed to Silanus. Britannicus was born on the twenty-second day of his reign and in his second consul ­ship. When he was still very small, Claudius would often take him in his arms and commend hi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 159,
+    "chapter": "Chapter 27",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...on the twenty-second day of his reign and in his second consul ­ship. When he was still very small, Claudius would often take him in his arms and commend him to the assembled soldiers, and to the peop..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 160,
+    "chapter": "Chapter 27",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he was still very small, Claudius would often take him in his arms and commend him to the assembled soldiers, and to the people at the games, holding him in his lap or in his outstretched hands, and h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 161,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Of his freedmen he had special regard for the eunuch Posides, whom he even presented with the headless spea...",
+      "...wer was made that he would have enough and to spare, if he were taken into partner ­ship by his two freedmen."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pecial regard for the eunuch Posides, whom he even presented with the headless spear at his British triumph, along with those who had served as soldiers. He was equally fond of Felix, giving him the c..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 163,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e even presented with the headless spear at his British triumph, along with those who had served as soldiers. He was equally fond of Felix, giving him the command of cohorts and of troops of horse, as..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 164,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...long with those who had served as soldiers. He was equally fond of Felix, giving him the command of cohorts and of troops of horse, as well as of the province of Judaea; and he became the husband of t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 165,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... equally fond of Felix, giving him the command of cohorts and of troops of horse, as well as of the province of Judaea; and he became the husband of three queens. Also of Harpocras, to whom he granted..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 166,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s. Still higher was his regard for Polybius, his literary adviser, who often walked between the two consuls. But most of all he was devoted to his secretary Narcissus and his treasurer Pallas, and he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 167,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "quaestors",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d in addition by a decree of the senate, not only with immense gifts, but even with the insignia of quaestors and praetors. Besides this he permitted them to amass such wealth by plunder, that when he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 168,
+    "chapter": "Chapter 28",
+    "caesar": "Claudius",
+    "entity": "praetors",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...by a decree of the senate, not only with immense gifts, but even with the insignia of quaestors and praetors. Besides this he permitted them to amass such wealth by plunder, that when he once complain..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 169,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "Pompey",
+    "slug": "Pompey",
+    "url": "https://en.wikipedia.org/wiki/Pompey",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...husband of his elder daughter, and Lucius Silanus who was betrothed to his younger one. 2 Of these Pompey was stabbed in the embraces of a favourite youth, while Silanus was compelled to abdicate his..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 170,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ompey was stabbed in the embraces of a favourite youth, while Silanus was compelled to abdicate his praetor ­ship four days before the Kalends of January and to take his own life at the beginning of t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 171,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f a favourite youth, while Silanus was compelled to abdicate his praetor ­ship four days before the Kalends of January and to take his own life at the beginning of the year, the very day of the marria..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f a favourite youth, while Silanus was compelled to abdicate his praetor ­ship four days before the Kalends of January and to take his own life at the beginning of the year, the very day of the marria..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 173,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s of January and to take his own life at the beginning of the year, the very day of the marriage of Claudius and Agrippina. He inflicted the death penalty on thirty-five senators and more than three h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 174,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s and Agrippina. He inflicted the death penalty on thirty-five senators and more than three hundred Roman knights with such easy indifference, that when a centurion in reporting the death of an ex-con..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 175,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ty-five senators and more than three hundred Roman knights with such easy indifference, that when a centurion in reporting the death of an ex-consul said that his order had been carried out, he replie..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 176,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ed Roman knights with such easy indifference, that when a centurion in reporting the death of an ex-consul said that his order had been carried out, he replied that he had given no order; but he never..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...carried out, he replied that he had given no order; but he nevertheless approved the act, since his freedmen declared that the soldiers had done their duty in hastening to avenge their emperor without..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 178,
+    "chapter": "Chapter 29",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t he had given no order; but he nevertheless approved the act, since his freedmen declared that the soldiers had done their duty in hastening to avenge their emperor without instructions. 3 But it is..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 179,
+    "chapter": "Chapter 33",
+    "caesar": "Claudius",
+    "entity": "Augustus",
+    "slug": "Augustus",
+    "url": "https://en.wikipedia.org/wiki/Augustus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r for food and drink at all times and in all places. Once when he was holding court in the forum of Augustus and had caught the savour of a meal which was preparing for the Salii in the temple of Mars..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 180,
+    "chapter": "Chapter 33",
+    "caesar": "Claudius",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the forum of Augustus and had caught the savour of a meal which was preparing for the Salii in the temple of Mars hard by, he left the tribunal, went up where the priests were, and took his place at ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 181,
+    "chapter": "Chapter 33",
+    "caesar": "Claudius",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... of Augustus and had caught the savour of a meal which was preparing for the Salii in the temple of Mars hard by, he left the tribunal, went up where the priests were, and took his place at their tabl..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 182,
+    "chapter": "Chapter 33",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t the savour of a meal which was preparing for the Salii in the temple of Mars hard by, he left the tribunal, went up where the priests were, and took his place at their table. He hardly ever left the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 183,
+    "chapter": "Chapter 34",
+    "caesar": "Claudius",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... in particular the net-fighters, so that he could watch their faces as they died. 2 When a pair of gladiators had fallen by mutually inflicted wounds, he at once had some little knives made from both..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 184,
+    "chapter": "Chapter 34",
+    "caesar": "Claudius",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ind, had not worked well. He even forced one of his pages to enter the arena just as he was, in his toga."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 185,
+    "chapter": "Chapter 35",
+    "caesar": "Claudius",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he never ventured to go to a banquet without being surrounded by guards with lances and having his soldiers wait upon him in place of the servants; and he never visited a man who was ill without havi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 186,
+    "chapter": "Chapter 35",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...s taken from every man's attendant or scribe. When Camillus began his revolution, he felt sure that Claudius could be intimidated without resorting to war; and in fact when he ordered the emperor in a...",
+      "..., and impudent letter to give up his throne and betake himself to a life of privacy and retirement, Claudius called together the leading men and asked their advice about complying."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 187,
+    "chapter": "Chapter 37",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ight uneasiness entered his mind. One of two parties to a suit, when he made his morning call, took Claudius aside, and said that he had dreamed that he was murdered by someone; then a little later pr...",
+      "...were proof positive of the truth of the dream, his immediate accusation and death were ordered. And Claudius did not hesitate to recount the whole affair to the senate next day and to thank the freedm..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 188,
+    "chapter": "Chapter 37",
+    "caesar": "Claudius",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... put their heads together to destroy him, they agreed on their parts and the latter rushed into his patron's bed-chamber before daybreak in pretended consternation, declaring that he had dreamed that ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 189,
+    "chapter": "Chapter 38",
+    "caesar": "Claudius",
+    "entity": "Tiber",
+    "slug": "Tiber",
+    "url": "https://en.wikipedia.org/wiki/Tiber",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...harply rebuking the people of Ostia, because they had sent no boats to meet him when he entered the Tiber, and in such bitter terms that he wrote that they had reduced him to the rank of a commoner, h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 190,
+    "chapter": "Chapter 38",
+    "caesar": "Claudius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...pulsed with his own hand men who approached him in public at unseasonable times. He also banished a quaestor's clerk without a hearing, as well as a senator of praetorian rank, although they were blam..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 191,
+    "chapter": "Chapter 38",
+    "caesar": "Claudius",
+    "entity": "aedile",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...or going too far in pleading a suit against him before he became emperor; the latter, because, when aedile, he had fined the tenants of Claudius's estates for violating the law forbidding the selling ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 192,
+    "chapter": "Chapter 38",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...against him before he became emperor; the latter, because, when aedile, he had fined the tenants of Claudius's estates for violating the law forbidding the selling of cooked victuals, and had whipped ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 193,
+    "chapter": "Chapter 38",
+    "caesar": "Claudius",
+    "entity": "aediles",
+    "slug": "Aedile",
+    "url": "https://en.wikipedia.org/wiki/Aedile",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ctuals, and had whipped his bailiff when he remonstrated. And with the same motive he took from the aediles the regulation of the cook-shops. 99 3 He did not even keep quiet about his own stupidity, ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 194,
+    "chapter": "Chapter 39",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... called her his daughter and nursling, born and brought up in his arms. Just before his adoption of Nero, as if it were not bad enough to adopt a stepson when he had a grown-up son of his own, he publ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 195,
+    "chapter": "Chapter 40",
+    "caesar": "Claudius",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to go for wine in earlier days. 2 He gave us one of his reasons for supporting a candidate for the quaestor ­ship, that the man's father had once given him cold water when he was ill and needed it. O..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 196,
+    "chapter": "Chapter 40",
+    "caesar": "Claudius",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 2,
+    "contexts": [
+      "..., he said: \"This woman was my mother's freedwoman and tire-woman, but she always regarded me as her patron; I mention this because there are still some in my household now who do not look on me as pat...",
+      "...er patron; I mention this because there are still some in my household now who do not look on me as patron.\" 3 When the people of Ostia made a public petition to him, he flew into a rage on the very ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
+    "chapter": "Chapter 40",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...patron.\" 3 When the people of Ostia made a public petition to him, he flew into a rage on the very tribunal and bawled out that he had no reason for obliging them; that he was surely free if anyone w..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 198,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "Titus",
+    "slug": "Titus_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Titus_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He began to write a history in his youth with the encouragement of Titus Livius and the direct help of Sulpicius Flavius. But when he gave his first reading to a large..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ng down of several benches by a fat man raised a laugh, and even after the disturbance was quieted, Claudius could not keep from recalling the incident and renewing his guffaws. 2 Even while he was e..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "dictator",
+    "slug": "Roman_dictator",
+    "url": "https://en.wikipedia.org/wiki/Roman_dictator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd gave constant recitals through a professional reader. He began his history with the death of the dictator Caesar, but passed to a later period and took a fresh start at the end of the civil war, re..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 201,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "civil war",
+    "slug": "Roman_civil_wars",
+    "url": "https://en.wikipedia.org/wiki/Roman_civil_wars",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...death of the dictator Caesar, but passed to a later period and took a fresh start at the end of the civil war, realising that he was not allowed to give a frank or true account of the earlier times, s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 202,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "Cicero",
+    "slug": "Cicero",
+    "url": "https://en.wikipedia.org/wiki/Cicero",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... autobiography in eight books, lacking rather in good taste than in style, as well as a \"Defence of Cicero against the Writings of Asinius Gallus,\" a work of no little learning. Besides this he invent..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
+    "chapter": "Chapter 41",
+    "caesar": "Claudius",
+    "entity": "Asinius",
+    "slug": "Gaius_Asinius_Pollio",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lacking rather in good taste than in style, as well as a \"Defence of Cicero against the Writings of Asinius Gallus,\" a work of no little learning. Besides this he invented three new letters and added ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 204,
+    "chapter": "Chapter 42",
+    "caesar": "Claudius",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...re ready with both our tongues\"; and in commending Achaia to the senators he declared that it was a province dear to him through the association of kindred studies; while he often replied to Greek env..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 205,
+    "chapter": "Chapter 42",
+    "caesar": "Claudius",
+    "entity": "Homeric",
+    "slug": "Homer",
+    "url": "https://en.wikipedia.org/wiki/Homer",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...tudies; while he often replied to Greek envoys in the senate in a set speech. Indeed he quoted many Homeric lines from the tribunal, and whenever he had punished an enemy or a conspirator, he commonly..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 206,
+    "chapter": "Chapter 42",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...replied to Greek envoys in the senate in a set speech. Indeed he quoted many Homeric lines from the tribunal, and whenever he had punished an enemy or a conspirator, he commonly gave the tribune of th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 207,
+    "chapter": "Chapter 42",
+    "caesar": "Claudius",
+    "entity": "Alexandria",
+    "slug": "Alexandria,_Egypt",
+    "url": "https://en.wikipedia.org/wiki/Alexandria,_Egypt",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...scan History and eight of Carthaginian. Because of these works there was added to the old Museum at Alexandria a new one called after his name, and it was provided that in the one his Etruscan History..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 208,
+    "chapter": "Chapter 43",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ife he had shown some plain signs of repentance for his marriage with Agrippina and his adoption of Nero; for when his freedmen expressed their approval of a trial in which he had the day before conde..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 209,
+    "chapter": "Chapter 43",
+    "caesar": "Claudius",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...me plain signs of repentance for his marriage with Agrippina and his adoption of Nero; for when his freedmen expressed their approval of a trial in which he had the day before condemned a woman for ad..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 210,
+    "chapter": "Chapter 44",
+    "caesar": "Claudius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Not long afterwards he also made his will and sealed it with the seals of all the magistrates. But before he could go any farther, he was cut short by Agrippina, who was being accuse..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 211,
+    "chapter": "Chapter 44",
+    "caesar": "Claudius",
+    "entity": "Claudius",
+    "slug": "Claudius",
+    "url": "https://en.wikipedia.org/wiki/Claudius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...was being accused besides of many other crimes both by her own conscience and by informers. 2 That Claudius was poisoned is the general belief, but when it was done and by whom is disputed. Some say ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...under pretence that he had asked to be entertained in that way. He died on the third day before the Ides of October in the consul ­ship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth yea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 213,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...had asked to be entertained in that way. He died on the third day before the Ides of October in the consul ­ship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth year of his age and the fo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 214,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "Asinius",
+    "slug": "Gaius_Asinius_Pollio",
+    "url": "https://en.wikipedia.org/wiki/Gaius_Asinius_Pollio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...entertained in that way. He died on the third day before the Ides of October in the consul ­ship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth year of his age and the fourteenth of his ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 215,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "Marcellus",
+    "slug": "Marcellus_(consul_49_BC)",
+    "url": "https://en.wikipedia.org/wiki/Marcellus_(consul_49_BC)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ned in that way. He died on the third day before the Ides of October in the consul ­ship of Asinius Marcellus and Acilius Aviola, in the sixty-fourth year of his age and the fourteenth of his reign. H..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 216,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "Nero",
+    "slug": "Nero_(emperor)",
+    "url": "https://en.wikipedia.org/wiki/Nero_(emperor)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...was buried with regal pomp and enrolled among the gods, an honour neglected and finally annulled by Nero, but later restored to him by Vespasian."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 217,
+    "chapter": "Chapter 45",
+    "caesar": "Claudius",
+    "entity": "Vespasian",
+    "slug": "Vespasian",
+    "url": "https://en.wikipedia.org/wiki/Vespasian",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lled among the gods, an honour neglected and finally annulled by Nero, but later restored to him by Vespasian."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 218,
+    "chapter": "Chapter 46",
+    "caesar": "Claudius",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...monly called a comet; the striking of his father Drusus's tomb by lightning; and the fact that many magistrates of all ranks had died that same year. There are besides some indications that he himself..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 219,
+    "chapter": "Chapter 46",
+    "caesar": "Claudius",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... unaware of his approaching end, and that he made no secret of it; º for when he was appointing the consuls, he made no appointment beyond the month when he died, and on his last appearance in the sen..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 220,
+    "chapter": "Chapter 46",
+    "caesar": "Claudius",
+    "entity": "tribunal",
+    "slug": "Tribunal",
+    "url": "https://en.wikipedia.org/wiki/Tribunal",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rmony, he begged the members to watch over the tender years of both; and in his last sitting on the tribunal he declared more than once that he had reached the end of a mortal career, although all who..."
+    ],
+    "status": "approved"
+  }
+]

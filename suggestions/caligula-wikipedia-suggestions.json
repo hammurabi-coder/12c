@@ -3,6 +3,33 @@
     "id": 1,
     "chapter": "Chapter 1",
     "caesar": "Caligula",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...son of Drusus and the younger Antonia, after being adopted by his paternal uncle Tiberius, held the quaestor ­ship five years before the legal age and passed directly to the consul ­ship. When the dea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... uncle Tiberius, held the quaestor ­ship five years before the legal age and passed directly to the consul ­ship. When the death of Augustus was announced, he was sent to the army in Germany, where it...",
+      "...heir allegiance. And later he won a victory over the enemy and celebrated a triumph. 2 Then chosen consul for a second time, before he entered on his term he was hurried off to restore order in the O..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
     "entity": "Augustus",
     "slug": "Augustus",
     "url": "https://en.wikipedia.org/wiki/Augustus",
@@ -13,7 +40,20 @@
     "status": "approved"
   },
   {
-    "id": 2,
+    "id": 4,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d passed directly to the consul ­ship. When the death of Augustus was announced, he was sent to the army in Germany, where it is hard to say whether his filial piety or his courage was more conspicuou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 5,
     "chapter": "Chapter 1",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -26,7 +66,33 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 6,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t is hard to say whether his filial piety or his courage was more conspicuous; for although all the legions obstinately refused to accept Tiberius as emperor, and offered him the rule of the state, he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...state, he held them to their allegiance. And later he won a victory over the enemy and celebrated a triumph. 2 Then chosen consul for a second time, before he entered on his term he was hurried off t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 8,
     "chapter": "Chapter 1",
     "caesar": "Caligula",
     "entity": "Armenia",
@@ -39,7 +105,7 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 9,
     "chapter": "Chapter 1",
     "caesar": "Caligula",
     "entity": "Cappadocia",
@@ -52,7 +118,20 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 10,
+    "chapter": "Chapter 1",
+    "caesar": "Caligula",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... in the Orient, and after vanquishing the king of Armenia and redu­cing Cappadocia to the form of a province, died of a lingering illness at Antioch, in the thirty-fourth year of his age. There was so..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
     "chapter": "Chapter 1",
     "caesar": "Caligula",
     "entity": "Antioch",
@@ -65,7 +144,20 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 12,
+    "chapter": "Chapter 2",
+    "caesar": "Caligula",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t his death through the wiles of Tiberius, aided and abetted by Gnaeus Piso. This man had been made governor of Syria at about that time, and realising that he must give offence either to the father o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
     "chapter": "Chapter 2",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -78,7 +170,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 14,
     "chapter": "Chapter 3",
     "caesar": "Caligula",
     "entity": "Greece",
@@ -91,7 +183,7 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 15,
     "chapter": "Chapter 3",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -104,7 +196,33 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 16,
+    "chapter": "Chapter 3",
+    "caesar": "Caligula",
+    "entity": "triumphal",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...meals. 2 He often slew a foeman in hand-to‑hand combat. He pleaded causes even after receiving the triumphal regalia; and among other fruits of his studies he left some Greek comedies. Unassuming at ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 3",
+    "caesar": "Caligula",
+    "entity": "lictors",
+    "slug": "Lictor",
+    "url": "https://en.wikipedia.org/wiki/Lictor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...reek comedies. Unassuming at home and abroad, he always entered the free and federate towns without lictors. Wherever he came upon the tombs of distinguished men, he always offered sacrifice to their ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
     "chapter": "Chapter 4",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -117,7 +235,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 19,
     "chapter": "Chapter 4",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -130,7 +248,20 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 20,
+    "chapter": "Chapter 4",
+    "caesar": "Caligula",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...met him or saw him off; in fact, when he returned from Germany after quelling the outbreak, all the cohorts of the praetorian guard went forth to meet him, although orders had been given that only two..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 21,
     "chapter": "Chapter 4",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -143,7 +274,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 22,
     "chapter": "Chapter 6",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -157,7 +288,20 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 23,
+    "chapter": "Chapter 6",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...broad, on doubtful authority, that he had recovered, a general rush was made from every side to the Capitol with torches and victims, and the temple gates were all but torn off, that nothing might hin..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
     "chapter": "Chapter 7",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -170,7 +314,7 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 25,
     "chapter": "Chapter 7",
     "caesar": "Caligula",
     "entity": "Nero",
@@ -184,7 +328,48 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 26,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Gaius Caesar was born the day before the Kalends of September in the consul ­ship of his father and Gaius Fonteius Capito. Conflicting testim...",
+      "...erday I arranged with Talarius and Asillius to bring your boy Gaius on the fifteenth day before the Kalends of June, if it be the will of the gods. I send with him besides one of my slaves who is a ph..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 Gaius Caesar was born the day before the Kalends of September in the consul ­ship of his father and Gaius Fonteius Capito. Conflicting testimony makes his birthplace unc...",
+      "...for the historians of Augustus agree that Germanicus was not sent to Germany until the close of his consul ­ship, when Gaius was already born. Moreover, the inscription on the altar adds no strength t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 28,
+    "chapter": "Chapter 8",
+    "caesar": "Caligula",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...irculation soon after he became emperor indicate that he was begotten in the winter-quarters of the legions: \" He who was born in the camp and reared 'mid the arms of his country, Gave at the outset a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 29,
     "chapter": "Chapter 8",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -198,7 +383,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 30,
     "chapter": "Chapter 8",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -211,7 +396,7 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 31,
     "chapter": "Chapter 8",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -225,7 +410,7 @@
     "status": "approved"
   },
   {
-    "id": 18,
+    "id": 32,
     "chapter": "Chapter 9",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -238,7 +423,20 @@
     "status": "approved"
   },
   {
-    "id": 19,
+    "id": 33,
+    "chapter": "Chapter 9",
+    "caesar": "Caligula",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...erived from a joke of the troops, because he was brought up in their midst in the dress of a common soldier. To what extent besides he won their love and devotion by being reared in fellow ­ship with ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 34,
     "chapter": "Chapter 9",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -251,7 +449,33 @@
     "status": "approved"
   },
   {
-    "id": 20,
+    "id": 35,
+    "chapter": "Chapter 10",
+    "caesar": "Caligula",
+    "entity": "rostra",
+    "slug": "Rostra",
+    "url": "https://en.wikipedia.org/wiki/Rostra",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...-grandmother Livia; and when Livia died, though he was not yet of age, he spoke her eulogy from the rostra. Then he fell to the care of his grandmother Antonia and in the nineteenth year of his age he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 36,
+    "chapter": "Chapter 12",
+    "caesar": "Caligula",
+    "entity": "augur",
+    "slug": "Augur",
+    "url": "https://en.wikipedia.org/wiki/Augur",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Gaius took to wife Junia Claudilla, daughter of Marcus Silanus, a man of noble rank. Then appointed augur in place of his brother Drusus, before he was invested with the office he was advanced to that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
     "chapter": "Chapter 12",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -264,7 +488,20 @@
     "status": "approved"
   },
   {
-    "id": 21,
+    "id": 38,
+    "chapter": "Chapter 13",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ll mankind, since he was the prince most earnestly desired by the great part of the provincials and soldiers, many of whom had known him in his infancy, as well as by the whole body of the city popula..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
     "chapter": "Chapter 14",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -278,7 +515,7 @@
     "status": "approved"
   },
   {
-    "id": 22,
+    "id": 40,
     "chapter": "Chapter 14",
     "caesar": "Caligula",
     "entity": "Campania",
@@ -291,7 +528,33 @@
     "status": "approved"
   },
   {
-    "id": 23,
+    "id": 41,
+    "chapter": "Chapter 14",
+    "caesar": "Caligula",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... But when he fell ill, they all spent the whole night about the Palace; some even vowed to fight as gladiators, and others posted placards offering their lives, if the ailing prince were spared. 3 To..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 14",
+    "caesar": "Caligula",
+    "entity": "governor",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t for Tiberius, voluntarily sought Caligula's friendship and came to a conference with the consular governor; then crossing the Euphrates, he paid homage to the Roman eagles and standards and to the s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
     "chapter": "Chapter 14",
     "caesar": "Caligula",
     "entity": "Euphrates",
@@ -304,7 +567,21 @@
     "status": "approved"
   },
   {
-    "id": 24,
+    "id": 44,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "funeral",
+    "slug": "Funus",
+    "url": "https://en.wikipedia.org/wiki/Funus",
+    "occurrenceCount": 2,
+    "contexts": [
+      "... After eulogising Tiberius with many tears before the assembled people and giving him a magnificent funeral, he at once posted off to Pandateria and the Pontian islands, to remove the ashes of his mot...",
+      "... men of the order of knights, in the middle of the day, when the streets were crowded. He appointed funeral sacrifices, too, to be offered each year with due ceremony, as well as games in the Circus i..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 45,
     "chapter": "Chapter 15",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -318,7 +595,7 @@
     "status": "approved"
   },
   {
-    "id": 25,
+    "id": 46,
     "chapter": "Chapter 15",
     "caesar": "Caligula",
     "entity": "Tiber",
@@ -331,7 +608,7 @@
     "status": "approved"
   },
   {
-    "id": 26,
+    "id": 47,
     "chapter": "Chapter 15",
     "caesar": "Caligula",
     "entity": "Claudius",
@@ -344,7 +621,46 @@
     "status": "approved"
   },
   {
-    "id": 27,
+    "id": 48,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ver honours Livia Augusta had ever enjoyed; took his uncle Claudius, who up to that time had been a Roman knight, as his colleague in the consul ­ship; adopted his brother Tiberius on the day that he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 49,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oyed; took his uncle Claudius, who up to that time had been a Roman knight, as his colleague in the consul ­ship; adopted his brother Tiberius on the day that he assumed the gown of manhood, and gave ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 50,
+    "chapter": "Chapter 15",
+    "caesar": "Caligula",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...self and my children dearer than I do Gaius and his sisters\"; as well as in the propositions of the consuls: \"Favour and good fortune attend Gaius Caesar and his sisters.\" 4 With the same degree of p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 51,
     "chapter": "Chapter 16",
     "caesar": "Caligula",
     "entity": "Titus",
@@ -357,7 +673,7 @@
     "status": "approved"
   },
   {
-    "id": 28,
+    "id": 52,
     "chapter": "Chapter 16",
     "caesar": "Caligula",
     "entity": "Cassius",
@@ -370,7 +686,7 @@
     "status": "approved"
   },
   {
-    "id": 29,
+    "id": 53,
     "chapter": "Chapter 16",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -383,7 +699,142 @@
     "status": "approved"
   },
   {
-    "id": 30,
+    "id": 54,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... had regularly been made public by Augustus, a practice discontinued by Tiberius. 2 He allowed the magistrates unrestricted jurisdiction, without appeal to himself. He revised the lists of the Roman ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 55,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d the magistrates unrestricted jurisdiction, without appeal to himself. He revised the lists of the Roman knights strictly and scrupulously, yet with due moderation, publicly taking their horses from ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 56,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "suffrage",
+    "slug": "Suffrage",
+    "url": "https://en.wikipedia.org/wiki/Suffrage",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... labour of the jurors, he added a fifth division to the previous four. He tried also to restore the suffrage to the people by reviving the custom of elections. 3 He at once paid faithfully and withou..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 57,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...taxes and their revenue for the meantime; for example, to Antiochus of Commagene, a hundred million sesterces that had accrued to the Treasury. 4 To make it known that he encouraged every kind of nob...",
+      ".... 4 To make it known that he encouraged every kind of noble action, he gave eight hundred thousand sesterces to a freedwoman, because she had kept silence about the guilt of her patron, though subjec..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 58,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "patron",
+    "slug": "Patronage_in_Rome",
+    "url": "https://en.wikipedia.org/wiki/Patronage_in_Rome",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ght hundred thousand sesterces to a freedwoman, because she had kept silence about the guilt of her patron, though subjected to the utmost torture. Because of these acts, besides other honours, a gold..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 59,
+    "chapter": "Chapter 16",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...acts, besides other honours, a golden shield was voted him, which was to be borne every year to the Capitol on an appointed day by the colleges of priests, escorted by the senate, while boys and girls..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 60,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "1 He held four consul ­ships, one from the Kalends of July for two months, a second from the Kalends of January for...",
+      "...nt, but because at that distance from Rome he had been unable to get news of the death of the other consul just before the day of the Kalends. 2 He twice gave the people a largess of three hundred se..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 61,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 He held four consul ­ships, one from the Kalends of July for two months, a second from the Kalends of January for thirty days, a third up to ...",
+      "1 He held four consul ­ships, one from the Kalends of July for two months, a second from the Kalends of January for thirty days, a third up to the Ides of January, and the fourth until the seve...",
+      "...rom Rome he had been unable to get news of the death of the other consul just before the day of the Kalends. 2 He twice gave the people a largess of three hundred sesterces each, and twice a lavish b..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 62,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He held four consul ­ships, one from the Kalends of July for two months, a second from the Kalends of January for thirty days, a third up to the Ides of January, and the fourth until the seve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 63,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...nds of July for two months, a second from the Kalends of January for thirty days, a third up to the Ides of January, and the fourth until the seventh day before the Ides of the same month. Of all thes...",
+      "...for thirty days, a third up to the Ides of January, and the fourth until the seventh day before the Ides of the same month. Of all these only the last two were continuous. The third he assumed at Lugd..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 64,
     "chapter": "Chapter 17",
     "caesar": "Caligula",
     "entity": "Lugdunum",
@@ -396,7 +847,7 @@
     "status": "approved"
   },
   {
-    "id": 31,
+    "id": 65,
     "chapter": "Chapter 17",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -409,7 +860,111 @@
     "status": "approved"
   },
   {
-    "id": 32,
+    "id": 66,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r consul just before the day of the Kalends. 2 He twice gave the people a largess of three hundred sesterces each, and twice a lavish banquet to the senate and the equestrian order, together with the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 67,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... people a largess of three hundred sesterces each, and twice a lavish banquet to the senate and the equestrian order, together with their wives and children. At the former of these he also distributed..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 68,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "togas",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...questrian order, together with their wives and children. At the former of these he also distributed togas to the men, and to the women and children scarves of red and scarlet. Furthermore, to make a p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 69,
+    "chapter": "Chapter 17",
+    "caesar": "Caligula",
+    "entity": "Saturnalia",
+    "slug": "Saturnalia",
+    "url": "https://en.wikipedia.org/wiki/Saturnalia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... and scarlet. Furthermore, to make a permanent addition to the public gaiety, he added a day to the Saturnalia, and called it Juvenalis."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 70,
+    "chapter": "Chapter 18",
+    "caesar": "Caligula",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...regions. He did not always preside at the games in person, but sometimes assigned the honour to the magistrates or to friends. 2 He exhibited stage-plays continually, of various kinds and in many dif..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 71,
+    "chapter": "Chapter 18",
+    "caesar": "Caligula",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f various kinds, and gave each man a basket of victuals. During the feasting he sent his share to a Roman knight opposite him, who was eating with evident relish and appetite, while to a senator for t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 72,
+    "chapter": "Chapter 18",
+    "caesar": "Caligula",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...evident relish and appetite, while to a senator for the same reason he gave a commission naming him praetor out of the regular order. 3 He also gave many games in the Circus, lasting from early morni..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 73,
+    "chapter": "Chapter 18",
+    "caesar": "Caligula",
+    "entity": "senatorial",
+    "slug": "Roman_Senate",
+    "url": "https://en.wikipedia.org/wiki/Roman_Senate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...splendour, in which the Circus was strewn with red and green, while the charioteers were all men of senatorial rank. He also started some games off-hand, when a few people called for them from the nei..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 74,
     "chapter": "Chapter 19",
     "caesar": "Caligula",
     "entity": "Baiae",
@@ -423,7 +978,7 @@
     "status": "approved"
   },
   {
-    "id": 33,
+    "id": 75,
     "chapter": "Chapter 19",
     "caesar": "Caligula",
     "entity": "Puteoli",
@@ -436,7 +991,7 @@
     "status": "approved"
   },
   {
-    "id": 34,
+    "id": 76,
     "chapter": "Chapter 19",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -449,7 +1004,7 @@
     "status": "approved"
   },
   {
-    "id": 35,
+    "id": 77,
     "chapter": "Chapter 19",
     "caesar": "Caligula",
     "entity": "Britain",
@@ -462,7 +1017,7 @@
     "status": "approved"
   },
   {
-    "id": 36,
+    "id": 78,
     "chapter": "Chapter 20",
     "caesar": "Caligula",
     "entity": "Sicily",
@@ -475,7 +1030,7 @@
     "status": "approved"
   },
   {
-    "id": 37,
+    "id": 79,
     "chapter": "Chapter 20",
     "caesar": "Caligula",
     "entity": "Lugdunum",
@@ -488,7 +1043,7 @@
     "status": "approved"
   },
   {
-    "id": 38,
+    "id": 80,
     "chapter": "Chapter 20",
     "caesar": "Caligula",
     "entity": "Gaul",
@@ -501,7 +1056,7 @@
     "status": "approved"
   },
   {
-    "id": 39,
+    "id": 81,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -514,7 +1069,7 @@
     "status": "approved"
   },
   {
-    "id": 40,
+    "id": 82,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Pompey",
@@ -527,7 +1082,7 @@
     "status": "approved"
   },
   {
-    "id": 41,
+    "id": 83,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Claudius",
@@ -540,7 +1095,7 @@
     "status": "approved"
   },
   {
-    "id": 42,
+    "id": 84,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Ephesus",
@@ -553,7 +1108,7 @@
     "status": "approved"
   },
   {
-    "id": 43,
+    "id": 85,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Alps",
@@ -566,7 +1121,7 @@
     "status": "approved"
   },
   {
-    "id": 44,
+    "id": 86,
     "chapter": "Chapter 21",
     "caesar": "Caligula",
     "entity": "Greece",
@@ -579,7 +1134,20 @@
     "status": "approved"
   },
   {
-    "id": 45,
+    "id": 87,
+    "chapter": "Chapter 21",
+    "caesar": "Caligula",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...Alps, but, above all, to dig a canal through the Isthmus in Greece, and he had already sent a chief centurion to survey the work."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 88,
     "chapter": "Chapter 22",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -592,7 +1160,7 @@
     "status": "approved"
   },
   {
-    "id": 46,
+    "id": 89,
     "chapter": "Chapter 22",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -605,7 +1173,36 @@
     "status": "approved"
   },
   {
-    "id": 47,
+    "id": 90,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...had risen above the elevation both of princes and kings, he began from that time on to lay claim to divine majesty; for after giving orders that such statues of the gods as were especially famous for ...",
+      "...orum, and making the temple of Castor and Pollux its vestibule, he often took his place between the divine brethren, and exhibited himself there to be worshipped by those who presented themselves; and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 91,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "...of the gods as were especially famous for their sanctity or their artistic merit, including that of Jupiter of Olympia, should be brought from Greece, in order to remove their heads and put his own in...",
+      "... exhibited himself there to be worshipped by those who presented themselves; and some hailed him as Jupiter Latiaris. 3 He also set up a special temple to his own godhead, with priests and with victi...",
+      "...nd radiant moon to his embraces and his bed, while in the daytime he would talk confidentially with Jupiter Capitolinus, now whispering and then in turn his ear to the mouth of the god, now in louder ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 92,
     "chapter": "Chapter 22",
     "caesar": "Caligula",
     "entity": "Greece",
@@ -618,7 +1215,7 @@
     "status": "approved"
   },
   {
-    "id": 48,
+    "id": 93,
     "chapter": "Chapter 22",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -631,7 +1228,21 @@
     "status": "approved"
   },
   {
-    "id": 49,
+    "id": 94,
+    "chapter": "Chapter 22",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...e god, he built a bridge over the temple to the Deified Augustus, and thus joined his Palace to the Capitol.⁠ e Presently, to be nearer yet, he laid the foundations of a new house in the court of the ...",
+      "...Capitol.⁠ e Presently, to be nearer yet, he laid the foundations of a new house in the court of the Capitol."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 95,
     "chapter": "Chapter 23",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -645,7 +1256,7 @@
     "status": "approved"
   },
   {
-    "id": 50,
+    "id": 96,
     "chapter": "Chapter 23",
     "caesar": "Caligula",
     "entity": "Sicily",
@@ -658,7 +1269,7 @@
     "status": "approved"
   },
   {
-    "id": 51,
+    "id": 97,
     "chapter": "Chapter 23",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -671,7 +1282,33 @@
     "status": "approved"
   },
   {
-    "id": 52,
+    "id": 98,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "praefect",
+    "slug": "Praefectus",
+    "url": "https://en.wikipedia.org/wiki/Praefectus",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... his grandmother Antonia asked for a private interview, he refused it except in the presence of the praefect Macro, and by such indignities and annoyances he caused her death; although some think that..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 99,
+    "chapter": "Chapter 23",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...oom. 3 He had his brother Tiberius put to death without warning, suddenly sending a tribune of the soldiers to do the deed; besides driving his father-in‑law Silanus to end his life by cutting his th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 100,
     "chapter": "Chapter 23",
     "caesar": "Caligula",
     "entity": "Claudius",
@@ -684,7 +1321,7 @@
     "status": "approved"
   },
   {
-    "id": 53,
+    "id": 101,
     "chapter": "Chapter 24",
     "caesar": "Caligula",
     "entity": "Cassius",
@@ -697,7 +1334,7 @@
     "status": "approved"
   },
   {
-    "id": 54,
+    "id": 102,
     "chapter": "Chapter 24",
     "caesar": "Caligula",
     "entity": "Longinus",
@@ -710,7 +1347,20 @@
     "status": "approved"
   },
   {
-    "id": 55,
+    "id": 103,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...hey were brought up in company. Afterwards, when she was the wife of Lucius Cassius Longinus, an ex-consul, he took her from him and openly treated her as his lawful wife; and when ill, he made her he..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 104,
     "chapter": "Chapter 24",
     "caesar": "Caligula",
     "entity": "Campania",
@@ -723,7 +1373,20 @@
     "status": "approved"
   },
   {
-    "id": 56,
+    "id": 105,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...out matters of the highest moment, even before the assembly of the people or in the presence of the soldiers, except by the godhead of Drusilla. 3 The rest of his sisters he did not love with so grea..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 106,
     "chapter": "Chapter 24",
     "caesar": "Caligula",
     "entity": "Lepidus",
@@ -736,7 +1399,20 @@
     "status": "approved"
   },
   {
-    "id": 57,
+    "id": 107,
+    "chapter": "Chapter 24",
+    "caesar": "Caligula",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...c letters in the handwriting of all of them, procured by fraud and seduction, but also dedicated to Mars the Avenger, with an explanatory inscription, three swords designed to take his life."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 108,
     "chapter": "Chapter 25",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -749,7 +1425,7 @@
     "status": "approved"
   },
   {
-    "id": 58,
+    "id": 109,
     "chapter": "Chapter 25",
     "caesar": "Caligula",
     "entity": "Memmius",
@@ -762,7 +1438,59 @@
     "status": "approved"
   },
   {
-    "id": 59,
+    "id": 110,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... statement was made that the grandmother of Lollia Paulina, who was married to Gaius Memmius, an ex-consul commanding armies, had once been a remarkably beauti ­ful woman, he suddenly called Lollia fr..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 111,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...commanding armies, had once been a remarkably beauti ­ful woman, he suddenly called Lollia from the province, separated her from her husband, and married her; then in a short time had her put away, wi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 112,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...antonness, he loved her not only more passionately but more faithfully, often exhibiting her to the soldiers riding by his side, decked with cloak, helmet and shield, and to his friends even in a stat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 113,
+    "chapter": "Chapter 25",
+    "caesar": "Caligula",
+    "entity": "Minerva",
+    "slug": "Minerva",
+    "url": "https://en.wikipedia.org/wiki/Minerva",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... Julia Drusilla, he carried to the temples of all the goddesses, finally pla­cing her in the lap of Minerva and commending to her the child's nurture and training. And no evidence convinced him so pos..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 114,
     "chapter": "Chapter 26",
     "caesar": "Caligula",
     "entity": "Ptolemy",
@@ -775,7 +1503,137 @@
     "status": "approved"
   },
   {
-    "id": 60,
+    "id": 115,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "togas",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ect ­ful or mild towards the senate, allowing some who had held the highest offices to run in their togas for several miles beside his chariot and to wait on him at table, standing napkin in hand eith..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 116,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...if they were alive, after a few days falsely asserting that they had committed suicide. 3 When the consuls forgot to make proclamation of his birthday, he deposed them, and left the state for three d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 117,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "magistrates",
+    "slug": "Roman_magistrate",
+    "url": "https://en.wikipedia.org/wiki/Roman_magistrate",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...roclamation of his birthday, he deposed them, and left the state for three days without its highest magistrates. He flogged his quaestor, who was charged with conspiracy, stripping off the man's cloth..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 118,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... he deposed them, and left the state for three days without its highest magistrates. He flogged his quaestor, who was charged with conspiracy, stripping off the man's clothes and spreading them under ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 119,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...stor, who was charged with conspiracy, stripping off the man's clothes and spreading them under the soldiers' feet, to give them a firm footing as they beat him. 4 He treated the other orders with li..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 120,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...the free seats in the Circus, he drove them all out with cudgels; in the confusion more than twenty Roman knights were crushed to death, with as many matrons and a countless number of others. At the p..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 121,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e scattered the gift tickets ahead of time, to induce the rabble to take the seats reserved for the equestrian order. 5 At a gladiatorial show he would sometimes draw back the awnings when the sun wa..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 122,
+    "chapter": "Chapter 26",
+    "caesar": "Caligula",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...at no one be allowed to leave; then removing the usual equipment, he would match worthless decrepit gladiators against mangy wild beasts, and have sham fights between householders who were of good rep..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 123,
+    "chapter": "Chapter 27",
+    "caesar": "Caligula",
+    "entity": "Genius",
+    "slug": "Genius_(Roman_religion)",
+    "url": "https://en.wikipedia.org/wiki/Genius_(Roman_religion)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...for serious offences, but merely for criticising one of his shows, or for never having sworn by his Genius. 4 He forced parents to attend the executions of their sons, sending a litter for one man wh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 124,
+    "chapter": "Chapter 27",
+    "caesar": "Caligula",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n the middle of the arena of the amphitheatre, because of a humorous line of double meaning. When a Roman knight on being thrown to the wild beasts loudly protested his innocence, he took him out, cut..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 125,
     "chapter": "Chapter 28",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -788,7 +1646,20 @@
     "status": "approved"
   },
   {
-    "id": 61,
+    "id": 126,
+    "chapter": "Chapter 29",
+    "caesar": "Caligula",
+    "entity": "praetor",
+    "slug": "Praetor",
+    "url": "https://en.wikipedia.org/wiki/Praetor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...anishing his sisters, he made the threat that he not only had islands, but swords as well. 2 An ex-praetor who had retired to Anticyra for his health, sent frequent requests for an extension of his l..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 127,
     "chapter": "Chapter 29",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -801,7 +1672,20 @@
     "status": "approved"
   },
   {
-    "id": 62,
+    "id": 128,
+    "chapter": "Chapter 30",
+    "caesar": "Caligula",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s forced upon him, since he could not but believe so many accusers. He constantly tongue-lashed the equestrian order as devotees of the stage and the arena. Angered at the rabble for applauding a fact..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 129,
     "chapter": "Chapter 30",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -814,7 +1698,7 @@
     "status": "approved"
   },
   {
-    "id": 63,
+    "id": 130,
     "chapter": "Chapter 31",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -827,7 +1711,20 @@
     "status": "approved"
   },
   {
-    "id": 64,
+    "id": 131,
+    "chapter": "Chapter 32",
+    "caesar": "Caligula",
+    "entity": "soldier",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...he was lunching or revelling capital examinations by torture were often made in his presence, and a soldier who was adept at decapitation cut off the heads of those who were brought from prison. At Pu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 132,
     "chapter": "Chapter 32",
     "caesar": "Caligula",
     "entity": "Puteoli",
@@ -840,7 +1737,7 @@
     "status": "approved"
   },
   {
-    "id": 65,
+    "id": 133,
     "chapter": "Chapter 32",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -853,7 +1750,33 @@
     "status": "approved"
   },
   {
-    "id": 66,
+    "id": 134,
+    "chapter": "Chapter 32",
+    "caesar": "Caligula",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arius. At one of his more sumptuous banquets he suddenly burst into a fit of laughter, and when the consuls, who were reclining next him, politely inquired at what he was laughing, he replied; \"What d..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 135,
+    "chapter": "Chapter 33",
+    "caesar": "Caligula",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 As a sample of his humour, he took his place beside a statue of Jupiter, and asked the tragic actor Apelles which of the two seemed to him the greater, and when he ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 136,
     "chapter": "Chapter 33",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -866,7 +1789,7 @@
     "status": "approved"
   },
   {
-    "id": 67,
+    "id": 137,
     "chapter": "Chapter 34",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -879,7 +1802,47 @@
     "status": "approved"
   },
   {
-    "id": 68,
+    "id": 138,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rew down the statues of famous men, which for lack of room Augustus had moved from the court of the Capitol to the Campus Martius, and so utterly demolished them that they could not be set up again wi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 139,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "Campus Martius",
+    "slug": "Campus_Martius",
+    "url": "https://en.wikipedia.org/wiki/Campus_Martius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...atues of famous men, which for lack of room Augustus had moved from the court of the Capitol to the Campus Martius, and so utterly demolished them that they could not be set up again with their inscri..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 140,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "Homer",
+    "slug": "Homer",
+    "url": "https://en.wikipedia.org/wiki/Homer",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ving man anywhere, without his knowledge and consent. 2 He even thought of destroying the poems of Homer, asking why he should not have the same privilege as Plato, who excluded Homer from his ideal ...",
+      "...troying the poems of Homer, asking why he should not have the same privilege as Plato, who excluded Homer from his ideal commonwealth. More than that, he all but removed the writings and the busts of ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 141,
     "chapter": "Chapter 34",
     "caesar": "Caligula",
     "entity": "Titus",
@@ -892,7 +1855,20 @@
     "status": "approved"
   },
   {
-    "id": 69,
+    "id": 142,
+    "chapter": "Chapter 34",
+    "caesar": "Caligula",
+    "entity": "talent",
+    "slug": "Talent_(measurement)",
+    "url": "https://en.wikipedia.org/wiki/Talent_(measurement)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...of Vergil and of Titus Livius from all the libraries, railing at the former as a man of no literary talent and very little learning, and the latter as a verbose and careless historian. With regard to ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 143,
     "chapter": "Chapter 35",
     "caesar": "Caligula",
     "entity": "Ptolemy",
@@ -906,7 +1882,20 @@
     "status": "approved"
   },
   {
-    "id": 70,
+    "id": 144,
+    "chapter": "Chapter 35",
+    "caesar": "Caligula",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...them by having the backs of their heads shaved. There was a certain Aesius Proculus, son of a chief centurion, called Colosseros because of his remarkable size and handsome appearance; this man Caligu..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 145,
     "chapter": "Chapter 35",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -921,7 +1910,34 @@
     "status": "approved"
   },
   {
-    "id": 71,
+    "id": 146,
+    "chapter": "Chapter 35",
+    "caesar": "Caligula",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...nd led into the arena, where he matched him first against a Thracian and then against a heavy-armed gladiator; when Proculus was victor in both contests, Caligula gave orders that he be bound at once,...",
+      "...headlong down the steps, fuming and shouting: \"The people that rule the world give more honour to a gladiator for a trifling act than to their deified emperors or to the one still present with them.\""
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 147,
+    "chapter": "Chapter 35",
+    "caesar": "Caligula",
+    "entity": "toga",
+    "slug": "Toga",
+    "url": "https://en.wikipedia.org/wiki/Toga",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...er a victory, Caligula rushed from the amphitheatre in such haste that he trod on the fringe of his toga and went headlong down the steps, fuming and shouting: \"The people that rule the world give mor..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 148,
     "chapter": "Chapter 36",
     "caesar": "Caligula",
     "entity": "Lepidus",
@@ -934,7 +1950,7 @@
     "status": "approved"
   },
   {
-    "id": 72,
+    "id": 149,
     "chapter": "Chapter 37",
     "caesar": "Caligula",
     "entity": "Campania",
@@ -947,7 +1963,20 @@
     "status": "approved"
   },
   {
-    "id": 73,
+    "id": 150,
+    "chapter": "Chapter 37",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ty for delay was death. To make a long story short, vast sums of money, including the 2,700,000,000 sesterces which Tiberius Caesar had amassed, were squandered by him in less than the revolution of a..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 151,
     "chapter": "Chapter 38",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -960,7 +1989,46 @@
     "status": "approved"
   },
   {
-    "id": 74,
+    "id": 152,
+    "chapter": "Chapter 38",
+    "caesar": "Caligula",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n falsely returned, to which any addition had later been made from any cause whatever. If any chief centurions since the beginning of Tiberius' reign had not named that emperor or himself among their ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 153,
+    "chapter": "Chapter 38",
+    "caesar": "Caligula",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...o overlook praetorian gentleman who kept nodding to him, the bidding was not stopped until thirteen gladiators were knocked down to the unconscious sleeper at nine million sesterces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 154,
+    "chapter": "Chapter 38",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... not stopped until thirteen gladiators were knocked down to the unconscious sleeper at nine million sesterces."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 155,
     "chapter": "Chapter 39",
     "caesar": "Caligula",
     "entity": "Gaul",
@@ -973,7 +2041,20 @@
     "status": "approved"
   },
   {
-    "id": 75,
+    "id": 156,
+    "chapter": "Chapter 39",
+    "caesar": "Caligula",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 When he was in Gaul and had sold at immense figures the jewels, furniture, slaves, and even the freedmen of his sisters who had been condemned to death, finding the business so profitable, he sent..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 157,
     "chapter": "Chapter 39",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -986,7 +2067,73 @@
     "status": "approved"
   },
   {
-    "id": 76,
+    "id": 158,
+    "chapter": "Chapter 39",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...ned that a rich provincial had paid those who issued the emperor's invitations two hundred thousand sesterces, to be smuggled in among the guests at one of his dinner-parties, he was not in the least ...",
+      "... auction, he sent a messenger to hand him some trifle or other at the price of two hundred thousand sesterces and say that he should dine with Caesar on his personal invitation."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 159,
+    "chapter": "Chapter 40",
+    "caesar": "Caligula",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d of taxes, at first through the publicans and then, because their profit was so great, through the centurions and tribunes of the praetorian guard;⁠ g and there was no class of commodities or men on ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 160,
+    "chapter": "Chapter 41",
+    "caesar": "Caligula",
+    "entity": "Roman knights",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...sion given up his place to the player next to him and gone into the courtyard, he spied two wealthy Roman knights passing by; he ordered them to be seized at once and their property confiscated and ca..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 161,
+    "chapter": "Chapter 42",
+    "caesar": "Caligula",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...maintenance and dowry. He also made proclamation that he would receive New Year's gifts, and on the Kalends of January took his place in the entrance to the Palace, to clutch the coins which a throng ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 162,
+    "chapter": "Chapter 42",
+    "caesar": "Caligula",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...maintenance and dowry. He also made proclamation that he would receive New Year's gifts, and on the Kalends of January took his place in the entrance to the Palace, to clutch the coins which a throng ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 163,
     "chapter": "Chapter 43",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -999,7 +2146,85 @@
     "status": "approved"
   },
   {
-    "id": 77,
+    "id": 164,
+    "chapter": "Chapter 43",
+    "caesar": "Caligula",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...f Batavians and was seized with the idea of an expedition to Germany. So without delay he assembled legions and auxiliaries from all quarters, holding levies everywhere with the utmost strictness, and..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 165,
+    "chapter": "Chapter 43",
+    "caesar": "Caligula",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and was seized with the idea of an expedition to Germany. So without delay he assembled legions and auxiliaries from all quarters, holding levies everywhere with the utmost strictness, and collecting ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 166,
+    "chapter": "Chapter 43",
+    "caesar": "Caligula",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ard of scale. Then he began his march and made it now so hurriedly and rapidly, that the praetorian cohorts were forced, contrary to all precedent, to lay their standards on the pack-animals and thus ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 167,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "auxiliaries",
+    "slug": "Auxiliary_(Roman_military)",
+    "url": "https://en.wikipedia.org/wiki/Auxiliary_(Roman_military)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d strictness as a commander, he dismissed in disgrace the generals who were late in bringing in the auxiliaries from various places, and in reviewing his troops he deprived many of the chief centurion..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 168,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...g in the auxiliaries from various places, and in reviewing his troops he deprived many of the chief centurions who were well on in years of their rank, in some cases only a few days before they would ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 169,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... their avarice, he reduced the rewards given on completion of full military service to six thousand sesterces. 75 2 All that he accomplished was to receive the surrender of Adminius, son of Cynobelli..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 170,
     "chapter": "Chapter 44",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -1012,7 +2237,140 @@
     "status": "approved"
   },
   {
-    "id": 78,
+    "id": 171,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...heir post-chaise all the way to the Forum and the House, and not to deliver it to anyone except the consuls, in the temple of Mars the Avenger, before a full meeting of the senate."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 172,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "temple of Mars",
+    "slug": "Temple_of_Mars_Ultor",
+    "url": "https://en.wikipedia.org/wiki/Temple_of_Mars_Ultor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... all the way to the Forum and the House, and not to deliver it to anyone except the consuls, in the temple of Mars the Avenger, before a full meeting of the senate."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 173,
+    "chapter": "Chapter 44",
+    "caesar": "Caligula",
+    "entity": "Mars",
+    "slug": "Mars_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Mars_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ay to the Forum and the House, and not to deliver it to anyone except the consuls, in the temple of Mars the Avenger, before a full meeting of the senate."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 174,
+    "chapter": "Chapter 45",
+    "caesar": "Caligula",
+    "entity": "cavalry",
+    "slug": "Roman_cavalry",
+    "url": "https://en.wikipedia.org/wiki/Roman_cavalry",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...the enemy were close at hand. Upon this he rushed out with his friends and a part of the praetorian cavalry to the woods close by, and after cutting the branches from some trees and adorning them like...",
+      "...school and secretly sent on ahead of him, when he suddenly left a banquet and pursued them with the cavalry as if they were run aways, caught them, and brought them back in fetters, in this farce too ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 175,
+    "chapter": "Chapter 45",
+    "caesar": "Caligula",
+    "entity": "army",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...arce too showing immoderate extravagance. On coming back to the table, when some announced that the army was assembled, he urged them to take their places just as they were, in their coats of mail. He..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 176,
+    "chapter": "Chapter 46",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nd fill their helmets and the folds of their gowns, calling them \"spoils from the Ocean, due to the Capitol and Palatine.\" As a monument of his victory he erected a lofty tower, from which lights were..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 177,
+    "chapter": "Chapter 46",
+    "caesar": "Caligula",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...r helmets and the folds of their gowns, calling them \"spoils from the Ocean, due to the Capitol and Palatine.\" As a monument of his victory he erected a lofty tower, from which lights were to shine at..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 178,
+    "chapter": "Chapter 46",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... lights were to shine at night to guide the course of ships, as from the Pharos. Then promising the soldiers a gratuity of a hundred denarii each, as if he had shown unprecedented liberality, he said,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 179,
+    "chapter": "Chapter 46",
+    "caesar": "Caligula",
+    "entity": "denarii",
+    "slug": "Denarius",
+    "url": "https://en.wikipedia.org/wiki/Denarius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... guide the course of ships, as from the Pharos. Then promising the soldiers a gratuity of a hundred denarii each, as if he had shown unprecedented liberality, he said, \"Go your way happy; go your way ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 180,
+    "chapter": "Chapter 47",
+    "caesar": "Caligula",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 Then turning his attention to his triumph, in addition to a few captives and deserters from the barbarians he chose all the tallest of...",
+      "...rbarians he chose all the tallest of the Gauls, and as he expressed it, those who were \"worthy of a triumph,\" as well as some of the chiefs. These he reserved for his parade, compelling them not only ...",
+      "... to Rome for the greater part of the way. He wrote besides to his financial agents to prepare for a triumph at the smallest possible cost, but on a grander scale than had ever before been known, since..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 181,
     "chapter": "Chapter 47",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -1025,7 +2383,33 @@
     "status": "approved"
   },
   {
-    "id": 79,
+    "id": 182,
+    "chapter": "Chapter 48",
+    "caesar": "Caligula",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Before leaving the province he formed a design of unspeakable cruelty, that of butchering the legions that had begun th..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 183,
+    "chapter": "Chapter 48",
+    "caesar": "Caligula",
+    "entity": "legions",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Before leaving the province he formed a design of unspeakable cruelty, that of butchering the legions that had begun the mutiny years before just after the death of Augustus, because they had be..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 184,
     "chapter": "Chapter 48",
     "caesar": "Caligula",
     "entity": "Augustus",
@@ -1038,7 +2422,72 @@
     "status": "approved"
   },
   {
-    "id": 80,
+    "id": 185,
+    "chapter": "Chapter 48",
+    "caesar": "Caligula",
+    "entity": "legionaries",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... even wearing their swords, and surrounded them with armed horsemen. 2 But seeing that some of the legionaries, suspecting his purpose, were stealing off to resume their arms, in case any violence sh..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 186,
+    "chapter": "Chapter 48",
+    "caesar": "Caligula",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t his own dishonour. He complained among other things that he had been cheated of his fairly earned triumph; whereas a short time before he had himself given orders that on pain of death no action sho..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 187,
+    "chapter": "Chapter 49",
+    "caesar": "Caligula",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e. He also made proclamation that he was returning, but only to those who desired his presence, the equestrian order and the people, for to the senate he would never more be fellow-citizen nor prince...."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 188,
+    "chapter": "Chapter 49",
+    "caesar": "Caligula",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nor prince. 2 He even forbade anyone of the senators to meet him. Then giving up or postponing his triumph, he entered the city on his birthday in an ovation; and within four months he perished, havi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 189,
+    "chapter": "Chapter 49",
+    "caesar": "Caligula",
+    "entity": "ovation",
+    "slug": "Ovatio",
+    "url": "https://en.wikipedia.org/wiki/Ovatio",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rs to meet him. Then giving up or postponing his triumph, he entered the city on his birthday in an ovation; and within four months he perished, having dared great crimes and meditating still greater ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 190,
     "chapter": "Chapter 49",
     "caesar": "Caligula",
     "entity": "Alexandria",
@@ -1051,7 +2500,7 @@
     "status": "approved"
   },
   {
-    "id": 81,
+    "id": 191,
     "chapter": "Chapter 49",
     "caesar": "Caligula",
     "entity": "Claudius",
@@ -1064,7 +2513,7 @@
     "status": "approved"
   },
   {
-    "id": 82,
+    "id": 192,
     "chapter": "Chapter 51",
     "caesar": "Caligula",
     "entity": "Sicily",
@@ -1077,7 +2526,7 @@
     "status": "approved"
   },
   {
-    "id": 83,
+    "id": 193,
     "chapter": "Chapter 51",
     "caesar": "Caligula",
     "entity": "Germany",
@@ -1090,7 +2539,20 @@
     "status": "approved"
   },
   {
-    "id": 84,
+    "id": 194,
+    "chapter": "Chapter 51",
+    "caesar": "Caligula",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...lee from the city and equipped fleets for the purpose, finding comfort only in the thought that the provinces across the sea would at any rate be left him, in case the enemy should be victorious and t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 195,
     "chapter": "Chapter 51",
     "caesar": "Caligula",
     "entity": "Alps",
@@ -1103,7 +2565,72 @@
     "status": "approved"
   },
   {
-    "id": 85,
+    "id": 196,
+    "chapter": "Chapter 51",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... it was this, I think, that later inspired his assassins with the idea of pretending to the riotous soldiers that he had laid hands on himself in terror at the report of a defeat."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 197,
+    "chapter": "Chapter 53",
+    "caesar": "Caligula",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ost easily, he brought ruin or relief to each of them by his speech, while he would also invite the equestrian order by proclamation to come in and hear him."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 198,
+    "chapter": "Chapter 54",
+    "caesar": "Caligula",
+    "entity": "gladiator",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d himself with much enthusiasm to arts of other kinds and of great variety, appearing as a Thracian gladiator, as a charioteer, and even as a singer and dancer, fighting with the weapons of actual war..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 199,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... favourite was dancing, he had him dragged from his seat and scourged him with his own hand. When a Roman knight created a disturbance, he sent a centurion to bid him go without delay to Ostia and car..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 200,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...m his seat and scourged him with his own hand. When a Roman knight created a disturbance, he sent a centurion to bid him go without delay to Ostia and carry a message for him to king Ptolemy in Mauret..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 201,
     "chapter": "Chapter 55",
     "caesar": "Caligula",
     "entity": "Ptolemy",
@@ -1116,7 +2643,72 @@
     "status": "approved"
   },
   {
-    "id": 86,
+    "id": 202,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rport was this: \"Do neither good nor ill to the man whom I have sent you.\" 2 He gave some Thracian gladiators command of his German body-guard. He reduced the amount of armour of the murmillones. Whe..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 203,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "sesterces",
+    "slug": "Sestertius",
+    "url": "https://en.wikipedia.org/wiki/Sestertius",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e night in their stable, and in one of his revels with them he gave the driver Eutychus two million sesterces in gifts. 3 He used to send his soldiers on the day before the games and order silence in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 204,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...revels with them he gave the driver Eutychus two million sesterces in gifts. 3 He used to send his soldiers on the day before the games and order silence in the neighbourhood, to prevent the horse In..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 205,
+    "chapter": "Chapter 55",
+    "caesar": "Caligula",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...nt entertainment of the guests invited in his name; and it is also said that he planned to make him consul."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 206,
+    "chapter": "Chapter 56",
+    "caesar": "Caligula",
+    "entity": "freedmen",
+    "slug": "Freedman",
+    "url": "https://en.wikipedia.org/wiki/Freedman",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e opportunity, two men made common cause and succeeded, with the connivance of his most influential freedmen and the officers of the praetorian guard; for although the charge that these last were priv..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 207,
     "chapter": "Chapter 56",
     "caesar": "Caligula",
     "entity": "Caligula",
@@ -1129,7 +2721,20 @@
     "status": "approved"
   },
   {
-    "id": 87,
+    "id": 208,
+    "chapter": "Chapter 56",
+    "caesar": "Caligula",
+    "entity": "Palatine",
+    "slug": "Palatine_Hill",
+    "url": "https://en.wikipedia.org/wiki/Palatine_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and setting them all at odds. 2 When they had decided to attempt his life at the exhibition of the Palatine games, as he went out at noon, Cassius Chaerea, tribune of a cohort of the praetorian guard..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 209,
     "chapter": "Chapter 56",
     "caesar": "Caligula",
     "entity": "Cassius",
@@ -1142,7 +2747,35 @@
     "status": "approved"
   },
   {
-    "id": 88,
+    "id": 210,
+    "chapter": "Chapter 56",
+    "caesar": "Caligula",
+    "entity": "cohort",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...life at the exhibition of the Palatine games, as he went out at noon, Cassius Chaerea, tribune of a cohort of the praetorian guard, claimed for himself the principal part; for Gaius used to taunt him,..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 211,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 3,
+    "contexts": [
+      "1 His approaching murder was foretold by many prodigies. The statue of Jupiter at Olympia, which he had ordered to be taken to pieces and moved to Rome, suddenly uttered s...",
+      "...an called Cassius turned up, who declared that he had been bidden in a dream to sacrifice a bull to Jupiter. 2 The Capitol at Capua was struck by lightning on the Ides of March, and also the room of ...",
+      "...ea was Cassius. The day before he was killed he dreamt that he stood in heaven beside the throne of Jupiter and that the god struck him with the toe of his right foot and hurled him to earth. Some thi..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 212,
     "chapter": "Chapter 57",
     "caesar": "Caligula",
     "entity": "Rome",
@@ -1156,7 +2789,7 @@
     "status": "approved"
   },
   {
-    "id": 89,
+    "id": 213,
     "chapter": "Chapter 57",
     "caesar": "Caligula",
     "entity": "Cassius",
@@ -1171,7 +2804,20 @@
     "status": "approved"
   },
   {
-    "id": 90,
+    "id": 214,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...s turned up, who declared that he had been bidden in a dream to sacrifice a bull to Jupiter. 2 The Capitol at Capua was struck by lightning on the Ides of March, and also the room of the doorkeeper o..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 215,
     "chapter": "Chapter 57",
     "caesar": "Caligula",
     "entity": "Capua",
@@ -1184,7 +2830,33 @@
     "status": "approved"
   },
   {
-    "id": 91,
+    "id": 216,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n in a dream to sacrifice a bull to Jupiter. 2 The Capitol at Capua was struck by lightning on the Ides of March, and also the room of the doorkeeper of the Palace at Rome. Some inferred from the lat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 217,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "Ides of March",
+    "slug": "Ides_of_March",
+    "url": "https://en.wikipedia.org/wiki/Ides_of_March",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n in a dream to sacrifice a bull to Jupiter. 2 The Capitol at Capua was struck by lightning on the Ides of March, and also the room of the doorkeeper of the Palace at Rome. Some inferred from the lat..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 218,
     "chapter": "Chapter 57",
     "caesar": "Caligula",
     "entity": "Sulla",
@@ -1197,7 +2869,7 @@
     "status": "approved"
   },
   {
-    "id": 92,
+    "id": 219,
     "chapter": "Chapter 57",
     "caesar": "Caligula",
     "entity": "Longinus",
@@ -1206,6 +2878,110 @@
     "occurrenceCount": 1,
     "contexts": [
       "... Fortune at Antium warned him to beware of Cassius, and he accordingly ordered the death of Cassius Longinus, who was at the time proconsul of Asia, forgetting that the family name of Chaerea was Cass..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 220,
+    "chapter": "Chapter 57",
+    "caesar": "Caligula",
+    "entity": "proconsul",
+    "slug": "Proconsul",
+    "url": "https://en.wikipedia.org/wiki/Proconsul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...to beware of Cassius, and he accordingly ordered the death of Cassius Longinus, who was at the time proconsul of Asia, forgetting that the family name of Chaerea was Cassius. The day before he was kil..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 221,
+    "chapter": "Chapter 58",
+    "caesar": "Caligula",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 On the ninth day before the Kalends of February at about the seventh hour he hesitated whether or not to get up for luncheon, si..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 222,
+    "chapter": "Chapter 58",
+    "caesar": "Caligula",
+    "entity": "centurions",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d Gaius, stabbed him in the breast. Others say that Sabinus, after getting rid of the crowd through centurions who were in the plot, asked for the watchword, as soldiers do, and that when Gaius gave h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 223,
+    "chapter": "Chapter 58",
+    "caesar": "Caligula",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...after getting rid of the crowd through centurions who were in the plot, asked for the watchword, as soldiers do, and that when Gaius gave him \"Jupiter,\" he cried \"So be it,\" and as Gaius looked around..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 224,
+    "chapter": "Chapter 58",
+    "caesar": "Caligula",
+    "entity": "Jupiter",
+    "slug": "Jupiter_(mythology)",
+    "url": "https://en.wikipedia.org/wiki/Jupiter_(mythology)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...urions who were in the plot, asked for the watchword, as soldiers do, and that when Gaius gave him \"Jupiter,\" he cried \"So be it,\" and as Gaius looked around, he split his jawbone with a blow of his s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 225,
+    "chapter": "Chapter 59",
+    "caesar": "Caligula",
+    "entity": "centurion",
+    "slug": "Centurion",
+    "url": "https://en.wikipedia.org/wiki/Centurion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... the house itself was destroyed by fire. With him died his wife Caesonia, stabbed with a sword by a centurion, while his daughter's brains were dashed out against a wall."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 226,
+    "chapter": "Chapter 60",
+    "caesar": "Caligula",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n a successor, and the senate was so unanimously in favour of re-establishing the republic that the consuls called the first meeting, not in the senate house, because it had the name Julia, but in the..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 227,
+    "chapter": "Chapter 60",
+    "caesar": "Caligula",
+    "entity": "Capitol",
+    "slug": "Capitoline_Hill",
+    "url": "https://en.wikipedia.org/wiki/Capitoline_Hill",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...onsuls called the first meeting, not in the senate house, because it had the name Julia, but in the Capitol; while some in expressing their views proposed that the memory of the Caesars be done away w..."
     ],
     "status": "approved"
   }

@@ -14,6 +14,32 @@
   },
   {
     "id": 2,
+    "chapter": "Chapter 1",
+    "caesar": "Titus",
+    "entity": "Kalends",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rule, he did not escape hatred, much less public criticism. He was born on the third day before the Kalends of January, in the year memorable for the death of Gaius, in a mean house near the Septizoni..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 3,
+    "chapter": "Chapter 1",
+    "caesar": "Titus",
+    "entity": "Kalends of January",
+    "slug": "Kalends",
+    "url": "https://en.wikipedia.org/wiki/Kalends",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rule, he did not escape hatred, much less public criticism. He was born on the third day before the Kalends of January, in the year memorable for the death of Gaius, in a mean house near the Septizoni..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 4,
     "chapter": "Chapter 2",
     "caesar": "Titus",
     "entity": "Claudius",
@@ -26,7 +52,7 @@
     "status": "approved"
   },
   {
-    "id": 3,
+    "id": 5,
     "chapter": "Chapter 2",
     "caesar": "Titus",
     "entity": "Titus",
@@ -41,7 +67,20 @@
     "status": "approved"
   },
   {
-    "id": 4,
+    "id": 6,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "military tribune",
+    "slug": "Tribune",
+    "url": "https://en.wikipedia.org/wiki/Tribune",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He served as military tribune both in Germany and in Britain, winning a high reputation for energy and no less in..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 7,
     "chapter": "Chapter 4",
     "caesar": "Titus",
     "entity": "Germany",
@@ -54,7 +93,7 @@
     "status": "approved"
   },
   {
-    "id": 5,
+    "id": 8,
     "chapter": "Chapter 4",
     "caesar": "Titus",
     "entity": "Britain",
@@ -67,7 +106,72 @@
     "status": "approved"
   },
   {
-    "id": 6,
+    "id": 9,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "provinces",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...y and no less integrity, as is evident from the great number of his statues and busts in both those provinces and from the inscriptions they bear. 2 After his military service he pleaded in the Forum..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 10,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...n as a profession, and at the same time took to wife Arrecina Tertulla, whose father, though only a Roman knight, had once been prefect of the praetorian cohorts; on her death he replaced her by Marci..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 11,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "cohorts",
+    "slug": "Roman_cohort",
+    "url": "https://en.wikipedia.org/wiki/Roman_cohort",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rrecina Tertulla, whose father, though only a Roman knight, had once been prefect of the praetorian cohorts; on her death he replaced her by Marcia Furnilla, a lady of a very distinguished family, but..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 12,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...d her after he had acknowledged a daughter which she bore him. 3 Then, after holding the office of quaestor, as commander of a legion he subjugated the two strong cities of Tarichaeae and Gamala in J..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 13,
+    "chapter": "Chapter 4",
+    "caesar": "Titus",
+    "entity": "legion",
+    "slug": "Roman_legion",
+    "url": "https://en.wikipedia.org/wiki/Roman_legion",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ged a daughter which she bore him. 3 Then, after holding the office of quaestor, as commander of a legion he subjugated the two strong cities of Tarichaeae and Gamala in Judaea, having his horse kill..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 14,
     "chapter": "Chapter 5",
     "caesar": "Titus",
     "entity": "Galba",
@@ -80,7 +184,7 @@
     "status": "approved"
   },
   {
-    "id": 7,
+    "id": 15,
     "chapter": "Chapter 5",
     "caesar": "Titus",
     "entity": "Jerusalem",
@@ -93,7 +197,33 @@
     "status": "approved"
   },
   {
-    "id": 8,
+    "id": 16,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...e defenders with as many arrows; and he took the city on his daughter's birthday, so delighting the soldiers and winning their devotion that they hailed him as Imperator and detained him from time to ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 17,
+    "chapter": "Chapter 5",
+    "caesar": "Titus",
+    "entity": "province",
+    "slug": "Roman_province",
+    "url": "https://en.wikipedia.org/wiki/Roman_province",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...otion that they hailed him as Imperator and detained him from time to time, when he would leave the province, urging him with prayers and even with threats either to stay or to take them all with him...."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 18,
     "chapter": "Chapter 5",
     "caesar": "Titus",
     "entity": "Alexandria",
@@ -106,7 +236,7 @@
     "status": "approved"
   },
   {
-    "id": 9,
+    "id": 19,
     "chapter": "Chapter 5",
     "caesar": "Titus",
     "entity": "Puteoli",
@@ -119,7 +249,7 @@
     "status": "approved"
   },
   {
-    "id": 10,
+    "id": 20,
     "chapter": "Chapter 5",
     "caesar": "Titus",
     "entity": "Rome",
@@ -132,7 +262,86 @@
     "status": "approved"
   },
   {
-    "id": 11,
+    "id": 21,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "triumph",
+    "slug": "Roman_triumph",
+    "url": "https://en.wikipedia.org/wiki/Roman_triumph",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ever ceased to act as the emperor's partner and even as his protector. He took part in his father's triumph and was censor with him. He was also his colleague in the tribunicial power and in seven con..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 22,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "censor",
+    "slug": "Censor",
+    "url": "https://en.wikipedia.org/wiki/Censor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ct as the emperor's partner and even as his protector. He took part in his father's triumph and was censor with him. He was also his colleague in the tribunicial power and in seven consul ­ships. He t..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 23,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "consul",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 2,
+    "contexts": [
+      "...'s triumph and was censor with him. He was also his colleague in the tribunicial power and in seven consul ­ships. He took upon himself the discharge of almost all duties, personally dictated letters ...",
+      "...t; and then he would put them out of the way without delay. 2 Among these was Aulus Caecina, an ex-consul, whom he invited to dinner and then ordered to be stabbed almost before he left the dining-ro..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 24,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "quaestor",
+    "slug": "Quaestor",
+    "url": "https://en.wikipedia.org/wiki/Quaestor",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...etters and wrote edicts in his father's name, and even read his speeches in the senate in lieu of a quaestor. He also assumed the command of the praetorian guard, which before that time had never been..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 25,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "Roman knight",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...assumed the command of the praetorian guard, which before that time had never been held except by a Roman knight, and in this office conducted himself in a somewhat arrogant and tyrannical fashion. Fo..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 26,
+    "chapter": "Chapter 6",
+    "caesar": "Titus",
+    "entity": "soldiers",
+    "slug": "Roman_army",
+    "url": "https://en.wikipedia.org/wiki/Roman_army",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ing got possession of an autograph copy of an harangue which Caecina had prepared to deliver to the soldiers. Although by such conduct he provided for his safety in the future, he incurred such odium ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 27,
     "chapter": "Chapter 7",
     "caesar": "Titus",
     "entity": "Nero",
@@ -145,7 +354,7 @@
     "status": "approved"
   },
   {
-    "id": 12,
+    "id": 28,
     "chapter": "Chapter 7",
     "caesar": "Titus",
     "entity": "Rome",
@@ -158,7 +367,33 @@
     "status": "approved"
   },
   {
-    "id": 13,
+    "id": 29,
+    "chapter": "Chapter 7",
+    "caesar": "Titus",
+    "entity": "naumachia",
+    "slug": "Naumachia",
+    "url": "https://en.wikipedia.org/wiki/Naumachia",
+    "occurrenceCount": 1,
+    "contexts": [
+      "... gave a most magnificent and costly gladiatorial show. He presented a sham sea-fight too in the old naumachia, and in the same place a combat of gladiators, exhibiting five thousand wild beasts of eve..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 30,
+    "chapter": "Chapter 7",
+    "caesar": "Titus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ial show. He presented a sham sea-fight too in the old naumachia, and in the same place a combat of gladiators, exhibiting five thousand wild beasts of every kind in a single day."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 31,
     "chapter": "Chapter 8",
     "caesar": "Titus",
     "entity": "Titus",
@@ -171,7 +406,20 @@
     "status": "approved"
   },
   {
-    "id": 14,
+    "id": 32,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "gladiators",
+    "slug": "Gladiator",
+    "url": "https://en.wikipedia.org/wiki/Gladiator",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...rged them to ask for what they wished. Furthermore, he openly displayed his partiality for Thracian gladiators and bantered the people about it by words and gestures, always however preserving his dig..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 33,
     "chapter": "Chapter 8",
     "caesar": "Titus",
     "entity": "Vesuvius",
@@ -185,7 +433,7 @@
     "status": "approved"
   },
   {
-    "id": 15,
+    "id": 34,
     "chapter": "Chapter 8",
     "caesar": "Titus",
     "entity": "Campania",
@@ -199,7 +447,7 @@
     "status": "approved"
   },
   {
-    "id": 16,
+    "id": 35,
     "chapter": "Chapter 8",
     "caesar": "Titus",
     "entity": "Rome",
@@ -213,7 +461,98 @@
     "status": "approved"
   },
   {
-    "id": 17,
+    "id": 36,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "consuls",
+    "slug": "Consul",
+    "url": "https://en.wikipedia.org/wiki/Consul",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...and now lending aid so far as his means allowed. 4 He chose commissioners by lot from among the ex-consuls for the relief of Campania; and the property of those who lost their lives by Vesuvius and h..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 37,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "equestrian order",
+    "slug": "Equestrian_order",
+    "url": "https://en.wikipedia.org/wiki/Equestrian_order",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...de all the ornaments of his villas for the public buildings and temples, and put several men of the equestrian order in charge of the work, that everything might be done with the greater dispatch. For..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 38,
+    "chapter": "Chapter 8",
+    "caesar": "Titus",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...ispatch. For curing the plague and diminishing the force of the epidemic there was no aid, human or divine, which he did not employ, searching for every kind of sacrifice and all kinds of medicines. ..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 39,
+    "chapter": "Chapter 9",
+    "caesar": "Titus",
+    "entity": "pontifex",
+    "slug": "Pontifex",
+    "url": "https://en.wikipedia.org/wiki/Pontifex",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 Having declared that he would accept the office of pontifex maximus for the purpose of keeping his hands unstained, he was true to his promise; for aft..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 40,
+    "chapter": "Chapter 9",
+    "caesar": "Titus",
+    "entity": "patrician",
+    "slug": "Patrician_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Patrician_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...easons for taking vengeance; but he swore that he would rather be killed than kill. When two men of patrician family were found guilty of aspiring to the throne, he satisfied himself with warning them..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 41,
+    "chapter": "Chapter 10",
+    "caesar": "Titus",
+    "entity": "divine",
+    "slug": "Imperial_cult_(ancient_Rome)",
+    "url": "https://en.wikipedia.org/wiki/Imperial_cult_(ancient_Rome)",
+    "occurrenceCount": 1,
+    "contexts": [
+      "...t, save one only. 2 What this was he did not himself disclose at the time, nor could anyone easily divine. Some think that he recalled the intimacy which he had with his brother's wife; but Domitia s..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 42,
+    "chapter": "Chapter 11",
+    "caesar": "Titus",
+    "entity": "Ides",
+    "slug": "Ides",
+    "url": "https://en.wikipedia.org/wiki/Ides",
+    "occurrenceCount": 1,
+    "contexts": [
+      "1 He died in the same farmhouse as his father, on the Ides of September, two years two months and twenty days after succeeding Vespasian, in the forty-sec..."
+    ],
+    "status": "approved"
+  },
+  {
+    "id": 43,
     "chapter": "Chapter 11",
     "caesar": "Titus",
     "entity": "Vespasian",

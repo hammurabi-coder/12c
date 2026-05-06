@@ -12,7 +12,7 @@
 <div class="flex min-h-screen flex-col bg-tyrian font-marcellus text-ink">
   <Header />
 
-  <main class="flex flex-1 justify-center px-4 py-12 md:px-0">
+  <main id="reader-top" class="flex flex-1 justify-center px-4 py-12 md:px-0">
     <div class="volumen-container max-w-6xl items-center px-8 py-16 md:px-16">
       <div class="mb-16 text-center">
         <div class="imperial-label mb-4">DE VITA CAESARUM</div>
